@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
 <channel>
 <name>[B][COLOR red]Filmes Lançamentos 2024[/COLOR] [COLOR blue]Dublados e Legendados 2024[/COLOR][/B]</name>
 <thumbnail></thumbnail>
@@ -6,4 +7,12 @@
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonares/refs/heads/main/basedefilmes/filmes2024.xml</externallink>
 
+<channel>
+<name>[B][COLOR red]Filmes acao 2024[/COLOR] [COLOR blue]Dublados e Legendados 2024[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
+<externallink></externallink>
+
+  
 </channel>
