@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
 <item>
 <title>[B][COLOR red]==== Aviso - Sejam Bem Vindos ao AddonAres - Filmes lançamentos e Clássicos Atualizadas.[B][COLOR red] ===== [/COLOR][/B]</title>
 <link>https://archive.org/download/afecafae-63d0-4eac-a364-6d9588dfec18/afecafae-63d0-4eac-a364-6d9588dfec18.jpg</link>
@@ -14,6 +13,24 @@
 
 
 
+
+<item>
+<title>Em Nome da Honra - (2024)</title>
+<link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:45f03d13ecb78c8b0da1c338ec1726f84876c606</link>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/sDi26fw5cOqUzFE7RVtOro1KokZ.jpg</thumbnail>
+<genre>Aventura, Drama</genre>
+<fanart>https://www.themoviedb.org/t/p/w1280/sDi26fw5cOqUzFE7RVtOro1KokZ.jpg</fanart>
+<info>Aissa é um jovem policial de origem argelina que morre durante o processo de iniciação de uma prestigiada escola militar da França. O seu irmão agora briga para que o exército assuma a culpa do incidente e a justiça seja feita.</info>
+</item> 
+
+<item>
+<title>O Segredo dos Portais - (2024)</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1cb6ce565c0b7d9f064a72104832bbdea694f601</link>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/rqJhdpyu8s9CPSqNEXlfBubROgU.jpg</thumbnail>
+<genre>Ficção científica, Terror</genre>
+<fanart>https://www.themoviedb.org/t/p/w1280/rqJhdpyu8s9CPSqNEXlfBubROgU.jpg</fanart>
+<info>Uma série de apagões em todo o mundo faz com que milhões de anomalias cósmicas misteriosas apareçam em todos os lugares do planeta. Algumas pessoas são atraídas para eles com consequências terríveis.</info>
+</item> 
 <item>
 <title>Sonic 3: O Filme - (2024)</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66151BF4D2CDD0ACBA989C232ACD58AE90FAF0A8</link>
