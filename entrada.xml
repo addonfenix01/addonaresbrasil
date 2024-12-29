@@ -25,6 +25,14 @@
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonares/refs/heads/main/filmes4k.xml</externallink>
 </channel>
+
+<channel>  
+<name>[COLOR red]Filmes Lançamentos 2022[/COLOR] [COLOR orange]Dublados e Legendados[/COLOR]</name>
+<thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
+<fanart>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonares/refs/heads/main/filmeslancamentos2022.xml</externallink>
+</channel>
   
 <channel>  
 <name>[COLOR red]Filmes Lançamentos 2024[/COLOR] [COLOR orange]Dublados e Legendados[/COLOR]</name>
