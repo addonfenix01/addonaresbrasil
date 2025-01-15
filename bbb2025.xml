@@ -1,23 +1,17 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-name="ACOMPANHE A CASA" tvg-logo="https://xp2.wtf/images/3815adf157c9a20a20077ddb827d9945.jpg" group-title=" CANAIS | BIG BROTHER BRASIL 2025",ACOMPANHE A CASA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://go7l99a.com:80/live/xrwpqjyl/209Uo5vDww/680033.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ACOMPANHE A CASA 2" tvg-logo="https://xp2.wtf/images/3815adf157c9a20a20077ddb827d9945.jpg" group-title=" CANAIS | BIG BROTHER BRASIL 2025",ACOMPANHE A CASA 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://go7l99a.com:80/live/xrwpqjyl/209Uo5vDww/680034.m3u8
-#EXTINF:-1 tvg-id="Bbb.br" tvg-name="MOSAICO BBB" tvg-logo="https://xp2.wtf/images/3815adf157c9a20a20077ddb827d9945.jpg" group-title=" CANAIS | BIG BROTHER BRASIL 2025",MOSAICO BBB
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://go7l99a.com:80/live/xrwpqjyl/209Uo5vDww/680035.m3u8
-#EXTINF:-1 tvg-id="Bbb.br" tvg-name="COZINHA" tvg-logo="https://xp2.wtf/images/3815adf157c9a20a20077ddb827d9945.jpg" group-title=" CANAIS | BIG BROTHER BRASIL 2025",COZINHA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://go7l99a.com:80/live/xrwpqjyl/209Uo5vDww/680036.m3u8
-#EXTINF:-1 tvg-id="Bbb.br" tvg-name="QUATOS ANOS 50" tvg-logo="https://xp2.wtf/images/3815adf157c9a20a20077ddb827d9945.jpg" group-title=" CANAIS | BIG BROTHER BRASIL 2025",QUATOS ANOS 50
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://go7l99a.com:80/live/xrwpqjyl/209Uo5vDww/680037.m3u8
-#EXTINF:-1 tvg-id="Bbb.br" tvg-name="QUARTO NORDESTE" tvg-logo="https://xp2.wtf/images/3815adf157c9a20a20077ddb827d9945.jpg" group-title=" CANAIS | BIG BROTHER BRASIL 2025",QUARTO NORDESTE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://go7l99a.com:80/live/xrwpqjyl/209Uo5vDww/680038.m3u8
-#EXTINF:-1 tvg-id="Bbb.br" tvg-name="QUARTO FANTASTICO" tvg-logo="https://xp2.wtf/images/3815adf157c9a20a20077ddb827d9945.jpg" group-title=" CANAIS | BIG BROTHER BRASIL 2025",QUARTO FANTASTICO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://go7l99a.com:80/live/xrwpqjyl/209Uo5vDww/680039.m3u8
-#EXTINF:-1 tvg-id="Bbb.br" tvg-name="PISCINA" tvg-logo="https://xp2.wtf/images/3815adf157c9a20a20077ddb827d9945.jpg" group-title=" CANAIS | BIG BROTHER BRASIL 2025",PISCINA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://go7l99a.com:80/live/xrwpqjyl/209Uo5vDww/680040.m3u8
-#EXTINF:-1 tvg-id="Bbb.br" tvg-name="CAMERA PANTENE" tvg-logo="https://xp2.wtf/images/3815adf157c9a20a20077ddb827d9945.jpg" group-title=" CANAIS | BIG BROTHER BRASIL 2025",CAMERA PANTENE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://go7l99a.com:80/live/xrwpqjyl/209Uo5vDww/680041.m3u8
-#EXTINF:-1 tvg-id="Bbb.br" tvg-name="SALA" tvg-logo="https://xp2.wtf/images/3815adf157c9a20a20077ddb827d9945.jpg" group-title=" CANAIS | BIG BROTHER BRASIL 2025",SALA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://go7l99a.com:80/live/xrwpqjyl/209Uo5vDww/680042.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ACADEMIA" tvg-logo="https://xp2.wtf/images/3815adf157c9a20a20077ddb827d9945.jpg" group-title=" CANAIS | BIG BROTHER BRASIL 2025",ACADEMIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://go7l99a.com:80/live/xrwpqjyl/209Uo5vDww/680043.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 08" tvg-logo="https://www.enfoquems.com.br/wp-content/uploads/2024/01/a-6.png" group-title="BIG BROTHER BRASIL 2025",BBB 08
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://gerenciadorr.xyz:80/024030905/181965259/1350353.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 07" tvg-logo="https://www.enfoquems.com.br/wp-content/uploads/2024/01/a-6.png" group-title="BIG BROTHER BRASIL 2025",BBB 07
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://gerenciadorr.xyz:80/024030905/181965259/1350352.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 06" tvg-logo="https://www.enfoquems.com.br/wp-content/uploads/2024/01/a-6.png" group-title="BIG BROTHER BRASIL 2025",BBB 06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://gerenciadorr.xyz:80/024030905/181965259/1350351.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 05" tvg-logo="https://www.enfoquems.com.br/wp-content/uploads/2024/01/a-6.png" group-title="BIG BROTHER BRASIL 2025",BBB 05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://gerenciadorr.xyz:80/024030905/181965259/1350350.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 04" tvg-logo="https://www.enfoquems.com.br/wp-content/uploads/2024/01/a-6.png" group-title="BIG BROTHER BRASIL 2025",BBB 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://gerenciadorr.xyz:80/024030905/181965259/1350349.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 03" tvg-logo="https://www.enfoquems.com.br/wp-content/uploads/2024/01/a-6.png" group-title="BIG BROTHER BRASIL 2025",BBB 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://gerenciadorr.xyz:80/024030905/181965259/1350348.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 02" tvg-logo="https://www.enfoquems.com.br/wp-content/uploads/2024/01/a-6.png" group-title="BIG BROTHER BRASIL 2025",BBB 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://gerenciadorr.xyz:80/024030905/181965259/1350347.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 01" tvg-logo="https://www.enfoquems.com.br/wp-content/uploads/2024/01/a-6.png" group-title="BIG BROTHER BRASIL 2025",BBB 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://gerenciadorr.xyz:80/024030905/181965259/1350346.m3u8
