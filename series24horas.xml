@@ -1,0 +1,67 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="Big Bang A Teoria" tvg-logo="" group-title="SERIES 24 HORAS",Big Bang A Teoria
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/262915.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Mr.Bean²" tvg-logo="" group-title="SERIES 24 HORAS",Mr.Bean²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/257931.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Kenan e Kel" tvg-logo="" group-title="SERIES 24 HORAS",Kenan e Kel
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/257927.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin Colorado" tvg-logo="" group-title="SERIES 24 HORAS",Chapolin Colorado
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/257470.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="A CASA DA RAVEN" tvg-logo="https://image.tmdb.org/t/p/w500/77pJKsc1kZHq9Og2PFf2FjYAUZT.jpg" group-title="SERIES 24 HORAS",A CASA DA RAVEN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/255717.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Serieseprogramas.br" tvg-name="Eu a Patroa e as Criancas" tvg-logo="" group-title="SERIES 24 HORAS",Eu a Patroa e as Criancas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/250607.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Serieseprogramas.br" tvg-name="Todo Mundo Odeia o Chris" tvg-logo="" group-title="SERIES 24 HORAS",Todo Mundo Odeia o Chris
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/250599.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Chaves" tvg-logo="https://i.imgur.com/JsccPNK.png" group-title="SERIES 24 HORAS",Chaves
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/235290.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Chaves²" tvg-logo="https://i.imgur.com/JsccPNK.png" group-title="SERIES 24 HORAS",Chaves²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/235289.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SAI DE BAIXO" tvg-logo="http://70.ms/ZgY3bi" group-title="SERIES 24 HORAS",SAI DE BAIXO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/99177.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="XENA: A PRINCESA GUERREIRA " tvg-logo="https://i.imgur.com/vB3mMLX.png" group-title="SERIES 24 HORAS",XENA: A PRINCESA GUERREIRA 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/114763.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Batman -24 HORAS" tvg-logo="http://70.ms/ZgY3CZ" group-title="SERIES 24 HORAS",Batman -24 HORAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/77127.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="LivePolicia24h" tvg-name="Policia 24h" tvg-logo="" group-title="SERIES 24 HORAS",Policia 24h
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/74248.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Punky a Levada" tvg-logo="" group-title="SERIES 24 HORAS",Punky a Levada
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/74246.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="LiveUmMalucoNoPedaco" tvg-name="Um Maluco no Pedaço" tvg-logo="" group-title="SERIES 24 HORAS",Um Maluco no Pedaço
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/74245.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="LiveVaiQueCola" tvg-name="Vai Que Cola" tvg-logo="http://70.ms/HZ" group-title="SERIES 24 HORAS",Vai Que Cola
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/74243.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES CLASSICO EXTRA." tvg-logo="http://70.ms/ZgY3aj" group-title="SERIES 24 HORAS",CHAVES CLASSICO EXTRA.
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/155106.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Zoboomafoo (1999)" tvg-logo="http://70.ms/ZgY3Ct" group-title="SERIES 24 HORAS",Zoboomafoo (1999)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/155123.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="24h Zack e Cody Gemeos a Bordo (2008)" tvg-logo="http://70.ms/ZgY3Cx" group-title="SERIES 24 HORAS",24h Zack e Cody Gemeos a Bordo (2008)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/155122.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="As Visoes Da Raven (2003)" tvg-logo="http://70.ms/ZgY3I5" group-title="SERIES 24 HORAS",As Visoes Da Raven (2003)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/155121.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="black kamen rider" tvg-logo="http://70.ms/ZgY3BJ" group-title="SERIES 24 HORAS",black kamen rider
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/155120.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CASTELO RA TIM BUM" tvg-logo="http://70.ms/ZgY3aQ" group-title="SERIES 24 HORAS",CASTELO RA TIM BUM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/155119.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="DRAKE & JOSH" tvg-logo="http://70.ms/ZgY3NK" group-title="SERIES 24 HORAS",DRAKE & JOSH
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/155118.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="ESCOLINHA DO PROFESSOR RAIMUNDO" tvg-logo="http://70.ms/ZgY3NA" group-title="SERIES 24 HORAS",ESCOLINHA DO PROFESSOR RAIMUNDO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/155117.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="MANUAL DO NED" tvg-logo="http://70.ms/ZgY3e6" group-title="SERIES 24 HORAS",MANUAL DO NED
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/155115.m3u8|User-Agent=FooBar/1.2.3.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="MR. BEAN" tvg-logo="http://70.ms/ZgY3eM" group-title="SERIES 24 HORAS",MR. BEAN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/155114.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="PERDIDOS NO ESPACO" tvg-logo="http://70.ms/ZgY3or" group-title="SERIES 24 HORAS",PERDIDOS NO ESPACO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/155112.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SERIE HERCULES" tvg-logo="http://70.ms/ZgY3b8" group-title="SERIES 24 HORAS",SERIE HERCULES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/155111.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TUNEL DO TEMPO" tvg-logo="http://70.ms/ZgY3nO" group-title="SERIES 24 HORAS",TUNEL DO TEMPO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/155109.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="ULTRAMEN" tvg-logo="" group-title="SERIES 24 HORAS",ULTRAMEN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/155108.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Alf o ETeimoso" tvg-logo="https://i.imgur.com/JsccPNK.png" group-title="SERIES 24 HORAS",Alf o ETeimoso
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/211670.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Tres e Demais" tvg-logo="https://i.imgur.com/JsccPNK.png" group-title="SERIES 24 HORAS",Tres e Demais
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/212086.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Quilos Mortais" tvg-logo="https://i.imgur.com/JsccPNK.png" group-title="SERIES 24 HORAS",Quilos Mortais
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR green]Ares[/COLOR] [COLOR green]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/216634.m3u8|User-Agent=FooBar/1.2.3
