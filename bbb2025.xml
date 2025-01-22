@@ -1,17 +1,45 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 08" tvg-logo="https://www.enfoquems.com.br/wp-content/uploads/2024/01/a-6.png" group-title="BIG BROTHER BRASIL 2025",BBB 08
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://gerenciadorr.xyz:80/024030905/181965259/1350353.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBB 07" tvg-logo="https://www.enfoquems.com.br/wp-content/uploads/2024/01/a-6.png" group-title="BIG BROTHER BRASIL 2025",BBB 07
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://gerenciadorr.xyz:80/024030905/181965259/1350352.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBB 06" tvg-logo="https://www.enfoquems.com.br/wp-content/uploads/2024/01/a-6.png" group-title="BIG BROTHER BRASIL 2025",BBB 06
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://gerenciadorr.xyz:80/024030905/181965259/1350351.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBB 05" tvg-logo="https://www.enfoquems.com.br/wp-content/uploads/2024/01/a-6.png" group-title="BIG BROTHER BRASIL 2025",BBB 05
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://gerenciadorr.xyz:80/024030905/181965259/1350350.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBB 04" tvg-logo="https://www.enfoquems.com.br/wp-content/uploads/2024/01/a-6.png" group-title="BIG BROTHER BRASIL 2025",BBB 04
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://gerenciadorr.xyz:80/024030905/181965259/1350349.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBB 03" tvg-logo="https://www.enfoquems.com.br/wp-content/uploads/2024/01/a-6.png" group-title="BIG BROTHER BRASIL 2025",BBB 03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://gerenciadorr.xyz:80/024030905/181965259/1350348.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBB 02" tvg-logo="https://www.enfoquems.com.br/wp-content/uploads/2024/01/a-6.png" group-title="BIG BROTHER BRASIL 2025",BBB 02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://gerenciadorr.xyz:80/024030905/181965259/1350347.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBB 01" tvg-logo="https://www.enfoquems.com.br/wp-content/uploads/2024/01/a-6.png" group-title="BIG BROTHER BRASIL 2025",BBB 01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://gerenciadorr.xyz:80/024030905/181965259/1350346.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ACOMPANHE A CASA FHD" tvg-logo="https://i.imgur.com/fDlower.png" group-title="BBB 25",ACOMPANHE A CASA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR red]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://ust.lat:443/JoseVam/Bispo01/256376
+#EXTINF:-1 tvg-id="" tvg-name="ACOMPANHE A CASA HD" tvg-logo="https://i.imgur.com/fDlower.png" group-title="BBB 25",ACOMPANHE A CASA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR red]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://ust.lat:443/JoseVam/Bispo01/256378
+#EXTINF:-1 tvg-id="" tvg-name="ACOMPANHE A CASA 2 FHD" tvg-logo="https://i.imgur.com/fDlower.png" group-title="BBB 25",ACOMPANHE A CASA 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR red]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://ust.lat:443/JoseVam/Bispo01/256373
+#EXTINF:-1 tvg-id="" tvg-name="ACOMPANHE A CASA 2 HD" tvg-logo="https://i.imgur.com/fDlower.png" group-title="BBB 25",ACOMPANHE A CASA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR red]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://ust.lat:443/JoseVam/Bispo01/256374
+#EXTINF:-1 tvg-id="" tvg-name="MOSAICO FHD" tvg-logo="https://i.imgur.com/fDlower.png" group-title="BBB 25",MOSAICO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR red]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://ust.lat:443/JoseVam/Bispo01/256371
+#EXTINF:-1 tvg-id="" tvg-name="MOSAICO HD" tvg-logo="https://i.imgur.com/fDlower.png" group-title="BBB 25",MOSAICO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR red]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://ust.lat:443/JoseVam/Bispo01/256372
+#EXTINF:-1 tvg-id="" tvg-name="COZINHA FHD" tvg-logo="https://i.imgur.com/fDlower.png" group-title="BBB 25",COZINHA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR red]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://ust.lat:443/JoseVam/Bispo01/256358
+#EXTINF:-1 tvg-id="" tvg-name="COZINHA HD" tvg-logo="https://i.imgur.com/fDlower.png" group-title="BBB 25",COZINHA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR red]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://ust.lat:443/JoseVam/Bispo01/256375
+#EXTINF:-1 tvg-id="" tvg-name="QUARTO ANOS 50 FHD" tvg-logo="https://i.imgur.com/fDlower.png" group-title="BBB 25",QUARTO ANOS 50 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR red]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://ust.lat:443/JoseVam/Bispo01/256345
+#EXTINF:-1 tvg-id="" tvg-name="QUARTO ANOS 50 HD" tvg-logo="https://i.imgur.com/fDlower.png" group-title="BBB 25",QUARTO ANOS 50 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR red]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://ust.lat:443/JoseVam/Bispo01/256355
+#EXTINF:-1 tvg-id="" tvg-name="QUARTO NORDESTE FHD" tvg-logo="https://i.imgur.com/fDlower.png" group-title="BBB 25",QUARTO NORDESTE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR red]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://ust.lat:443/JoseVam/Bispo01/256348
+#EXTINF:-1 tvg-id="" tvg-name="QUARTO NORDESTE HD" tvg-logo="https://i.imgur.com/fDlower.png" group-title="BBB 25",QUARTO NORDESTE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR red]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://ust.lat:443/JoseVam/Bispo01/256356
+#EXTINF:-1 tvg-id="" tvg-name="QUARTO FANTASTICO FHD" tvg-logo="https://i.imgur.com/fDlower.png" group-title="BBB 25",QUARTO FANTASTICO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR red]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://ust.lat:443/JoseVam/Bispo01/256351
+#EXTINF:-1 tvg-id="" tvg-name="QUARTO FANTASTICO HD" tvg-logo="https://i.imgur.com/fDlower.png" group-title="BBB 25",QUARTO FANTASTICO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR red]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://ust.lat:443/JoseVam/Bispo01/256357
+#EXTINF:-1 tvg-id="" tvg-name="CAMERA PANTENE FHD" tvg-logo="https://i.imgur.com/fDlower.png" group-title="BBB 25",CAMERA PANTENE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR red]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://ust.lat:443/JoseVam/Bispo01/256343
+#EXTINF:-1 tvg-id="" tvg-name="CAMERA PANTENE HD" tvg-logo="https://i.imgur.com/fDlower.png" group-title="BBB 25",CAMERA PANTENE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR red]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://ust.lat:443/JoseVam/Bispo01/256344
+#EXTINF:-1 tvg-id="" tvg-name="PISCINA FHD" tvg-logo="https://i.imgur.com/fDlower.png" group-title="BBB 25",PISCINA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR red]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://ust.lat:443/JoseVam/Bispo01/256346
+#EXTINF:-1 tvg-id="" tvg-name="PISCINA HD" tvg-logo="https://i.imgur.com/fDlower.png" group-title="BBB 25",PISCINA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR red]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://ust.lat:443/JoseVam/Bispo01/256347
+#EXTINF:-1 tvg-id="" tvg-name="ACADEMIA FHD" tvg-logo="https://i.imgur.com/fDlower.png" group-title="BBB 25",ACADEMIA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR red]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://ust.lat:443/JoseVam/Bispo01/256349
+#EXTINF:-1 tvg-id="" tvg-name="ACADEMIA HD" tvg-logo="https://i.imgur.com/fDlower.png" group-title="BBB 25",ACADEMIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR red]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://ust.lat:443/JoseVam/Bispo01/256350
+#EXTINF:-1 tvg-id="" tvg-name="SALA FHD" tvg-logo="https://i.imgur.com/fDlower.png" group-title="BBB 25",SALA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR red]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://ust.lat:443/JoseVam/Bispo01/256352
+#EXTINF:-1 tvg-id="" tvg-name="SALA HD" tvg-logo="https://i.imgur.com/fDlower.png" group-title="BBB 25",SALA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR red]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://ust.lat:443/JoseVam/Bispo01/256353
