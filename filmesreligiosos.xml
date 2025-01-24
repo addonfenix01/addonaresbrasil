@@ -1,217 +1,183 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Maranata HD" tvg-logo="" group-title="RELIGIOSOS",Maranata HD
-https://ust.lat:443/edgar23v/edgar2023/122220
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="Canção Nova HD" tvg-logo="https://fivetv.xyz/logos/cancaonova.png" group-title="RELIGIOSOS",Canção Nova HD
-https://ust.lat:443/edgar23v/edgar2023/6630
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="Canção Nova SD²" tvg-logo="https://fivetv.xyz/logos/cancaonova.png" group-title="RELIGIOSOS",Canção Nova SD²
-https://ust.lat:443/edgar23v/edgar2023/10859
-#EXTINF:-1 tvg-id="Tvpaieterno.br" tvg-name="Pai Eterno SD" tvg-logo="" group-title="RELIGIOSOS",Pai Eterno SD
-https://ust.lat:443/edgar23v/edgar2023/100521
-#EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-name="Rede Plenitude TV" tvg-logo="http://70.ms/ZgY3Wb" group-title="RELIGIOSOS",Rede Plenitude TV
-https://ust.lat:443/edgar23v/edgar2023/72468
-#EXTINF:-1 tvg-id="RedeSuperdeTelevisao.br" tvg-name="Rede Super" tvg-logo="http://70.ms/Yf" group-title="RELIGIOSOS",Rede Super
-https://ust.lat:443/edgar23v/edgar2023/36315
-#EXTINF:-1 tvg-id="REDE VIDA" tvg-name="Rede Vida SD" tvg-logo="http://70.ms/m" group-title="RELIGIOSOS",Rede Vida SD
-https://ust.lat:443/edgar23v/edgar2023/68
-#EXTINF:-1 tvg-id="REDE VIDA" tvg-name="Rede Vida SD²" tvg-logo="https://fivetv.xyz/logos/redevida.png" group-title="RELIGIOSOS",Rede Vida SD²
-https://ust.lat:443/edgar23v/edgar2023/10700
-#EXTINF:-1 tvg-id="Rit.br" tvg-name="RIT TV" tvg-logo="https://fivetv.xyz/logos/rit.png" group-title="RELIGIOSOS",RIT TV
-https://ust.lat:443/edgar23v/edgar2023/10698
-#EXTINF:-1 tvg-id="TV APARECIDA HD" tvg-name="TV Aparecida SD" tvg-logo="https://fivetv.xyz/logos/aparecida.png" group-title="RELIGIOSOS",TV Aparecida SD
-https://ust.lat:443/edgar23v/edgar2023/6450
-#EXTINF:-1 tvg-id="TV APARECIDA HD" tvg-name="TV Aparecida SD²" tvg-logo="https://fivetv.xyz/logos/aparecida.png" group-title="RELIGIOSOS",TV Aparecida SD²
-https://ust.lat:443/edgar23v/edgar2023/100518
-#EXTINF:-1 tvg-id="Boavontadetv.br" tvg-name="Tv Boa Vontade SD" tvg-logo="https://fivetv.xyz/logos/boavontade.png" group-title="RELIGIOSOS",Tv Boa Vontade SD
-https://ust.lat:443/edgar23v/edgar2023/100524
-#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="Tv Novo Tempo SD" tvg-logo="https://fivetv.xyz/logos/novotempo.png" group-title="RELIGIOSOS",Tv Novo Tempo SD
-https://ust.lat:443/edgar23v/edgar2023/10728
-#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV Novo Tempo SD²" tvg-logo="https://fivetv.xyz/logos/novotempo.png" group-title="RELIGIOSOS",TV Novo Tempo SD²
-https://ust.lat:443/edgar23v/edgar2023/100510
-#EXTINF:-1 tvg-id="" tvg-name="A Caminho da Fé - 2018" tvg-logo="http://ust.lat:80/images/dTsZEzkvQZ1keK7V2EgbOurIlL9_big.jpg" group-title="RELIGIOSOS",A Caminho da Fé - 2018
-https://ust.lat:443/movie/edgar23v/edgar2023/43103.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Colheita Da Fe - 2017" tvg-logo="http://ust.lat:80/images/koUqIe8qSZHaRGTyE6Jgfy1lSXX_big.jpg" group-title="RELIGIOSOS",A Colheita Da Fe - 2017
-https://ust.lat:443/movie/edgar23v/edgar2023/43099.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Filha Do Pastor - 2010" tvg-logo="http://ust.lat:80/images/kTIh3BbYaBQtcRatOBzKCJPso6g_big.jpg" group-title="RELIGIOSOS",A Filha Do Pastor - 2010
-https://ust.lat:443/movie/edgar23v/edgar2023/43095.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Historia De Ester - 2013" tvg-logo="http://ust.lat:80/images/715ECypazo0lhSBqJYkyquR46ii_big.jpg" group-title="RELIGIOSOS",A Historia De Ester - 2013
-https://ust.lat:443/movie/edgar23v/edgar2023/43093.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Oração Não Falha - 2016" tvg-logo="http://ust.lat:80/images/pP4c1hBnWFbjEOLsHtzCdi1sCWW_big.jpg" group-title="RELIGIOSOS",A Oração Não Falha - 2016
-https://ust.lat:443/movie/edgar23v/edgar2023/43088.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Paixão de Cristo - 2004" tvg-logo="http://ust.lat:80/images/nhepbUWTnLb9fm4qk9h52MYBszm_big.jpg" group-title="RELIGIOSOS",A Paixão de Cristo - 2004
-https://ust.lat:443/movie/edgar23v/edgar2023/43085.mp4
-#EXTINF:-1 tvg-id="" tvg-name="À Procura da Liberdade - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fzuXJPcL84FPKcRQRaVQKSEmyX.jpg" group-title="RELIGIOSOS",À Procura da Liberdade - 2014
-https://ust.lat:443/movie/edgar23v/edgar2023/42887.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Prova de Fogo - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/94vWXepNu95YNoTSHCEwM212ugY.jpg" group-title="RELIGIOSOS",A Prova de Fogo - 2008
-https://ust.lat:443/movie/edgar23v/edgar2023/42885.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Ressurreicao de Jesus - 2021" tvg-logo="http://ust.lat:80/images/f2ZkDH1ajAdgcMtsVXBeyS7twSf_big.jpg" group-title="RELIGIOSOS",A Ressurreicao de Jesus - 2021
-https://ust.lat:443/movie/edgar23v/edgar2023/204290.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Última Tentação de Cristo - 1988" tvg-logo="http://ust.lat:80/images/zAyCulPkOHA4AB4d4dK3XzUVwjt_big.jpg" group-title="RELIGIOSOS",A Última Tentação de Cristo - 1988
-https://ust.lat:443/movie/edgar23v/edgar2023/43083.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vida de Jesus Cristo - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pA3x4zQhwDL7Ir8DSCYfbhbtCDS.jpg" group-title="RELIGIOSOS",A Vida de Jesus Cristo - 2011
-https://ust.lat:443/movie/edgar23v/edgar2023/123686.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Virada - 2003" tvg-logo="http://ust.lat:80/images/gP8SLm29PL31W8Un77BANx0m3Dx_big.jpg" group-title="RELIGIOSOS",A Virada - 2003
-https://ust.lat:443/movie/edgar23v/edgar2023/43079.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor Incondicional  A História de Oseias - 2012" tvg-logo="http://ust.lat:80/images/cC07GVBXzNpMhgAASsXjgVYIwot_big.jpg" group-title="RELIGIOSOS",Amor Incondicional  A História de Oseias - 2012
-https://ust.lat:443/movie/edgar23v/edgar2023/43077.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Antes Que Seja Tarde - 2013" tvg-logo="http://ust.lat:80/images/i9zwqaXhG3tP5QVYPfBlHf6OSz5_big.jpg" group-title="RELIGIOSOS",Antes Que Seja Tarde - 2013
-https://ust.lat:443/movie/edgar23v/edgar2023/43010.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ao Lado de Cristo - 2021" tvg-logo="http://ust.lat:80/images/qgslCpWaZieFb463otrZIHXBiFx_big.jpg" group-title="RELIGIOSOS",Ao Lado de Cristo - 2021
-https://ust.lat:443/movie/edgar23v/edgar2023/190019.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Barrabás - 2012" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wCaCLrODsQwFyunqKRfXHugMzGA.jpg" group-title="RELIGIOSOS",Barrabás - 2012
-https://ust.lat:443/movie/edgar23v/edgar2023/43009.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cartas Para Deus - 2010" tvg-logo="http://ust.lat:80/images/sAOFFWAxho3NmJlrJL9V8v9gT8q_big.jpg" group-title="RELIGIOSOS",Cartas Para Deus - 2010
-https://ust.lat:443/movie/edgar23v/edgar2023/43007.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Davi e Golias – A Batalha Da Fé - 2016" tvg-logo="http://ust.lat:80/images/7g0x8sdh0ZN6zBbt1CpUi9VMHmU_big.jpg" group-title="RELIGIOSOS",Davi e Golias – A Batalha Da Fé - 2016
-https://ust.lat:443/movie/edgar23v/edgar2023/43002.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deixados para Trás - 2000" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5mJhwENHWx6l1N447doXihtfTwd.jpg" group-title="RELIGIOSOS",Deixados para Trás - 2000
-https://ust.lat:443/movie/edgar23v/edgar2023/43001.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deixados para Trás 2 - Comando Tribulação - 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWhr8FcP75eAmfQJyg224eZKC5p.jpg" group-title="RELIGIOSOS",Deixados para Trás 2 - Comando Tribulação - 2002
-https://ust.lat:443/movie/edgar23v/edgar2023/42880.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deixados para Trás 3 - Mundo em Guerra - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6zixyL8rUZExfENtEwLa4YRxCg.jpg" group-title="RELIGIOSOS",Deixados para Trás 3 - Mundo em Guerra - 2005
-https://ust.lat:443/movie/edgar23v/edgar2023/42878.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deixados Para Tras 4: A Nova Geração - 2016" tvg-logo="http://ust.lat:80/images/risnIUsOOqrdjCvWPg78d2Gjdci_big.jpg" group-title="RELIGIOSOS",Deixados Para Tras 4: A Nova Geração - 2016
-https://ust.lat:443/movie/edgar23v/edgar2023/42876.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Desafiando Gigantes - 2006" tvg-logo="http://ust.lat:80/images/sb59Xr3ckkUH7r6EtCZC9EBV5JB_big.jpg" group-title="RELIGIOSOS",Desafiando Gigantes - 2006
-https://ust.lat:443/movie/edgar23v/edgar2023/42998.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deus Não Está Morto - 2014" tvg-logo="http://ust.lat:80/images/urjNU6L1NMQVcN9JzmxlHoQhOs9_big.jpg" group-title="RELIGIOSOS",Deus Não Está Morto - 2014
-https://ust.lat:443/movie/edgar23v/edgar2023/42994.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deus Não Está Morto 2 - 2016" tvg-logo="http://ust.lat:80/images/c9xXefsaYEp5cg9Gdjq0jZeX0g9_big.jpg" group-title="RELIGIOSOS",Deus Não Está Morto 2 - 2016
-https://ust.lat:443/movie/edgar23v/edgar2023/42989.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deus Não Esta Morto: O Próximo Capítulo - 2021" tvg-logo="http://ust.lat:80/images/kPLGhukHKy8kbYntAOvHQgztxe4_big.jpg" group-title="RELIGIOSOS",Deus Não Esta Morto: O Próximo Capítulo - 2021
-https://ust.lat:443/movie/edgar23v/edgar2023/201453.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deus Nao Esta Morto: Uma Luz Na Escuridao - 2018" tvg-logo="http://ust.lat:80/images/dSV0a3TxdJCiniddhETG8EGVTeb_big.jpg" group-title="RELIGIOSOS",Deus Nao Esta Morto: Uma Luz Na Escuridao - 2018
-https://ust.lat:443/movie/edgar23v/edgar2023/42986.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Em Defesa De Cristo  - 2017" tvg-logo="http://ust.lat:80/images/pyxN3LztDtPus5JSOv1HiRHkSco_big.jpg" group-title="RELIGIOSOS",Em Defesa De Cristo  - 2017
-https://ust.lat:443/movie/edgar23v/edgar2023/42982.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Entre A Vingança E O Perdão - 2015" tvg-logo="http://ust.lat:80/images/6EugZAIVqAVIVattPlKeAXM8lMi_big.jpg" group-title="RELIGIOSOS",Entre A Vingança E O Perdão - 2015
-https://ust.lat:443/movie/edgar23v/edgar2023/42975.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Escrevendo Uma Nova Vida - 2011" tvg-logo="http://ust.lat:80/images/fwy2vWc8GSXtyTuNgK7Z4MST2FU_big.jpg" group-title="RELIGIOSOS",Escrevendo Uma Nova Vida - 2011
-https://ust.lat:443/movie/edgar23v/edgar2023/42972.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Eu Acredito - 2019" tvg-logo="http://ust.lat:80/images/2xtqkht2u7SkrZPd6zyMRymE4nt_big.jpg" group-title="RELIGIOSOS",Eu Acredito - 2019
-https://ust.lat:443/movie/edgar23v/edgar2023/64994.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Eu e Você Nós Para Sempre - 2008" tvg-logo="http://ust.lat:80/images/u4b5waxz5jeRctnaP2sAZMXzQM6_big.jpg" group-title="RELIGIOSOS",Eu e Você Nós Para Sempre - 2008
-https://ust.lat:443/movie/edgar23v/edgar2023/42969.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jacó - 1994" tvg-logo="https://cineplayers.com/sites/default/files/posters/22623_poster.jpg" group-title="RELIGIOSOS",Jacó - 1994
-https://ust.lat:443/movie/edgar23v/edgar2023/42967.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jesus  Segundo o Evangelho de Lucas - 1979" tvg-logo="http://ust.lat:80/images/lKveT74WCfqz8Bo56qFw8H6Dujz_big.jpg" group-title="RELIGIOSOS",Jesus  Segundo o Evangelho de Lucas - 1979
-https://ust.lat:443/movie/edgar23v/edgar2023/253886.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jesus A Maior Historia de Todos os Tempos - 1999" tvg-logo="http://ust.lat:80/images/mz8VofrskKYClr7PNAZ3Nn5OWnw_big.jpg" group-title="RELIGIOSOS",Jesus A Maior Historia de Todos os Tempos - 1999
-https://ust.lat:443/movie/edgar23v/edgar2023/253339.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jornada Pela Liberdade - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13e5nAa0M7Ui0Kw1LCiI5dFnwT1.jpg" group-title="RELIGIOSOS",Jornada Pela Liberdade - 2006
-https://ust.lat:443/movie/edgar23v/edgar2023/42964.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jose Do Egito O Filme - 2016" tvg-logo="http://ust.lat:80/images/1fGgFHlCmqgcvBc4RfvX90D7i0f_big.jpg" group-title="RELIGIOSOS",Jose Do Egito O Filme - 2016
-https://ust.lat:443/movie/edgar23v/edgar2023/42961.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jose E Maria - 2016" tvg-logo="http://ust.lat:80/images/rppXv4b4DgCzvxQCpT0YZyt7miN_big.jpg" group-title="RELIGIOSOS",Jose E Maria - 2016
-https://ust.lat:443/movie/edgar23v/edgar2023/42958.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lutero - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Z3wlA8sKdd3tPTZW8N1q3YEd5f.jpg" group-title="RELIGIOSOS",Lutero - 2003
-https://ust.lat:443/movie/edgar23v/edgar2023/42955.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Maria Madalena - 2018" tvg-logo="http://ust.lat:80/images/6K0nZy7ZgW1RttcNrkLPQLnudT8_big.jpg" group-title="RELIGIOSOS",Maria Madalena - 2018
-https://ust.lat:443/movie/edgar23v/edgar2023/42953.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Maria Mae do Filho de Deus - 2003" tvg-logo="http://ust.lat:80/images/qJ39uUUzNtovwHXP45et8uhLWbG_big.jpg" group-title="RELIGIOSOS",Maria Mae do Filho de Deus - 2003
-https://ust.lat:443/movie/edgar23v/edgar2023/252134.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres De Jesus - O Filme  - 2016" tvg-logo="http://ust.lat:80/images/cV9EydsR7GJXkkUR7qtnjyVd0MX_big.jpg" group-title="RELIGIOSOS",Milagres De Jesus - O Filme  - 2016
-https://ust.lat:443/movie/edgar23v/edgar2023/42951.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres do Paraíso - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rx0r6MPwo2ZQfcr018HLek0u7z3.jpg" group-title="RELIGIOSOS",Milagres do Paraíso - 2016
-https://ust.lat:443/movie/edgar23v/edgar2023/42949.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nada A Perder - 2018" tvg-logo="http://ust.lat:80/images/l1XGiS2tXIR4IP4bdqdmlG6Hhbd_big.jpg" group-title="RELIGIOSOS",Nada A Perder - 2018
-https://ust.lat:443/movie/edgar23v/edgar2023/42947.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nada a Perder 2  Não Se Pode Esconder a Verdade - 2019" tvg-logo="http://ust.lat:80/images/2UESbGhUBez8iu4CqVhhmpIueJh_big.jpg" group-title="RELIGIOSOS",Nada a Perder 2  Não Se Pode Esconder a Verdade - 2019
-https://ust.lat:443/movie/edgar23v/edgar2023/71720.mp4
-#EXTINF:-1 tvg-id="" tvg-name="No Tempo de Deus - 2017" tvg-logo="http://ust.lat:80/images/tsJk5a0Az90IZMT0MkvAOkJxzqy_big.jpg" group-title="RELIGIOSOS",No Tempo de Deus - 2017
-https://ust.lat:443/movie/edgar23v/edgar2023/251724.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Noé - 2014" tvg-logo="http://ust.lat:80/images/nVdsXW3oJKBCMpNVZcg8teCk0cS_big.jpg" group-title="RELIGIOSOS",Noé - 2014
-https://ust.lat:443/movie/edgar23v/edgar2023/42945.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nosso Lar - 2010" tvg-logo="http://ust.lat:80/images/4XeiiBxzXuT46deN8QmJaekHwqj_big.jpg" group-title="RELIGIOSOS",Nosso Lar - 2010
-https://ust.lat:443/movie/edgar23v/edgar2023/78510.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Céu é de Verdade - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/63EnKIUOWnBIR9Ox2WPW22TQ0Kn.jpg" group-title="RELIGIOSOS",O Céu é de Verdade - 2014
-https://ust.lat:443/movie/edgar23v/edgar2023/42944.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Despertar da Fé - 2012" tvg-logo="http://ust.lat:80/images/2XKVy3GGM079NPX2Gr4M9PNO73R_big.jpg" group-title="RELIGIOSOS",O Despertar da Fé - 2012
-https://ust.lat:443/movie/edgar23v/edgar2023/42941.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Evangelho Segundo Joao - 2003" tvg-logo="http://ust.lat:80/images/ssUqYDdvkTJs7YOvwtvyshvZw9h_big.jpg" group-title="RELIGIOSOS",O Evangelho Segundo Joao - 2003
-https://ust.lat:443/movie/edgar23v/edgar2023/42939.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Fazendeiro e Deus - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGTKmTYm7PSkMYUV0D3WuIVuspi.jpg" group-title="RELIGIOSOS",O Fazendeiro e Deus - 2006
-https://ust.lat:443/movie/edgar23v/edgar2023/42938.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Filho de Deus - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dawSGD2qjDGNL29yIF9oW4dICgS.jpg" group-title="RELIGIOSOS",O Filho de Deus - 2014
-https://ust.lat:443/movie/edgar23v/edgar2023/42926.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Filho do Homem - 2019" tvg-logo="http://ust.lat:80/images/4DAEOy4jYb1Qh8fg2RHcVyvkDhE_big.jpg" group-title="RELIGIOSOS",O Filho do Homem - 2019
-https://ust.lat:443/movie/edgar23v/edgar2023/64832.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Jovem Messias - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/YRbIclm6OhqzegE4JqNkPtDfJk.jpg" group-title="RELIGIOSOS",O Jovem Messias - 2016
-https://ust.lat:443/movie/edgar23v/edgar2023/42937.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Livro De Genesis - 2016" tvg-logo="http://ust.lat:80/images/bMq5QpK7erEKtDIMAcTshYKQyG4_big.jpg" group-title="RELIGIOSOS",O Livro De Genesis - 2016
-https://ust.lat:443/movie/edgar23v/edgar2023/42936.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Medalhão Perdido - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oR1FpvRAOfI3WZugCUFzGyUPPhr.jpg" group-title="RELIGIOSOS",O Medalhão Perdido - 2013
-https://ust.lat:443/movie/edgar23v/edgar2023/42935.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Peregrino - Uma Jornada para o Céu - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nK9NYlsFMuM1ssJHNc8V8zTew4l.jpg" group-title="RELIGIOSOS",O Peregrino - Uma Jornada para o Céu - 2008
-https://ust.lat:443/movie/edgar23v/edgar2023/42933.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Príncipe do Egito - 1998" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jco6VjKwjAyN8HElg4F3dXGfT8.jpg" group-title="RELIGIOSOS",O Príncipe do Egito - 1998
-https://ust.lat:443/movie/edgar23v/edgar2023/42932.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei dos Reis - 1961" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7ZihCBZOVXL827GKUbYiGnWSdX.jpg" group-title="RELIGIOSOS",O Rei dos Reis - 1961
-https://ust.lat:443/movie/edgar23v/edgar2023/42929.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Soldado De Cristo - 2019" tvg-logo="http://ust.lat:80/images/yx2Tgzrq20sMjrX5lLnpi5LZnW_big.jpg" group-title="RELIGIOSOS",O Soldado De Cristo - 2019
-https://ust.lat:443/movie/edgar23v/edgar2023/43086.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Onde Está Deus - 2015" tvg-logo="http://ust.lat:80/images/7GOmygEptT3bbkQqupGuQFtCeEY_big.jpg" group-title="RELIGIOSOS",Onde Está Deus - 2015
-https://ust.lat:443/movie/edgar23v/edgar2023/42923.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Dez Mandamentos: O Filme - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEssXteZnvUfkVEfJi7zVZtHg28.jpg" group-title="RELIGIOSOS",Os Dez Mandamentos: O Filme - 2016
-https://ust.lat:443/movie/edgar23v/edgar2023/42920.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Enigmas da Bíblia - 2018" tvg-logo="http://ust.lat:80/images/cyuv2XLkonsvjb6UFv6pltOoxXq_big.jpg" group-title="RELIGIOSOS",Os Enigmas da Bíblia - 2018
-https://ust.lat:443/movie/edgar23v/edgar2023/42918.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Paulo Apostolo De Cristo - 2018" tvg-logo="http://ust.lat:80/images/6J8IDXJlURmOwX3KnfYitSr7QbR_big.jpg" group-title="RELIGIOSOS",Paulo Apostolo De Cristo - 2018
-https://ust.lat:443/movie/edgar23v/edgar2023/42913.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Paulo, Apóstolo de Cristo - 2018" tvg-logo="http://ust.lat:80/images/6J8IDXJlURmOwX3KnfYitSr7QbR_big.jpg" group-title="RELIGIOSOS", Apóstolo de Cristo - 2018
-https://ust.lat:443/movie/edgar23v/edgar2023/169721.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pedro A Redenção - 2016" tvg-logo="http://ust.lat:80/images/gW6hVcJAI4mCYvGhERDBK4PHsjn_big.jpg" group-title="RELIGIOSOS",Pedro A Redenção - 2016
-https://ust.lat:443/movie/edgar23v/edgar2023/42911.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Policarpo Quaresma, Herói do Brasil - 1998" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vezda5Dc53Hv0Cize3rNJAUaL1Y.jpg" group-title="RELIGIOSOS", Herói do Brasil - 1998
-https://ust.lat:443/movie/edgar23v/edgar2023/42910.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Quando Tudo Parece Perdido - 2015" tvg-logo="http://ust.lat:80/images/AiruGHcA4NThzneIRZXNqwhsdpD_big.jpg" group-title="RELIGIOSOS",Quando Tudo Parece Perdido - 2015
-https://ust.lat:443/movie/edgar23v/edgar2023/42908.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Quarto de Guerra - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/unxQeVUi5DH01r7ZNvAHwpvX7UK.jpg" group-title="RELIGIOSOS",Quarto de Guerra - 2015
-https://ust.lat:443/movie/edgar23v/edgar2023/42931.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Que Haja Luz - 2017" tvg-logo="http://ust.lat:80/images/dGSITQuMpB96RF05b0UGEclrxit_big.jpg" group-title="RELIGIOSOS",Que Haja Luz - 2017
-https://ust.lat:443/movie/edgar23v/edgar2023/43090.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Resgatados Pela Graça - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsXBRuNur2PLFiEAZ23FR9cKAaS.jpg" group-title="RELIGIOSOS",Resgatados Pela Graça - 2013
-https://ust.lat:443/movie/edgar23v/edgar2023/42905.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ressurreição - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbx72yOS42RSjmayJDBdaP6oC8J.jpg" group-title="RELIGIOSOS",Ressurreição - 2016
-https://ust.lat:443/movie/edgar23v/edgar2023/61107.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salvo pela Graca - 2016" tvg-logo="http://ust.lat:80/images/utG8iiezSfmQyU8SuifRJjHReuR_big.jpg" group-title="RELIGIOSOS",Salvo pela Graca - 2016
-https://ust.lat:443/movie/edgar23v/edgar2023/243905.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sansão - 2018" tvg-logo="http://ust.lat:80/images/8FCkStF9Cy3o5TtV4jBAZqA2qYF_big.jpg" group-title="RELIGIOSOS",Sansão - 2018
-https://ust.lat:443/movie/edgar23v/edgar2023/42904.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Seu Unico Filho - 2023 (L)" tvg-logo="http://ust.lat:80/images/e85UDGmD9HmKcS0BOgoha029bkK_big.jpg" group-title="RELIGIOSOS",Seu Unico Filho - 2023 (L)
-https://ust.lat:443/movie/edgar23v/edgar2023/233073.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Três Histórias, Um Destino - 2012" tvg-logo="http://ust.lat:80/images/ovn5OEysi1c2rqLXLf9KiXGvXe0_big.jpg" group-title="RELIGIOSOS", Um Destino - 2012
-https://ust.lat:443/movie/edgar23v/edgar2023/42902.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Últimos Dias no Deserto - 2016" tvg-logo="http://ust.lat:80/images/g7PQ0DoAnR5OB2ZzaZrCiQ6dNo8_big.jpg" group-title="RELIGIOSOS",Últimos Dias no Deserto - 2016
-https://ust.lat:443/movie/edgar23v/edgar2023/42883.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Encontro Perfeito - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dipJllTqfinmiOIZGaRGmoHUn5R.jpg" group-title="RELIGIOSOS",Um Encontro Perfeito - 2005
-https://ust.lat:443/movie/edgar23v/edgar2023/42940.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Lar Verdadeiro - 2013" tvg-logo="http://ust.lat:80/images/uXnQ9x4Athf6r7vCISaV2H7pWWI_big.jpg" group-title="RELIGIOSOS",Um Lar Verdadeiro - 2013
-https://ust.lat:443/movie/edgar23v/edgar2023/42900.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Novo Plano - 2011" tvg-logo="http://ust.lat:80/images/mQovEU47rFwUsGhUsWVShMUJrXi_big.jpg" group-title="RELIGIOSOS",Um Novo Plano - 2011
-https://ust.lat:443/movie/edgar23v/edgar2023/42898.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Outro Encontro - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZ5WilRphrBbraCfNdgMSmE8888.jpg" group-title="RELIGIOSOS",Um Outro Encontro - 2007
-https://ust.lat:443/movie/edgar23v/edgar2023/42897.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Batalha de Fé - 2019" tvg-logo="http://ust.lat:80/images/tjffZ7ZK4TwUaFdqjfl7qQor1uZ_big.jpg" group-title="RELIGIOSOS",Uma Batalha de Fé - 2019
-https://ust.lat:443/movie/edgar23v/edgar2023/77552.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Jornada de Perdão - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7J14qm2QDenwImXVVBRbv7mwpRa.jpg" group-title="RELIGIOSOS",Uma Jornada de Perdão - 2018
-https://ust.lat:443/movie/edgar23v/edgar2023/69703.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Prova De Fé - 2015" tvg-logo="http://ust.lat:80/images/lf2X2jNWdoneJtBdmg0erkIMX5L_big.jpg" group-title="RELIGIOSOS",Uma Prova De Fé - 2015
-https://ust.lat:443/movie/edgar23v/edgar2023/42893.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Questão de Fé - 2017" tvg-logo="http://ust.lat:80/images/cDSxFpUzaopUJn8O4LWO29Dii5f_big.jpg" group-title="RELIGIOSOS",Uma Questão de Fé - 2017
-https://ust.lat:443/movie/edgar23v/edgar2023/42891.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Você Acredita? - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FZ5f4lLgRzojgEqv3MIlTh7QhW.jpg" group-title="RELIGIOSOS",Você Acredita? - 2015
-https://ust.lat:443/movie/edgar23v/edgar2023/42888.mp4
-#EXTINF:-1 tvg-id="" tvg-name="TV Padre Cicero" tvg-logo="https://imgur.com/9qTdH3a" group-title="RELIGIOSOS",TV Padre Cicero
-https://ust.lat:443/edgar23v/edgar2023/217377
-#EXTINF:-1 tvg-id="REDE VIDA" tvg-name="Rede Vida FHD" tvg-logo="https://fivetv.xyz/logos/redevida.png" group-title="RELIGIOSOS",Rede Vida FHD
-https://ust.lat:443/edgar23v/edgar2023/28625
-#EXTINF:-1 tvg-id="REDE VIDA" tvg-name="Rede Vida HD" tvg-logo="https://fivetv.xyz/logos/redevida.png" group-title="RELIGIOSOS",Rede Vida HD
-https://ust.lat:443/edgar23v/edgar2023/10699
-#EXTINF:-1 tvg-id="TV APARECIDA HD" tvg-name="TV Aparecida HD" tvg-logo="https://fivetv.xyz/logos/aparecida.png" group-title="RELIGIOSOS",TV Aparecida HD
-https://ust.lat:443/edgar23v/edgar2023/10662
-#EXTINF:-1 tvg-id="Boavontadetv.br" tvg-name="Tv Boa Vontade HD" tvg-logo="https://fivetv.xyz/logos/boavontade.png" group-title="RELIGIOSOS",Tv Boa Vontade HD
-https://ust.lat:443/edgar23v/edgar2023/22842
-#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="Tv Novo Tempo FHD" tvg-logo="https://fivetv.xyz/logos/novotempo.png" group-title="RELIGIOSOS",Tv Novo Tempo FHD
-https://ust.lat:443/edgar23v/edgar2023/35427
-#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="Tv Novo Tempo HD" tvg-logo="https://fivetv.xyz/logos/novotempo.png" group-title="RELIGIOSOS",Tv Novo Tempo HD
-https://ust.lat:443/edgar23v/edgar2023/6875
+#EXTINF:-1 tvg-id="" tvg-name="Noé - Uma Adaptação da Novela Gênesis (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5laTANyEApcIFj3xeP0tcwYyb00.jpg" group-title="Filmes | Religioso",Noé - Uma Adaptação da Novela Gênesis (2021)
+http://15110166167.com:80/movie/98561952/Q681P8324z/526612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="tvg-name=" tvg-logo="https://www.themoviedb.org/t/p/w1280/ftXxwIn4PDLhbwFwhGbrJc8F31n.jpg" group-title="Filmes | Religioso", A Arca de Noé (1999) 
+http://15110166167.com:80/movie/98561952/Q681P8324z/398927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Whera Tupa e  o Fogo Sagrado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6NvTcv8GBaJhrNYoLKjv3MKzQX.jpg" group-title="Filmes | Religioso",Whera Tupa e  o Fogo Sagrado (2022)
+http://15110166167.com:80/movie/98561952/Q681P8324z/378057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barrabas (1919)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVHMCQN4Grwf2SPLwWAM3tlVchB.jpg" group-title="Filmes | Religioso",Barrabas (1919)
+http://15110166167.com:80/movie/98561952/Q681P8324z/324071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Milagre de Fátima (1952)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMouQ2eWh24IXVsNr4Zj1MukXDL.jpg" group-title="Filmes | Religioso",O Milagre de Fátima (1952)
+http://15110166167.com:80/movie/98561952/Q681P8324z/323214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Seus Passos, O Que Faria Jesus? (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJfcvlF8B1bOYu7T0yDgoLL1HX3.jpg" group-title="Filmes | Religioso", O Que Faria Jesus? (2010)
+http://15110166167.com:80/movie/98561952/Q681P8324z/323202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Tempo de Deus (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsJk5a0Az90IZMT0MkvAOkJxzqy.jpg" group-title="Filmes | Religioso",No Tempo de Deus (2017)
+http://15110166167.com:80/movie/98561952/Q681P8324z/319582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deus Não Está Morto: Uma Luz na Escuridão (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dSV0a3TxdJCiniddhETG8EGVTeb.jpg" group-title="Filmes | Religioso",Deus Não Está Morto: Uma Luz na Escuridão (2018)
+http://15110166167.com:80/movie/98561952/Q681P8324z/297387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chico Para Sempre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqXF7uGE76v8JVbHws9s9qSN7P6.jpg" group-title="Filmes | Religioso",Chico Para Sempre (2022)
+http://15110166167.com:80/movie/98561952/Q681P8324z/271744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Caminho para a Eternidade (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6R4s7pLz8vxfK7YU76iUkwoVUi.jpg" group-title="Filmes | Religioso",O Caminho para a Eternidade (2010)
+http://15110166167.com:80/movie/98561952/Q681P8324z/264525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Akara: No Fogo da Intolerancia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68QOpNSKy7uc8dSKivu7cJKbxkS.jpg" group-title="Filmes | Religioso",Akara: No Fogo da Intolerancia (2020)
+http://15110166167.com:80/movie/98561952/Q681P8324z/258391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deus Não Está Morto 2 (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9xXefsaYEp5cg9Gdjq0jZeX0g9.jpg" group-title="Filmes | Religioso",Deus Não Está Morto 2 (2016)
+http://15110166167.com:80/movie/98561952/Q681P8324z/221418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cavalo de Santo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mf7v0JqgsvFot7EpoouptYU1G7x.jpg" group-title="Filmes | Religioso",Cavalo de Santo (2021)
+http://15110166167.com:80/movie/98561952/Q681P8324z/214231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Predestinado: Arigó e o Espírito do Dr. Fritz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qx8v1E6t0GvUAUFdXjyE1L5D6qW.jpg" group-title="Filmes | Religioso",Predestinado: Arigó e o Espírito do Dr. Fritz (2022)
+http://15110166167.com:80/movie/98561952/Q681P8324z/210716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Jovem Messias (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/YRbIclm6OhqzegE4JqNkPtDfJk.jpg" group-title="Filmes | Religioso",O Jovem Messias (2016)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Dez Mandamentos (1956)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJI5sg5IOVAlxTmxbtT6nYdyiTk.jpg" group-title="Filmes | Religioso",Os Dez Mandamentos (1956)
+http://15110166167.com:80/movie/98561952/Q681P8324z/116718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="90 Minutos no Paraíso (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zm349SVzNBxSi9MnEsHp0DS0XGd.jpg" group-title="Filmes | Religioso",90 Minutos no Paraíso (2015)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cabana (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yf2WNfO1b0E1IcJDLUiGj7ccKRm.jpg" group-title="Filmes | Religioso",A Cabana (2017)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caminho da Fé (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTsZEzkvQZ1keK7V2EgbOurIlL9.jpg" group-title="Filmes | Religioso",A Caminho da Fé (2018)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Estrela de Belém (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tB4jiGyDuMsq38sXbTCB1nsAWEE.jpg" group-title="Filmes | Religioso",A Estrela de Belém (2017)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Filha do Pastor (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kTIh3BbYaBQtcRatOBzKCJPso6g.jpg" group-title="Filmes | Religioso",A Filha do Pastor (2010)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A História de Ester (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TV76zCTNfEFnOPpWFFopMrmDq7.jpg" group-title="Filmes | Religioso",A História de Ester (2013)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Luz Divina (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6cnJvo4N7nnz2GXBTYsrSIE09e.jpg" group-title="Filmes | Religioso",A Luz Divina (2018)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Oração Não Falha (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pP4c1hBnWFbjEOLsHtzCdi1sCWW.jpg" group-title="Filmes | Religioso",A Oração Não Falha (2016)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Profecia Celestina (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rP9XSO6pXxcvymhV7FbKLTk6daV.jpg" group-title="Filmes | Religioso",A Profecia Celestina (2006)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Virada (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAktKHy0YsMaB8uTnbWBnUJePVP.jpg" group-title="Filmes | Religioso",A Virada (2003)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Incondicional: A História de Oseias (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cC07GVBXzNpMhgAASsXjgVYIwot.jpg" group-title="Filmes | Religioso",Amor Incondicional: A História de Oseias (2012)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Histórias De Jonathan Sperry (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzcIH9snAc1KhWdXXhsd4mcl0YR.jpg" group-title="Filmes | Religioso",As Histórias De Jonathan Sperry (2008)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barrabas (1919)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0YGbnL6feWFkVYJbG6tgXS7msh.jpg" group-title="Filmes | Religioso",Barrabas (1919)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cartas para Deus (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAOFFWAxho3NmJlrJL9V8v9gT8q.jpg" group-title="Filmes | Religioso",Cartas para Deus (2010)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Conversando com Deus (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JYNHj83ELXg38427fnAc02auBV.jpg" group-title="Filmes | Religioso",Conversando com Deus (2006)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corajosos (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvp6uecYSWQn8cV0fGZ6j1g1Kvx.jpg" group-title="Filmes | Religioso",Corajosos (2011)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Davi vs. Golias: A Batalha Da Fé (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7g0x8sdh0ZN6zBbt1CpUi9VMHmU.jpg" group-title="Filmes | Religioso",Davi vs. Golias: A Batalha Da Fé (2016)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deixados para Trás - A Nova Geração (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/risnIUsOOqrdjCvWPg78d2Gjdci.jpg" group-title="Filmes | Religioso",Deixados para Trás - A Nova Geração (2016)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deixados para Trás 3: Mundo em Guerra (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0sZlyEBX1SeNonM4FrC9mvD59K.jpg" group-title="Filmes | Religioso",Deixados para Trás 3: Mundo em Guerra (2005)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deixados para Trás: O Filme (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNWQ921ypzkzYRSRBU795OoKdDc.jpg" group-title="Filmes | Religioso",Deixados para Trás: O Filme (2000)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desafiando Gigantes (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sb59Xr3ckkUH7r6EtCZC9EBV5JB.jpg" group-title="Filmes | Religioso",Desafiando Gigantes (2006)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deus Não Está Morto (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9whWUktQSg3kdM7xg6HJ6PnoJR.jpg" group-title="Filmes | Religioso",Deus Não Está Morto (2014)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Defesa de Cristo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyxN3LztDtPus5JSOv1HiRHkSco.jpg" group-title="Filmes | Religioso",Em Defesa de Cristo (2017)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emblema de Fé (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5yRiTxhezxvohZFb6Qu3v3zU4Z.jpg" group-title="Filmes | Religioso",Emblema de Fé (2015)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre A Vingança e O Perdão (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EugZAIVqAVIVattPlKeAXM8lMi.jpg" group-title="Filmes | Religioso",Entre A Vingança e O Perdão (2015)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entrevista com Deus (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hIE9f6mZojSGAPZIsGx6Lca3RQ3.jpg" group-title="Filmes | Religioso",Entrevista com Deus (2018)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu Acredito (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xtqkht2u7SkrZPd6zyMRymE4nt.jpg" group-title="Filmes | Religioso",Eu Acredito (2017)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Grace: Entre a Fé e a Fama (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMfSS9W5eOCKbRkc8z2Dav7AsXL.jpg" group-title="Filmes | Religioso",Grace: Entre a Fé e a Fama (2013)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Granizo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnTp17HCwQ6EhsWfqzgwnUfhSym.jpg" group-title="Filmes | Religioso",Granizo (2022)
+http://15110166167.com:80/movie/98561952/Q681P8324z/10501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Graça e Perdão (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQbgKemaOkv4aLPEFCqTQZMmXxJ.jpg" group-title="Filmes | Religioso",Graça e Perdão (2010)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Deus (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFHAGnTbtkJUiqDNmlkgBuYdky.jpg" group-title="Filmes | Religioso",Homem de Deus (2022)
+http://15110166167.com:80/movie/98561952/Q681P8324z/10503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inabalável: A Trajetória de Amy Newhouse (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BLkarlSyLhGdRsYym6RS7Y8agZ.jpg" group-title="Filmes | Religioso",Inabalável: A Trajetória de Amy Newhouse (2009)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jesus (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFC4cY9lBsZXTjrqvKrwqusXaa7.jpg" group-title="Filmes | Religioso",Jesus (2020)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jesus - A História do Nascimento (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZxfYK3MhkUiGuwAaIEiadU6lZ4.jpg" group-title="Filmes | Religioso",Jesus - A História do Nascimento (2006)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="José e Maria (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9dsOE4M2lrkDAJu0fg0rQW8heq.jpg" group-title="Filmes | Religioso",José e Maria (2016)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luta Pela Fé: A História do Padre Stu (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cz8zbePAot9kRAlABXdlNfVv6CL.jpg" group-title="Filmes | Religioso",Luta Pela Fé: A História do Padre Stu (2022)
+http://15110166167.com:80/movie/98561952/Q681P8324z/57308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lutero (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gfNkXV9iXVhyHTPt5EVfpIBPPd.jpg" group-title="Filmes | Religioso",Lutero (2003)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maria Madalena (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6K0nZy7ZgW1RttcNrkLPQLnudT8.jpg" group-title="Filmes | Religioso",Maria Madalena (2018)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus - O Filme (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cV9EydsR7GJXkkUR7qtnjyVd0MX.jpg" group-title="Filmes | Religioso",Milagres de Jesus - O Filme (2016)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres do Paraíso (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPt56D7a55ZNn1yJqKWgBHhqJQ3.jpg" group-title="Filmes | Religioso",Milagres do Paraíso (2016)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moisés (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0S5RmtTvSvxgzEicJwh698qq4i.jpg" group-title="Filmes | Religioso",Moisés (1995)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noé (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVdsXW3oJKBCMpNVZcg8teCk0cS.jpg" group-title="Filmes | Religioso",Noé (2014)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Céu é de Verdade (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3V1S3j05kV5YqDEL2qyVFIy1x3m.jpg" group-title="Filmes | Religioso",O Céu é de Verdade (2014)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Despertar da Fé (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XKVy3GGM079NPX2Gr4M9PNO73R.jpg" group-title="Filmes | Religioso",O Despertar da Fé (2012)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Encontro Perfeito (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RheY0XpFGZjFGmLJfEGjxwnV7s.jpg" group-title="Filmes | Religioso",O Encontro Perfeito (2005)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Evangelho Segundo João (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k97rk4SshSgr5xk5X1gpuAoiASi.jpg" group-title="Filmes | Religioso",O Evangelho Segundo João (2003)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5539.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Fazendeiro e Deus (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffedCjjDzOYTafremGfkwAuDflM.jpg" group-title="Filmes | Religioso",O Fazendeiro e Deus (2006)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Filho de Deus (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dawSGD2qjDGNL29yIF9oW4dICgS.jpg" group-title="Filmes | Religioso",O Filho de Deus (2014)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5541.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Livro de Gênesis (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMq5QpK7erEKtDIMAcTshYKQyG4.jpg" group-title="Filmes | Religioso",O Livro de Gênesis (2016)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5543.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Milagre de Fátima (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b36sJUxyVHDOJS8gm618mRWIUWu.jpg" group-title="Filmes | Religioso",O Milagre de Fátima (2017)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5544.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pastor (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wG2IW5DJUxngmRz0dwagB7j5RRT.jpg" group-title="Filmes | Religioso",O Pastor (1988)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Peregrino - Uma Jornada para o Céu (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aE2ryADO2PVezrxVUUiBz6Niuj7.jpg" group-title="Filmes | Religioso",O Peregrino - Uma Jornada para o Céu (2008)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Poder da Graça (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDKaCA3D49L9LolfxRB95H6ldgQ.jpg" group-title="Filmes | Religioso",O Poder da Graça (2011)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5549.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Rei dos Reis (1961)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/as6hYQcPyv4f3Lrb4svPWV0nVaz.jpg" group-title="Filmes | Religioso",O Rei dos Reis (1961)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Soldado de Cristo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yx2Tgzrq20sMjrX5lLnpi5LZnW.jpg" group-title="Filmes | Religioso",O Soldado de Cristo (2019)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5554.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Onde Está Deus? (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GOmygEptT3bbkQqupGuQFtCeEY.jpg" group-title="Filmes | Religioso",Onde Está Deus? (2015)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Orações Para Bobby (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ryaJFI5adEgBB4H2ZuIgJCwa3ev.jpg" group-title="Filmes | Religioso",Orações Para Bobby (2009)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Dez Mandamentos: O Filme (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yctfYDrHAPcJP54D2BCH9R5GTY2.jpg" group-title="Filmes | Religioso",Os Dez Mandamentos: O Filme (2016)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5553.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Papa Francisco: Um Homem de Palavra (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/orUWQfKkbpPEiFKajgVKhY1d1JK.jpg" group-title="Filmes | Religioso",Papa Francisco: Um Homem de Palavra (2018)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paulo de Tarso e A História do Cristianismo Primitivo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rO7r7zgi5NU6I0pXf4jCSPRvHyU.jpg" group-title="Filmes | Religioso",Paulo de Tarso e A História do Cristianismo Primitivo (2019)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paulo, Apóstolo de Cristo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6J8IDXJlURmOwX3KnfYitSr7QbR.jpg" group-title="Filmes | Religioso", Apóstolo de Cristo (2018)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pedro: A Redenção (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gW6hVcJAI4mCYvGhERDBK4PHsjn.jpg" group-title="Filmes | Religioso",Pedro: A Redenção (2016)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quarto de Guerra (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyssvvCXc13c9VC7QTWjRo12FyE.jpg" group-title="Filmes | Religioso",Quarto de Guerra (2015)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ressurreição (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHykQiDim870HTXSfi9pGBO2icr.jpg" group-title="Filmes | Religioso",Ressurreição (2019)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5560.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Salvador (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUuscY0JN6BZAFnigiTUoViDY8l.jpg" group-title="Filmes | Religioso",Salvador (2006)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sansão (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8FCkStF9Cy3o5TtV4jBAZqA2qYF.jpg" group-title="Filmes | Religioso",Sansão (2018)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5561.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Coração que Perdoa (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhI4MXtpwLv50KDrZ3PETikw2rV.jpg" group-title="Filmes | Religioso",Um Coração que Perdoa (2016)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Batalha de Fé (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tjffZ7ZK4TwUaFdqjfl7qQor1uZ.jpg" group-title="Filmes | Religioso",Uma Batalha de Fé (2019)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5562.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Jornada de Perdão (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WLBQK10hcRXNn37cbhPXSVAVEK.jpg" group-title="Filmes | Religioso",Uma Jornada de Perdão (2018)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5563.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Lição de Vida (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jstfYxEYMFfSO6tQaYL6O0AMUol.jpg" group-title="Filmes | Religioso",Uma Lição de Vida (2010)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Prova de Fé 2: Voltando para Casa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qk96ZgDlnshnyh4p5nBCSGiXvZ8.jpg" group-title="Filmes | Religioso",Uma Prova de Fé 2: Voltando para Casa (2019)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5565.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Questão de Fé (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDSxFpUzaopUJn8O4LWO29Dii5f.jpg" group-title="Filmes | Religioso",Uma Questão de Fé (2017)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Você Acredita? (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FZ5f4lLgRzojgEqv3MIlTh7QhW.jpg" group-title="Filmes | Religioso",Você Acredita? (2015)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="À Espera de um Milagre (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14hEqW67IiHlKpzKMLUXyktzZIV.jpg" group-title="Filmes | Religioso",À Espera de um Milagre (1999)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="À Prova de Fogo (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fX1n097j6l7Y47jtph8Z4SwJkbR.jpg" group-title="Filmes | Religioso",À Prova de Fogo (2008)
+http://15110166167.com:80/movie/98561952/Q681P8324z/5493.mp4
