@@ -1,8 +1,33 @@
-#EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://www.imgu.top/logos/DISCOVERY%20CHANNE.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL com m3u8
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://dns.webdosdeuses.top:80/30303030/30303030/342.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://www.imgu.top/logos/DISCOVERY%20CHANNE.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL com ts
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://dns.webdosdeuses.top:80/30303030/30303030/342
-#EXTINF:-1 tvg-id="BAND HD" tvg-name="Band SP HD²" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band SP HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/35364
+#EXTM3U 
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Sao Paulo  HD²" tvg-logo="https://fivetv.xyz/logos/record.png" group-title="RECORD TV",Record TV Sao Paulo  HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/35389
+#EXTINF:-1 tvg-id="BAND HD" tvg-name="Band SP HD" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/6640
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="https://fivetv.xyz/logos/hbo.png" group-title="HBO",HBO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/6555
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT São Paulo HD²" tvg-logo="https://fivetv.xyz/logos/sbt.png" group-title="SBT",SBT São Paulo HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/10696
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="Telecine Action HD" tvg-logo="http://fivetv.xyz/logos/telecineaction.png" group-title="TELECINE",Telecine Action HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/6471
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="Telecine Cult HD" tvg-logo="http://fivetv.xyz/logos/telecinecult.png" group-title="TELECINE",Telecine Cult HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/6469
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="Telecine Fun HD" tvg-logo="http://fivetv.xyz/logos/telecinefun.png" group-title="TELECINE",Telecine Fun HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/6467
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="Telecine Pipoca HD" tvg-logo="http://fivetv.xyz/logos/telecinepipoca.png" group-title="TELECINE",Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/6465
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="Telecine Premium HD" tvg-logo="http://fivetv.xyz/logos/telecinepremium.png" group-title="TELECINE",Telecine Premium HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/6463
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="Telecine Touch HD" tvg-logo="http://fivetv.xyz/logos/telecinetouch.png" group-title="TELECINE",Telecine Touch HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/6461
+#EXTINF:-1 tvg-id="REDE TV" tvg-name="Rede TV HD²" tvg-logo="https://fivetv.xyz/logos/redetv.png" group-title="ABERTOS",Rede TV HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/6497
+#EXTINF:-1 tvg-id="DISCOVERY HD" tvg-name="Discovery Channel HD" tvg-logo="https://fivetv.xyz/logos/discoverychannel.png" group-title="DISCOVERY",Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/6620
+#EXTINF:-1 tvg-id="DISCOVERY HD" tvg-name="Discovery H&H HD" tvg-logo="https://fivetv.xyz/logos/discoveryh&h.png" group-title="DISCOVERY",Discovery H&H HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/6616
+#EXTINF:-1 tvg-id="DISCOVERY HD" tvg-name="Discovery Science HD" tvg-logo="https://fivetv.xyz/logos/discoveryscience.png" group-title="DISCOVERY",Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/6612
+#EXTINF:-1 tvg-id="History2.br" tvg-name="H2 HD" tvg-logo="https://fivetv.xyz/logos/h2.png" group-title="DOCUMENTARIOS",H2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/6561
+#EXTINF:-1 tvg-id="Hgtv.br" tvg-name="HGTV HD²" tvg-logo="https://abrela.me/hgtv" group-title="DOCUMENTARIOS",HGTV HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/6868
