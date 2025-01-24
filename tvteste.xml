@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://www.imgu.top/logos/DISCOVERY%20CHANNE.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL com m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://dns.webdosdeuses.top:80/30303030/30303030/342.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://www.imgu.top/logos/DISCOVERY%20CHANNE.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL com ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://dns.webdosdeuses.top:80/30303030/30303030/342
+#EXTINF:-1 tvg-id="BAND HD" tvg-name="Band SP HD²" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band SP HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://ust.lat:80/wollve9887/dpr270548/35364
