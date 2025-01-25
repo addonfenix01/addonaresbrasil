@@ -43,7 +43,7 @@
 </channel>
   
 <channel>  
-<name>[COLOR orange] SÉRIES 24Horas - Teste [/COLOR] Diversas </name>
+<name>[COLOR orange] SÉRIES 24HRS - Teste [/COLOR] Diversas </name>
 <thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
 <fanart>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
@@ -51,11 +51,11 @@
 </channel>
 
 <channel>  
-<name>[COLOR red] SÉRIE Ash Vs EvilDead [/COLOR] Terror Trash </name>
+<name>[COLOR red] SÉRIE ASH VS EVILDEAD [/COLOR] Terror Trash </name>
 <thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
 <fanart>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/serieterrortrash.xml</externallink>
 </channel>
   
 <channel>  
