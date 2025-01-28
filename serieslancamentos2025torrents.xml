@@ -10,50 +10,8 @@
 <fanart>https://archive.org/download/afecafae-63d0-4eac-a364-6d9588dfec18/afecafae-63d0-4eac-a364-6d9588dfec18.jpg</fanart>
 <info>[COLOR Yellow]==== Aviso - Atualização dos Conteúdos, Agora Com Trailers.[COLOR yellow] ===== [/COLOR]</info>
 </item>
-  
 
 
-<item>
-<title>Fight Night - The Million Dollar Heist - 1ª Temporada - (2025)</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f17cf9c5fe9c194e6b861c973b6bb12e9c4f234</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ucxvu9kRykTd23m1omktBJZG2Q1.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/hkE23IwikvgzWGwHFMZ4YtYImmm.jpg</fanart>
-<info>Após seu retorno ao boxe depois de se esquivar do recrutamento, Ali vence Jerry Quarry. Mais tarde naquela noite, centenas de pessoas são roubadas em sua festa após a luta em um grande assalto à mão armada.</info>
-</item> 
-
-<item>
-<title>SAKAMOTO DAYS - Temporada 01 (2025)[COLOR red] +14 [/COLOR]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/ePLgYbWyr4cYl7o$nome=[COLOR orange]Série - SAKAMOTO DAYS Temp. 01 Ep. 01 (2025)[/COLOR]</link>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/wxVR3O01daUJkvp$nome=[COLOR orange]Série - SAKAMOTO DAYS Temp. 01 Ep. 02 (2025)[/COLOR]</link>
-<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.ps/f/owxn7gxpuqm6jg$nome=[COLOR orange]Série - SAKAMOTO DAYS Temp. 01 Ep. 03 (2025)[/COLOR]</link>
-<thumbnail>https://image.tmdb.org/t/p/original/nssV1RhC66B6XKnvF3Tzxj40fcX.jpg</thumbnail>
-<genre> Animação, Comédia, Action & Adventure </genre>
-<fanart>https://image.tmdb.org/t/p/original/2fDyc8CZcpqw12CbA35rGkuLw2s.jpg</fanart>
-<info>Taro Sakamoto já foi o maior assassino de aluguel de todos os tempos, mas largou tudo por amor. Agora, com o passado à espreita, ele vai ter que lutar como nunca.</info>
-</item>
-
-<item>
-<title>Hysteria! - (2025)[COLOR red] +18 [/COLOR]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/zQoOK13x0rcYPpk$nome=[COLOR orange]Série Hysteria! - Temp.01 Ep.01 (2025) (2025)[/COLOR]</link>
-<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.ps/f/l78w6gjofljv1x$nome=[COLOR orange]Série Hysteria! - Temp.01 Ep.02 (2025) (2025)[/COLOR]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=E2yv6LYktKc$nome=[COLOR green]Trailer - Série - Hysteria! (2025)[/COLOR]</link>
-<thumbnail>https://image.tmdb.org/t/p/original/rG3mGUouuSACs2KLdJWjEHpuG8L.jpg</thumbnail>
-<genre>Mistério, Drama, Fantasia</genre>
-<fanart>https://image.tmdb.org/t/p/original/jAjMzXnwJU69fYjDjTmLbFhigQ7.jpg</fanart>
-<info>Acompanha uma banda de heavy metal de uma escola secundária com dificuldades, formada por párias que usam o súbito interesse da cidade pelo ocultismo para criar uma reputação de banda de metal satânica.</info>
-</item>
-
-<item>
-<title>The Pitt - Temporada 01 (2025)[COLOR red] +14 [/COLOR]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/Lajb9KmGOLTRrvo$nome=[COLOR orange]Série - The Pitt Temp.01 Ep. 01 (2025)[/COLOR]</link>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/Kzj07AKBbpuzKb$nome=[COLOR green]Série - The Pitt Temp. 01 Ep. 02 (2025)[/COLOR]</link>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/DG0kzLljAJfkeb4$nome=[COLOR green]Série - The Pitt Temp. 01 Ep. 03 (2025)[/COLOR]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=Cu2U2dwa5no$nome=[COLOR green]Trailer - Série - The Pitt (2025)[/COLOR]</link>
-<thumbnail>https://image.tmdb.org/t/p/original/6fMGktEDXMZZPACJ5cWkVQ6TSte.jpg</thumbnail>
-<genre>Drama</genre>
-<fanart>https://image.tmdb.org/t/p/original/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg</fanart>
-<info>A equipe do Centro Médico de Emergência de Pittsburgh trabalha para salvar vidas em um departamento de emergência superlotado e carente de recursos.</info>
-</item>
   
 <item>
 <title>A Colina dos Cães - Temporada 01 (2025)[COLOR red] +16 [/COLOR]</title>
@@ -127,6 +85,14 @@
 <fanart>https://image.tmdb.org/t/p/original/yBLSFKIFYGmTF8gOszrxcGKkwxq.jpg</fanart>
 <info>No fatídico rescaldo de uma manifestação, as tensões aumentam entre os membros de uma unidade de choque que se esforçam por separar a vida profissional da vida pessoal.</info>
 </item>
+
+<item>
+<title>Fight Night - The Million Dollar Heist - 1ª Temporada - (2025)</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f17cf9c5fe9c194e6b861c973b6bb12e9c4f234</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ucxvu9kRykTd23m1omktBJZG2Q1.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hkE23IwikvgzWGwHFMZ4YtYImmm.jpg</fanart>
+<info>Após seu retorno ao boxe depois de se esquivar do recrutamento, Ali vence Jerry Quarry. Mais tarde naquela noite, centenas de pessoas são roubadas em sua festa após a luta em um grande assalto à mão armada.</info>
+</item> 
   
 <item>
 <title>Harley Quinn 5ª Temporada  - (2025)[COLOR red] +16/45m [/COLOR]</title>
@@ -136,6 +102,17 @@
 <genre>Comédia, Ação, Drama, Fantasia, Animação</genre>
 <fanart>https://image.tmdb.org/t/p/original/1pWQcByMc0OwoIbw9U2W0zbqxLb.jpg</fanart>
 <info>Depois de tantas idas e vindas, Harley Quinn finalmente termina seu relacionamento com o Coringa. Agora, ela tenta trilhar seu próprio caminho no mundo do crime de Gotham City: quer se tornar membro da Legião da Perdição. Para isso, ela vai receber a ajuda de outros vilões da cidade.</info>
+</item>
+
+<item>
+<title>Hysteria! - (2025)[COLOR red] +18 [/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/zQoOK13x0rcYPpk$nome=[COLOR orange]Série Hysteria! - Temp.01 Ep.01 (2025) (2025)[/COLOR]</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.ps/f/l78w6gjofljv1x$nome=[COLOR orange]Série Hysteria! - Temp.01 Ep.02 (2025) (2025)[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=E2yv6LYktKc$nome=[COLOR green]Trailer - Série - Hysteria! (2025)[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/original/rG3mGUouuSACs2KLdJWjEHpuG8L.jpg</thumbnail>
+<genre>Mistério, Drama, Fantasia</genre>
+<fanart>https://image.tmdb.org/t/p/original/jAjMzXnwJU69fYjDjTmLbFhigQ7.jpg</fanart>
+<info>Acompanha uma banda de heavy metal de uma escola secundária com dificuldades, formada por párias que usam o súbito interesse da cidade pelo ocultismo para criar uma reputação de banda de metal satânica.</info>
 </item>
   
 <item>
@@ -164,6 +141,15 @@
 </item>
 
 <item>
+<title>Paradise - (2025)[COLOR red] +16 [/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/jvkP973YY6hzVKO$nome=[COLOR orange]Série - Paradise - Temp.01 Ep.01 (2025)[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/original/m4Rcp33FyrXPyZ2dJ2gmzdsACdw.jpg</thumbnail>
+<genre>Crime, Drama</genre>
+<fanart>https://image.tmdb.org/t/p/original/qV2REPQ7pPlmQT7Mljkca0wi4Bx.jpg</fanart>
+<info>"Paradise" se passa em uma comunidade idílica habitada por alguns dos indivíduos mais proeminentes do mundo. Mas um assassinato chocante acaba com essa tranquilidade, desencadeando uma investigação de alto risco.</info>
+</item>
+  
+<item>
 <title>Que Falta Você Me Faz - 1ª Temporada - (2025)[COLOR orange] +16 [/COLOR]</title>
 <link>magnet:?xt=urn:btih:fd3ab8f79107336624e04de05fce82d3bfadf1f9$nome=[COLOR orange]Série - Que Falta Você Me Faz - 1ª Temporada (2025)[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=DQbNXgk9-Fo$nome=[COLOR blue]Trailer - Série - Que Falta Você Me Faz - 1ª Temporada (2025)[/COLOR]</link>
@@ -180,6 +166,17 @@
 <genre>Ação, Drama, Mistério</genre>
 <fanart>https://image.tmdb.org/t/p/original/8MtMFngDWvIdRo34rz3ao0BGBAe.jpg</fanart>
 <info>Mark lidera uma equipa de funcionários de escritório cujas memórias foram cirurgicamente divididas entre os seus empregos e as suas vidas pessoais. Quando um misterioso colega aparece fora do trabalho, inicia uma jornada para descobrir a verdade sobre os seus empregos.</info>
+</item>
+
+<item>
+<title>SAKAMOTO DAYS - Temporada 01 (2025)[COLOR red] +14 [/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/ePLgYbWyr4cYl7o$nome=[COLOR orange]Série - SAKAMOTO DAYS Temp. 01 Ep. 01 (2025)[/COLOR]</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/wxVR3O01daUJkvp$nome=[COLOR orange]Série - SAKAMOTO DAYS Temp. 01 Ep. 02 (2025)[/COLOR]</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.ps/f/owxn7gxpuqm6jg$nome=[COLOR orange]Série - SAKAMOTO DAYS Temp. 01 Ep. 03 (2025)[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/original/nssV1RhC66B6XKnvF3Tzxj40fcX.jpg</thumbnail>
+<genre> Animação, Comédia, Action & Adventure </genre>
+<fanart>https://image.tmdb.org/t/p/original/2fDyc8CZcpqw12CbA35rGkuLw2s.jpg</fanart>
+<info>Taro Sakamoto já foi o maior assassino de aluguel de todos os tempos, mas largou tudo por amor. Agora, com o passado à espreita, ele vai ter que lutar como nunca.</info>
 </item>
   
 <item>
@@ -225,6 +222,18 @@
 <info>Fugindo do passado, mãe e filho formam uma nova família em meio à crueldade e à luta pela liberdade no oeste dos Estados Unidos.</info>
 </item>
 
-  
+<item>
+<title>The Pitt - Temporada 01 (2025)[COLOR red] +14 [/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/Lajb9KmGOLTRrvo$nome=[COLOR orange]Série - The Pitt Temp.01 Ep. 01 (2025)[/COLOR]</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/Kzj07AKBbpuzKb$nome=[COLOR green]Série - The Pitt Temp. 01 Ep. 02 (2025)[/COLOR]</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/DG0kzLljAJfkeb4$nome=[COLOR green]Série - The Pitt Temp. 01 Ep. 03 (2025)[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=Cu2U2dwa5no$nome=[COLOR green]Trailer - Série - The Pitt (2025)[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/original/6fMGktEDXMZZPACJ5cWkVQ6TSte.jpg</thumbnail>
+<genre>Drama</genre>
+<fanart>https://image.tmdb.org/t/p/original/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg</fanart>
+<info>A equipe do Centro Médico de Emergência de Pittsburgh trabalha para salvar vidas em um departamento de emergência superlotado e carente de recursos.</info>
+</item>
+
+
 
 </items>
