@@ -1,33 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
-	<title>FLIXBOX</title>
-	<trackList>
-		<track>
-			<location>https://cdnst25.tokyvideo.com/videos/653/653812/mp4/8f1274421d1211112530c67921d08f0a0354e81e1aa49c16bfdbf58de5739766.mp4?secure=e5hFA6VWhfxTx2QBKsYE-Q%3D%3D%2C1739214256</location>
-			<title>Jackpot: Loteria Mortal! (2024)</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>0</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://cdnst23.tokyvideo.com/videos/314/314155/mp4/e1d9fb204d5e8b1c2abf3023db9a194278feae22694b6804d61e6517f5cd1dc6.mp4?secure=1dgYrRcmwmDBOXFDG1FENg%3D%3D%2C1739213778</location>
-			<title>Minha Culpa (2023)</title>
-			<duration>7056883</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://cdnst33.tokyvideo.com/videos/354/354523/mp4/311f358c945176db95dafc0ab36725db514cc2e682138f802c9d7686c456ea67.mp4?secure=C_pOMiGnk-sSVlSrWebnFw%3D%3D%2C1739213899</location>
-			<title>Velozes &amp; Furiosos 10 (2023)</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>2</vlc:id>
-			</extension>
-		</track>
-	</trackList>
-	<extension application="http://www.videolan.org/vlc/playlist/0">
-		<vlc:item tid="0"/>
-		<vlc:item tid="1"/>
-		<vlc:item tid="2"/>
-	</extension>
-</playlist>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+
+
+
+
+
+
+</items>
