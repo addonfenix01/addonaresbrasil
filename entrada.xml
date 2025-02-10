@@ -307,13 +307,21 @@
 </channel> 
 
 <channel>
+<name>[COLOR red]Desenhos Dc 24Hrs - Teste[/COLOR] [COLOR orange]Diversos [/COLOR]</name>
+<thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
+<fanart>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
+<externallink>https://github.com/addonfenix01/addonaresbrasil/blob/main/dc24hrs.xml</externallink>
+</channel> 
+  
+<channel>
 <name>[COLOR red] FilmesFlix[/COLOR] [COLOR orange] TESTE [/COLOR]</name>
 <thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
 <fanart>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmesflix.xml</externallink>
-</channel>  
-
+</channel>
+  
 
   
 </channels>
