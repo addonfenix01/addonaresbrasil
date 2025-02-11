@@ -1,7 +1,7 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-name="Crocodilo Dundee 2 (1988)" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://image.tmdb.org/t/p/w600_and_h900_bestv2/oNzcq9OKRWh0liX1oIUbpaJQ2PK.jpg" group-title=" FILMES | COLETÂNEA CRODILO DUNDEE",Crocodilo Dundee 2 (1988)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://contentsdeliver.link:8080/movie/mousasticoshvily/mrtv15xx/172507.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Crocodilo Dundee (1986)" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://image.tmdb.org/t/p/w600_and_h900_bestv2/yXodDzwiVvHjTWU7HUbJXV9pqS9.jpg" group-title=" FILMES | COLETÂNEA CRODILO DUNDEE",Crocodilo Dundee (1986)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://contentsdeliver.link:8080/movie/mousasticoshvily/mrtv15xx/172506.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Crocodilo Dundee em Hollywood (2001)" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://image.tmdb.org/t/p/w600_and_h900_bestv2/kVHEBDbyqwBVEr3XanPrZBI3a8.jpg" group-title=" FILMES | COLETÂNEA CRODILO DUNDEE",Crocodilo Dundee em Hollywood (2001)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://contentsdeliver.link:8080/movie/mousasticoshvily/mrtv15xx/172508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crocodilo Dundee 2 (1988)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oNzcq9OKRWh0liX1oIUbpaJQ2PK.jpg" group-title=" FILMES | COLETÂNEA CRODILO DUNDEE",Crocodilo Dundee 2 (1988)
+http://contentsdeliver.link:8080/movie/mousasticoshvily/mrtv15xx/172507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crocodilo Dundee (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yXodDzwiVvHjTWU7HUbJXV9pqS9.jpg" group-title=" FILMES | COLETÂNEA CRODILO DUNDEE",Crocodilo Dundee (1986)
+http://contentsdeliver.link:8080/movie/mousasticoshvily/mrtv15xx/172506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crocodilo Dundee em Hollywood (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kVHEBDbyqwBVEr3XanPrZBI3a8.jpg" group-title=" FILMES | COLETÂNEA CRODILO DUNDEE",Crocodilo Dundee em Hollywood (2001)
+http://contentsdeliver.link:8080/movie/mousasticoshvily/mrtv15xx/172508.mp4
