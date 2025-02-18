@@ -2,7 +2,7 @@
 <items>
 
 <item>
-<title>[COLOR orange]======== [COLOR yellow]SEJAM BEM VINDOS AO ADDON ARES - FILMES LANÇAMENTOS 2025[/COLOR] [COLOR orange] ========= [/COLOR]</title>
+<title>[COLOR blue]======== [COLOR green]SEJAM BEM VINDOS AO ADDON ARES - FILMES LANÇAMENTOS 2025[/COLOR] [COLOR blue] ========= [/COLOR]</title>
 <link></link>
 <link></link>
 <thumbnail>https://archive.org/download/afecafae-63d0-4eac-a364-6d9588dfec18/afecafae-63d0-4eac-a364-6d9588dfec18.jpg</thumbnail>
@@ -13,7 +13,15 @@
 
 
 
- <item>
+<item>
+<title>Luigi Mangione: O Assassino do CEO - (2025)</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:607e419c175efbe41de2f3cd1615726adea9ee30</link>
+<thumbnail>https://image.tmdb.org/t/p/original/hhndjUdo9wblPlcu1pjwu6rrCjH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8HBfkTtnZS8gEK5jSgYZHBFyhlY.jpg</fanart>
+<info>Com o surgimento de novos detalhes sobre o homicídio do CEO da United Healthcare, Brian Thompson, este documentário investiga o que levou Luigi Mangione, um jovem de 26 anos rico e privilegiado, a cometer um crime tão brutal.</info>
+</item> 
+
+<item>
 <title>Capitão América: Admirável Mundo Novo - (2025)</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88D2933D573C073504E903B181CE0DDF90BA84C7</link>
 <thumbnail>https://image.tmdb.org/t/p/original/h4qan1qdm9bj9Ayu6NYaBvpQ6zS.jpg</thumbnail>
