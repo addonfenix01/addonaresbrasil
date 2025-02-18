@@ -393,14 +393,23 @@
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/coletaneanjosdanoite.xml</externallink>
 </channel>
+
+<channel>
+<name>[COLOR red]Pegadinhas 24Hrs[/COLOR] [COLOR orange]Teste[/COLOR]</name>
+<thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
+<fanart>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/pegadinhas24hrs.xml</externallink>
+</channel>
   
 <channel>
-<name>[COLOR green]AresVip/4Hrs de Teste preçinho q cabe no seu bolso, Ajuda a manter o addon sempre com conteudo atualizado.[/COLOR] [COLOR orange]Peça seu Teste sem compromisso, e veja a diferença na instabilidade do app.[/COLOR]</name>
+<name>[COLOR yellow]AresVip/4Hrs de Teste preçinho q cabe no seu bolso, Ajuda a manter o addon sempre com conteudo atualizado.[/COLOR] [COLOR green]Peça seu Teste sem compromisso, e veja a diferença na instabilidade do app.[/COLOR]</name>
 <thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
 <fanart>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/tvvip.xml</externallink>
 </channel> 
-  
+
+
   
 </channels>
