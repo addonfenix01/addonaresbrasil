@@ -411,9 +411,9 @@
 </channel> 
 
 <channel>
-<name>[COLOR red]Conteúdo Adulto +18[/COLOR]</name>
-<thumbnail>https://archive.org/download/fanart_20250219/Fanart.jpg</thumbnail>
-<fanart>https://archive.org/download/fanart_20250219/Fanart.jpg</fanart>
+<name>[COLOR red]Conteúdo Adulto[/COLOR][COLOR orange]+18[/COLOR]</name>
+<thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093_202502/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
+<fanart>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093_202502/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Para aparecer os conteudos ative a opcao na configuracao Bem vindo ao addon Ares+18[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/Adultos.xml</externallink>
 </channel>
