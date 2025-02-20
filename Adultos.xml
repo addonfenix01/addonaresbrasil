@@ -54,7 +54,15 @@
 </channel>
 
 <channel>
-<name>[COLOR red]===[/COLOR] [COLOR blue]Filmes +18 - Trans.[COLOR red]===[/COLOR]</name>
+<name>[COLOR red]===[/COLOR] [COLOR blue]Filmes +18 - OnlyfansePrivacy.[COLOR yellow]===[/COLOR]</name>
+<thumbnail>https://archive.org/download/fanart_20250219/Fanart.jpg</thumbnail>
+<fanart>https://archive.org/download/fanart_20250219/Fanart.jpg</fanart>
+<info>[COLOR red] Sejam Bem vindos ao ADDON THE ARES ADULTOS [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/conteudo%20adulto/onlyfanseprivacy.xml</externallink>
+</channel>
+    
+<channel>
+<name>[COLOR yellow]===[/COLOR] [COLOR blue]Filmes +18 - Trans.[COLOR red]===[/COLOR]</name>
 <thumbnail>https://archive.org/download/fanart_20250219/Fanart.jpg</thumbnail>
 <fanart>https://archive.org/download/fanart_20250219/Fanart.jpg</fanart>
 <info>[COLOR red] Sejam Bem vindos ao ADDON THE ARES ADULTOS [/COLOR]</info>
