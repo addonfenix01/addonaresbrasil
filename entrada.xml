@@ -427,6 +427,14 @@
 </channel> 
 
 <channel>
+<name>[COLOR Blue]Pix Qrcode. Ajuda a manter o addon sempre com conteudo atualizado.[/COLOR] [COLOR green]Obrigado a quem contribuiu[/COLOR]</name>
+<thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
+<fanart>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/pixqrcodeaddonares.xml</externallink>
+</channel>
+
+<channel>
 <name>[COLOR red]Conteúdo Adulto - Teste[/COLOR][COLOR orange]+18[/COLOR]</name>
 <thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093_202502/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
 <fanart>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093_202502/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</fanart>
