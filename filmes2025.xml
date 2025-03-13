@@ -2,7 +2,7 @@
 <items>
 
 <item>
-<title>[COLOR blue]=== [COLOR green]SEJAM BEM VINDOS AO ADDON ARES - FILMES LANÇAMENTOS 2025[/COLOR] [COLOR blue] === [/COLOR]</title>
+<title>[COLOR blue]=== [COLOR green]SEJAM BEM VINDOS AO ADDON ARES - FILMES LANÇAMENTOS 2025, Para utilizar o Trailer precisa ter uma Api do Yooutube, Grupo Kodish tem video ensinando.[/COLOR] [COLOR blue] === [/COLOR]</title>
 <link></link>
 <link></link>
 <thumbnail>https://archive.org/download/afecafae-63d0-4eac-a364-6d9588dfec18/afecafae-63d0-4eac-a364-6d9588dfec18.jpg</thumbnail>
@@ -12,6 +12,16 @@
 </item>
 
 
+<item>
+<title>Um Terror de Parentes (2025)</title>
+<link>$nome=[B]Filme - Um Terror de Parentes (2025)[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=t5htYatyvZo$nome=[B]Trailer - Um Terror de Parentes (2025) [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ipbnmf3H0ELiBEGZdrcL2Wth4Lr.jpg</thumbnail>
+<genre>Terror, Comédia</genre>
+<fanart>https://image.tmdb.org/t/p/original/h4peDpoepEmErFwBeoIE4yZ1pvJ.jpg</fanart>
+<info>Um casal gay aluga uma casa rural para passar o fim de semana com seus pais, mas descobre que ela já é habitada por uma entidade antiga.</info>
+</item>
+ 
 <item>
 <title>Moana 2 (2025)</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04251bec1182aae17d885b85c6fa862f53286d71</link>
