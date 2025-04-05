@@ -1,22 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
 <item>
-<title>Bonus Trip - LEG (2025)</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F5AC77BD0A1695C5B67668E47BB89E02BA1D26AC</link>
-<thumbnail>https://image.tmdb.org/t/p/original/a7GBcq3ZvjvD0pDhT7aD8QeN6ia.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/jzL5UY4I7axSKDwUM9Wbf4tSC42.jpg</fanart>
-<info>Dois agentes do FBI desafiam ordens enquanto investigam um caso. Eles se unem a um tradutor para resgatar seu pai e expor uma conspiração global. Ao longo do caminho, eles enfrentam situações engraçadas, reviravoltas inesperadas e perigos com risco de vida</info>
+    <title>[B][COLOR white]O Pranto do Mal[/COLOR][/B] [COLOR red](Nota: 6.8)[/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45d41f8a8d435442f65834980217eb1861a09d19</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=oWlPLwidRa4&name=[COLOR red]Trailer - O Pranto do Mal (2024)[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/bsvqCSfQ4tYaHerrgrAFdECD1nj.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/lukFdM9peOxJ3qyPPXDQWlOp7Ri.jpg</fanart>
+    <info>
+        [COLOR red]Título Original:[/COLOR] O Pranto do Mal  
+        [COLOR orange]Dirigido por:[/COLOR] Diretor Desconhecido  
+        [COLOR red]Ano:[/COLOR] 2024  
+        [COLOR orange]Duração:[/COLOR] --  
+        [COLOR red]Nota:[/COLOR] 6.8  
+        [COLOR orange]Gênero:[/COLOR] Terror, Suspense  
+        [COLOR red]Áudio:[/COLOR] Português  
+        [COLOR orange]Qualidade do Vídeo:[/COLOR] 1080p WEBRip  
+        [COLOR red]Elenco:[/COLOR] Atriz Principal, Ator Secundário, Nome do Terceiro Ator  
+        [COLOR orange]Sinopse:[/COLOR] Andrea, em busca de sua família biológica, sente-se perseguida por uma ameaça invisível. Outras mulheres antes dela sofreram o mesmo destino. Vinte anos antes, do outro lado do mundo, Camille, fascinada por Marie, tenta alertá-la sobre um perigo iminente.
+    </info>
 </item>
 
 <item>
-<title>Alien - Rubicon - LEG (2025)</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail>https://image.tmdb.org/t/p/original/zFH6wa8uVU7dKkval9QzMX8nSAb.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/jK7zsP0wdInLAGQbcBaMkVRsYfV.jpg</fanart>
-<info>Uma espaçonave alienígena pousa perto de Nova York e destrói tudo enquanto se dirige para Washington DC. Se chegar à capital, desencadeará uma invasão. Os cientistas e os militares devem pará-lo antes que seja tarde demais.</info>
+    <title>[COLOR white]Sonic 3: O Filme[/COLOR] [COLOR yellow](Nota: 7,1)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:72B1E0970A99F4053A010AD66D86A136E3C66547$nome=[COLOR yellow] Sonic 3: O Filme [/COLOR]</link>
+    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1stAdBH5tTNBc7J69T3kPcJEAmEY1ACGI/view?usp=drivesdk?usp=drivesdk[COLOR yellow] Trailer - Sonic 3 [/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/puEXlbHY7OV6rlIgkxg4ILvN0YD.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/crSL7DkgwyLIaRRIb7xM2ejZbca.jpg</fanart>
+    <info>
+        [COLOR yellow]Título Original:[/COLOR] Sonic the Hedgehog 3  
+        [COLOR yellow]Dirigido por:[/COLOR] Jeff Fowler  
+        [COLOR yellow]Ano:[/COLOR] 2024  
+        [COLOR yellow]Duração:[/COLOR] N/A  
+        [COLOR yellow]Nota:[/COLOR] N/A  
+        [COLOR yellow]Gênero:[/COLOR] Animação, Aventura, Comédia  
+        [COLOR yellow]Áudio:[/COLOR] Português / Inglês  
+        [COLOR yellow]Qualidade do Vídeo:[/COLOR] 1080p WEB-DL  
+        [COLOR yellow]Sinopse:[/COLOR] Continuação das aventuras de Sonic e seus amigos, enfrentando novos desafios e vilões icônicos do universo do jogo.
+    </info>
 </item>
 
+
+  
   
 </items>
