@@ -2,7 +2,7 @@
 <items>
 
 <item>
-<title>[COLOR red]=== [COLOR orange]Sejam Bem Vindos Ao Addon Ares/BR/RS/R.O, Filmes 2025, entre outros classicos do cinema, trailers quando possivel.[/COLOR] [COLOR red] === [/COLOR]</title>
+<title>[COLOR red]=== [COLOR orange]Sejam Bem Vindos Ao Addon Ares/BR/RS/R.O, Filmes 2025.[/COLOR] [COLOR red] === [/COLOR]</title>
 <link></link>
 <link></link>
 <thumbnail>https://archive.org/download/afecafae-63d0-4eac-a364-6d9588dfec18/afecafae-63d0-4eac-a364-6d9588dfec18.jpg</thumbnail>
@@ -13,6 +13,16 @@
 
 
 
+
+<item>
+<title>[COLOR pink] New [/COLOR]Um Filme Minecraft - (2025)[COLOR orange] +12 [/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/l7vgdJlpqoi7Xle$nome=[COLOR red]Filme - Um Filme Minecraft (2025)[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=3IVPHxs4NoM$nome=[COLOR yellow]Trailer -  (2025)[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7XntiDlscVbjLB446LhHIRXzNee.jpg</thumbnail>
+<genre>Ação, Comédia, Família, Ficção científica</genre>
+<fanart>https://image.tmdb.org/t/p/original/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg</fanart>
+<info>Quatro desajustados enfrentam problemas comuns do dia a dia quando, de repente, são sugados por um portal misterioso para o Overworld: uma terra fascinante e cúbica, movida pela imaginação. Para voltarem para casa, eles precisarão dominar esse novo mundo enquanto embarcam em uma jornada mágica ao lado de um crafter experiente e inesperado: Steve.</info>
+</item>
 
 <item>
 <title>Bonus Trip - LEG (2025)</title>
@@ -69,16 +79,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/sBpQL1j7D6eLhK8HQXEYIUzWwqP.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/dTvcVnOPxhOWxkrgTjeZ7UncyZy.jpg</fanart>
 <info>Elliot, funcionário de uma empresa farmacêutica, viaja com sua filha Ridley para uma reunião de emergência com seu chefe ultra-rico. Ao longo do caminho, eles acidentalmente atingem um unicórnio, e logo descobrem que o sangue, o corpo e o chifre do animal têm propriedades milagrosamente restaurativas.</info>
-</item>
-
-<item>
-<title>[COLOR pink] Breve [/COLOR] - Trailer On - Um Filme Minecraft - (2025)[COLOR orange] +12 [/COLOR]</title>
-<link>$nome=[COLOR red]Filme - Breve - Um Filme Minecraft (2025)[/COLOR]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=3IVPHxs4NoM$nome=[COLOR yellow]Trailer -  (2025)[/COLOR]</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7XntiDlscVbjLB446LhHIRXzNee.jpg</thumbnail>
-<genre>Ação, Comédia, Família, Ficção científica</genre>
-<fanart>https://image.tmdb.org/t/p/original/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg</fanart>
-<info>Quatro desajustados enfrentam problemas comuns do dia a dia quando, de repente, são sugados por um portal misterioso para o Overworld: uma terra fascinante e cúbica, movida pela imaginação. Para voltarem para casa, eles precisarão dominar esse novo mundo enquanto embarcam em uma jornada mágica ao lado de um crafter experiente e inesperado: Steve.</info>
 </item>
 
 <item>
