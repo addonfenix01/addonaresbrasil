@@ -2,10 +2,10 @@
 <channels>
 
 <channel>
-<name>[B][COLOR yellow] LANÇAMENTOS[/COLOR][/B]</name>
+<name>[B][COLOR yellow] Canais Abertos[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
 <fanart>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/Canais%20ares/LAN%C3%87AMENTOS.xml</externallink>
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/canaisabertos.xml</externallink>
 </channel>
 
 </channels>
