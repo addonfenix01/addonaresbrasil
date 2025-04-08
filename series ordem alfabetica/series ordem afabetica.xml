@@ -1,11 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
+	<!-- opicional -->      
+
 
 <channel>
-<name>[B][COLOR red] SÉRIES LANÇAMENTOS[/COLOR] [COLOR orange]| LANÇAMENTOS LETRA A[/COLOR][/B]</name>
+<name></name>
 <thumbnail></thumbnail>
 <fanart></fanart>
+<info></info>
 <externallink></externallink>
 </channel>
-
+   
+   
+   
 </channels>
