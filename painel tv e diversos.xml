@@ -2,7 +2,7 @@
 <channels>
 
 <channel>
-<name>[COLOR red]Canais abertos[/COLOR]</name>
+<name>[B][COLOR orange]CANAIS[/COLOR] [COLOR pink]| ABERTOS[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
 <fanart>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</fanart>
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
@@ -10,7 +10,7 @@
 </channel>
 
 <channel>
-<name>[COLOR red]Tv globo regionais[/COLOR]</name>
+<name>[B][COLOR pink]TV GLOBO [/COLOR] [COLOR orange]| REGIONAIS[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
 <fanart>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</fanart>
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
@@ -18,7 +18,15 @@
 </channel>
 
 <channel>
-<name>[COLOR red]Tv online portugal[/COLOR]</name>
+<name>[B][COLOR orange]TV GLOBO [/COLOR] [COLOR pink]| REGIONAIS 2[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
+<fanart>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</fanart>
+<info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/Canais%20ares/canaisgloboregionais2.xml</externallink>
+</channel>
+  
+<channel>
+<name>[B][COLOR pink]TV ONLINE [/COLOR] [COLOR orange]| PORTUGAL[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
 <fanart>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</fanart>
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
