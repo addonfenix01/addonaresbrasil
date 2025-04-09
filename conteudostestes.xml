@@ -1,49 +1,59 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="BR - Telecine Action" tvg-name="TELECINE ACTION 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/Z682EPA.png" group-title="⚡REDE TELECINE",TELECINE ACTION 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://fontep1tech.space:80/790984248/022201884/369712
-#EXTINF:-1 tvg-id="BR - Telecine Action" tvg-name="TELECINE ACTION FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/Z682EPA.png" group-title="⚡REDE TELECINE",TELECINE ACTION FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://fontep1tech.space:80/790984248/022201884/812
-#EXTINF:-1 tvg-id="BR - Telecine Action" tvg-name="TELECINE ACTION HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/Z682EPA.png" group-title="⚡REDE TELECINE",TELECINE ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://fontep1tech.space:80/790984248/022201884/813
-#EXTINF:-1 tvg-id="BR - Telecine Action" tvg-name="TELECINE ACTION SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/Z682EPA.png" group-title="⚡REDE TELECINE",TELECINE ACTION SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://fontep1tech.space:80/790984248/022201884/814
-#EXTINF:-1 tvg-id="BR - Telecine Cult" tvg-name="TELECINE CULT 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/2m7eOQT.png" group-title="⚡REDE TELECINE",TELECINE CULT 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://fontep1tech.space:80/790984248/022201884/369713
-#EXTINF:-1 tvg-id="BR - Telecine Cult" tvg-name="TELECINE CULT FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/2m7eOQT.png" group-title="⚡REDE TELECINE",TELECINE CULT FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://fontep1tech.space:80/790984248/022201884/815
-#EXTINF:-1 tvg-id="BR - Telecine Cult" tvg-name="TELECINE CULT HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/2m7eOQT.png" group-title="⚡REDE TELECINE",TELECINE CULT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://fontep1tech.space:80/790984248/022201884/816
-#EXTINF:-1 tvg-id="BR - Telecine Cult" tvg-name="TELECINE CULT SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/2m7eOQT.png" group-title="⚡REDE TELECINE",TELECINE CULT SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://fontep1tech.space:80/790984248/022201884/817
-#EXTINF:-1 tvg-id="BR - Telecine Fun" tvg-name="TELECINE FUN 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/VcVVexq.png" group-title="⚡REDE TELECINE",TELECINE FUN 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://fontep1tech.space:80/790984248/022201884/369714
-#EXTINF:-1 tvg-id="BR - Telecine Fun" tvg-name="TELECINE FUN FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/VcVVexq.png" group-title="⚡REDE TELECINE",TELECINE FUN FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://fontep1tech.space:80/790984248/022201884/818
-#EXTINF:-1 tvg-id="BR - Telecine Fun" tvg-name="TELECINE FUN HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/VcVVexq.png" group-title="⚡REDE TELECINE",TELECINE FUN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://fontep1tech.space:80/790984248/022201884/819
-#EXTINF:-1 tvg-id="BR - Telecine Fun" tvg-name="TELECINE FUN SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/VcVVexq.png" group-title="⚡REDE TELECINE",TELECINE FUN SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://fontep1tech.space:80/790984248/022201884/820
-#EXTINF:-1 tvg-id="BR - Telecine Pipoca" tvg-name="TELECINE PIPOCA 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/Ay023x8.png" group-title="⚡REDE TELECINE",TELECINE PIPOCA 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://fontep1tech.space:80/790984248/022201884/369715
-#EXTINF:-1 tvg-id="BR - Telecine Pipoca" tvg-name="TELECINE PIPOCA FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/Ay023x8.png" group-title="⚡REDE TELECINE",TELECINE PIPOCA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://fontep1tech.space:80/790984248/022201884/821
-#EXTINF:-1 tvg-id="BR - Telecine Pipoca" tvg-name="TELECINE PIPOCA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/Ay023x8.png" group-title="⚡REDE TELECINE",TELECINE PIPOCA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://fontep1tech.space:80/790984248/022201884/822
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/Ay023x8.png" group-title="⚡REDE TELECINE",TELECINE PIPOCA SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://fontep1tech.space:80/790984248/022201884/823
-#EXTINF:-1 tvg-id="BR - Telecine Premium" tvg-name="TELECINE PREMIUM 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://xp2.wtf:80/images/720cc6bf290ee15526c498c2b7722ec2.png" group-title="⚡REDE TELECINE",TELECINE PREMIUM 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://fontep1tech.space:80/790984248/022201884/369716
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://xp2.wtf:80/images/720cc6bf290ee15526c498c2b7722ec2.png" group-title="⚡REDE TELECINE",TELECINE PREMIUM FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://fontep1tech.space:80/790984248/022201884/824
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://xp2.wtf:80/images/720cc6bf290ee15526c498c2b7722ec2.png" group-title="⚡REDE TELECINE",TELECINE PREMIUM HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://fontep1tech.space:80/790984248/022201884/827
-#EXTINF:-1 tvg-id="BR - Telecine Premium" tvg-name="TELECINE PREMIUM SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://xp2.wtf:80/images/720cc6bf290ee15526c498c2b7722ec2.png" group-title="⚡REDE TELECINE",TELECINE PREMIUM SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://fontep1tech.space:80/790984248/022201884/828
-#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://xp2.wtf:80/images/ec59d0fa63b3385af1697b45f4c33f8e.png" group-title="⚡REDE TELECINE",TELECINE TOUCH 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://fontep1tech.space:80/790984248/022201884/369717
-#EXTINF:-1 tvg-id="BR - Telecine Touch" tvg-name="TELECINE TOUCH FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://xp2.wtf:80/images/ec59d0fa63b3385af1697b45f4c33f8e.png" group-title="⚡REDE TELECINE",TELECINE TOUCH FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://fontep1tech.space:80/790984248/022201884/829
-#EXTINF:-1 tvg-id="BR - Telecine Touch" tvg-name="TELECINE TOUCH HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://xp2.wtf:80/images/ec59d0fa63b3385af1697b45f4c33f8e.png" group-title="⚡REDE TELECINE",TELECINE TOUCH HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://fontep1tech.space:80/790984248/022201884/830
-#EXTINF:-1 tvg-id="BR - Telecine Touch" tvg-name="TELECINE TOUCH SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://xp2.wtf:80/images/ec59d0fa63b3385af1697b45f4c33f8e.png" group-title="⚡REDE TELECINE",TELECINE TOUCH SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://fontep1tech.space:80/790984248/022201884/831
+#EXTINF:-1 tvg-id="ARATUHD" tvg-name="SBT ARATU HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="✨SBT",SBT ARATU HD
+http://fontep1tech.space:80/790984248/022201884/173157
+#EXTINF:-1 tvg-id="" tvg-name="SBT BAHIA FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="✨SBT",SBT BAHIA FHD
+http://fontep1tech.space:80/790984248/022201884/173158
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT BAHIA HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="✨SBT",SBT BAHIA HD
+http://fontep1tech.space:80/790984248/022201884/778
+#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT BRASILIA" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="✨SBT",SBT BRASILIA
+http://fontep1tech.space:80/790984248/022201884/779
+#EXTINF:-1 tvg-id="" tvg-name="SBT DF BRASILIA HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="✨SBT",SBT DF BRASILIA HD
+http://fontep1tech.space:80/790984248/022201884/173159
+#EXTINF:-1 tvg-id="" tvg-name="SBT GO SERRA DOURADA HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="✨SBT",SBT GO SERRA DOURADA HD
+http://fontep1tech.space:80/790984248/022201884/173160
+#EXTINF:-1 tvg-id="" tvg-name="SBT JANGADEIRO CEARA FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="✨SBT",SBT JANGADEIRO CEARA FHD
+http://fontep1tech.space:80/790984248/022201884/173161
+#EXTINF:-1 tvg-id="" tvg-name="SBT JORNAL PE HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="✨SBT",SBT JORNAL PE HD
+http://fontep1tech.space:80/790984248/022201884/173176
+#EXTINF:-1 tvg-id="5starmax.us" tvg-name="SBT PARANA HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="✨SBT",SBT PARANA HD
+http://fontep1tech.space:80/790984248/022201884/173162
+#EXTINF:-1 tvg-id="SBT FHD [Alter]" tvg-name="SBT PE HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="✨SBT",SBT PE HD
+http://fontep1tech.space:80/790984248/022201884/781
+#EXTINF:-1 tvg-id="" tvg-name="SBT PI FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="✨SBT",SBT PI FHD
+http://fontep1tech.space:80/790984248/022201884/173163
+#EXTINF:-1 tvg-id="" tvg-name="SBT PI HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="✨SBT",SBT PI HD
+http://fontep1tech.space:80/790984248/022201884/173164
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="SBT RJ FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="✨SBT",SBT RJ FHD
+http://fontep1tech.space:80/790984248/022201884/173166
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="SBT RJ HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="✨SBT",SBT RJ HD
+http://fontep1tech.space:80/790984248/022201884/783
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="SBT RJ SD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="✨SBT",SBT RJ SD
+http://fontep1tech.space:80/790984248/022201884/173169
+#EXTINF:-1 tvg-id="" tvg-name="SBT RN FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="✨SBT",SBT RN FHD
+http://fontep1tech.space:80/790984248/022201884/173170
+#EXTINF:-1 tvg-id="ZYB618" tvg-name="SBT RS FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="✨SBT",SBT RS FHD
+http://fontep1tech.space:80/790984248/022201884/784
+#EXTINF:-1 tvg-id="sbtrs.br" tvg-name="SBT RS HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="✨SBT",SBT RS HD
+http://fontep1tech.space:80/790984248/022201884/173171
+#EXTINF:-1 tvg-id="sbtsp.br" tvg-name="SBT SP 4K" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="✨SBT",SBT SP 4K
+http://fontep1tech.space:80/790984248/022201884/369728
+#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT SP FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="✨SBT",SBT SP FHD
+http://fontep1tech.space:80/790984248/022201884/171879
+#EXTINF:-1 tvg-id="SBT 4K" tvg-name="SBT SP HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="✨SBT",SBT SP HD
+http://fontep1tech.space:80/790984248/022201884/173174
+#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT SP SD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="✨SBT",SBT SP SD
+http://fontep1tech.space:80/790984248/022201884/785
+#EXTINF:-1 tvg-id="redemassa.br" tvg-name="SBT TRIBUNA REDE MASSA FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="✨SBT",SBT TRIBUNA REDE MASSA FHD
+http://fontep1tech.space:80/790984248/022201884/1387205
+#EXTINF:-1 tvg-id="redemassa.br" tvg-name="SBT TRIBUNA REDE MASSA HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="✨SBT",SBT TRIBUNA REDE MASSA HD
+http://fontep1tech.space:80/790984248/022201884/173165
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV ALTEROSA FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="✨SBT",SBT TV ALTEROSA FHD
+http://fontep1tech.space:80/790984248/022201884/1387204
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV ALTEROSA HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="✨SBT",SBT TV ALTEROSA HD
+http://fontep1tech.space:80/790984248/022201884/947206
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT TV DIFUSORA MARANHÃO HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="✨SBT",SBT TV DIFUSORA MARANHÃO HD
+http://fontep1tech.space:80/790984248/022201884/173172
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ SAUDADE" tvg-logo="http://69.197.159.50:80/images/df7e8e4823daf0129a7fbd8ae79507ed.jpg" group-title="✨SBT",SBT+ SAUDADE
+http://fontep1tech.space:80/790984248/022201884/4770599
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ TVZYN" tvg-logo="http://69.197.159.50:80/images/df7e8e4823daf0129a7fbd8ae79507ed.jpg" group-title="✨SBT",SBT+ TVZYN
+http://fontep1tech.space:80/790984248/022201884/4770606
