@@ -1,49 +1,19 @@
-#EXTM3U 
-#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/Z682EPA.png" group-title="REDE TELECINE",TELECINE ACTION 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.pthdtv.top:80/790984248/022201884/369712.m3u8
-#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/Z682EPA.png" group-title="REDE TELECINE",TELECINE ACTION FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.pthdtv.top:80/790984248/022201884/812.m3u8
-#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/Z682EPA.png" group-title="REDE TELECINE",TELECINE ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.pthdtv.top:80/790984248/022201884/813.m3u8
-#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/Z682EPA.png" group-title="REDE TELECINE",TELECINE ACTION SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.pthdtv.top:80/790984248/022201884/814.m3u8
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/2m7eOQT.png" group-title="REDE TELECINE",TELECINE CULT 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.pthdtv.top:80/790984248/022201884/369713.m3u8
-#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="TELECINE CULT FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/2m7eOQT.png" group-title="REDE TELECINE",TELECINE CULT FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.pthdtv.top:80/790984248/022201884/815.m3u8
-#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="TELECINE CULT HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/2m7eOQT.png" group-title="REDE TELECINE",TELECINE CULT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.pthdtv.top:80/790984248/022201884/816.m3u8
-#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="TELECINE CULT SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/2m7eOQT.png" group-title="REDE TELECINE",TELECINE CULT SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.pthdtv.top:80/790984248/022201884/817.m3u8
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/VcVVexq.png" group-title="REDE TELECINE",TELECINE FUN 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.pthdtv.top:80/790984248/022201884/369714.m3u8
-#EXTINF:-1 tvg-id="Telecine Fun SD" tvg-name="TELECINE FUN FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/VcVVexq.png" group-title="REDE TELECINE",TELECINE FUN FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.pthdtv.top:80/790984248/022201884/818.m3u8
-#EXTINF:-1 tvg-id="Telecine Fun SD" tvg-name="TELECINE FUN HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/VcVVexq.png" group-title="REDE TELECINE",TELECINE FUN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.pthdtv.top:80/790984248/022201884/819.m3u8
-#EXTINF:-1 tvg-id="Telecine Fun SD" tvg-name="TELECINE FUN SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/VcVVexq.png" group-title="REDE TELECINE",TELECINE FUN SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.pthdtv.top:80/790984248/022201884/820.m3u8
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/Ay023x8.png" group-title="REDE TELECINE",TELECINE PIPOCA 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.pthdtv.top:80/790984248/022201884/369715.m3u8
-#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="TELECINE PIPOCA FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/Ay023x8.png" group-title="REDE TELECINE",TELECINE PIPOCA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.pthdtv.top:80/790984248/022201884/821.m3u8
-#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="TELECINE PIPOCA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/Ay023x8.png" group-title="REDE TELECINE",TELECINE PIPOCA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.pthdtv.top:80/790984248/022201884/822.m3u8
-#EXTINF:-1 tvg-id="Telecine Pipoca SD" tvg-name="TELECINE PIPOCA SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/Ay023x8.png" group-title="REDE TELECINE",TELECINE PIPOCA SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.pthdtv.top:80/790984248/022201884/823.m3u8
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://xp2.wtf:80/images/720cc6bf290ee15526c498c2b7722ec2.png" group-title="REDE TELECINE",TELECINE PREMIUM 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.pthdtv.top:80/790984248/022201884/369716.m3u8
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://xp2.wtf:80/images/720cc6bf290ee15526c498c2b7722ec2.png" group-title="REDE TELECINE",TELECINE PREMIUM FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.pthdtv.top:80/790984248/022201884/824.m3u8
-#EXTINF:-1 tvg-id="Telecine Premium SD" tvg-name="TELECINE PREMIUM HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://xp2.wtf:80/images/720cc6bf290ee15526c498c2b7722ec2.png" group-title="REDE TELECINE",TELECINE PREMIUM HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.pthdtv.top:80/790984248/022201884/827.m3u8
-#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PREMIUM SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://xp2.wtf:80/images/720cc6bf290ee15526c498c2b7722ec2.png" group-title="REDE TELECINE",TELECINE PREMIUM SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.pthdtv.top:80/790984248/022201884/828.m3u8
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://xp2.wtf:80/images/ec59d0fa63b3385af1697b45f4c33f8e.png" group-title="REDE TELECINE",TELECINE TOUCH 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.pthdtv.top:80/790984248/022201884/369717.m3u8
-#EXTINF:-1 tvg-id="Telecine Touch SD" tvg-name="TELECINE TOUCH FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://xp2.wtf:80/images/ec59d0fa63b3385af1697b45f4c33f8e.png" group-title="REDE TELECINE",TELECINE TOUCH FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.pthdtv.top:80/790984248/022201884/829.m3u8
-#EXTINF:-1 tvg-id="Telecine Touch FHD [Alter]" tvg-name="TELECINE TOUCH HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://xp2.wtf:80/images/ec59d0fa63b3385af1697b45f4c33f8e.png" group-title="REDE TELECINE",TELECINE TOUCH HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.pthdtv.top:80/790984248/022201884/830.m3u8
-#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://xp2.wtf:80/images/ec59d0fa63b3385af1697b45f4c33f8e.png" group-title="REDE TELECINE",TELECINE TOUCH SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.pthdtv.top:80/790984248/022201884/831.m3u8
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+
+
+
+<item>
+<title>Mergulhando no Amor </title>
+<link>magnet:?xt=urn:btih:e4464ace069baffd5a44769af7b5dd1662e9ceae&amp;dn=HIDRATORRENTS.ORG..MKV.Mergulhando.no.Amor.2024.1080p.WEB-DL.EAC3.AAC.DUAL.5.1&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]Op 1 1080[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Mergulhando.no.Amor"$nome=[B]Busca Rajada[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=U4nHEPP0jPA$nome=[B]Trailer[/B]</link>
+<thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_bestv2/edjoeHi2S4H3Fm0NlsudsYgbgvl.jpg|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</thumbnail>
+<fanart></fanart>
+<info>Após o fracasso de seu novo album, um astro do rock vai morar na ilha de Chipre. Mas alguns visitantes e uma antiga paixão podem atrapalhar essa vida nova.</info>
+</item>
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+
+</items>
