@@ -2,7 +2,7 @@
 <items>
 
 <item>
-<title>[COLOR chocolate]=== [COLOR orange]Sejam Bem Vindos Ao Addon Ares/BR/RS/R.O, Filmes 2025.[/COLOR] [COLOR chocolate] === [/COLOR]</title>
+<title>[COLOR orange]=== [COLOR orange]Sejam Bem Vindos Ao Addon Ares/BR/RS/R.O, Filmes 2025.[/COLOR] [COLOR chocolate] === [/COLOR]</title>
 <link></link>
 <link></link>
 <thumbnail>https://archive.org/download/file_000000008ef0623093d82ad182c028c4_conversation_id67f6e244-4654-8013-9804-37d/file_00000000f5d861f793414aaf751e540b_conversation_id%3D67f82169-a858-8007-ac0b-bd639d559fdb%26message_id%3Deed5cac3-88fc-4800-bd62-ea90e788b4fe.png</thumbnail>
@@ -13,7 +13,15 @@
 
 
 
- 
+
+
+<item>
+<title>[COLOR pink] Clássico[/COLOR] Platoon (1986/25)</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b97724ea6a535f658655a03266d0afbac2f41ef7</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8mix1xxZDq2wFHM4Jir3n8JyOuT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/q3VXM5cb6IEc7uUMryYXXMinZgZ.jpg</fanart>
+<info>Cris (Charles Sheen) é um estudante universitário patriota que abandona os estudos para se alistar na Guerra no Vietnã. Mas quando chega no front da guerra do Sudoeste Asiático, o mesmo se defronta com a dura realidade de uma guerra onde os prováveis "hérois" tem o seu caráter deformado e as suas ilusões vão-se desmoronando.</info>
+</item>
 
 <item>
 <title>Caos e Destruição (2025)</title>
