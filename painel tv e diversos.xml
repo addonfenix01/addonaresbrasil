@@ -10,30 +10,6 @@
 </channel>
 
 <channel>
-<name>[B][COLOR pink]TV GLOBO [/COLOR] [COLOR orange]| REGIONAIS[/COLOR][/B]</name>
-<thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
-<fanart>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</fanart>
-<info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/Canais%20ares/tvgloboregionais.xml</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR orange]TV ESPORTES [/COLOR] [COLOR pink]| DIVERSOS[/COLOR][/B]</name>
-<thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
-<fanart>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</fanart>
-<info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/Canais%20ares/canaisesportes.xml</externallink>
-</channel>
-  
-<channel>
-<name>[B][COLOR pink]TV ONLINE [/COLOR] [COLOR orange]| PORTUGAL[/COLOR][/B]</name>
-<thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
-<fanart>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</fanart>
-<info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/Canais%20ares/tvonlineportugal.xml</externallink>
-</channel>
-
-<channel>
 <name>[B][COLOR orange]PLUTO TV [/COLOR] [COLOR pink]| FILMES NOSTALGIA[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
 <fanart>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</fanart>
@@ -57,13 +33,6 @@
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/Canais%20ares/kids.xml</externallink>
 </channel> 
 
-<channel>
-<name>[B][COLOR pink]POWER COUPLE BRASIL [/COLOR] [COLOR orange]| REALITY SHOW[/COLOR][/B]</name>
-<thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
-<fanart>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</fanart>
-<info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/Canais%20ares/powercupbrasil.xml</externallink>
-</channel>
   
 
 </channels>
