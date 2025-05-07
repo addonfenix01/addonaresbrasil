@@ -31,50 +31,50 @@
 
 <channel>
 <name>[B][COLOR pink]ARES [/COLOR] [COLOR red]CRIME [/COLOR][/B]</name>  
-<thumbnail></thumbnail>    
-<fanart></fanart>  
+<thumbnail>https://archive.org/download/crime-ares/crime%20ares.png</thumbnail>    
+<fanart>https://archive.org/download/crime-ares/crime%20ares.png</fanart>  
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/SERIES%20CATEGORIAS%20TORRENT/crime.xml</externallink>
 </channel>
     
 <channel>
 <name>[B][COLOR red]ARES[/COLOR] [COLOR pink]DOCUMENTÁRIO [/COLOR][/B]</name> 
-<thumbnail></thumbnail>    
-<fanart></fanart>     
+<thumbnail>https://archive.org/download/fantasiaares/documentarioares.png</thumbnail>    
+<fanart>https://archive.org/download/fantasiaares/documentarioares.png</fanart>     
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/SERIES%20CATEGORIAS%20TORRENT/documentario.xml</externallink>
 </channel>
 
 <channel>
 <name>[B][COLOR pink]ARES [/COLOR] [COLOR red]DRAMA [/COLOR][/B]</name>  
-<thumbnail></thumbnail>    
-<fanart></fanart>  
+<thumbnail>https://archive.org/download/fantasiaares/dramaares.png</thumbnail>    
+<fanart>https://archive.org/download/fantasiaares/dramaares.png</fanart>  
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/SERIES%20CATEGORIAS%20TORRENT/drama.xml</externallink>
 </channel>
     
 <channel>
 <name>[B][COLOR red]ARES[/COLOR] [COLOR pink]FANTASIA [/COLOR][/B]</name> 
-<thumbnail></thumbnail>    
-<fanart></fanart>     
+<thumbnail>https://archive.org/download/fantasiaares/fantasiaares.png</thumbnail>    
+<fanart>https://archive.org/download/fantasiaares/fantasiaares.png</fanart>     
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/SERIES%20CATEGORIAS%20TORRENT/fantasia.xml</externallink>
 </channel>
 
 <channel>
 <name>[B][COLOR pink]ARES [/COLOR] [COLOR red]FAROESTE [/COLOR][/B]</name>  
-<thumbnail></thumbnail>    
-<fanart></fanart>  
+<thumbnail>https://archive.org/download/fantasiaares/faroesteares.png</thumbnail>    
+<fanart>https://archive.org/download/fantasiaares/faroesteares.png</fanart>  
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/SERIES%20CATEGORIAS%20TORRENT/faroeste.xml</externallink>
 </channel>
     
 <channel>
 <name>[B][COLOR red]ARES[/COLOR] [COLOR pink]MISTÉRIO [/COLOR][/B]</name> 
-<thumbnail></thumbnail>    
-<fanart></fanart>     
+<thumbnail>https://archive.org/download/fantasiaares/misterioares.png</thumbnail>    
+<fanart>https://archive.org/download/fantasiaares/misterioares.png</fanart>     
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/SERIES%20CATEGORIAS%20TORRENT/misterio.xml</externallink>
 </channel>
 
 <channel>
 <name>[B][COLOR pink]ARES [/COLOR] [COLOR red]REALITY [/COLOR][/B]</name>  
-<thumbnail></thumbnail>    
-<fanart></fanart>  
+<thumbnail>https://archive.org/download/dramaares/realityares.png</thumbnail>    
+<fanart>https://archive.org/download/dramaares/realityares.png</fanart>  
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/SERIES%20CATEGORIAS%20TORRENT/reality.xml</externallink>
 </channel>
     
