@@ -3,29 +3,29 @@
 
 <channel>
 <name>[B][COLOR pink]ARES [/COLOR] [COLOR red]AÇÂO [/COLOR][/B]</name>  
-<thumbnail></thumbnail>    
-<fanart></fanart>  
+<thumbnail>https://archive.org/download/aventuraares/acaoares.png</thumbnail>    
+<fanart>https://archive.org/download/aventuraares/acaoares.png</fanart>  
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/SERIES%20CATEGORIAS%20TORRENT/acao.xml</externallink>
 </channel>
     
 <channel>
 <name>[B][COLOR red]ARES[/COLOR] [COLOR pink]ANIMAÇÂO[/COLOR][/B]</name> 
-<thumbnail></thumbnail>    
-<fanart></fanart>     
+<thumbnail>https://archive.org/download/aventuraares/animacaoares.png</thumbnail>    
+<fanart>https://archive.org/download/aventuraares/animacaoares.png</fanart>     
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/SERIES%20CATEGORIAS%20TORRENT/animacao.xml</externallink>
 </channel>
 
 <channel>
 <name>[B][COLOR pink]ARES [/COLOR] [COLOR red]AVENTURA [/COLOR][/B]</name>  
-<thumbnail></thumbnail>    
-<fanart></fanart>  
+<thumbnail>https://archive.org/download/aventuraares/aventuraares.png</thumbnail>    
+<fanart>https://archive.org/download/aventuraares/aventuraares.png</fanart>  
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/SERIES%20CATEGORIAS%20TORRENT/aventura.xml</externallink>
 </channel>
     
 <channel>
 <name>[B][COLOR red]ARES[/COLOR] [COLOR pink]COMÉDIA [/COLOR][/B]</name> 
-<thumbnail></thumbnail>    
-<fanart></fanart>     
+<thumbnail>https://archive.org/download/aventuraares/comediaares.png</thumbnail>    
+<fanart>https://archive.org/download/aventuraares/comediaares.png</fanart>     
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/SERIES%20CATEGORIAS%20TORRENT/comedia.xml</externallink>
 </channel>
 
