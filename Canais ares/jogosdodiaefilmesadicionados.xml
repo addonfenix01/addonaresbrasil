@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Jogos.do.dia" tvg-name="JOGOS DO DIA" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://cdn-icons-png.flaticon.com/512/14/14405.png" group-title="CANAIS | EVENTOS E NOVIDADES",JOGOS DO DIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/260711.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="FILMES ADICIONADOS" tvg-logo="" group-title="CANAIS | EVENTOS E NOVIDADES",FILMES ADICIONADOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/278945.m3u8|User-Agent=FooBar/1.2.3
