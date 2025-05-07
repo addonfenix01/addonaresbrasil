@@ -1,129 +1,129 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Appletvplus.br" tvg-name="APPLE TV 01" tvg-logo="https://www.imgscc.top/logos/apple-tv250.png" group-title="CANAIS | ESPORTES",APPLE TV 01
+#EXTINF:-1 tvg-id="Appletvplus.br" tvg-name="APPLE TV 01" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://www.imgscc.top/logos/apple-tv250.png" group-title="CANAIS | ESPORTES",APPLE TV 01
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/316772.ts
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="UFC TV 01" tvg-logo="https://imgscc.top/logos/logoufc.png" group-title="CANAIS | ESPORTES",UFC TV 01
-http://esma24.top:80/8958158248/173464/289465.ts
-#EXTINF:-1 tvg-id="" tvg-name="UFC TV 02" tvg-logo="https://imgscc.top/logos/logoufc.png" group-title="CANAIS | ESPORTES",UFC TV 02
-http://esma24.top:80/8958158248/173464/291092.ts
-#EXTINF:-1 tvg-id="" tvg-name="UFC TV 03" tvg-logo="https://imgscc.top/logos/logoufc.png" group-title="CANAIS | ESPORTES",UFC TV 03
-http://esma24.top:80/8958158248/173464/313225.ts
-#EXTINF:-1 tvg-id="" tvg-name="UFC TV 04" tvg-logo="https://imgscc.top/logos/logoufc.png" group-title="CANAIS | ESPORTES",UFC TV 04
-http://esma24.top:80/8958158248/173464/313226.ts
-#EXTINF:-1 tvg-id="" tvg-name="UFC TV 05" tvg-logo="https://imgscc.top/logos/logoufc.png" group-title="CANAIS | ESPORTES",UFC TV 05
-http://esma24.top:80/8958158248/173464/313227.ts
-#EXTINF:-1 tvg-id="" tvg-name="UFC TV 06" tvg-logo="https://imgscc.top/logos/logoufc.png" group-title="CANAIS | ESPORTES",UFC TV 06
-http://esma24.top:80/8958158248/173464/313228.ts
-#EXTINF:-1 tvg-id="" tvg-name="Furacão live" tvg-logo="https://imgscc.top/logos/furacaolive250.png" group-title="CANAIS | ESPORTES",Furacão live
-http://esma24.top:80/8958158248/173464/270372.ts
-#EXTINF:-1 tvg-id="415877" tvg-name="BAND SPORTS FHD H265" tvg-logo="http://www.imgscc.top/logos/bandsport250.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD H265
-http://esma24.top:80/8958158248/173464/37.ts
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD H265²" tvg-logo="http://www.imgscc.top/logos/bandsport250.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD H265²
-http://esma24.top:80/8958158248/173464/234890.ts
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD²" tvg-logo="http://www.imgscc.top/logos/bandsport250.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD²
-http://esma24.top:80/8958158248/173464/234891.ts
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="http://www.imgscc.top/logos/bandsport250.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD
-http://esma24.top:80/8958158248/173464/321.ts
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD" tvg-logo="http://www.imgscc.top/logos/bandsport250.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD
-http://esma24.top:80/8958158248/173464/220.ts
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD²" tvg-logo="http://www.imgscc.top/logos/bandsport250.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD²
-http://esma24.top:80/8958158248/173464/234892.ts
-#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF FHD H265²" tvg-logo="http://www.imgscc.top/logos/canaloff250.png" group-title="CANAIS | ESPORTES",CANAL OFF FHD H265²
-http://esma24.top:80/8958158248/173464/234910.ts
-#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF FHD²" tvg-logo="http://www.imgscc.top/logos/canaloff250.png" group-title="CANAIS | ESPORTES",CANAL OFF FHD²
-http://esma24.top:80/8958158248/173464/234911.ts
-#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF HD²" tvg-logo="http://www.imgscc.top/logos/canaloff250.png" group-title="CANAIS | ESPORTES",CANAL OFF HD²
-http://esma24.top:80/8958158248/173464/234912.ts
-#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF SD²" tvg-logo="http://www.imgscc.top/logos/canaloff250.png" group-title="CANAIS | ESPORTES",CANAL OFF SD²
-http://esma24.top:80/8958158248/173464/234913.ts
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="CANAL WOOHOO FHD H265²" tvg-logo="http://www.imgscc.top/logos/canalwoohoo250.png" group-title="CANAIS | ESPORTES",CANAL WOOHOO FHD H265²
-http://esma24.top:80/8958158248/173464/234918.ts
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="CANAL WOOHOO FHD²" tvg-logo="http://www.imgscc.top/logos/canalwoohoo250.png" group-title="CANAIS | ESPORTES",CANAL WOOHOO FHD²
-http://esma24.top:80/8958158248/173464/234919.ts
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="CANAL WOOHOO HD²" tvg-logo="http://www.imgscc.top/logos/canalwoohoo250.png" group-title="CANAIS | ESPORTES",CANAL WOOHOO HD²
-http://esma24.top:80/8958158248/173464/234920.ts
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="CANAL WOOHOO SD²" tvg-logo="http://www.imgscc.top/logos/canalwoohoo250.png" group-title="CANAIS | ESPORTES",CANAL WOOHOO SD²
-http://esma24.top:80/8958158248/173464/234921.ts
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD H265" tvg-logo="http://www.imgscc.top/logos/combat250.png" group-title="CANAIS | ESPORTES",COMBATE FHD H265
-http://esma24.top:80/8958158248/173464/39.ts
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD H265²" tvg-logo="http://www.imgscc.top/logos/combat250.png" group-title="CANAIS | ESPORTES",COMBATE FHD H265²
-http://esma24.top:80/8958158248/173464/234935.ts
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD²" tvg-logo="http://www.imgscc.top/logos/combat250.png" group-title="CANAIS | ESPORTES",COMBATE FHD²
-http://esma24.top:80/8958158248/173464/234936.ts
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD" tvg-logo="http://www.imgscc.top/logos/combat250.png" group-title="CANAIS | ESPORTES",COMBATE HD
-http://esma24.top:80/8958158248/173464/340.ts
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD²" tvg-logo="http://www.imgscc.top/logos/combat250.png" group-title="CANAIS | ESPORTES",COMBATE HD²
-http://esma24.top:80/8958158248/173464/234937.ts
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE SD" tvg-logo="http://www.imgscc.top/logos/combat250.png" group-title="CANAIS | ESPORTES",COMBATE SD
-http://esma24.top:80/8958158248/173464/202.ts
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE SD²" tvg-logo="http://www.imgscc.top/logos/combat250.png" group-title="CANAIS | ESPORTES",COMBATE SD²
-http://esma24.top:80/8958158248/173464/234938.ts
-#EXTINF:-1 tvg-id="" tvg-name="DUBAI SPORTS 1 FHD²" tvg-logo="http://www.imgscc.top/logos/abudabisport250.png" group-title="CANAIS | ESPORTES",DUBAI SPORTS 1 FHD²
-http://esma24.top:80/8958158248/173464/234975.ts
-#EXTINF:-1 tvg-id="" tvg-name="DUBAI SPORTS 2 FHD²" tvg-logo="http://www.imgscc.top/logos/abudabisport250.png" group-title="CANAIS | ESPORTES",DUBAI SPORTS 2 FHD²
-http://esma24.top:80/8958158248/173464/234976.ts
-#EXTINF:-1 tvg-id="Eurochannel.br" tvg-name="EUROCHANNEL FHD²" tvg-logo="http://www.imgscc.top/logos/eurochanel250.png" group-title="CANAIS | ESPORTES",EUROCHANNEL FHD²
-http://esma24.top:80/8958158248/173464/235218.ts
-#EXTINF:-1 tvg-id="Eurochannel.br" tvg-name="EUROCHANNEL HD²" tvg-logo="http://www.imgscc.top/logos/eurochanel250.png" group-title="CANAIS | ESPORTES",EUROCHANNEL HD²
-http://esma24.top:80/8958158248/173464/235219.ts
-#EXTINF:-1 tvg-id="Eurochannel.br" tvg-name="EUROCHANNEL HD²" tvg-logo="http://www.imgscc.top/logos/eurochanel250.png" group-title="CANAIS | ESPORTES",EUROCHANNEL HD²
-http://esma24.top:80/8958158248/173464/235220.ts
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV FHD H265²" tvg-logo="http://www.imgscc.top/logos/fishtv250.png" group-title="CANAIS | ESPORTES",FISH TV FHD H265²
-http://esma24.top:80/8958158248/173464/234988.ts
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV FHD²" tvg-logo="http://www.imgscc.top/logos/fishtv250.png" group-title="CANAIS | ESPORTES",FISH TV FHD²
-http://esma24.top:80/8958158248/173464/234989.ts
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD²" tvg-logo="http://www.imgscc.top/logos/fishtv250.png" group-title="CANAIS | ESPORTES",FISH TV HD²
-http://esma24.top:80/8958158248/173464/234990.ts
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD²" tvg-logo="http://www.imgscc.top/logos/fishtv250.png" group-title="CANAIS | ESPORTES",FISH TV SD²
-http://esma24.top:80/8958158248/173464/234991.ts
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD H265" tvg-logo="http://www.imgscc.top/logos/foxsport2250.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 FHD H265
-http://esma24.top:80/8958158248/173464/49.ts
-#EXTINF:-1 tvg-id="Tvthathiltoral.br" tvg-name="FOX SPORTS 2 FHD H265²" tvg-logo="http://www.imgscc.top/logos/foxsport2250.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 FHD H265²
-http://esma24.top:80/8958158248/173464/234996.ts
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD²" tvg-logo="http://www.imgscc.top/logos/foxsport2250.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 FHD²
-http://esma24.top:80/8958158248/173464/234997.ts
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://www.imgscc.top/logos/foxsport2250.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 HD
-http://esma24.top:80/8958158248/173464/31.ts
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD²" tvg-logo="http://www.imgscc.top/logos/foxsport2250.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 HD²
-http://esma24.top:80/8958158248/173464/234998.ts
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="http://www.imgscc.top/logos/foxsport2250.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 SD
-http://esma24.top:80/8958158248/173464/2059.ts
-#EXTINF:-1 tvg-id="Tvthathiltoral.br" tvg-name="FOX SPORTS 2 SD²" tvg-logo="http://www.imgscc.top/logos/foxsport2250.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 SD²
-http://esma24.top:80/8958158248/173464/234999.ts
-#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL 2 HD" tvg-logo="http://www.imgscc.top/logos/ligadefutsal250.png" group-title="CANAIS | ESPORTES",LIGA FUTSAL 2 HD
-http://esma24.top:80/8958158248/173464/109435.ts
-#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL 1 HD" tvg-logo="http://www.imgscc.top/logos/ligadefutsal250.png" group-title="CANAIS | ESPORTES",LIGA FUTSAL 1 HD
-http://esma24.top:80/8958158248/173464/109436.ts
-#EXTINF:-1 tvg-id="Rai.br" tvg-name="RAI FHD²" tvg-logo="http://www.imgscc.top/logos/raiitalia250.png" group-title="CANAIS | ESPORTES",RAI FHD²
-http://esma24.top:80/8958158248/173464/235212.ts
-#EXTINF:-1 tvg-id="Rai.br" tvg-name="RAI HD²" tvg-logo="http://www.imgscc.top/logos/raiitalia250.png" group-title="CANAIS | ESPORTES",RAI HD²
-http://esma24.top:80/8958158248/173464/235083.ts
-#EXTINF:-1 tvg-id="Rai.br" tvg-name="RAI SD²" tvg-logo="http://www.imgscc.top/logos/raiitalia250.png" group-title="CANAIS | ESPORTES",RAI SD²
-http://esma24.top:80/8958158248/173464/235084.ts
-#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV FHD₁" tvg-logo="http://imgscc.top/logos/redebulltv250.png" group-title="CANAIS | ESPORTES",RED BULL TV FHD₁
-http://esma24.top:80/8958158248/173464/110778.ts
-#EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="NBA LEAGUE PASS 01 (PPV)" tvg-logo="http://www.imgscc.top/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 01 (PPV)
-http://esma24.top:80/8958158248/173464/293378.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 02 (PPV)" tvg-logo="http://www.imgscc.top/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 02 (PPV)
-http://esma24.top:80/8958158248/173464/293379.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 03 (PPV)" tvg-logo="http://www.imgscc.top/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 03 (PPV)
-http://esma24.top:80/8958158248/173464/293380.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 04 (PPV)" tvg-logo="http://www.imgscc.top/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 04 (PPV)
-http://esma24.top:80/8958158248/173464/293381.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 05 (PPV)" tvg-logo="http://www.imgscc.top/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 05 (PPV)
-http://esma24.top:80/8958158248/173464/293382.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 06 (PPV)" tvg-logo="http://www.imgscc.top/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 06 (PPV)
-http://esma24.top:80/8958158248/173464/293383.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 07 (PPV)" tvg-logo="http://www.imgscc.top/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 07 (PPV)
-http://esma24.top:80/8958158248/173464/293384.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 08 (PPV)" tvg-logo="http://www.imgscc.top/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 08 (PPV)
-http://esma24.top:80/8958158248/173464/293385.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 09 (PPV)" tvg-logo="http://www.imgscc.top/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 09 (PPV)
-http://esma24.top:80/8958158248/173464/293386.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 10 (PPV)" tvg-logo="http://www.imgscc.top/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 10 (PPV)
-http://esma24.top:80/8958158248/173464/293387.ts
-#EXTINF:-1 tvg-id="Onefootball.br" tvg-name="ONE FOOTBALL" tvg-logo="https://imgscc.top/logos/onefootball250.png" group-title="CANAIS | ESPORTES",ONE FOOTBALL
-http://esma24.top:80/8958158248/173464/304204.ts
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="UFC TV 01" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://imgscc.top/logos/logoufc.png" group-title="CANAIS | ESPORTES",UFC TV 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/289465.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC TV 02" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://imgscc.top/logos/logoufc.png" group-title="CANAIS | ESPORTES",UFC TV 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/291092.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC TV 03" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://imgscc.top/logos/logoufc.png" group-title="CANAIS | ESPORTES",UFC TV 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/313225.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC TV 04" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://imgscc.top/logos/logoufc.png" group-title="CANAIS | ESPORTES",UFC TV 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/313226.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC TV 05" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://imgscc.top/logos/logoufc.png" group-title="CANAIS | ESPORTES",UFC TV 05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/313227.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC TV 06" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://imgscc.top/logos/logoufc.png" group-title="CANAIS | ESPORTES",UFC TV 06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/313228.ts
+#EXTINF:-1 tvg-id="" tvg-name="Furacão live" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://imgscc.top/logos/furacaolive250.png" group-title="CANAIS | ESPORTES",Furacão live
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/270372.ts
+#EXTINF:-1 tvg-id="415877" tvg-name="BAND SPORTS FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/bandsport250.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/37.ts
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD H265²" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/bandsport250.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/234890.ts
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD²" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/bandsport250.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/234891.ts
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/bandsport250.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/321.ts
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/bandsport250.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/220.ts
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD²" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/bandsport250.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/234892.ts
+#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF FHD H265²" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/canaloff250.png" group-title="CANAIS | ESPORTES",CANAL OFF FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/234910.ts
+#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF FHD²" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/canaloff250.png" group-title="CANAIS | ESPORTES",CANAL OFF FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/234911.ts
+#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF HD²" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/canaloff250.png" group-title="CANAIS | ESPORTES",CANAL OFF HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/234912.ts
+#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF SD²" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/canaloff250.png" group-title="CANAIS | ESPORTES",CANAL OFF SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/234913.ts
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="CANAL WOOHOO FHD H265²" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/canalwoohoo250.png" group-title="CANAIS | ESPORTES",CANAL WOOHOO FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/234918.ts
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="CANAL WOOHOO FHD²" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/canalwoohoo250.png" group-title="CANAIS | ESPORTES",CANAL WOOHOO FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/234919.ts
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="CANAL WOOHOO HD²" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/canalwoohoo250.png" group-title="CANAIS | ESPORTES",CANAL WOOHOO HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/234920.ts
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="CANAL WOOHOO SD²" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/canalwoohoo250.png" group-title="CANAIS | ESPORTES",CANAL WOOHOO SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/234921.ts
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/combat250.png" group-title="CANAIS | ESPORTES",COMBATE FHD H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/39.ts
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD H265²" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/combat250.png" group-title="CANAIS | ESPORTES",COMBATE FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/234935.ts
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD²" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/combat250.png" group-title="CANAIS | ESPORTES",COMBATE FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/234936.ts
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/combat250.png" group-title="CANAIS | ESPORTES",COMBATE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/340.ts
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD²" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/combat250.png" group-title="CANAIS | ESPORTES",COMBATE HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/234937.ts
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/combat250.png" group-title="CANAIS | ESPORTES",COMBATE SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/202.ts
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE SD²" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/combat250.png" group-title="CANAIS | ESPORTES",COMBATE SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/234938.ts
+#EXTINF:-1 tvg-id="" tvg-name="DUBAI SPORTS 1 FHD²" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/abudabisport250.png" group-title="CANAIS | ESPORTES",DUBAI SPORTS 1 FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/234975.ts
+#EXTINF:-1 tvg-id="" tvg-name="DUBAI SPORTS 2 FHD²" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/abudabisport250.png" group-title="CANAIS | ESPORTES",DUBAI SPORTS 2 FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/234976.ts
+#EXTINF:-1 tvg-id="Eurochannel.br" tvg-name="EUROCHANNEL FHD²" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/eurochanel250.png" group-title="CANAIS | ESPORTES",EUROCHANNEL FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/235218.ts
+#EXTINF:-1 tvg-id="Eurochannel.br" tvg-name="EUROCHANNEL HD²" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/eurochanel250.png" group-title="CANAIS | ESPORTES",EUROCHANNEL HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/235219.ts
+#EXTINF:-1 tvg-id="Eurochannel.br" tvg-name="EUROCHANNEL HD²" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/eurochanel250.png" group-title="CANAIS | ESPORTES",EUROCHANNEL HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/235220.ts
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV FHD H265²" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/fishtv250.png" group-title="CANAIS | ESPORTES",FISH TV FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/234988.ts
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV FHD²" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/fishtv250.png" group-title="CANAIS | ESPORTES",FISH TV FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/234989.ts
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD²" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/fishtv250.png" group-title="CANAIS | ESPORTES",FISH TV HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/234990.ts
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD²" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/fishtv250.png" group-title="CANAIS | ESPORTES",FISH TV SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/234991.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/foxsport2250.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 FHD H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/49.ts
+#EXTINF:-1 tvg-id="Tvthathiltoral.br" tvg-name="FOX SPORTS 2 FHD H265²" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/foxsport2250.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/234996.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD²" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/foxsport2250.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/234997.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/foxsport2250.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/31.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD²" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/foxsport2250.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/234998.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/foxsport2250.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/2059.ts
+#EXTINF:-1 tvg-id="Tvthathiltoral.br" tvg-name="FOX SPORTS 2 SD²" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/foxsport2250.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/234999.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/ligadefutsal250.png" group-title="CANAIS | ESPORTES",LIGA FUTSAL 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/109435.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/ligadefutsal250.png" group-title="CANAIS | ESPORTES",LIGA FUTSAL 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/109436.ts
+#EXTINF:-1 tvg-id="Rai.br" tvg-name="RAI FHD²" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/raiitalia250.png" group-title="CANAIS | ESPORTES",RAI FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/235212.ts
+#EXTINF:-1 tvg-id="Rai.br" tvg-name="RAI HD²" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/raiitalia250.png" group-title="CANAIS | ESPORTES",RAI HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/235083.ts
+#EXTINF:-1 tvg-id="Rai.br" tvg-name="RAI SD²" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/raiitalia250.png" group-title="CANAIS | ESPORTES",RAI SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/235084.ts
+#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV FHD₁" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://imgscc.top/logos/redebulltv250.png" group-title="CANAIS | ESPORTES",RED BULL TV FHD₁
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/110778.ts
+#EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="NBA LEAGUE PASS 01 (PPV)" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 01 (PPV)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/293378.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 02 (PPV)" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 02 (PPV)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/293379.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 03 (PPV)" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 03 (PPV)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/293380.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 04 (PPV)" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 04 (PPV)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/293381.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 05 (PPV)" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 05 (PPV)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/293382.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 06 (PPV)" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 06 (PPV)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/293383.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 07 (PPV)" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 07 (PPV)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/293384.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 08 (PPV)" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 08 (PPV)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/293385.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 09 (PPV)" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 09 (PPV)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/293386.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 10 (PPV)" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://www.imgscc.top/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 10 (PPV)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/293387.ts
+#EXTINF:-1 tvg-id="Onefootball.br" tvg-name="ONE FOOTBALL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://imgscc.top/logos/onefootball250.png" group-title="CANAIS | ESPORTES",ONE FOOTBALL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/304204.ts
 #EXTINF:-1 tvg-id="" tvg-name="ZAPPING SPORTS HD" tvg-logo="" group-title="CANAIS | ESPORTES",ZAPPING SPORTS HD
-http://esma24.top:80/8958158248/173464/420792.ts
-#EXTINF:-1 tvg-id="" tvg-name="WWE NETFLIX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ee/WWE_Raw_logo.png" group-title="CANAIS | ESPORTES",WWE NETFLIX
-http://esma24.top:80/8958158248/173464/442089.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/420792.ts
+#EXTINF:-1 tvg-id="" tvg-name="WWE NETFLIX" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://upload.wikimedia.org/wikipedia/en/e/ee/WWE_Raw_logo.png" group-title="CANAIS | ESPORTES",WWE NETFLIX
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/442089.ts
