@@ -2,13 +2,6 @@
 <items>
 
 
-<item>
-<title>Neighborhood Watch - Leg. (2025)</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:V4Y4U4Q4M2BFE4LIVC2RBFVQ34Q2DT2W</link>
-<thumbnail>https://image.tmdb.org/t/p/original/dtSYJ20Qy1yLM9KTnv2SUEfxekO.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/gaMi5Df2eQGegjk072thLw20KeW.jpg</fanart>
-<info>Neighborhood Watch acompanha Simon, um jovem enfrentando problemas de saúde mental, que acredita ter testemunhado um sequestro. Após a polícia desconsiderar seu relato, ele busca a ajuda de Ed, um segurança aposentado com um passado conturbado. Juntos, eles tentam desvendar o mistério, confrontando segredos sombrios e lidando com seus próprios demônios pessoais.</info>
-</item>
 
 <item>
 <title>Assassino (2025)</title>
@@ -16,6 +9,22 @@
 <thumbnail>https://image.tmdb.org/t/p/original/qvXYbTcWKYGeWPRMlxoPHqwCStJ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/dFjZEQn3l1plz1OREEiu05PPR04.jpg</fanart>
 <info>Uma organização secreta cria um microchip que permite que agentes assumam o controle de corpos de terceiros para executar operações letais. Após a morte de seu marido durante uma missão, Alexa é forçada a assumir o papel dele e buscar vingança.</info>
+</item>
+
+<item>
+<title>iHostage (2025)</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a83a7da49f00336005e4bd0f58186778fd15974e</link>
+<thumbnail>https://image.tmdb.org/t/p/original/a607w49404wz7O5vvn5cgoj7DOQ.jpg</thumbnail>
+<fanart></fanart>
+<info>Um homem armado entra em uma Apple Store no centro de Amsterdã, e a polícia enfrenta um desafio muito complexo para resolver a questão.</info>
+</item>
+
+<item>
+<title>Neighborhood Watch - Leg. (2025)</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:V4Y4U4Q4M2BFE4LIVC2RBFVQ34Q2DT2W</link>
+<thumbnail>https://image.tmdb.org/t/p/original/dtSYJ20Qy1yLM9KTnv2SUEfxekO.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/gaMi5Df2eQGegjk072thLw20KeW.jpg</fanart>
+<info>Neighborhood Watch acompanha Simon, um jovem enfrentando problemas de saúde mental, que acredita ter testemunhado um sequestro. Após a polícia desconsiderar seu relato, ele busca a ajuda de Ed, um segurança aposentado com um passado conturbado. Juntos, eles tentam desvendar o mistério, confrontando segredos sombrios e lidando com seus próprios demônios pessoais.</info>
 </item>
 
 
