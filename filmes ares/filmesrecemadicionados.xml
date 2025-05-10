@@ -1,8 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+
+
+
 <item>
-<title>Vingança no Oeste (2025)</title>
+<title>Y2K: O Bug do Milênio (2024/25)</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20abccd90b0e0cf331e6f0e6290842a9d82e7c6e</link>
+<thumbnail>https://image.tmdb.org/t/p/original/s4lE9QpFxXj5erOQn1PBMNReVvt.jpg</thumbnail>
+<genre>Comédia, Terror, Ficção científica</genre>
+<fanart>https://image.tmdb.org/t/p/original/lE2tRwb3lc2Ie0tvdP3FYwLMQzK.jpg</fanart>
+<info>Dois desconhecidos do colégio decidem invadir a última grande festa, antes da chegada do novo milênio, na Véspera de Ano Novo em 1999. A noite fica mais louca do que eles poderiam ter imaginado quando o relógio bate a meia-noite e a profecia do "Bug do Milênio" se concretiza, iniciando uma revolta tecnológica que coloca suas famílias, suas cidades e o mundo todo em risco.</info>
+</item>
+
+<item>
+<title>Kentucky em Chamas (2019/25)</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e34764af9f37655388d6434520c858d165a07bfe</link>
+<thumbnail>https://image.tmdb.org/t/p/original/l1avNggOkC89Wy48l5asqDdmpkY.jpg</thumbnail>
+<genre>Drama, Mistério</genre>
+<fanart>https://image.tmdb.org/t/p/original/aAF83FhUm8EIKWUSzA9Xiw1As47.jpg</fanart>
+<info>Nas montanhas do Kentucky, uma mulher tenta descobrir o que causou a morte de sua família. Quando a verdade finalmente é revelada, ela precisa escolher entre o seu amor ou a sua vingança.</info>
+</item>
+
+<item>
+<title>O Vingador do Futuro (2012/25)</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60d4fcd8dea478f48ecb7a157808b573da7380a8</link>
+<thumbnail>https://image.tmdb.org/t/p/original/mnc3nwzXKQAbFBVqDZaKUua1PP8.jpg</thumbnail>
+<genre>Ação, Ficção científica, Thriller</genre>
+<fanart>https://image.tmdb.org/t/p/original/uBHeAB2Ug9ELBzkMyls8CUjzn4i.jpg</fanart>
+<info>Doug Quaid (Colin Farrell) leva uma vida pacata. Ele mora na Colônia, trabalha em uma fábrica na Bretanha Unida e é casado com a bela Lori (Kate Beckinsale). Um dia, resolve visitar a Rekall, uma empresa que oferece aos clientes a inserção de memórias no cérebro, simulando viagens que não aconteceram de verdade. Doug se submete ao tratamento, mas durante a inserção algo dá errado e ele logo se vê cercado por policiais, os quais mata sem dó nem piedade. Sem saber o que está acontecendo, Doug foge para casa. Lá descobre que Lori também está contra ele e deseja matá-lo. Após escapar da esposa, Doug começa a decifrar o enigma: No passado ele foi um importante agente do chanceler Cohaagen (Bryan Cranston), com ligações entre os rebeldes que desejam a liberdade da Colônia.</info>
+</item>
+
+<item>
+<title>Vingança no Oeste (2018/25)</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62ae4c4b1100f6b442a8365933b413c1a8913f47</link>
 <thumbnail>https://image.tmdb.org/t/p/original/1ix1AaEYsZgurQGlAJQ5CvdJ5hL.jpg</thumbnail>
 <genre>faroeste</genre>
