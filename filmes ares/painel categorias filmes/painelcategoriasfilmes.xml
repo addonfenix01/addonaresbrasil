@@ -4,7 +4,7 @@
 
 <channel>
 <name>[B][COLOR red]ARES [/COLOR] [COLOR pink]RECEM-ADICIONADOS [/COLOR][/B]</name>  
-<thumbnail>https://archive.org/download/aresfilmesmisterio/aresfilmesacao.jpgg</thumbnail>    
+<thumbnail>https://archive.org/download/aresfilmesmisterio/aresfilmesacao.jpg</thumbnail>    
 <fanart>https://archive.org/download/aresfilmesmisterio/aresfilmesacao.jpg</fanart>  
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/filmesrecemadicionados.xml</externallink>
 </channel>
@@ -67,8 +67,8 @@
 
 
 <name>[B][COLOR red]ARES[/COLOR] [COLOR pink]FANTASIA [/COLOR][/B]</name> 
-<thumbnail></thumbnail>    
-<fanart></fanart>     
+<thumbnail>https://archive.org/download/aresrecemadicionados/aresfilmesfantasia.png</thumbnail>    
+<fanart>https://archive.org/download/aresrecemadicionados/aresfilmesfantasia.png</fanart>     
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/fantasia.xml</externallink>
 </channel>
 
@@ -109,15 +109,15 @@
 
 <channel>
 <name>[B][COLOR red]ARES [/COLOR] [COLOR pink]ROMANCE [/COLOR][/B]</name>  
-<thumbnail></thumbnail>    
-<fanart></fanart>  
+<thumbnail>https://archive.org/download/aresrecemadicionados/aresfilmesromance1.png</thumbnail>    
+<fanart>https://archive.org/download/aresrecemadicionados/aresfilmesromance1.png</fanart>  
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/misterio.xml</externallink>
 </channel>
     
 <channel>
 <name>[B][COLOR pink]ARES [/COLOR] [COLOR red]TERROR [/COLOR][/B]</name>  
-<thumbnail></thumbnail>    
-<fanart></fanart>  
+<thumbnail>https://archive.org/download/aresrecemadicionados/aresfilmesdeterror.png</thumbnail>    
+<fanart>https://archive.org/download/aresrecemadicionados/aresfilmesdeterror.png</fanart>  
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/terror.xml</externallink>
 </channel>
 
