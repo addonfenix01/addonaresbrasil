@@ -32,8 +32,8 @@
 
 <channel>
 <name>[B][COLOR red]ARES[/COLOR] [COLOR pink]CLASSICOS [/COLOR][/B]</name> 
-<thumbnail>https://archive.org/download/aresfilmesmisterio/aresfilmescomedia.png</thumbnail>    
-<fanarthttps://archive.org/download/aresfilmesmisterio/aresfilmescomedia.png></fanart>     
+<thumbnail>https://archive.org/download/aresfilmesclassicos/aresfilmesclassicos.png</thumbnail>    
+<fanart>https://archive.org/download/aresfilmesclassicos/aresfilmesclassicos.png</fanart>     
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/classicos.xml</externallink>
 </channel>
    
