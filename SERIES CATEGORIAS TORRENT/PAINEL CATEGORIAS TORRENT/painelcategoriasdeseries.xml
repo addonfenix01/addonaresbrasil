@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 
+
+<channel>
+<name>[B][COLOR red]ARES[/COLOR] [COLOR pink]RECÉM-ADICIONDAS OU ATUALIZADAS[/COLOR][/B]</name> 
+<thumbnail>https://archive.org/download/aventuraares/animacaoares.png</thumbnail>    
+<fanart>https://archive.org/download/aventuraares/animacaoares.png</fanart>     
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/SERIES%20CATEGORIAS%20TORRENT/seriesrecemadicionadas.xml</externallink>
+</channel>
+   
 <channel>
 <name>[B][COLOR pink]ARES [/COLOR] [COLOR red]AÇÂO [/COLOR][/B]</name>  
 <thumbnail>https://archive.org/download/aventuraares/acaoares.png</thumbnail>    
