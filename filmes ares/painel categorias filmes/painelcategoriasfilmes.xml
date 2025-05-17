@@ -121,6 +121,13 @@
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/terror.xml</externallink>
 </channel>
 
+<channel>
+<name>[B][COLOR red]ARES [/COLOR] [COLOR pink]ARÉA DEV TESTES CONTEÚDOS [/COLOR][/B]</name>  
+<thumbnail></thumbnail>    
+<fanart></fanart>  
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/2teste.xml</externallink>
+</channel>
+    
 
     
 </channels>
