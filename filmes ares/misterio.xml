@@ -53,13 +53,14 @@
 </item>
 
 <item>
-<title>Revelações (2025)</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e31cc68c1fa37664fd37520481d8bc6c3dbdb694</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1SKvcCOWOD1ECEfY7EgHZW04GSd.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/zP1uS3fDWgVjCPDCZ3XgIsPX4Qe.jpg</fanart>
-<info>Ao investigarem um caso de desaparecimento, um pastor que acredita na revelação divina e uma inspetora assombrada por visões enfrentam seus próprios demônios no processo</info>
+<title>Premonição 6: Laços de Sangue LEG. CAM (2025)</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/3JwBGdRe4BFAoq</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3bXGxlByYWgsXYTyGVcYRqDh8gB.jpg</thumbnail>
+<genre>Drama, Mistério</genre>
+<fanart>https://image.tmdb.org/t/p/original/7wKnf6ILtRmKXV8eJWk0P6ZXnQ.jpg</fanart>
+<info>Atormentada por um pesadelo violento recorrente, a estudante universitária Stefanie volta para casa para encontrar a única pessoa que pode quebrar o ciclo e salvar sua família do destino horrível que inevitavelmente os aguarda.</info>
 </item>
-
+ 
 <item>
 <title>Project MKHEXE LEG. (2025)</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8854091afc3ca9b7f84dc5eeabd6435f6b91b1eb</link>
@@ -68,6 +69,14 @@
 <fanart>https://image.tmdb.org/t/p/original/mmfWd1hhnK9Xq6uory8fHWMuLCt.jpg</fanart>
 <info></info>
 </item>
-  
+
+<item>
+<title>Revelações (2025)</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e31cc68c1fa37664fd37520481d8bc6c3dbdb694</link>
+<thumbnail>https://image.tmdb.org/t/p/original/1SKvcCOWOD1ECEfY7EgHZW04GSd.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zP1uS3fDWgVjCPDCZ3XgIsPX4Qe.jpg</fanart>
+<info>Ao investigarem um caso de desaparecimento, um pastor que acredita na revelação divina e uma inspetora assombrada por visões enfrentam seus próprios demônios no processo</info>
+</item>
+ 
 
 </items>
