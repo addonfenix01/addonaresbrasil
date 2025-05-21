@@ -3,3 +3,7 @@
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/260711.ts|User-Agent=FooBar/1.2.3
 #EXTINF:-1 tvg-id="" tvg-name="FILMES ADICIONADOS" tvg-logo="" group-title="CANAIS | EVENTOS E NOVIDADES",FILMES ADICIONADOS
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/278945.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Jogos de Hoje" tvg-logo="http://lfpy.club/NMY2" group-title="Canais | Eventos de Hoje",Jogos de Hoje
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/marc89/onioz7/300155.ts|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Lutas do Dia" tvg-logo="http://lfpy.club/NMY1" group-title="Canais | Eventos de Hoje",Lutas do Dia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/marc89/onioz7/300154.ts|User-Agent=FooBar/1.2.3
