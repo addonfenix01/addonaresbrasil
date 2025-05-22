@@ -4,28 +4,28 @@
 
 <channel>
 <name>[B][COLOR pink]FILMES[/COLOR] [COLOR orange]| RÉCEM-LANÇADOS[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://archive.org/download/aresdiretoanimacao/aresdiretorecemadicionados.png</thumbnail>
+<fanart>https://archive.org/download/aresdiretoanimacao/aresdiretorecemadicionados.png</fanart>
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/painel%20categorias%20filmes/MENU%20FILMES%20LINK-DIRETO%20CATEGORIAS/filmesrecemlancados.xml</externallink>
 </channel>
 
 <channel>
 <name>[B][COLOR pink]FILMES[/COLOR] [COLOR orange]| AÇÃO[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://archive.org/download/aresdiretoanimacao/aresdiretoacao.png</thumbnail>
+<fanart>https://archive.org/download/aresdiretoanimacao/aresdiretoacao.png</fanart>
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/painel%20categorias%20filmes/MENU%20FILMES%20LINK-DIRETO%20CATEGORIAS/acaodireto.xml</externallink>
 </channel>
 
 <channel>
 <name>[B][COLOR pink]FILMES[/COLOR] [COLOR orange]| ANIMAÇÂO[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://archive.org/download/aresdiretoanimacao/aresdiretoanimacao.png</thumbnail>
+<fanart>https://archive.org/download/aresdiretoanimacao/aresdiretoanimacao.png</fanart>
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/painel%20categorias%20filmes/MENU%20FILMES%20LINK-DIRETO%20CATEGORIAS/animacaodireto.xml</externallink>
 </channel>
   
 <channel>
 <name>[B][COLOR pink]FILMES[/COLOR] [COLOR orange]| AVENTURA[/COLOR][/B]</name>
-<thumbnail</thumbnail>
+<thumbnail>https://archive.org/download/aresdiretoanimacao/ARESDIRETOAVENTURA.pnghttps://archive.org/download/aresdiretoanimacao/ARESDIRETOAVENTURA.png</thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/painel%20categorias%20filmes/MENU%20FILMES%20LINK-DIRETO%20CATEGORIAS/aventuradireto.xml</externallink>
 </channel>
