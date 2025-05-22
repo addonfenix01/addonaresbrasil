@@ -19,8 +19,8 @@
 
 <channel>  
 <name>[COLOR orange] FILMES LINK-DIRETO [/COLOR] CATEGORIAS </name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://archive.org/download/aresdiretcategorias/aresdiretcategorias.png</thumbnail>
+<fanart>https://archive.org/download/aresdiretcategorias/aresdiretcategorias.png</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/painel%20categorias%20filmes/MENU%20FILMES%20LINK-DIRETO%20CATEGORIAS/MENU%20FILMES%20LINK-DIRETO%20CATEGORIAS.xml</externallink>
 </channel>
