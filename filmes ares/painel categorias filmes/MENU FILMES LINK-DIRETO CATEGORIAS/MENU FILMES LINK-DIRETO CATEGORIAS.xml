@@ -25,8 +25,8 @@
   
 <channel>
 <name>[B][COLOR pink]FILMES[/COLOR] [COLOR orange]| AVENTURA[/COLOR][/B]</name>
-<thumbnail>https://archive.org/download/aresdiretoanimacao/ARESDIRETOAVENTURA.pnghttps://archive.org/download/aresdiretoanimacao/ARESDIRETOAVENTURA.png</thumbnail>
-<fanart></fanart>
+<thumbnail>https://archive.org/download/aresdiretoanimacao/ARESDIRETOAVENTURA.png</thumbnail>
+<fanart>https://archive.org/download/aresdiretoanimacao/ARESDIRETOAVENTURA.png</fanart>
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/painel%20categorias%20filmes/MENU%20FILMES%20LINK-DIRETO%20CATEGORIAS/aventuradireto.xml</externallink>
 </channel>
 
