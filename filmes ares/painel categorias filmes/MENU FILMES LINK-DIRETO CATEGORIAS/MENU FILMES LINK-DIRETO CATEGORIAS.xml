@@ -4,8 +4,8 @@
 
 <channel>
 <name>[B][COLOR pink]FILMES[/COLOR] [COLOR orange]| LANÇAMENTOS[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
-<fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <externallink></externallink>
 </channel>
 
@@ -18,129 +18,10 @@
 
 <channel>
 <name>[B][COLOR pink]FILMES[/COLOR] [COLOR orange]| ANIMAÇÃO / INFANTIL[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
-<fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
-<externallink>https://raw.githubusercontent.com/BluePlay8486/BluePlayHD/refs/heads/main/ARES%20%C3%81REA%20DE%20FILMES%20E%20S%C3%89RIES/FILMES/ANIMACAOEINFANTIL.XML</externallink>
+<thumbnail</thumbnail>
+<fanart></fanart>
+<externallink></externallink>
 </channel>
 
-<channel>
-<name>[B][COLOR pink]FILMES[/COLOR] [COLOR orange]| AVENTURA[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
-<fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
-<externallink>https://github.com/BluePlay8486/BluePlay/raw/refs/heads/main/ARES%20AREA%20DE%20FILMES%20E%20ETC/ARES%20FILMES/AVENTURA.XML</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR pink]FILMES[/COLOR] [COLOR orange]| ANIME[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
-<fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
-<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/FILMES/LINK%20DIRETO/MENUS/Filmes___Cinema.txt</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR pink]FILMES[/COLOR] [COLOR orange]| COMÉDIA[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
-<fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
-<externallink>https://raw.githubusercontent.com/BluePlay8486/BluePlayHD/refs/heads/main/ARES%20%C3%81REA%20DE%20FILMES%20E%20S%C3%89RIES/FILMES/COMEDIA.XML</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR pink]FILMES[/COLOR] [COLOR orange]| CRIME[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
-<fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
-<externallink>https://raw.githubusercontent.com/BluePlay8486/BluePlayHD/refs/heads/main/ARES%20%C3%81REA%20DE%20FILMES%20E%20S%C3%89RIES/FILMES/CRIME.XML</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR pink]FILMES[/COLOR] [COLOR orange]| DRAMA[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
-<fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
-<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/FILMES/LINK%20DIRETO/MENUS/Filmes___Drama.txt</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR pink]FILMES[/COLOR] [COLOR orange]| DOCUMENTARIA[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
-<fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
-<externallink>https://raw.githubusercontent.com/BluePlay8486/BluePlayHD/refs/heads/main/ARES%20%C3%81REA%20DE%20FILMES%20E%20S%C3%89RIES/FILMES/DOCUMENTARIOS.XML</externallink>
-</channel>
-  
-<channel>
-<name>[B][COLOR pink]FILMES[/COLOR] [COLOR orange]| FICÇÃO[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
-<fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
-
-<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/FILMES/LINK%20DIRETO/MENUS/Filmes___Ficcao.txt</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR pink]FILMES[/COLOR] [COLOR orange]| FAMÍLIA[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
-<fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
-<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/FILMES/LINK%20DIRETO/MENUS/Filmes___Fam%C3%ADlia.txt</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR pink]FILMES[/COLOR] [COLOR orange]| FANTASIA[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
-<fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
-<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/FILMES/LINK%20DIRETO/MENUS/Filmes___Fantasia.txt</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR pink]FILMES[/COLOR] [COLOR orange]| FAROESTE[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
-<fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
-<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/FILMES/LINK%20DIRETO/MENUS/Filmes___Faroeste.txt</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR pink]FILMES[/COLOR] [COLOR orange]| GUERRA[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
-<fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
-<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/FILMES/LINK%20DIRETO/MENUS/Filmes___Guerra.txt</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR pink]FILMES[/COLOR] [COLOR orange]| SUPERHEROIS[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
-<fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
-<externallink>https://raw.githubusercontent.com/BluePlay8486/BluePlayHD/refs/heads/main/ARES%20%C3%81REA%20DE%20FILMES%20E%20S%C3%89RIES/FILMES/SUPERHEROIS.XML</externallink>
-</channel>
-  
-<channel>
-<name>[B][COLOR pink]FILMES[/COLOR] [COLOR orange]| NACIONAIS[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
-<fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
-<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/FILMES/LINK%20DIRETO/MENUS/Filmes___Nacionais.txt</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR pink]FILMES[/COLOR] [COLOR orange]| RELIGIOSOS[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
-<fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
-<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/FILMES/LINK%20DIRETO/MENUS/Filmes___Religiosos.txt</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR pink]FILMES[/COLOR] [COLOR orange]| ROMANCE[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
-<fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
-<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/FILMES/LINK%20DIRETO/MENUS/Filmes___Romance.txt</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR pink]FILMES[/COLOR] [COLOR orange]| SUSPENSE[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
-<fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
-<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/FILMES/LINK%20DIRETO/MENUS/Filmes___Suspense.txt</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR pink]FILMES[/COLOR] [COLOR orange]| TERROR[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
-<fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
-<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/FILMES/LINK%20DIRETO/MENUS/Filmes___Terror.txt</externallink>
-</channel>
 
 </channels>
