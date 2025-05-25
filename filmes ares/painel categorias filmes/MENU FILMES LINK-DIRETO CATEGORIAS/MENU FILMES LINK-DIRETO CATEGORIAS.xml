@@ -30,5 +30,19 @@
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/painel%20categorias%20filmes/MENU%20FILMES%20LINK-DIRETO%20CATEGORIAS/aventuradireto.xml</externallink>
 </channel>
 
+<channel>
+<name>[B][COLOR pink]FILMES[/COLOR] [COLOR orange]| COMÉDIA[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/painel%20categorias%20filmes/MENU%20FILMES%20LINK-DIRETO%20CATEGORIAS/comediadireto.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR orange]FILMES[/COLOR] [COLOR pink]| DRAMA[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>
+</channel>
+  
 
 </channels>
