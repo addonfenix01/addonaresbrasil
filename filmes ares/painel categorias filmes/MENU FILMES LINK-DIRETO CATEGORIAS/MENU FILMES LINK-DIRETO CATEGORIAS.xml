@@ -48,17 +48,14 @@
 <name>[B][COLOR orange]FILMES[/COLOR] [COLOR pink]| INDIANA JONES[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/dramadireto/dramadireto.png</thumbnail>
 <fanart>https://archive.org/download/dramadireto/dramadireto.png</fanart>
-<externallink> https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/painel%20categorias%20filmes/MENU%20FILMES%20LINK-DIRETO%20CATEGORIAS/filmesindianajones.xml</externallink>
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/painel%20categorias%20filmes/MENU%20FILMES%20LINK-DIRETO%20CATEGORIAS/filmesindianajones.xml</externallink>
 </channel>
 
 <name>[B][COLOR pink]FILMES[/COLOR] [COLOR orange]| MORTAL KOMBAT[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/aresdiretoanimacao/ARESDIRETOAVENTURA.png</thumbnail>
 <fanart>https://archive.org/download/aresdiretoanimacao/ARESDIRETOAVENTURA.png</fanart>
-<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/painel%20categorias%20filmes/MENU%20FILMES%20LINK-DIRETO%20CATEGORIAS/filmesmortalcombat.xml
-<channel></externallink>
-</channel>
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/painel%20categorias%20filmes/MENU%20FILMES%20LINK-DIRETO%20CATEGORIAS/filmesmortalcombat.xml</externallink>
+<channel>
  
-
-
   
 </channels>
