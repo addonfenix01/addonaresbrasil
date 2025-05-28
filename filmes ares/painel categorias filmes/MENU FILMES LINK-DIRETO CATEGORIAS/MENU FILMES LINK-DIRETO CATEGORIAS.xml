@@ -39,8 +39,8 @@
 
 <channel>
 <name>[B][COLOR pink]FILMES[/COLOR] [COLOR orange]| FICÇÂO[/COLOR][/B]</name>
-<thumbnail>https://archive.org/download/aresdiretoanimacao/ARESDIRETOAVENTURA.png</thumbnail>
-<fanart>https://archive.org/download/aresdiretoanimacao/ARESDIRETOAVENTURA.png</fanart>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/painel%20categorias%20filmes/MENU%20FILMES%20LINK-DIRETO%20CATEGORIAS/ficcaodireto.xml</externallink>
 </channel>
 
@@ -51,6 +51,7 @@
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/painel%20categorias%20filmes/MENU%20FILMES%20LINK-DIRETO%20CATEGORIAS/filmesindianajones.xml</externallink>
 </channel>
 
+<channel>
 <name>[B][COLOR pink]FILMES[/COLOR] [COLOR orange]| MORTAL KOMBAT[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/aev8KwfhLbNzumqGlRoG4K0dUne.jpg</thumbnail>
 <fanart></fanart>
