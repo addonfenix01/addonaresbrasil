@@ -64,7 +64,15 @@
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/Canais%20ares/portugueses.xml</externallink>
 </channel>
-
+l
+<channel>
+<name>[B][COLOR orange]HBO [/COLOR] [COLOR pink]| CANAIS[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/Canais%20ares/canaishbo.xm</externallink>
+</channel>
+  
 
   
 
