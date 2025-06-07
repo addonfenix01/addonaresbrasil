@@ -1,203 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="São.Paulo/SP..MTV.br" tvg-name="BAND CAMPINAS [HD]" tvg-logo="http://lfpy.club/VVJ" group-title="Canais | Abertos",BAND CAMPINAS [HD]
-http://pfsv.io:80/marc89/onioz7/113587.ts
-#EXTINF:-1 tvg-id="" tvg-name="BAND CEARA [HD]" tvg-logo="http://lfpy.club/JYZ4" group-title="Canais | Abertos",BAND CEARA [HD]
-http://pfsv.io:80/marc89/onioz7/186203.ts
-#EXTINF:-1 tvg-id="BR - Band RJ HD" tvg-name="BAND RJ [FHD]" tvg-logo="http://lfpy.club/VVL" group-title="Canais | Abertos",BAND RJ [FHD]
-http://pfsv.io:80/marc89/onioz7/122446.ts
-#EXTINF:-1 tvg-id="BR - Band RJ HD" tvg-name="BAND RJ [HD]" tvg-logo="http://lfpy.club/VVM" group-title="Canais | Abertos",BAND RJ [HD]
-http://pfsv.io:80/marc89/onioz7/122447.ts
-#EXTINF:-1 tvg-id="BR - Band Rio Grande do Sul HD" tvg-name="Band RS [FHD]" tvg-logo="http://lfpy.club/MXP6" group-title="Canais | Abertos",Band RS [FHD]
-http://pfsv.io:80/marc89/onioz7/286928.ts
-#EXTINF:-1 tvg-id="BR - Band Rio Grande do Sul HD" tvg-name="BAND RS [HD]" tvg-logo="http://lfpy.club/VWQ" group-title="Canais | Abertos",BAND RS [HD]
-http://pfsv.io:80/marc89/onioz7/123576.ts
-#EXTINF:-1 tvg-id="" tvg-name="BAND SERGIPE [HD]" tvg-logo="http://lfpy.club/VWR" group-title="Canais | Abertos",BAND SERGIPE [HD]
-http://pfsv.io:80/marc89/onioz7/123577.ts
-#EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="BAND SP [FHD]" tvg-logo="http://lfpy.club/VVH" group-title="Canais | Abertos",BAND SP [FHD]
-http://pfsv.io:80/marc89/onioz7/113585.ts
-#EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="BAND SP [HD]" tvg-logo="http://lfpy.club/VVG" group-title="Canais | Abertos",BAND SP [HD]
-http://pfsv.io:80/marc89/onioz7/113584.ts
-#EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="BAND SP [SD]" tvg-logo="http://lfpy.club/VVF" group-title="Canais | Abertos",BAND SP [SD]
-http://pfsv.io:80/marc89/onioz7/113583.ts
-#EXTINF:-1 tvg-id="BR - Band TV Goiânia" tvg-name="BAND TV GOIANIA [FHD][H265]" tvg-logo="http://lfpy.club/UAB" group-title="Canais | Abertos",BAND TV GOIANIA [FHD][H265]
-http://pfsv.io:80/marc89/onioz7/123575.ts
-#EXTINF:-1 tvg-id="BR - Band TV Goiânia" tvg-name="BAND TV GOIANIA [HD]" tvg-logo="http://lfpy.club/UAA" group-title="Canais | Abertos",BAND TV GOIANIA [HD]
-http://pfsv.io:80/marc89/onioz7/123574.ts
-#EXTINF:-1 tvg-id="BR - Band Minas" tvg-name="BAND TV MINAS [FHD]" tvg-logo="http://lfpy.club/UAH" group-title="Canais | Abertos",BAND TV MINAS [FHD]
-http://pfsv.io:80/marc89/onioz7/123583.ts
-#EXTINF:-1 tvg-id="BR - Band Minas" tvg-name="BAND TV MINAS [HD]" tvg-logo="http://lfpy.club/UAG" group-title="Canais | Abertos",BAND TV MINAS [HD]
-http://pfsv.io:80/marc89/onioz7/123582.ts
-#EXTINF:-1 tvg-id="BR - Band Curitiba" tvg-name="BAND TV PR TAROBA [HD]" tvg-logo="http://lfpy.club/UAC" group-title="Canais | Abertos",BAND TV PR TAROBA [HD]
-http://pfsv.io:80/marc89/onioz7/123578.ts
-#EXTINF:-1 tvg-id="BR - Band Curitiba" tvg-name="BAND TV TAROBA CURITIBA [FHD]" tvg-logo="http://lfpy.club/UAF" group-title="Canais | Abertos",BAND TV TAROBA CURITIBA [FHD]
-http://pfsv.io:80/marc89/onioz7/123581.ts
-#EXTINF:-1 tvg-id="BR - Band Curitiba" tvg-name="BAND TV TAROBA CURITIBA [HD]" tvg-logo="http://lfpy.club/UAD" group-title="Canais | Abertos",BAND TV TAROBA CURITIBA [HD]
-http://pfsv.io:80/marc89/onioz7/123579.ts
-#EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="BAND [FHD][H265]" tvg-logo="http://lfpy.club/VVK" group-title="Canais | Abertos",BAND [FHD][H265]
-http://pfsv.io:80/marc89/onioz7/113588.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI [HD]" tvg-logo="http://lfpy.club/JZA3" group-title="Canais | Abertos",CANAL DO BOI [HD]
-http://pfsv.io:80/marc89/onioz7/199615.ts
-#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI [SD]" tvg-logo="http://lfpy.club/AIA" group-title="Canais | Abertos",CANAL DO BOI [SD]
-http://pfsv.io:80/marc89/onioz7/83.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal Rural [FHD]" tvg-logo="http://lfpy.club/DYS9" group-title="Canais | Abertos",Canal Rural [FHD]
-http://pfsv.io:80/marc89/onioz7/234102.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal Rural [FHD][H265]" tvg-logo="http://lfpy.club/DYS6" group-title="Canais | Abertos",Canal Rural [FHD][H265]
-http://pfsv.io:80/marc89/onioz7/234099.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal Rural [FHD][HDR]" tvg-logo="http://lfpy.club/DYS5" group-title="Canais | Abertos",Canal Rural [FHD][HDR]
-http://pfsv.io:80/marc89/onioz7/234098.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal Rural [HD]" tvg-logo="http://lfpy.club/DYS7" group-title="Canais | Abertos",Canal Rural [HD]
-http://pfsv.io:80/marc89/onioz7/234100.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal Rural [SD]" tvg-logo="http://lfpy.club/DYS8" group-title="Canais | Abertos",Canal Rural [SD]
-http://pfsv.io:80/marc89/onioz7/234101.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..Futura.HD.br" tvg-name="FUTURA [FHD]" tvg-logo="http://lfpy.club/AGO" group-title="Canais | Abertos",FUTURA [FHD]
-http://pfsv.io:80/marc89/onioz7/43.ts
-#EXTINF:-1 tvg-id="BR - Futura" tvg-name="FUTURA [FHD][H265]" tvg-logo="http://lfpy.club/VCE" group-title="Canais | Abertos",FUTURA [FHD][H265]
-http://pfsv.io:80/marc89/onioz7/30182.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..Futura.HD.br" tvg-name="FUTURA [HD]" tvg-logo="http://lfpy.club/AGV" group-title="Canais | Abertos",FUTURA [HD]
-http://pfsv.io:80/marc89/onioz7/51.ts
-#EXTINF:-1 tvg-id="BR - Futura" tvg-name="FUTURA [SD]" tvg-logo="http://lfpy.club/AHJ" group-title="Canais | Abertos",FUTURA [SD]
-http://pfsv.io:80/marc89/onioz7/66.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Joinville (RIC TV) [HD]" tvg-logo="" group-title="Canais | Abertos",Record TV Joinville (RIC TV) [HD]
-http://pfsv.io:80/marc89/onioz7/295710.ts
-#EXTINF:-1 tvg-id="BR - Record TV Bahia" tvg-name="RECORDTV BA [HD]" tvg-logo="http://lfpy.club/AHF" group-title="Canais | Abertos",RECORDTV BA [HD]
-http://pfsv.io:80/marc89/onioz7/61.ts
-#EXTINF:-1 tvg-id="BR - RecordTV Belém" tvg-name="RECORDTV BELEM [HD]" tvg-logo="http://lfpy.club/AHG" group-title="Canais | Abertos",RECORDTV BELEM [HD]
-http://pfsv.io:80/marc89/onioz7/62.ts
-#EXTINF:-1 tvg-id="" tvg-name="RECORDTV CABRALIA BAHIA [HD]" tvg-logo="http://lfpy.club/JYZ0" group-title="Canais | Abertos",RECORDTV CABRALIA BAHIA [HD]
-http://pfsv.io:80/marc89/onioz7/175466.ts
-#EXTINF:-1 tvg-id="CIDADEH" tvg-name="RECORDTV CIDADE [HD]" tvg-logo="http://lfpy.club/AKE9" group-title="Canais | Abertos",RECORDTV CIDADE [HD]
-http://pfsv.io:80/marc89/onioz7/186199.ts
-#EXTINF:-1 tvg-id="CIDADEH" tvg-name="RECORDTV CIDADE [SD]" tvg-logo="http://lfpy.club/AKE8" group-title="Canais | Abertos",RECORDTV CIDADE [SD]
-http://pfsv.io:80/marc89/onioz7/186198.ts
-#EXTINF:-1 tvg-id="BR - Record TV Brasília HD" tvg-name="RECORDTV DF [HD]" tvg-logo="http://lfpy.club/AHE" group-title="Canais | Abertos",RECORDTV DF [HD]
-http://pfsv.io:80/marc89/onioz7/60.ts
-#EXTINF:-1 tvg-id="BR - Record TV Goiás" tvg-name="RECORDTV GO [FHD]" tvg-logo="http://lfpy.club/VBK" group-title="Canais | Abertos",RECORDTV GO [FHD]
-http://pfsv.io:80/marc89/onioz7/120717.ts
-#EXTINF:-1 tvg-id="BR - Record TV Goiás" tvg-name="RECORDTV GO [HD]" tvg-logo="http://lfpy.club/AHH" group-title="Canais | Abertos",RECORDTV GO [HD]
-http://pfsv.io:80/marc89/onioz7/63.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..Rede.TV.HD.br" tvg-name="RECORDTV ITAPOAN (BAHIA) [HD]" tvg-logo="http://lfpy.club/VBE" group-title="Canais | Abertos",RECORDTV ITAPOAN (BAHIA) [HD]
-http://pfsv.io:80/marc89/onioz7/69086.ts
-#EXTINF:-1 tvg-id="BR - Record TV Minas" tvg-name="RECORDTV MG [HD]" tvg-logo="http://lfpy.club/AHC" group-title="Canais | Abertos",RECORDTV MG [HD]
-http://pfsv.io:80/marc89/onioz7/58.ts
-#EXTINF:-1 tvg-id="BR - Record TV Rio" tvg-name="RECORDTV RJ [FHD]" tvg-logo="http://lfpy.club/VBD" group-title="Canais | Abertos",RECORDTV RJ [FHD]
-http://pfsv.io:80/marc89/onioz7/50880.ts
-#EXTINF:-1 tvg-id="BR - Record TV Rio" tvg-name="RECORDTV RJ [HD]" tvg-logo="http://lfpy.club/AHB" group-title="Canais | Abertos",RECORDTV RJ [HD]
-http://pfsv.io:80/marc89/onioz7/57.ts
-#EXTINF:-1 tvg-id="BR - Record TV Rio" tvg-name="RECORDTV RJ [SD]" tvg-logo="http://lfpy.club/AHT" group-title="Canais | Abertos",RECORDTV RJ [SD]
-http://pfsv.io:80/marc89/onioz7/76.ts
-#EXTINF:-1 tvg-id="BR - Record TV RS" tvg-name="RECORDTV RS [FHD]" tvg-logo="http://lfpy.club/VBH" group-title="Canais | Abertos",RECORDTV RS [FHD]
-http://pfsv.io:80/marc89/onioz7/120714.ts
-#EXTINF:-1 tvg-id="BR - Record TV RS" tvg-name="RECORDTV RS [HD]" tvg-logo="http://lfpy.club/AHD" group-title="Canais | Abertos",RECORDTV RS [HD]
-http://pfsv.io:80/marc89/onioz7/59.ts
-#EXTINF:-1 tvg-id="Record.RS.HD.br" tvg-name="RECORDTV RS [SD]" tvg-logo="http://lfpy.club/JZB3" group-title="Canais | Abertos",RECORDTV RS [SD]
-http://pfsv.io:80/marc89/onioz7/207356.ts
-#EXTINF:-1 tvg-id="BR - TV Atalaia" tvg-name="RECORDTV SERGIPE (ATALAIA) [HD]" tvg-logo="http://lfpy.club/VBC" group-title="Canais | Abertos",RECORDTV SERGIPE (ATALAIA) [HD]
-http://pfsv.io:80/marc89/onioz7/47374.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..Record.HD.br" tvg-name="RECORDTV SP [FHD]" tvg-logo="http://lfpy.club/AGQ" group-title="Canais | Abertos",RECORDTV SP [FHD]
-http://pfsv.io:80/marc89/onioz7/45.ts
-#EXTINF:-1 tvg-id="BR - RecordTV São Paulo HD" tvg-name="RECORDTV SP [FHD][H265]" tvg-logo="http://lfpy.club/VAY" group-title="Canais | Abertos",RECORDTV SP [FHD][H265]
-http://pfsv.io:80/marc89/onioz7/30178.ts
-#EXTINF:-1 tvg-id="BR - Record TV" tvg-name="RECORDTV SP [HD]" tvg-logo="http://lfpy.club/AGW" group-title="Canais | Abertos",RECORDTV SP [HD]
-http://pfsv.io:80/marc89/onioz7/52.ts
-#EXTINF:-1 tvg-id="BR - Record TV" tvg-name="RECORDTV SP [SD]" tvg-logo="http://lfpy.club/AHK" group-title="Canais | Abertos",RECORDTV SP [SD]
-http://pfsv.io:80/marc89/onioz7/67.ts
-#EXTINF:-1 tvg-id="BR - Record TV Campinas" tvg-name="RECORDTV THATHI CAMPINAS [FHD]" tvg-logo="http://lfpy.club/VBF" group-title="Canais | Abertos",RECORDTV THATHI CAMPINAS [FHD]
-http://pfsv.io:80/marc89/onioz7/92667.ts
-#EXTINF:-1 tvg-id="BR - Record TV Campinas" tvg-name="RECORDTV THATHI CAMPINAS [HD]" tvg-logo="http://lfpy.club/VBA" group-title="Canais | Abertos",RECORDTV THATHI CAMPINAS [HD]
-http://pfsv.io:80/marc89/onioz7/32542.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil [HD]" tvg-logo="http://lfpy.club/NRM3" group-title="Canais | Abertos",Rede Brasil [HD]
-http://pfsv.io:80/marc89/onioz7/300986.ts
-#EXTINF:-1 tvg-id="BR - Rede Brasil" tvg-name="REDE BRASIL [SD]" tvg-logo="http://lfpy.club/AIE" group-title="Canais | Abertos",REDE BRASIL [SD]
-http://pfsv.io:80/marc89/onioz7/87.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..Rede.TV.HD.br" tvg-name="REDETV! [FHD]" tvg-logo="http://lfpy.club/AGS" group-title="Canais | Abertos",REDETV! [FHD]
-http://pfsv.io:80/marc89/onioz7/48.ts
-#EXTINF:-1 tvg-id="BR - RedeTV!" tvg-name="REDETV! [FHD][H265]" tvg-logo="http://lfpy.club/VAZ" group-title="Canais | Abertos",REDETV! [FHD][H265]
-http://pfsv.io:80/marc89/onioz7/30180.ts
-#EXTINF:-1 tvg-id="BR - RedeTV!" tvg-name="REDETV! [HD]" tvg-logo="http://lfpy.club/AGY" group-title="Canais | Abertos",REDETV! [HD]
-http://pfsv.io:80/marc89/onioz7/54.ts
-#EXTINF:-1 tvg-id="BR - RedeTV!" tvg-name="REDETV! [SD]" tvg-logo="http://lfpy.club/AHM" group-title="Canais | Abertos",REDETV! [SD]
-http://pfsv.io:80/marc89/onioz7/69.ts
-#EXTINF:-1 tvg-id="BR - TV Allamanda HD" tvg-name="SBT Alterosa [FHD]" tvg-logo="http://lfpy.club/NRK5" group-title="Canais | Abertos",SBT Alterosa [FHD]
-http://pfsv.io:80/marc89/onioz7/296293.ts
-#EXTINF:-1 tvg-id="BR - TV Alterosa HD" tvg-name="SBT Alterosa [HD]" tvg-logo="http://lfpy.club/NRK6" group-title="Canais | Abertos",SBT Alterosa [HD]
-http://pfsv.io:80/marc89/onioz7/296294.ts
-#EXTINF:-1 tvg-id="" tvg-name="SBT Bahia TV Aratu [FHD]" tvg-logo="http://lfpy.club/MXO3" group-title="Canais | Abertos",SBT Bahia TV Aratu [FHD]
-http://pfsv.io:80/marc89/onioz7/273618.ts
-#EXTINF:-1 tvg-id="" tvg-name="SBT Bahia [FHD]" tvg-logo="http://lfpy.club/MXO4" group-title="Canais | Abertos",SBT Bahia [FHD]
-http://pfsv.io:80/marc89/onioz7/273619.ts
-#EXTINF:-1 tvg-id="BR - SBT Rio" tvg-name="SBT RJ [FHD]" tvg-logo="http://lfpy.club/VBX" group-title="Canais | Abertos",SBT RJ [FHD]
-http://pfsv.io:80/marc89/onioz7/50875.ts
-#EXTINF:-1 tvg-id="BR - SBT Rio" tvg-name="SBT RJ [HD]" tvg-logo="http://lfpy.club/VBW" group-title="Canais | Abertos",SBT RJ [HD]
-http://pfsv.io:80/marc89/onioz7/50874.ts
-#EXTINF:-1 tvg-id="BR - SBT RS" tvg-name="SBT RS [HD]" tvg-logo="http://lfpy.club/VBV" group-title="Canais | Abertos",SBT RS [HD]
-http://pfsv.io:80/marc89/onioz7/49111.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..SBT.br" tvg-name="SBT SP [FHD]" tvg-logo="http://lfpy.club/VBQ" group-title="Canais | Abertos",SBT SP [FHD]
-http://pfsv.io:80/marc89/onioz7/46.ts
-#EXTINF:-1 tvg-id="BR - SBT" tvg-name="SBT SP [HD]" tvg-logo="http://lfpy.club/AGZ" group-title="Canais | Abertos",SBT SP [HD]
-http://pfsv.io:80/marc89/onioz7/55.ts
-#EXTINF:-1 tvg-id="" tvg-name="SBT SP [SD]" tvg-logo="http://lfpy.club/JYY9" group-title="Canais | Abertos",SBT SP [SD]
-http://pfsv.io:80/marc89/onioz7/174142.ts
-#EXTINF:-1 tvg-id="BR - TV Jangadeiro" tvg-name="SBT TV JANGADEIRO [HD]" tvg-logo="http://lfpy.club/JYY1" group-title="Canais | Abertos",SBT TV JANGADEIRO [HD]
-http://pfsv.io:80/marc89/onioz7/134102.ts
-#EXTINF:-1 tvg-id="BR - SBT" tvg-name="SBT [FHD][H265]" tvg-logo="http://lfpy.club/VBS" group-title="Canais | Abertos",SBT [FHD][H265]
-http://pfsv.io:80/marc89/onioz7/30179.ts
-#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT [HD]" tvg-logo="http://lfpy.club/JZA7" group-title="Canais | Abertos",SBT [HD]
-http://pfsv.io:80/marc89/onioz7/199660.ts
-#EXTINF:-1 tvg-id="BR - SBT" tvg-name="SBT [SD]" tvg-logo="http://lfpy.club/AHN" group-title="Canais | Abertos",SBT [SD]
-http://pfsv.io:80/marc89/onioz7/70.ts
-#EXTINF:-1 tvg-id="BR - TV Brasil" tvg-name="TV BRASIL [SD]" tvg-logo="http://lfpy.club/AIG" group-title="Canais | Abertos",TV BRASIL [SD]
-http://pfsv.io:80/marc89/onioz7/89.ts
-#EXTINF:-1 tvg-id="BR - TV Câmara" tvg-name="TV CAMARA [SD]" tvg-logo="http://lfpy.club/AHR" group-title="Canais | Abertos",TV CAMARA [SD]
-http://pfsv.io:80/marc89/onioz7/74.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..Cultura.HD.br" tvg-name="TV CULTURA [FHD]" tvg-logo="http://lfpy.club/AGR" group-title="Canais | Abertos",TV CULTURA [FHD]
-http://pfsv.io:80/marc89/onioz7/47.ts
-#EXTINF:-1 tvg-id="BR - Cultura" tvg-name="TV CULTURA [FHD][H265]" tvg-logo="http://lfpy.club/ONS" group-title="Canais | Abertos",TV CULTURA [FHD][H265]
-http://pfsv.io:80/marc89/onioz7/30183.ts
-#EXTINF:-1 tvg-id="BR - Cultura" tvg-name="TV CULTURA [HD]" tvg-logo="http://lfpy.club/AHI" group-title="Canais | Abertos",TV CULTURA [HD]
-http://pfsv.io:80/marc89/onioz7/64.ts
-#EXTINF:-1 tvg-id="BR - Cultura" tvg-name="TV CULTURA [SD]" tvg-logo="http://lfpy.club/AIH" group-title="Canais | Abertos",TV CULTURA [SD]
-http://pfsv.io:80/marc89/onioz7/90.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO [HD]" tvg-logo="http://lfpy.club/ARF5" group-title="Canais | Abertos",TV DIARIO [HD]
-http://pfsv.io:80/marc89/onioz7/199363.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO [SD]" tvg-logo="http://lfpy.club/ARF6" group-title="Canais | Abertos",TV DIARIO [SD]
-http://pfsv.io:80/marc89/onioz7/199364.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..Gazeta.HD.br" tvg-name="TV GAZETA SP [FHD]" tvg-logo="http://lfpy.club/AGT" group-title="Canais | Abertos",TV GAZETA SP [FHD]
-http://pfsv.io:80/marc89/onioz7/49.ts
-#EXTINF:-1 tvg-id="BR - TV Gazeta HD" tvg-name="TV GAZETA SP [FHD][H265]" tvg-logo="http://lfpy.club/ONU" group-title="Canais | Abertos",TV GAZETA SP [FHD][H265]
-http://pfsv.io:80/marc89/onioz7/30189.ts
-#EXTINF:-1 tvg-id="BR - TV Gazeta HD" tvg-name="TV GAZETA SP [HD]" tvg-logo="http://lfpy.club/AHA" group-title="Canais | Abertos",TV GAZETA SP [HD]
-http://pfsv.io:80/marc89/onioz7/56.ts
-#EXTINF:-1 tvg-id="BR - TV Gazeta HD" tvg-name="TV GAZETA SP [SD]" tvg-logo="http://lfpy.club/AHZ" group-title="Canais | Abertos",TV GAZETA SP [SD]
-http://pfsv.io:80/marc89/onioz7/82.ts
-#EXTINF:-1 tvg-id="BR - TV JUSTIÇA" tvg-name="TV JUSTICA [SD]" tvg-logo="http://lfpy.club/AHQ" group-title="Canais | Abertos",TV JUSTICA [SD]
-http://pfsv.io:80/marc89/onioz7/73.ts
-#EXTINF:-1 tvg-id="BR - TV SENADO" tvg-name="TV SENADO [SD]" tvg-logo="http://lfpy.club/AHP" group-title="Canais | Abertos",TV SENADO [SD]
-http://pfsv.io:80/marc89/onioz7/72.ts
-#EXTINF:-1 tvg-id="" tvg-name="STB PR [HD]" tvg-logo="http://lfpy.club/NNS9" group-title="Canais | Abertos",STB PR [HD]
-http://pfsv.io:80/marc89/onioz7/303873.ts
-#EXTINF:-1 tvg-id="" tvg-name="SBT Paraná [FHD]" tvg-logo="http://lfpy.club/NNS9" group-title="Canais | Abertos",SBT Paraná [FHD]
-http://pfsv.io:80/marc89/onioz7/303874.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV PR [HD]" tvg-logo="http://lfpy.club/JZA5" group-title="Canais | Abertos",Record TV PR [HD]
-http://pfsv.io:80/marc89/onioz7/303875.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..MTV.br" tvg-name="BAND CAMPINAS [FHD]" tvg-logo="http://lfpy.club/JZA1" group-title="Canais | Abertos",BAND CAMPINAS [FHD]
-http://pfsv.io:80/marc89/onioz7/199612.ts
-#EXTINF:-1 tvg-id="" tvg-name="BAND CEARA [FHD]" tvg-logo="http://lfpy.club/JYZ5" group-title="Canais | Abertos",BAND CEARA [FHD]
-http://pfsv.io:80/marc89/onioz7/186204.ts
-#EXTINF:-1 tvg-id="" tvg-name="BAND CEARA [FHD][H265]" tvg-logo="http://lfpy.club/JYZ6" group-title="Canais | Abertos",BAND CEARA [FHD][H265]
-http://pfsv.io:80/marc89/onioz7/186205.ts
-#EXTINF:-1 tvg-id="" tvg-name="BAND CEARA [FHD][HDR]" tvg-logo="http://lfpy.club/JYZ7" group-title="Canais | Abertos",BAND CEARA [FHD][HDR]
-http://pfsv.io:80/marc89/onioz7/186206.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI [FHD]" tvg-logo="http://lfpy.club/JZA2" group-title="Canais | Abertos",CANAL DO BOI [FHD]
-http://pfsv.io:80/marc89/onioz7/199614.ts
-#EXTINF:-1 tvg-id="" tvg-name="RECORDTV BA [FHD]" tvg-logo="http://lfpy.club/JZA4" group-title="Canais | Abertos",RECORDTV BA [FHD]
-http://pfsv.io:80/marc89/onioz7/199616.ts
-#EXTINF:-1 tvg-id="CIDADEH" tvg-name="RECORDTV CIDADE [FHD]" tvg-logo="http://lfpy.club/JYZ2" group-title="Canais | Abertos",RECORDTV CIDADE [FHD]
-http://pfsv.io:80/marc89/onioz7/186197.ts
-#EXTINF:-1 tvg-id="BR - SBT RS" tvg-name="SBT RS [FHD]" tvg-logo="http://lfpy.club/JZA6" group-title="Canais | Abertos",SBT RS [FHD]
-http://pfsv.io:80/marc89/onioz7/199659.ts
-#EXTINF:-1 tvg-id="BR - TV Jangadeiro" tvg-name="SBT TV JANGADEIRO [FHD]" tvg-logo="http://lfpy.club/JYY0" group-title="Canais | Abertos",SBT TV JANGADEIRO [FHD]
-http://pfsv.io:80/marc89/onioz7/134101.ts
-#EXTINF:-1 tvg-id="" tvg-name="SBT TV JANGADEIRO [FHD][H265]" tvg-logo="http://lfpy.club/JYZ1" group-title="Canais | Abertos",SBT TV JANGADEIRO [FHD][H265]
-http://pfsv.io:80/marc89/onioz7/186195.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO [FHD]" tvg-logo="http://lfpy.club/ARF4" group-title="Canais | Abertos",TV DIARIO [FHD]
-http://pfsv.io:80/marc89/onioz7/199362.ts
+#EXTINF:-1 tvg-id="ADSM" tvg-name="AGRO+ FHD" tvg-logo="" group-title="✨ABERTOS",AGRO+ FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/6.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Canal Brasil SD" tvg-name="CANAL BRASIL FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=https://acstatic.co/logos/canais/canalbrasil.png" group-title="✨ABERTOS",CANAL BRASIL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/469.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=https://acstatic.co/logos/canais/canalbrasil.png" group-title="✨ABERTOS",CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4774475.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=https://acstatic.co/logos/canais/canalbrasil.png" group-title="✨ABERTOS",CANAL BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4774476.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="CANAL DO BOI FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=http://static.clubsrv.me/logos/canais/canaldoboi.png" group-title="✨ABERTOS",CANAL DO BOI FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/369617.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="RURALA" tvg-name="Canal Rural HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=http://acsa.ws:80/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="✨ABERTOS",Canal Rural HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/470.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="RURALA" tvg-name="Canal Rural SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=http://acsa.ws:80/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="✨ABERTOS",Canal Rural SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/471.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/369649.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="FUTRA" tvg-name="FUTURA FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/171844.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="FUTRA" tvg-name="FUTURA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/472.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="FUTRA" tvg-name="FUTURA SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/473.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="REDEBR" tvg-name="REDE BRASIL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/tVMEQmb.png" group-title="✨ABERTOS",REDE BRASIL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/474.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/369702.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/476.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="REDETV" tvg-name="REDE TV HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/171878.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/477.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV CAMARA" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="✨ABERTOS",TV CAMARA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/479.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/369627.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="ZYB851" tvg-name="TV CULTURA FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/480.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="ZYB851" tvg-name="TV CULTURA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/481.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="ZYB851" tvg-name="TV CULTURA SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/482.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/2th79Ey.png" group-title="✨ABERTOS",TV GAZETA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/369727.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="ZYA221" tvg-name="TV GAZETA FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/2th79Ey.png" group-title="✨ABERTOS",TV GAZETA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/483.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/2th79Ey.png" group-title="✨ABERTOS",TV GAZETA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]Canaisabertosdiverso[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/171896.m3u8|User-Agent=FooBar/1.2.3
