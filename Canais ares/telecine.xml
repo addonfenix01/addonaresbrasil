@@ -1,41 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/e7FHHS2Tt4TQrKb/download/telecineaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION FHD
-http://lojamais.cyou:80/223328625/172117854/141479.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/e7FHHS2Tt4TQrKb/download/telecineaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION HD
-http://lojamais.cyou:80/223328625/172117854/404929.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/e7FHHS2Tt4TQrKb/download/telecineaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION SD
-http://lojamais.cyou:80/223328625/172117854/141468.m3u8
-#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="TELECINE CULT FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/WeergkfddT8t49K/download/telecinecult.png" group-title="CANAIS | TELECINE",TELECINE CULT FHD
-http://lojamais.cyou:80/223328625/172117854/685179.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/WeergkfddT8t49K/download/telecinecult.png" group-title="CANAIS | TELECINE",TELECINE CULT HD
-http://lojamais.cyou:80/223328625/172117854/141469.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/WeergkfddT8t49K/download/telecinecult.png" group-title="CANAIS | TELECINE",TELECINE CULT SD
-http://lojamais.cyou:80/223328625/172117854/141470.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/o3oxtNg34ZeNSQD/download/telecinefun.png" group-title="CANAIS | TELECINE",TELECINE FUN FHD
-http://lojamais.cyou:80/223328625/172117854/141480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/o3oxtNg34ZeNSQD/download/telecinefun.png" group-title="CANAIS | TELECINE",TELECINE FUN HD
-http://lojamais.cyou:80/223328625/172117854/232601.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/o3oxtNg34ZeNSQD/download/telecinefun.png" group-title="CANAIS | TELECINE",TELECINE FUN SD
-http://lojamais.cyou:80/223328625/172117854/141472.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/ggyEdHGYDTQW4BC/download/telecinepipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA FHD
-http://lojamais.cyou:80/223328625/172117854/337715.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/ggyEdHGYDTQW4BC/download/telecinepipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA HD
-http://lojamais.cyou:80/223328625/172117854/337716.m3u8
-#EXTINF:-1 tvg-id="Telecine Pipoca SD" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/ggyEdHGYDTQW4BC/download/telecinepipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA SD
-http://lojamais.cyou:80/223328625/172117854/141474.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/mqzN39gzMHeq2z7/download/telecinepremium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM FHD
-http://lojamais.cyou:80/223328625/172117854/337714.m3u8
-#EXTINF:-1 tvg-id="Telecine Premium FHD H.265" tvg-name="TELECINE PREMIUM H265" tvg-logo="https://files.jpnetwork.com.br/index.php/s/mqzN39gzMHeq2z7/download/telecinepremium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM H265
-http://lojamais.cyou:80/223328625/172117854/390787.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/mqzN39gzMHeq2z7/download/telecinepremium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM HD
-http://lojamais.cyou:80/223328625/172117854/141475.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/mqzN39gzMHeq2z7/download/telecinepremium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM HD
-http://lojamais.cyou:80/223328625/172117854/337713.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/mqzN39gzMHeq2z7/download/telecinepremium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM SD
-http://lojamais.cyou:80/223328625/172117854/337712.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/7orxQn8QnfYKnKK/download/telecinetouch.png" group-title="CANAIS | TELECINE",TELECINE TOUCH FHD
-http://lojamais.cyou:80/223328625/172117854/141483.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/7orxQn8QnfYKnKK/download/telecinetouch.png" group-title="CANAIS | TELECINE",TELECINE TOUCH HD
-http://lojamais.cyou:80/223328625/172117854/337710.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/7orxQn8QnfYKnKK/download/telecinetouch.png" group-title="CANAIS | TELECINE",TELECINE TOUCH SD
-http://lojamais.cyou:80/223328625/172117854/141478.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=https://files.jpnetwork.com.br/index.php/s/e7FHHS2Tt4TQrKb/download/telecineaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=http://lojamais.cyou:80/223328625/172117854/141479.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=https://files.jpnetwork.com.br/index.php/s/e7FHHS2Tt4TQrKb/download/telecineaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=http://lojamais.cyou:80/223328625/172117854/404929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=https://files.jpnetwork.com.br/index.php/s/e7FHHS2Tt4TQrKb/download/telecineaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=http://lojamais.cyou:80/223328625/172117854/141468.m3u8
+#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="TELECINE CULT FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=https://files.jpnetwork.com.br/index.php/s/WeergkfddT8t49K/download/telecinecult.png" group-title="CANAIS | TELECINE",TELECINE CULT FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=http://lojamais.cyou:80/223328625/172117854/685179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=https://files.jpnetwork.com.br/index.php/s/WeergkfddT8t49K/download/telecinecult.png" group-title="CANAIS | TELECINE",TELECINE CULT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=http://lojamais.cyou:80/223328625/172117854/141469.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=https://files.jpnetwork.com.br/index.php/s/WeergkfddT8t49K/download/telecinecult.png" group-title="CANAIS | TELECINE",TELECINE CULT SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=http://lojamais.cyou:80/223328625/172117854/141470.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=https://files.jpnetwork.com.br/index.php/s/o3oxtNg34ZeNSQD/download/telecinefun.png" group-title="CANAIS | TELECINE",TELECINE FUN FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=http://lojamais.cyou:80/223328625/172117854/141480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=https://files.jpnetwork.com.br/index.php/s/o3oxtNg34ZeNSQD/download/telecinefun.png" group-title="CANAIS | TELECINE",TELECINE FUN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=http://lojamais.cyou:80/223328625/172117854/232601.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=https://files.jpnetwork.com.br/index.php/s/o3oxtNg34ZeNSQD/download/telecinefun.png" group-title="CANAIS | TELECINE",TELECINE FUN SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=http://lojamais.cyou:80/223328625/172117854/141472.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=https://files.jpnetwork.com.br/index.php/s/ggyEdHGYDTQW4BC/download/telecinepipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=http://lojamais.cyou:80/223328625/172117854/337715.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=https://files.jpnetwork.com.br/index.php/s/ggyEdHGYDTQW4BC/download/telecinepipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=http://lojamais.cyou:80/223328625/172117854/337716.m3u8
+#EXTINF:-1 tvg-id="Telecine Pipoca SD" tvg-name="TELECINE PIPOCA SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=https://files.jpnetwork.com.br/index.php/s/ggyEdHGYDTQW4BC/download/telecinepipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=http://lojamais.cyou:80/223328625/172117854/141474.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=https://files.jpnetwork.com.br/index.php/s/mqzN39gzMHeq2z7/download/telecinepremium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=http://lojamais.cyou:80/223328625/172117854/337714.m3u8
+#EXTINF:-1 tvg-id="Telecine Premium FHD H.265" tvg-name="TELECINE PREMIUM H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=https://files.jpnetwork.com.br/index.php/s/mqzN39gzMHeq2z7/download/telecinepremium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=http://lojamais.cyou:80/223328625/172117854/390787.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=https://files.jpnetwork.com.br/index.php/s/mqzN39gzMHeq2z7/download/telecinepremium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=http://lojamais.cyou:80/223328625/172117854/141475.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=https://files.jpnetwork.com.br/index.php/s/mqzN39gzMHeq2z7/download/telecinepremium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=http://lojamais.cyou:80/223328625/172117854/337713.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=https://files.jpnetwork.com.br/index.php/s/mqzN39gzMHeq2z7/download/telecinepremium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=http://lojamais.cyou:80/223328625/172117854/337712.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=https://files.jpnetwork.com.br/index.php/s/7orxQn8QnfYKnKK/download/telecinetouch.png" group-title="CANAIS | TELECINE",TELECINE TOUCH FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=http://lojamais.cyou:80/223328625/172117854/141483.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=https://files.jpnetwork.com.br/index.php/s/7orxQn8QnfYKnKK/download/telecinetouch.png" group-title="CANAIS | TELECINE",TELECINE TOUCH HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=http://lojamais.cyou:80/223328625/172117854/337710.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=https://files.jpnetwork.com.br/index.php/s/7orxQn8QnfYKnKK/download/telecinetouch.png" group-title="CANAIS | TELECINE",TELECINE TOUCH SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisTELECINE[/COLOR]&maxbitrate=0&buffer=2116&url=http://lojamais.cyou:80/223328625/172117854/141478.m3u8
