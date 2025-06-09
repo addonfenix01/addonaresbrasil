@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Jogos.do.dia" tvg-name="JOGOS DO DIA" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://cdn-icons-png.flaticon.com/512/14/14405.png" group-title="CANAIS | EVENTOS E NOVIDADES",JOGOS DO DIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/260711.ts|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="FILMES ADICIONADOS" tvg-logo="" group-title="CANAIS | EVENTOS E NOVIDADES",FILMES ADICIONADOS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/278945.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Jogos de Hoje" tvg-logo="http://lfpy.club/NMY2" group-title="Canais | Eventos de Hoje",Jogos de Hoje
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/marc89/onioz7/300155.ts|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Lutas do Dia" tvg-logo="http://lfpy.club/NMY1" group-title="Canais | Eventos de Hoje",Lutas do Dia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/marc89/onioz7/300154.ts|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="1| JOGOS DO DIA" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisPROGRAMAÇÃODODIA[/COLOR]&maxbitrate=0&buffer=2116&url=https://od.lk/s/NDVfNDk0MTIwODVf/Design%20sem%20nome.jpg" group-title="Canais : ➡️ Programacao do Dia",1| JOGOS DO DIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisPROGRAMAÇÃODODIA[/COLOR]&maxbitrate=0&buffer=2116&url=http://dns.lbx01.space:80/252614210/941695130/2025086.ts
+#EXTINF:-1 tvg-id="" tvg-name="1| LUTAS DO DIA UFC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisPROGRAMAÇÃODODIA[/COLOR]&maxbitrate=0&buffer=2116&url=https://od.lk/s/NDVfNTEyMzk0MzJf/ESPORTES.png" group-title="Canais : ➡️ Programacao do Dia",1| LUTAS DO DIA UFC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisPROGRAMAÇÃODODIA[/COLOR]&maxbitrate=0&buffer=2116&url=http://dns.lbx01.space:80/252614210/941695130/2025087.ts
