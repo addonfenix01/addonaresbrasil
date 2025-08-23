@@ -1,10 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="1| JOGOS DO DIA" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisPROGRAMAÇÃODODIA[/COLOR]&maxbitrate=0&buffer=2116&url=https://od.lk/s/NDVfNDk0MTIwODVf/Design%20sem%20nome.jpg" group-title="Canais : ➡️ Programacao do Dia",1| JOGOS DO DIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisPROGRAMAÇÃODODIA[/COLOR]&maxbitrate=0&buffer=2116&url=http://dns.lbx01.space:80/252614210/941695130/2025086.ts
-#EXTINF:-1 tvg-id="" tvg-name="1| LUTAS DO DIA UFC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisPROGRAMAÇÃODODIA[/COLOR]&maxbitrate=0&buffer=2116&url=https://od.lk/s/NDVfNTEyMzk0MzJf/ESPORTES.png" group-title="Canais : ➡️ Programacao do Dia",1| LUTAS DO DIA UFC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]Ares[/COLOR] [COLOR orange]CanaisPROGRAMAÇÃODODIA[/COLOR]&maxbitrate=0&buffer=2116&url=http://dns.lbx01.space:80/252614210/941695130/2025087.ts
-#EXTINF:-1 tvg-id="Jogos.do.dia" tvg-name="JOGOS DO DIA" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://cdn-icons-png.flaticon.com/512/14/14405.png" group-title="CANAIS | EVENTOS E NOVIDADES",JOGOS DO DIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/260711.ts|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="FILMES ADICIONADOS" tvg-logo="" group-title="CANAIS | EVENTOS E NOVIDADES",FILMES ADICIONADOS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange]Ares[/COLOR] [COLOR pink]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://esma24.top:80/8958158248/173464/278945.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Jogos de Hoje" tvg-logo="http://lfpy.club/NMY2" group-title="Canais | Eventos de Hoje",Jogos de Hoje
+#EXTINF:-1 tvg-id="" tvg-name="⚽FUTEBOL" tvg-logo="http://cdn.mp77.site:80/images/mg9e4VnU5MiobcDarwnBsUi_7alMIWdXZ1h3zN0BYpIy4lojjf8X-J1zYSxQrIsd.jpeg" group-title="⚽PROGRAMAÇÃO ESPORTIVA",⚽FUTEBOL
+http://cdn.mp77.site:80/123456789/123456789/935349
+#EXTINF:-1 tvg-id="br#paramount-brasil-hd" tvg-name="LUTAS UFC" tvg-logo="http://cdn.mp77.site:80/images/mg9e4VnU5MiobcDarwnBsYscNQ7sJSUtSM2bl0Wf5VZOeNvCQsbMqphRVXaYS4UP.jpeg" group-title="⚽PROGRAMAÇÃO ESPORTIVA",LUTAS UFC
+http://cdn.mp77.site:80/123456789/123456789/935364
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="BASQUETE" tvg-logo="http://cdn.mp77.site:80/images/mg9e4VnU5MiobcDarwnBsfK6b4rrlY9npTYMJjDO-v0LIgfIksE2rTAEnEkCvA2m.jpeg" group-title="⚽PROGRAMAÇÃO ESPORTIVA",BASQUETE
+http://cdn.mp77.site:80/123456789/123456789/935363
+#EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="Brasileirão Série B -Remo x Ferroviária  19:00H" tvg-logo="https://i.imgur.com/Bq0MvzF.png" group-title="⚽JOGOS DO DIA",Brasileirão Série B -Remo x Ferroviária  19:00H
+http://cdn.mp77.site:80/123456789/123456789/935391
+#EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="Brasileirão Série B- Operário-PR x Criciúma 21:30H" tvg-logo="https://i.imgur.com/Bq0MvzF.png" group-title="⚽JOGOS DO DIA",Brasileirão Série B- Operário-PR x Criciúma 21:30H
+http://cdn.mp77.site:80/123456789/123456789/935548
+#EXTINF:-1 tvg-id="br#disney-hd" tvg-name="EM BREVE" tvg-logo="https://i.imgur.com/Bq0MvzF.png" group-title="⚽JOGOS DO DIA",EM BREVE
+http://cdn.mp77.site:80/123456789/123456789/935549
+#EXTINF:-1 tvg-id="br#disney-hd" tvg-name="EM BREVE" tvg-logo="https://i.imgur.com/Bq0MvzF.png" group-title="⚽JOGOS DO DIA",EM BREVE
+http://cdn.mp77.site:80/123456789/123456789/935550
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="EM BREVE" tvg-logo="https://i.imgur.com/Bq0MvzF.png" group-title="⚽JOGOS DO DIA",EM BREVE
+http://cdn.mp77.site:80/123456789/123456789/935551
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="EM BREVE" tvg-logo="https://i.imgur.com/Bq0MvzF.png" group-title="⚽JOGOS DO DIA",EM BREVE
+http://cdn.mp77.site:80/123456789/123456789/935552
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="EM BREVE" tvg-logo="https://i.imgur.com/Bq0MvzF.png" group-title="⚽JOGOS DO DIA",EM BREVE
+http://cdn.mp77.site:80/123456789/123456789/935553
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="EM BREVE" tvg-logo="https://i.imgur.com/Bq0MvzF.png" group-title="⚽JOGOS DO DIA",EM BREVE
+http://cdn.mp77.site:80/123456789/123456789/935555
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="EM BREVE" tvg-logo="https://i.imgur.com/Bq0MvzF.png" group-title="⚽JOGOS DO DIA",EM BREVE
+http://cdn.mp77.site:80/123456789/123456789/935556
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="EM BREVE" tvg-logo="https://i.imgur.com/Bq0MvzF.png" group-title="⚽JOGOS DO DIA",EM BREVE
+http://cdn.mp77.site:80/123456789/123456789/935558
+#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="EM BREVE" tvg-logo="https://i.imgur.com/Bq0MvzF.png" group-title="⚽JOGOS DO DIA",EM BREVE
+http://cdn.mp77.site:80/123456789/123456789/935559
+#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="EM BREVE" tvg-logo="http://cdn.mp77.site:80/images/mg9e4VnU5MiobcDarwnBsflK8jRSJsgazBdfaSRw4pQ.png" group-title="⚽JOGOS DO DIA",EM BREVE
+http://cdn.mp77.site:80/123456789/123456789/935560
+#EXTINF:-1 tvg-id="br#disney-hd" tvg-name="EM BREVE" tvg-logo="http://cdn.mp77.site:80/images/mg9e4VnU5MiobcDarwnBsflK8jRSJsgazBdfaSRw4pQ.png" group-title="⚽JOGOS DO DIA",EM BREVE
+http://cdn.mp77.site:80/123456789/123456789/935561
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="EM BREVE" tvg-logo="https://i.imgur.com/Bq0MvzF.png" group-title="⚽JOGOS DO DIA",EM BREVE
+http://cdn.mp77.site:80/123456789/123456789/935586
