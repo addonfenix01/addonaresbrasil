@@ -1,37 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecineaction.png" group-title="⚡CANAIS | TELECINE",TELECINE ACTION FHD
-plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368637
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecineaction.png" group-title="⚡CANAIS | TELECINE",TELECINE ACTION HD
-plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368638
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Action SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecineaction.png" group-title="⚡CANAIS | TELECINE",Telecine Action SD
-plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368639
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecinecult.png" group-title="⚡CANAIS | TELECINE",TELECINE CULT FHD
-plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368640
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecinecult.png" group-title="⚡CANAIS | TELECINE",TELECINE CULT HD
-plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368641
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecinecult.png" group-title="⚡CANAIS | TELECINE",Telecine Cult SD
-plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368642
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecinefun.png" group-title="⚡CANAIS | TELECINE",TELECINE FUN FHD
-plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368643
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecinefun.png" group-title="⚡CANAIS | TELECINE",TELECINE FUN HD
-plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368644
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecinefun.png" group-title="⚡CANAIS | TELECINE",Telecine Fun SD
-plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368645
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecinepipoca.png" group-title="⚡CANAIS | TELECINE",TELECINE PIPOCA FHD
-plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368646
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecinepipoca.png" group-title="⚡CANAIS | TELECINE",TELECINE PIPOCA HD
-plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368647
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecinepipoca.png" group-title="⚡CANAIS | TELECINE",Telecine Pipoca SD
-plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368648
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecinepremium.png" group-title="⚡CANAIS | TELECINE",TELECINE PREMIUM FHD
-plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368649
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecinepremium.png" group-title="⚡CANAIS | TELECINE",TELECINE PREMIUM HD
-plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368650
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecinepremium.png" group-title="⚡CANAIS | TELECINE",Telecine Premium SD
-plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368651
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecinetouch.png" group-title="⚡CANAIS | TELECINE",TELECINE TOUCH FHD
-plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368652
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecinetouch.png" group-title="⚡CANAIS | TELECINE",TELECINE TOUCH HD
-plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368653
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecinetouch.png" group-title="⚡CANAIS | TELECINE",Telecine Touch SD
-plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368654
+#EXTINF:-1 tvg-id="br#telecine-action-hd" tvg-name="Telecine Action FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/C7nUsVT.jpeg" group-title="(TELECINE)",Telecine Action FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1946
+#EXTINF:-1 tvg-id="TCA" tvg-name="Telecine Action HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/C7nUsVT.jpeg" group-title="(TELECINE)",Telecine Action HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1947
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/C7nUsVT.jpeg" group-title="(TELECINE)",Telecine Action SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1948
+#EXTINF:-1 tvg-id="br#telecine-cult-hd" tvg-name="Telecine Cult FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/aPDe22U.jpeg" group-title="(TELECINE)",Telecine Cult FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1949
+#EXTINF:-1 tvg-id="br#telecine-cult-hd" tvg-name="Telecine Cult HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/aPDe22U.jpeg" group-title="(TELECINE)",Telecine Cult HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1950
+#EXTINF:-1 tvg-id="br#telecine-cult-hd" tvg-name="Telecine Cult SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/aPDe22U.jpeg" group-title="(TELECINE)",Telecine Cult SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1951
+#EXTINF:-1 tvg-id="br#telecine-fun-hd" tvg-name="Telecine Fun FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/62gbJ1J.jpeg" group-title="(TELECINE)",Telecine Fun FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1952
+#EXTINF:-1 tvg-id="br#telecine-fun-hd" tvg-name="Telecine Fun HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/62gbJ1J.jpeg" group-title="(TELECINE)",Telecine Fun HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1953
+#EXTINF:-1 tvg-id="br#telecine-fun-hd" tvg-name="Telecine Fun SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/62gbJ1J.jpeg" group-title="(TELECINE)",Telecine Fun SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1954
+#EXTINF:-1 tvg-id="br#telecine-pipoca-hd" tvg-name="Telecine Pipoca FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/GcTEpXi.jpeg" group-title="(TELECINE)",Telecine Pipoca FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1955
+#EXTINF:-1 tvg-id="br#telecine-pipoca-hd" tvg-name="Telecine Pipoca HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/GcTEpXi.jpeg" group-title="(TELECINE)",Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1956
+#EXTINF:-1 tvg-id="br#telecine-pipoca-hd" tvg-name="Telecine Pipoca SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/GcTEpXi.jpeg" group-title="(TELECINE)",Telecine Pipoca SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1957
+#EXTINF:-1 tvg-id="br#telecine-premium-hd" tvg-name="Telecine Premium FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/YKVGuN2.jpeg" group-title="(TELECINE)",Telecine Premium FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1958
+#EXTINF:-1 tvg-id="br#telecine-premium-hd" tvg-name="Telecine Premium HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/YKVGuN2.jpeg" group-title="(TELECINE)",Telecine Premium HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1959
+#EXTINF:-1 tvg-id="br#telecine-premium-hd" tvg-name="Telecine Premium SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/YKVGuN2.jpeg" group-title="(TELECINE)",Telecine Premium SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1960
+#EXTINF:-1 tvg-id="br#telecine-touch-hd" tvg-name="Telecine Touch FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/D9DbHhB.jpeg" group-title="(TELECINE)",Telecine Touch FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1961
+#EXTINF:-1 tvg-id="br#telecine-touch-hd" tvg-name="Telecine Touch HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/D9DbHhB.jpeg" group-title="(TELECINE)",Telecine Touch HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1962
+#EXTINF:-1 tvg-id="br#telecine-touch-hd" tvg-name="Telecine Touch SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/D9DbHhB.jpeg" group-title="(TELECINE)",Telecine Touch SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1963
