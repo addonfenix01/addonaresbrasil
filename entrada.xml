@@ -43,8 +43,8 @@
 
 <channel>  
 <name>[COLOR pink] MANGAS E ANIMAÇÔES [/COLOR] FILMES E SÊRIES </name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://archive.org/download/aresmangaseanimacoes/aresmangaseanima%C3%A7oes.jpeg</thumbnail>
+<fanart>https://archive.org/download/aresmangaseanimacoes/aresmangaseanima%C3%A7oes.jpeg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/animeseanimacao.xml</externallink>
 </channel>
