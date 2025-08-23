@@ -10,9 +10,9 @@
 
 <item>
   <title>Alien: Earth 1ª Temporada (2025)</title>
-  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5292d5881957ab63ffead1adfc554b5523cc23d3$$lsname=[COLOR white]EPISÓDIOS 01 E 02[/COLOR]</link>
-  <link>plugin://plugin.video.elementum/play?uri="magnet:?xt=urn:btih:d68ece9472bd1bbb8192ad72532ee9e648f3f200$$lsname=[COLOR white]EPISÓDIOS 03[/COLOR]</link>
-  <link>plugin://plugin.video.youtube/play/?video_id=IxTYXVyNOfk$$lsname=[COLOR aquamarine]TRAILER[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5292d5881957ab63ffead1adfc554b5523cc23d3$nome=[COLOR white]Episódios 01 02[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d68ece9472bd1bbb8192ad72532ee9e648f3f200$nome=[COLOR white]Episódios 03[/COLOR]</link>
+  <link>plugin://plugin.video.youtube/play/?video_id=IxTYXVyNOfk$nome=[COLOR aquamarine]TRAILER[/COLOR]</link>
   <thumbnail>https://image.tmdb.org/t/p/w500/kGbG5qlZrQzdYxpGYhzAChvFp5l.jpg</thumbnail>
   <fanart>https://image.tmdb.org/t/p/original/25g7mthXoJFcNZhAKz0evk17Bsx.jpg</fanart>
   <info>[COLOR yellow]Título Original:[/COLOR] Alien: Earth
