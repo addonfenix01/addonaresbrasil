@@ -1,209 +1,305 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="PT   24 Kitchen" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   24 Kitchen
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1694
-#EXTINF:-1 tvg-id="" tvg-name="PT   A Bola" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   A Bola
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1695
-#EXTINF:-1 tvg-id="" tvg-name="PT   AMC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   AMC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1696
-#EXTINF:-1 tvg-id="" tvg-name="PT   AMC Crime" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   AMC Crime
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1697
-#EXTINF:-1 tvg-id="" tvg-name="PT   ARTV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   ARTV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1698
-#EXTINF:-1 tvg-id="" tvg-name="PT   AXN" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   AXN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1699
-#EXTINF:-1 tvg-id="" tvg-name="PT   AXN Movies" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   AXN Movies
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1700
-#EXTINF:-1 tvg-id="" tvg-name="PT   AXN White" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   AXN White
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1701
-#EXTINF:-1 tvg-id="" tvg-name="PT   Al Jazeera" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Al Jazeera
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1702
-#EXTINF:-1 tvg-id="" tvg-name="PT   Baby TV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Baby TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1703
-#EXTINF:-1 tvg-id="" tvg-name="PT   Benfica TV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Benfica TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1704
-#EXTINF:-1 tvg-id="" tvg-name="PT   Biggs" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Biggs
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1705
-#EXTINF:-1 tvg-id="" tvg-name="PT   Blaze" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Blaze
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1706
-#EXTINF:-1 tvg-id="" tvg-name="PT   Bloomberg" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Bloomberg
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1707
-#EXTINF:-1 tvg-id="" tvg-name="PT   CMTV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   CMTV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1708
-#EXTINF:-1 tvg-id="" tvg-name="PT   CMusic" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   CMusic
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1709
-#EXTINF:-1 tvg-id="" tvg-name="PT   CNBC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   CNBC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1710
-#EXTINF:-1 tvg-id="" tvg-name="PT   CNN Internacional" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   CNN Internacional
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1711
-#EXTINF:-1 tvg-id="" tvg-name="PT   CNN Portugal" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   CNN Portugal
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1712
-#EXTINF:-1 tvg-id="" tvg-name="PT   Canal 11" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Canal 11
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1713
-#EXTINF:-1 tvg-id="" tvg-name="PT   Canal Historia" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Canal Historia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1714
-#EXTINF:-1 tvg-id="" tvg-name="PT   Canal Hollywood" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Canal Hollywood
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1715
-#EXTINF:-1 tvg-id="" tvg-name="PT   Canal Panda" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Canal Panda
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1716
-#EXTINF:-1 tvg-id="" tvg-name="PT   Canal Q" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Canal Q
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1717
-#EXTINF:-1 tvg-id="" tvg-name="PT   Cancao Nova" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Cancao Nova
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1718
-#EXTINF:-1 tvg-id="" tvg-name="PT   Cartoon Network" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1719
-#EXTINF:-1 tvg-id="" tvg-name="PT   Cartoonito" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Cartoonito
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1720
-#EXTINF:-1 tvg-id="" tvg-name="PT   Casa e Cozinha" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Casa e Cozinha
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1721
-#EXTINF:-1 tvg-id="" tvg-name="PT   Cinemundo" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Cinemundo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1722
-#EXTINF:-1 tvg-id="" tvg-name="PT   Discovery Channel" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Discovery Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1723
-#EXTINF:-1 tvg-id="" tvg-name="PT   Disney Channel" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1724
-#EXTINF:-1 tvg-id="" tvg-name="PT   Disney Junior" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1725
-#EXTINF:-1 tvg-id="" tvg-name="PT   DocuBox" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   DocuBox
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1726
-#EXTINF:-1 tvg-id="" tvg-name="PT   E!" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   E!
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1727
-#EXTINF:-1 tvg-id="" tvg-name="PT   Dazn 1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Dazn 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1728
-#EXTINF:-1 tvg-id="" tvg-name="PT   Dazn 2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Dazn 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1729
-#EXTINF:-1 tvg-id="" tvg-name="PT   Dazn 3" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Dazn 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1730
-#EXTINF:-1 tvg-id="" tvg-name="PT   Dazn 4" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Dazn 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1731
-#EXTINF:-1 tvg-id="" tvg-name="PT   Dazn 5" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Dazn 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1732
-#EXTINF:-1 tvg-id="" tvg-name="PT   Dazn 6" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Dazn 6
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1733
-#EXTINF:-1 tvg-id="" tvg-name="PT   Euro News" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Euro News
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1734
-#EXTINF:-1 tvg-id="" tvg-name="PT   Euro Sport 1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Euro Sport 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1735
-#EXTINF:-1 tvg-id="" tvg-name="PT   Euro Sport 2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Euro Sport 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1736
-#EXTINF:-1 tvg-id="" tvg-name="PT   Fashion TV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Fashion TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1737
-#EXTINF:-1 tvg-id="" tvg-name="PT   Fox" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Fox
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1738
-#EXTINF:-1 tvg-id="" tvg-name="PT   Fox Comedy" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Fox Comedy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1739
-#EXTINF:-1 tvg-id="" tvg-name="PT   Fox Crime" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Fox Crime
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1740
-#EXTINF:-1 tvg-id="" tvg-name="PT   Fox Life" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Fox Life
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1741
-#EXTINF:-1 tvg-id="" tvg-name="PT   Fox Movies" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Fox Movies
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1742
-#EXTINF:-1 tvg-id="" tvg-name="PT   France 24" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   France 24
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1743
-#EXTINF:-1 tvg-id="" tvg-name="PT   Fuel TV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Fuel TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1744
-#EXTINF:-1 tvg-id="" tvg-name="PT   Globo Internacional" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Globo Internacional
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1745
-#EXTINF:-1 tvg-id="" tvg-name="PT   Kuriakos TV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Kuriakos TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1746
-#EXTINF:-1 tvg-id="" tvg-name="PT   Localvisao TV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Localvisao TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1747
-#EXTINF:-1 tvg-id="" tvg-name="PT   MCM POP" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   MCM POP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1748
-#EXTINF:-1 tvg-id="" tvg-name="PT   MCM TOP" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   MCM TOP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1749
-#EXTINF:-1 tvg-id="" tvg-name="PT   MTV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   MTV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1750
-#EXTINF:-1 tvg-id="" tvg-name="PT   MTV 00s" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   MTV 00s
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1751
-#EXTINF:-1 tvg-id="" tvg-name="PT   NHK World" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   NHK World
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1752
-#EXTINF:-1 tvg-id="" tvg-name="PT   Nat Geo Wild" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Nat Geo Wild
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1753
-#EXTINF:-1 tvg-id="" tvg-name="PT   National Geographic" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   National Geographic
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1754
-#EXTINF:-1 tvg-id="" tvg-name="PT   Nickelodeon" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1755
-#EXTINF:-1 tvg-id="" tvg-name="PT   Odisseia" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Odisseia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1756
-#EXTINF:-1 tvg-id="" tvg-name="PT   Panda Kids" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Panda Kids
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1757
-#EXTINF:-1 tvg-id="" tvg-name="PT   Porto Canal" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Porto Canal
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1758
-#EXTINF:-1 tvg-id="" tvg-name="PT   RTP 1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   RTP 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1759
-#EXTINF:-1 tvg-id="" tvg-name="PT   RTP 2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   RTP 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1760
-#EXTINF:-1 tvg-id="" tvg-name="PT   RTP 3" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   RTP 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1761
-#EXTINF:-1 tvg-id="" tvg-name="PT   RTP Africa" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   RTP Africa
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1762
-#EXTINF:-1 tvg-id="" tvg-name="PT   RTP Memoria" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   RTP Memoria
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1763
-#EXTINF:-1 tvg-id="" tvg-name="PT   Record TV Internacional" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Record TV Internacional
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1764
-#EXTINF:-1 tvg-id="" tvg-name="PT   S+" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   S+
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1765
-#EXTINF:-1 tvg-id="" tvg-name="PT   SIC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   SIC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1766
-#EXTINF:-1 tvg-id="" tvg-name="PT   SIC Caras" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   SIC Caras
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1767
-#EXTINF:-1 tvg-id="" tvg-name="PT   SIC K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   SIC K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1768
-#EXTINF:-1 tvg-id="" tvg-name="PT   SIC Mulher" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   SIC Mulher
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1769
-#EXTINF:-1 tvg-id="" tvg-name="PT   SIC Noticias" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   SIC Noticias
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1770
-#EXTINF:-1 tvg-id="" tvg-name="PT   SIC Radical" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   SIC Radical
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1771
-#EXTINF:-1 tvg-id="" tvg-name="PT   Sky News" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Sky News
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1772
-#EXTINF:-1 tvg-id="" tvg-name="PT   Sport TV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Sport TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1773
-#EXTINF:-1 tvg-id="" tvg-name="PT   Sport TV 1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Sport TV 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1774
-#EXTINF:-1 tvg-id="" tvg-name="PT   Sport TV 2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Sport TV 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1775
-#EXTINF:-1 tvg-id="" tvg-name="PT   Sport TV 3" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Sport TV 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1776
-#EXTINF:-1 tvg-id="" tvg-name="PT   Sport TV 4" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Sport TV 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1777
-#EXTINF:-1 tvg-id="" tvg-name="PT   Sport TV 5" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Sport TV 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1778
-#EXTINF:-1 tvg-id="" tvg-name="PT   Sport TV 6" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Sport TV 6
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1779
-#EXTINF:-1 tvg-id="" tvg-name="PT   Sport TV NBA" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Sport TV NBA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1780
-#EXTINF:-1 tvg-id="" tvg-name="PT   Sporting TV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Sporting TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1781
-#EXTINF:-1 tvg-id="" tvg-name="PT   Syfy" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Syfy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1782
-#EXTINF:-1 tvg-id="" tvg-name="PT   TLC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   TLC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1783
-#EXTINF:-1 tvg-id="" tvg-name="PT   TV Cine Action" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   TV Cine Action
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1784
-#EXTINF:-1 tvg-id="" tvg-name="PT   TV Cine Edition" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   TV Cine Edition
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1785
-#EXTINF:-1 tvg-id="" tvg-name="PT   TV Cine Emotion" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   TV Cine Emotion
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1786
-#EXTINF:-1 tvg-id="" tvg-name="PT   TV Cine TOP" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   TV Cine TOP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1787
-#EXTINF:-1 tvg-id="" tvg-name="PT   TV5 Monde" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   TV5 Monde
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1788
-#EXTINF:-1 tvg-id="" tvg-name="PT   TVC News" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   TVC News
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1789
-#EXTINF:-1 tvg-id="" tvg-name="PT   TVE" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   TVE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1790
-#EXTINF:-1 tvg-id="" tvg-name="PT   TVI" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   TVI
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1791
-#EXTINF:-1 tvg-id="" tvg-name="PT   TVI Ficcao" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   TVI Ficcao
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1792
-#EXTINF:-1 tvg-id="" tvg-name="PT   TVI Reality" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   TVI Reality
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1793
-#EXTINF:-1 tvg-id="" tvg-name="PT   Trace Toca" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Trace Toca
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1794
-#EXTINF:-1 tvg-id="" tvg-name="PT   Trace Urban" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Trace Urban
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1795
-#EXTINF:-1 tvg-id="" tvg-name="PT   Travel Channel" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   Travel Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1796
-#EXTINF:-1 tvg-id="" tvg-name="PT   WWE Network" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://i.imgur.com/3TywKCU.jpeg" group-title="(PORTUGAL)",PT   WWE Network
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&maxbitrate=0&buffer=2116&url=http://cdn.mp77.site:80/123456789/123456789/1797
+#EXTINF:-1 tvg-id="" tvg-name="PT: 24 Kitchen [FHD][H265]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFM9" group-title="Canais | Portugal",PT: 24 Kitchen [FHD][H265]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: A Bola TV [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFR2" group-title="Canais | Portugal",PT: A Bola TV [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294079.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Afro Music Channel [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFJ0" group-title="Canais | Portugal",PT: Afro Music Channel [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/293997.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Alma Lusa [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFN0" group-title="Canais | Portugal",PT: Alma Lusa [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC Break [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFQ5" group-title="Canais | Portugal",PT: AMC Break [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC Crime [HD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFQ6" group-title="Canais | Portugal",PT: AMC Crime [HD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC [HD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFK8" group-title="Canais | Portugal",PT: AMC [HD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: AR TV Canal Parlamento [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFK1" group-title="Canais | Portugal",PT: AR TV Canal Parlamento [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN Movies [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFL0" group-title="Canais | Portugal",PT: AXN Movies [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN White [FHD][H265]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFL1" group-title="Canais | Portugal",PT: AXN White [FHD][H265]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294018.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN [FHD][H265]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFK9" group-title="Canais | Portugal",PT: AXN [FHD][H265]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Baby TV [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFG8" group-title="Canais | Portugal",PT: Baby TV [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/293975.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Benfica TV [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFI2" group-title="Canais | Portugal",PT: Benfica TV [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/293989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Biggs [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFN1" group-title="Canais | Portugal",PT: Biggs [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294038.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Blaze [HD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFN2" group-title="Canais | Portugal",PT: Blaze [HD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294039.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Bloomberg [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFK2" group-title="Canais | Portugal",PT: Bloomberg [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Bom Som Channel [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFR3" group-title="Canais | Portugal",PT: Bom Som Channel [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Boomerang [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFG9" group-title="Canais | Portugal",PT: Boomerang [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/293976.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Campo Pequeno [HD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFR4" group-title="Canais | Portugal",PT: Campo Pequeno [HD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294081.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Canal 11 [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFI3" group-title="Canais | Portugal",PT: Canal 11 [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/293990.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Canal 11 [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OMF7" group-title="Canais | Portugal",PT: Canal 11 [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/295725.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 180 [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFJ1" group-title="Canais | Portugal",PT: CANAL 180 [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/293998.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Canal Nos [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFL2" group-title="Canais | Portugal",PT: Canal Nos [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Canal Panda [HD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFH0" group-title="Canais | Portugal",PT: Canal Panda [HD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/293977.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Canal Q [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFN3" group-title="Canais | Portugal",PT: Canal Q [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Cancao Nova [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFN4" group-title="Canais | Portugal",PT: Cancao Nova [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294041.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Cartoon Network [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFH1" group-title="Canais | Portugal",PT: Cartoon Network [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/293978.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Cartoonito [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFH2" group-title="Canais | Portugal",PT: Cartoonito [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/293979.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Casa e Cozinha [HD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFN5" group-title="Canais | Portugal",PT: Casa e Cozinha [HD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294042.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Caza y Pesca [HD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFQ2" group-title="Canais | Portugal",PT: Caza y Pesca [HD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Caçavision [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFQ1" group-title="Canais | Portugal",PT: Caçavision [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294068.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CBS Reality [HD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFN6" group-title="Canais | Portugal",PT: CBS Reality [HD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294043.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Cine Mundo [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFL3" group-title="Canais | Portugal",PT: Cine Mundo [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CM TV [FHD][H265]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFK3" group-title="Canais | Portugal",PT: CM TV [FHD][H265]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294010.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CNBC [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFR5" group-title="Canais | Portugal",PT: CNBC [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294082.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CNN Portugal [HD][H265]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFK4" group-title="Canais | Portugal",PT: CNN Portugal [HD][H265]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Combate [HD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFI4" group-title="Canais | Portugal",PT: Combate [HD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/293991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Combate [HD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OMF8" group-title="Canais | Portugal",PT: Combate [HD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/295726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Crime District [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFQ7" group-title="Canais | Portugal",PT: Crime District [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294074.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Crime+ Investigation [CANAL OFF]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFQ8" group-title="Canais | Portugal",PT: Crime+ Investigation [CANAL OFF]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 1 [HD][H265]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OMF1" group-title="Canais | Portugal",PT: DAZN 1 [HD][H265]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/295719.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 2 [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OMF2" group-title="Canais | Portugal",PT: DAZN 2 [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/295720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 3 [HD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OMF3" group-title="Canais | Portugal",PT: DAZN 3 [HD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/295721.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 4 [HD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OMF4" group-title="Canais | Portugal",PT: DAZN 4 [HD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/295722.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 5 [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OMF5" group-title="Canais | Portugal",PT: DAZN 5 [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/295723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 6 [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OMF6" group-title="Canais | Portugal",PT: DAZN 6 [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/295724.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Discovery World [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFQ9" group-title="Canais | Portugal",PT: Discovery World [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294076.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Disney Channel [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFH3" group-title="Canais | Portugal",PT: Disney Channel [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/293980.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Disney Junior [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFH4" group-title="Canais | Portugal",PT: Disney Junior [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/293981.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY MARVEL [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFR6" group-title="Canais | Portugal",PT: DISNEY MARVEL [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294083.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY PIXAR [CANAL OFF]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFR7" group-title="Canais | Portugal",PT: DISNEY PIXAR [CANAL OFF]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Disney+ Pixar [HD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFH5" group-title="Canais | Portugal",PT: Disney+ Pixar [HD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/293982.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Dizi Channel [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFL4" group-title="Canais | Portugal",PT: Dizi Channel [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294021.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: DOG TV [HD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFR8" group-title="Canais | Portugal",PT: DOG TV [HD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: E! [HD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFN7" group-title="Canais | Portugal",PT: E! [HD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294044.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: euronews [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFK5" group-title="Canais | Portugal",PT: euronews [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294012.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eurosport 1 [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OMF9" group-title="Canais | Portugal",PT: Eurosport 1 [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/295727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eurosport 2 [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OMG0" group-title="Canais | Portugal",PT: Eurosport 2 [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/295728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: FASHIONTV [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFR9" group-title="Canais | Portugal",PT: FASHIONTV [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: FIREMAN SAM [HD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFS0" group-title="Canais | Portugal",PT: FIREMAN SAM [HD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Food Network [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFN8" group-title="Canais | Portugal",PT: Food Network [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294045.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Fuel TV [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFI5" group-title="Canais | Portugal",PT: Fuel TV [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/293992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Fuel TV [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OMG1" group-title="Canais | Portugal",PT: Fuel TV [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/295729.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: HGTV [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFN9" group-title="Canais | Portugal",PT: HGTV [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294046.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Historia [FHD][H265]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFR0" group-title="Canais | Portugal",PT: Historia [FHD][H265]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294077.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Hollywood [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFL5" group-title="Canais | Portugal",PT: Hollywood [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294022.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Investigation Discovery [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFR1" group-title="Canais | Portugal",PT: Investigation Discovery [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294078.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Kanuca TV [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFH6" group-title="Canais | Portugal",PT: Kanuca TV [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/293983.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Kombat Sport [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFS1" group-title="Canais | Portugal",PT: Kombat Sport [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Kuriakos Kids [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFH7" group-title="Canais | Portugal",PT: Kuriakos Kids [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/293984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Kuriakos TV [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFH8" group-title="Canais | Portugal",PT: Kuriakos TV [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/293985.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Local visão [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFS2" group-title="Canais | Portugal",PT: Local visão [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294089.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: MCM POP [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFJ2" group-title="Canais | Portugal",PT: MCM POP [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/293999.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: MCM TOP [CANAL OFF]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFJ3" group-title="Canais | Portugal",PT: MCM TOP [CANAL OFF]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: MEO Videoclube [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFL6" group-title="Canais | Portugal",PT: MEO Videoclube [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294023.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Mezzo [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFS3" group-title="Canais | Portugal",PT: Mezzo [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Motorvision TV [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFI9" group-title="Canais | Portugal",PT: Motorvision TV [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/293996.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Motorvision TV [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OMH4" group-title="Canais | Portugal",PT: Motorvision TV [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/295742.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV 00s [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFJ4" group-title="Canais | Portugal",PT: MTV 00s [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV Classic [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFJ5" group-title="Canais | Portugal",PT: MTV Classic [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV Live [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFS5" group-title="Canais | Portugal",PT: MTV Live [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV Portugal [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFJ6" group-title="Canais | Portugal",PT: MTV Portugal [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO Wild [FHD][H265]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFQ4" group-title="Canais | Portugal",PT: NAT GEO Wild [FHD][H265]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294071.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO [FHD][H265]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFQ3" group-title="Canais | Portugal",PT: NAT GEO [FHD][H265]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294070.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: NBA TV [HD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OMH5" group-title="Canais | Portugal",PT: NBA TV [HD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/295743.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: News Now [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFS6" group-title="Canais | Portugal",PT: News Now [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Nick Junior [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFH9" group-title="Canais | Portugal",PT: Nick Junior [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/293986.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: nickelodeon [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFI0" group-title="Canais | Portugal",PT: nickelodeon [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/293987.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Nos Studios [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFL7" group-title="Canais | Portugal",PT: Nos Studios [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Odisseia [HD][H265]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFO0" group-title="Canais | Portugal",PT: Odisseia [HD][H265]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294047.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: OPTO [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFS7" group-title="Canais | Portugal",PT: OPTO [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294094.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: PANDA Kids [HD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFI1" group-title="Canais | Portugal",PT: PANDA Kids [HD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/293988.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Porto Canal [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFO1" group-title="Canais | Portugal",PT: Porto Canal [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294048.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Record TV [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFS8" group-title="Canais | Portugal",PT: Record TV [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294095.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFO2" group-title="Canais | Portugal",PT: RTP 1 [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294049.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2 [HD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFO3" group-title="Canais | Portugal",PT: RTP 2 [HD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294050.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3 [HD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFO4" group-title="Canais | Portugal",PT: RTP 3 [HD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294051.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP Açores [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFO5" group-title="Canais | Portugal",PT: RTP Açores [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294052.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP Internacional [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFS9" group-title="Canais | Portugal",PT: RTP Internacional [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP Madeira [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFO7" group-title="Canais | Portugal",PT: RTP Madeira [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294054.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP Memória [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFO8" group-title="Canais | Portugal",PT: RTP Memória [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294055.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP África [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFO6" group-title="Canais | Portugal",PT: RTP África [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294053.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SAUDE+ [HD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFO9" group-title="Canais | Portugal",PT: SAUDE+ [HD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294056.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Caras [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFP1" group-title="Canais | Portugal",PT: SIC Caras [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Internacional [CANAL OFF]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFT0" group-title="Canais | Portugal",PT: SIC Internacional [CANAL OFF]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC K [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFP2" group-title="Canais | Portugal",PT: SIC K [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294059.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Kids [CANAL OFF]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFT1" group-title="Canais | Portugal",PT: SIC Kids [CANAL OFF]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Mulher [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFL8" group-title="Canais | Portugal",PT: SIC Mulher [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294025.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Noticias [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFK6" group-title="Canais | Portugal",PT: SIC Noticias [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294013.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Novelas [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFT2" group-title="Canais | Portugal",PT: SIC Novelas [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Radical [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFP3" group-title="Canais | Portugal",PT: SIC Radical [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294060.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC [FHD][H265]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFP0" group-title="Canais | Portugal",PT: SIC [FHD][H265]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294057.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV + [FHD][H265]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OMG2" group-title="Canais | Portugal",PT: SPORT TV + [FHD][H265]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/295730.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 [HD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OMG3" group-title="Canais | Portugal",PT: SPORT TV 1 [HD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/295731.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OMG4" group-title="Canais | Portugal",PT: SPORT TV 2 [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/295732.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OMG5" group-title="Canais | Portugal",PT: SPORT TV 3 [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/295733.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OMG6" group-title="Canais | Portugal",PT: SPORT TV 4 [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/295734.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OMG7" group-title="Canais | Portugal",PT: SPORT TV 5 [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/295735.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6 [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OMG8" group-title="Canais | Portugal",PT: SPORT TV 6 [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/295736.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 7 [HD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OMG9" group-title="Canais | Portugal",PT: SPORT TV 7 [HD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/295737.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OMH0" group-title="Canais | Portugal",PT: SPORT TV NBA [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/295738.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT.TV [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OMH1" group-title="Canais | Portugal",PT: SPORT.TV [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/295739.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT.TV [FHD][H265]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFI6" group-title="Canais | Portugal",PT: SPORT.TV [FHD][H265]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/293993.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sporting TV [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFI7" group-title="Canais | Portugal",PT: Sporting TV [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/293994.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: STAR Channel [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFL9" group-title="Canais | Portugal",PT: STAR Channel [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294026.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: STAR Comedy [HD][H265]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFM0" group-title="Canais | Portugal",PT: STAR Comedy [HD][H265]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: STAR Crime [FHD][H265]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFM1" group-title="Canais | Portugal",PT: STAR Crime [FHD][H265]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294028.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: STAR Life [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFM2" group-title="Canais | Portugal",PT: STAR Life [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294029.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: STAR Movies [FHD][H265]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFM3" group-title="Canais | Portugal",PT: STAR Movies [FHD][H265]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294030.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Stingray CMusic [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFT3" group-title="Canais | Portugal",PT: Stingray CMusic [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Stingray Retro [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFT4" group-title="Canais | Portugal",PT: Stingray Retro [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY Portugal [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFM4" group-title="Canais | Portugal",PT: SYFY Portugal [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294031.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TLC [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFP4" group-title="Canais | Portugal",PT: TLC [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TOROS [HD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFT6" group-title="Canais | Portugal",PT: TOROS [HD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TPA Notícias [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFT7" group-title="Canais | Portugal",PT: TPA Notícias [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Trace Brasil [HD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFJ7" group-title="Canais | Portugal",PT: Trace Brasil [HD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294004.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Trace Latina [HD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFJ8" group-title="Canais | Portugal",PT: Trace Latina [HD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294005.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Trace Toca [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFJ9" group-title="Canais | Portugal",PT: Trace Toca [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294006.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Trace Urban [SD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFK0" group-title="Canais | Portugal",PT: Trace Urban [SD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Travel Channel [HD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFP5" group-title="Canais | Portugal",PT: Travel Channel [HD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294062.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Travelxp [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFP6" group-title="Canais | Portugal",PT: Travelxp [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294063.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV Mana 1 [HD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFP7" group-title="Canais | Portugal",PT: TV Mana 1 [HD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294064.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Action [HD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFM5" group-title="Canais | Portugal",PT: TVCine Action [HD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Edition [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFM6" group-title="Canais | Portugal",PT: TVCine Edition [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294033.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Emotion [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFM7" group-title="Canais | Portugal",PT: TVCine Emotion [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Top [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFM8" group-title="Canais | Portugal",PT: TVCine Top [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Ficção [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFP8" group-title="Canais | Portugal",PT: TVI Ficção [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Reality [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFP9" group-title="Canais | Portugal",PT: TVI Reality [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFK7" group-title="Canais | Portugal",PT: TVI [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: V+ TVI [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFQ0" group-title="Canais | Portugal",PT: V+ TVI [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/294067.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: W-Sport [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OFI8" group-title="Canais | Portugal",PT: W-Sport [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/293995.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: W-Sport [FHD]" tvg-logo="plugin://script.hls.tester/?action=play&url=://cc90.one/OMH3" group-title="Canais | Portugal",PT: W-Sport [FHD]
+plugin://script.hls.tester/?action=play&url=://oneplay.cc:80/iptvmarcio2/asdfg2/295741.m3u8
