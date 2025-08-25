@@ -1,49 +1,65 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://i.imgur.com/Pq2DRf6.jpeg" group-title="(HBO)",HBO 2 FHD
-plugin://script.hls.tester/?action=play&url=http://cdn.mp77.site:80/123456789/123456789/1557
-#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://i.imgur.com/Pq2DRf6.jpeg" group-title="(HBO)",HBO 2 HD
-plugin://script.hls.tester/?action=play&url=http://cdn.mp77.site:80/123456789/123456789/1558
-#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://i.imgur.com/Pq2DRf6.jpeg" group-title="(HBO)",HBO 2 SD
-plugin://script.hls.tester/?action=play&url=http://cdn.mp77.site:80/123456789/123456789/1559
-#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://i.imgur.com/nRVNPr4.jpeg" group-title="(HBO)",HBO FHD
-plugin://script.hls.tester/?action=play&url=http://cdn.mp77.site:80/123456789/123456789/1560
-#EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="HBO Family FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://i.imgur.com/KxmdK9E.jpeg" group-title="(HBO)",HBO Family FHD
-plugin://script.hls.tester/?action=play&url=http://cdn.mp77.site:80/123456789/123456789/1561
-#EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="HBO Family HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://i.imgur.com/KxmdK9E.jpeg" group-title="(HBO)",HBO Family HD
-plugin://script.hls.tester/?action=play&url=http://cdn.mp77.site:80/123456789/123456789/1562
-#EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="HBO Family SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://i.imgur.com/KxmdK9E.jpeg" group-title="(HBO)",HBO Family SD
-plugin://script.hls.tester/?action=play&url=http://cdn.mp77.site:80/123456789/123456789/1563
-#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://i.imgur.com/nRVNPr4.jpeg" group-title="(HBO)",HBO HD
-plugin://script.hls.tester/?action=play&url=http://cdn.mp77.site:80/123456789/123456789/1564
-#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://i.imgur.com/eRiYWDE.jpeg" group-title="(HBO)",HBO Mundi FHD
-plugin://script.hls.tester/?action=play&url=http://cdn.mp77.site:80/123456789/123456789/1565
-#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://i.imgur.com/eRiYWDE.jpeg" group-title="(HBO)",HBO Mundi HD
-plugin://script.hls.tester/?action=play&url=http://cdn.mp77.site:80/123456789/123456789/1566
-#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://i.imgur.com/eRiYWDE.jpeg" group-title="(HBO)",HBO Mundi SD
-plugin://script.hls.tester/?action=play&url=http://cdn.mp77.site:80/123456789/123456789/1567
-#EXTINF:-1 tvg-id="HBOPlus.br" tvg-name="HBO Plus FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://i.imgur.com/sQo2jSi.jpeg" group-title="(HBO)",HBO Plus FHD
-plugin://script.hls.tester/?action=play&url=http://cdn.mp77.site:80/123456789/123456789/1568
-#EXTINF:-1 tvg-id="HBOPlus.br" tvg-name="HBO Plus HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://i.imgur.com/sQo2jSi.jpeg" group-title="(HBO)",HBO Plus HD
-plugin://script.hls.tester/?action=play&url=http://cdn.mp77.site:80/123456789/123456789/1569
-#EXTINF:-1 tvg-id="HBOPlus.br" tvg-name="HBO Plus SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://i.imgur.com/sQo2jSi.jpeg" group-title="(HBO)",HBO Plus SD
-plugin://script.hls.tester/?action=play&url=http://cdn.mp77.site:80/123456789/123456789/1570
-#EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO Pop FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://i.imgur.com/PQBaXi5.jpeg" group-title="(HBO)",HBO Pop FHD
-plugin://script.hls.tester/?action=play&url=http://cdn.mp77.site:80/123456789/123456789/1571
-#EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO Pop HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://i.imgur.com/PQBaXi5.jpeg" group-title="(HBO)",HBO Pop HD
-plugin://script.hls.tester/?action=play&url=http://cdn.mp77.site:80/123456789/123456789/1572
-#EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO Pop SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://i.imgur.com/PQBaXi5.jpeg" group-title="(HBO)",HBO Pop SD
-plugin://script.hls.tester/?action=play&url=http://cdn.mp77.site:80/123456789/123456789/1573
-#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://i.imgur.com/nRVNPr4.jpeg" group-title="(HBO)",HBO SD
-plugin://script.hls.tester/?action=play&url=http://cdn.mp77.site:80/123456789/123456789/1574
-#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://i.imgur.com/6BXpZls.jpeg" group-title="(HBO)",HBO Signature FHD
-plugin://script.hls.tester/?action=play&url=http://cdn.mp77.site:80/123456789/123456789/1575
-#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://i.imgur.com/6BXpZls.jpeg" group-title="(HBO)",HBO Signature HD
-plugin://script.hls.tester/?action=play&url=http://cdn.mp77.site:80/123456789/123456789/1576
-#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://i.imgur.com/6BXpZls.jpeg" group-title="(HBO)",HBO Signature SD
-plugin://script.hls.tester/?action=play&url=http://cdn.mp77.site:80/123456789/123456789/1577
-#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://i.imgur.com/kgOgKHI.jpeg" group-title="(HBO)",HBO Xtreme FHD
-plugin://script.hls.tester/?action=play&url=http://cdn.mp77.site:80/123456789/123456789/1578
-#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://i.imgur.com/kgOgKHI.jpeg" group-title="(HBO)",HBO Xtreme HD
-plugin://script.hls.tester/?action=play&url=http://cdn.mp77.site:80/123456789/123456789/1579
-#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://i.imgur.com/kgOgKHI.jpeg" group-title="(HBO)",HBO Xtreme SD
-plugin://script.hls.tester/?action=play&url=http://cdn.mp77.site:80/123456789/123456789/1580
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO 4K" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=s://i.imgur.com/thGAGIl.png" group-title="⚡REDE HBO",HBO 4K
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/369659.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=s://i.imgur.com/thGAGIl.png" group-title="⚡REDE HBO",HBO FHD
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/599.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=s://i.imgur.com/thGAGIl.png" group-title="⚡REDE HBO",HBO HD
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/600.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=s://i.imgur.com/thGAGIl.png" group-title="⚡REDE HBO",HBO SD
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/610.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 4K" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=s://i.imgur.com/ojABnUw.png" group-title="⚡REDE HBO",HBO 2 4K
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/369658.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=s://i.imgur.com/ojABnUw.png" group-title="⚡REDE HBO",HBO 2 FHD
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/171851.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=s://i.imgur.com/ojABnUw.png" group-title="⚡REDE HBO",HBO 2 HD
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/595.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 SD" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=s://i.imgur.com/ojABnUw.png" group-title="⚡REDE HBO",HBO 2 SD
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/173229.ts
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY 4K" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://ixi.paineluhd.club:80/images/6a70f1b4937458e8d796cb4fa637e58c.png" group-title="⚡REDE HBO",HBO FAMILY 4K
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/173153.ts
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY FHD" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://ixi.paineluhd.club:80/images/6a70f1b4937458e8d796cb4fa637e58c.png" group-title="⚡REDE HBO",HBO FAMILY FHD
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/391362.ts
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://ixi.paineluhd.club:80/images/6a70f1b4937458e8d796cb4fa637e58c.png" group-title="⚡REDE HBO",HBO FAMILY HD
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/597.ts
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://ixi.paineluhd.club:80/images/6a70f1b4937458e8d796cb4fa637e58c.png" group-title="⚡REDE HBO",HBO FAMILY SD
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/29.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.MUNDI.HD.br" tvg-name="HBO MUNDI 4K" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=s://i.imgur.com/WTar9pP.png" group-title="⚡REDE HBO",HBO MUNDI 4K
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/369661.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.MUNDI.HD.br" tvg-name="HBO MUNDI FHD" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=s://i.imgur.com/WTar9pP.png" group-title="⚡REDE HBO",HBO MUNDI FHD
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/601.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.MUNDI.HD.br" tvg-name="HBO MUNDI HD" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=s://i.imgur.com/WTar9pP.png" group-title="⚡REDE HBO",HBO MUNDI HD
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/602.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.MUNDI.HD.br" tvg-name="HBO MUNDI SD" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=s://i.imgur.com/WTar9pP.png" group-title="⚡REDE HBO",HBO MUNDI SD
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/603.ts
+#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO PLUS 4K" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=s://i.imgur.com/ZJhyEji.png" group-title="⚡REDE HBO",HBO PLUS 4K
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/615.ts
+#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO PLUS FHD" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=s://i.imgur.com/ZJhyEji.png" group-title="⚡REDE HBO",HBO PLUS FHD
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/604.ts
+#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO PLUS HD" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=s://i.imgur.com/ZJhyEji.png" group-title="⚡REDE HBO",HBO PLUS HD
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/605.ts
+#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO PLUS SD" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=s://i.imgur.com/ZJhyEji.png" group-title="⚡REDE HBO",HBO PLUS SD
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/616.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.POP.HD.br" tvg-name="HBO POP 4K" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=s://i.imgur.com/rvBuRMM.png" group-title="⚡REDE HBO",HBO POP 4K
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/369663.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.POP.HD.br" tvg-name="HBO POP FHD" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=s://i.imgur.com/rvBuRMM.png" group-title="⚡REDE HBO",HBO POP FHD
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/607.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.POP.HD.br" tvg-name="HBO POP HD" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=s://i.imgur.com/rvBuRMM.png" group-title="⚡REDE HBO",HBO POP HD
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/608.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.POP.HD.br" tvg-name="HBO POP SD" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=s://i.imgur.com/rvBuRMM.png" group-title="⚡REDE HBO",HBO POP SD
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/609.ts
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE 4K" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=s://i.imgur.com/X0ulza3.png" group-title="⚡REDE HBO",HBO SIGNATURE 4K
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/369664.ts
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=s://i.imgur.com/X0ulza3.png" group-title="⚡REDE HBO",HBO SIGNATURE FHD
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/171857.ts
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=s://i.imgur.com/X0ulza3.png" group-title="⚡REDE HBO",HBO SIGNATURE HD
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/611.ts
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=s://i.imgur.com/X0ulza3.png" group-title="⚡REDE HBO",HBO SIGNATURE SD
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/612.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.Xtreme.HD.br" tvg-name="HBO XTREME 4K" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=s://i.imgur.com/iu72id7.png" group-title="⚡REDE HBO",HBO XTREME 4K
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/369665.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.Xtreme.HD.br" tvg-name="HBO XTREME FHD" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=s://i.imgur.com/iu72id7.png" group-title="⚡REDE HBO",HBO XTREME FHD
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/613.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.Xtreme.HD.br" tvg-name="HBO XTREME HD" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=s://i.imgur.com/iu72id7.png" group-title="⚡REDE HBO",HBO XTREME HD
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/171858.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.Xtreme.HD.br" tvg-name="HBO XTREME SD" tvg-logo="plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=s://i.imgur.com/iu72id7.png" group-title="⚡REDE HBO",HBO XTREME SD
+plugin://script.hls.tester/?action=play[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]&url=://levelxpt.lat:80/18564635/25335134/614.ts
