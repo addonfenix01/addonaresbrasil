@@ -2,7 +2,7 @@
 <channels>
 
 <channel>
-<name>[B][COLOR orange]CANAIS[/COLOR] [COLOR pink]| ABERTOS[/COLOR][/B]</name>
+<name>[B][COLOR orange]CANAIS ABERTOS [/COLOR] [COLOR pink]| HLS[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
 <fanart>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</fanart>
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
@@ -34,7 +34,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR orange]KIDS TV [/COLOR] [COLOR pink]| DESENHOS[/COLOR][/B]</name>
+<name>[B][COLOR orange]KIDS TV [/COLOR] [COLOR pink]| HLS[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
 <fanart>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</fanart>
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
@@ -42,7 +42,7 @@
 </channel> 
 
 <channel>
-<name>[B][COLOR pink]TELECINE [/COLOR] [COLOR orange]| CANAIS[/COLOR][/B]</name>
+<name>[B][COLOR pink]TELECINE [/COLOR] [COLOR orange]| HLS[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
 <fanart>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</fanart>
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
@@ -50,7 +50,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR orange]ESPORTES [/COLOR] [COLOR pink]| CANAIS[/COLOR][/B]</name>
+<name>[B][COLOR orange]ESPORTES [/COLOR] [COLOR pink]| HLS[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
 <fanart>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</fanart>
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
@@ -58,7 +58,7 @@
 </channel> 
 
 <channel>
-<name>[B][COLOR pink]PORTUGUÈSES [/COLOR] [COLOR orange]| CANAIS[/COLOR][/B]</name>
+<name>[B][COLOR pink]PORTUGUÈSES [/COLOR] [COLOR orange]| HLS[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
 <fanart>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</fanart>
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
@@ -66,7 +66,7 @@
 </channel>
 l
 <channel>
-<name>[B][COLOR orange]HBO [/COLOR] [COLOR pink]| CANAIS[/COLOR][/B]</name>
+<name>[B][COLOR orange]HBO [/COLOR] [COLOR pink]| HLS[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
@@ -74,7 +74,7 @@ l
 </channel>
 
 <channel>
-<name>[B][COLOR pink]GLOBO SUL [/COLOR] [COLOR orange]| CANAIS[/COLOR][/B]</name>
+<name>[B][COLOR pink]GLOBO CAPITAIS [/COLOR] [COLOR orange]| HLS[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
 <fanart>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</fanart>
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
@@ -83,3 +83,4 @@ l
 
   
 </channels>
+
