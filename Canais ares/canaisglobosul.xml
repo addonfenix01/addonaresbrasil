@@ -1,73 +1,71 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BR - Globo Anhanguera" tvg-name="GLOBO ANHANGUERA GO FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO ANHANGUERA GO FHD
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/4779102.m3u8
-#EXTINF:-1 tvg-id="BR - Globo Anhanguera" tvg-name="GLOBO ANHANGUERA GO HD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO ANHANGUERA GO HD
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/550.m3u8
-#EXTINF:-1 tvg-id="globobelohorizonte.br" tvg-name="GLOBO BELO HORIZONTE FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO BELO HORIZONTE FHD
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/173062.m3u8
-#EXTINF:-1 tvg-id="globobelohorizonte.br" tvg-name="GLOBO BELO HORIZONTE HD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO BELO HORIZONTE HD
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/173063.m3u8
-#EXTINF:-1 tvg-id="Globo Brasilia HD" tvg-name="GLOBO BRASILIA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO BRASILIA FHD
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/516.m3u8
-#EXTINF:-1 tvg-id="BR - Globo Brasília" tvg-name="GLOBO BRASILIA FHD²" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO BRASILIA FHD²
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/173065.m3u8
-#EXTINF:-1 tvg-id="BR - Globo Brasília" tvg-name="GLOBO BRASILIA FHD¹" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO BRASILIA FHD¹
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/173064.m3u8
-#EXTINF:-1 tvg-id="Globo Brasilia HD" tvg-name="GLOBO BRASILIA HD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO BRASILIA HD
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/517.m3u8
-#EXTINF:-1 tvg-id="BR - Globo Brasília" tvg-name="GLOBO BRASÍLIA SD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO BRASÍLIA SD
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/173067.m3u8
-#EXTINF:-1 tvg-id="Globo Minas HD" tvg-name="GLOBO MG SD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO MG SD
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/544.m3u8
-#EXTINF:-1 tvg-id="redeminas.br" tvg-name="GLOBO MINAS FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO MINAS FHD
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/173068.m3u8
-#EXTINF:-1 tvg-id="redeminas.br" tvg-name="GLOBO MINAS HD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO MINAS HD
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/173069.m3u8
-#EXTINF:-1 tvg-id="redeminas.br" tvg-name="GLOBO MINAS SD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO MINAS SD
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/173070.m3u8
-#EXTINF:-1 tvg-id="globonordeste.br" tvg-name="GLOBO NORDESTE FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO NORDESTE FHD
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/173071.m3u8
-#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO NORDESTE HD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO NORDESTE HD
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/547.m3u8
-#EXTINF:-1 tvg-id="globonordeste.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO NORDESTE HD
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/173072.m3u8
-#EXTINF:-1 tvg-id="globonordeste.br" tvg-name="GLOBO NORDESTE SD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO NORDESTE SD
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/173073.m3u8
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO RJ FHD
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/173074.m3u8
-#EXTINF:-1 tvg-id="BR - Globo RJ" tvg-name="GLOBO RJ FHD²" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO RJ FHD²
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/173075.m3u8
-#EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="GLOBO RJ HD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO RJ HD
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/565.m3u8
-#EXTINF:-1 tvg-id="BR - Globo RJ" tvg-name="GLOBO RJ HD²" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO RJ HD²
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/173077.m3u8
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD¹" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO RJ HD¹
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/173076.m3u8
-#EXTINF:-1 tvg-id="BR - Globo RJ" tvg-name="GLOBO RJ SD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO RJ SD
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/173078.m3u8
-#EXTINF:-1 tvg-id="Globo Brasilia HD" tvg-name="GLOBO RPC CURITIBA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO RPC CURITIBA FHD
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/172984.m3u8
-#EXTINF:-1 tvg-id="rpccuritiba.br" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO RPC CURITIBA HD
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/172985.m3u8
-#EXTINF:-1 tvg-id="Globo Rpc Curitiba SD" tvg-name="GLOBO RPC CURITIBA SD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO RPC CURITIBA SD
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/172986.m3u8
-#EXTINF:-1 tvg-id="BR - TV Sergipe HD" tvg-name="GLOBO SE FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO SE FHD
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/576.m3u8
-#EXTINF:-1 tvg-id="BR - TV Sergipe HD" tvg-name="GLOBO SE HD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO SE HD
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/577.m3u8
-#EXTINF:-1 tvg-id="BR - TV Sergipe HD" tvg-name="GLOBO SERGIPE FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO SERGIPE FHD
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/173079.m3u8
-#EXTINF:-1 tvg-id="BR - TV Sergipe HD" tvg-name="GLOBO SERGIPE HD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO SERGIPE HD
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/173080.m3u8
-#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SP 4K" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO SP 4K
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/369652.m3u8
-#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO SP FHD
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/173081.m3u8
-#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SP FHD²" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO SP FHD²
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/578.m3u8
-#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SP HD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO SP HD
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/173083.m3u8
-#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SP HD²" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO SP HD²
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/579.m3u8
-#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SP SD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO SP SD
-plugin://script.hls.tester/?action=play&url=://pthdtv.top:80/273522697/879745075/173085.m3u8
+#EXTINF:-1 tvg-id="BR - Globo Anhanguera" tvg-name="GLOBO ANHANGUERA GO FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO ANHANGUERA GO FHD
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/4779102.ts
+#EXTINF:-1 tvg-id="BR - Globo Anhanguera" tvg-name="GLOBO ANHANGUERA GO HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO ANHANGUERA GO HD
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/550.ts
+#EXTINF:-1 tvg-id="globobelohorizonte.br" tvg-name="GLOBO BELO HORIZONTE FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO BELO HORIZONTE FHD
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/173062.ts
+#EXTINF:-1 tvg-id="globobelohorizonte.br" tvg-name="GLOBO BELO HORIZONTE HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO BELO HORIZONTE HD
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/173063.ts
+#EXTINF:-1 tvg-id="Globo Brasilia HD" tvg-name="GLOBO BRASILIA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO BRASILIA FHD
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/516.ts
+#EXTINF:-1 tvg-id="BR - Globo Brasília" tvg-name="GLOBO BRASILIA FHD²" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO BRASILIA FHD²
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/173065.ts
+#EXTINF:-1 tvg-id="BR - Globo Brasília" tvg-name="GLOBO BRASILIA FHD¹" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO BRASILIA FHD¹
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/173064.ts
+#EXTINF:-1 tvg-id="Globo Brasilia HD" tvg-name="GLOBO BRASILIA HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO BRASILIA HD
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/517.ts
+#EXTINF:-1 tvg-id="BR - Globo Brasília" tvg-name="GLOBO BRASILIA SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO BRASILIA SD
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/173067.ts
+#EXTINF:-1 tvg-id="Globo Minas HD" tvg-name="GLOBO MG SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO MG SD
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/544.ts
+#EXTINF:-1 tvg-id="redeminas.br" tvg-name="GLOBO MINAS FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO MINAS FHD
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/173068.ts
+#EXTINF:-1 tvg-id="redeminas.br" tvg-name="GLOBO MINAS HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO MINAS HD
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/173069.ts
+#EXTINF:-1 tvg-id="redeminas.br" tvg-name="GLOBO MINAS SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO MINAS SD
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/173070.ts
+#EXTINF:-1 tvg-id="globonordeste.br" tvg-name="GLOBO NORDESTE FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO NORDESTE FHD
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/173071.ts
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO NORDESTE HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO NORDESTE HD
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/547.ts
+#EXTINF:-1 tvg-id="globonordeste.br" tvg-name="GLOBO NORDESTE SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO NORDESTE SD
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/173072.ts
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO RJ FHD
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/173074.ts
+#EXTINF:-1 tvg-id="BR - Globo RJ" tvg-name="GLOBO RJ FHD²" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO RJ FHD²
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/173075.ts
+#EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="GLOBO RJ HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO RJ HD
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/565.ts
+#EXTINF:-1 tvg-id="BR - Globo RJ" tvg-name="GLOBO RJ HD²" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO RJ HD²
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/173077.ts
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD¹" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO RJ HD¹
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/173076.ts
+#EXTINF:-1 tvg-id="BR - Globo RJ" tvg-name="GLOBO RJ SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO RJ SD
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/173078.ts
+#EXTINF:-1 tvg-id="Globo Brasilia HD" tvg-name="GLOBO RPC CURITIBA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO RPC CURITIBA FHD
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/172984.ts
+#EXTINF:-1 tvg-id="rpccuritiba.br" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO RPC CURITIBA HD
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/172985.ts
+#EXTINF:-1 tvg-id="Globo Rpc Curitiba SD" tvg-name="GLOBO RPC CURITIBA SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO RPC CURITIBA SD
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/172986.ts
+#EXTINF:-1 tvg-id="BR - TV Sergipe HD" tvg-name="GLOBO SE FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO SE FHD
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/576.ts
+#EXTINF:-1 tvg-id="BR - TV Sergipe HD" tvg-name="GLOBO SE HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO SE HD
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/577.ts
+#EXTINF:-1 tvg-id="BR - TV Sergipe HD" tvg-name="GLOBO SERGIPE FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO SERGIPE FHD
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/173079.ts
+#EXTINF:-1 tvg-id="BR - TV Sergipe HD" tvg-name="GLOBO SERGIPE HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO SERGIPE HD
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/173080.ts
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SP 4K" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO SP 4K
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/369652.ts
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO SP FHD
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/173081.ts
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SP FHD²" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO SP FHD²
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/578.ts
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SP HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO SP HD
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/173083.ts
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SP HD²" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO SP HD²
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/579.ts
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SP SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS CAPITAIS",GLOBO SP SD
+plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/173085.ts
