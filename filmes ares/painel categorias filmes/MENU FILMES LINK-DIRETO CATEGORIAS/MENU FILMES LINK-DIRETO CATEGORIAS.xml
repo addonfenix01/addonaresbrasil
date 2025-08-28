@@ -62,7 +62,7 @@
 <name>[B][COLOR pink]FILMES[/COLOR] [COLOR orange]| RESIDENT EVIL[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/aev8KwfhLbNzumqGlRoG4K0dUne.jpg</thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/painel%20categorias%20filmes/MENU%20FILMES%20LINK-DIRETO%20CATEGORIAS/filmesmortalcombat.xml</externallink>
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/painel%20categorias%20filmes/MENU%20FILMES%20LINK-DIRETO%20CATEGORIAS/filmesresidenteevil.xml</externallink>
 </channel>
 
 <channel>
@@ -76,6 +76,7 @@
  
   
 </channels>
+
 
 
 
