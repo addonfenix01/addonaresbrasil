@@ -52,7 +52,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR orange]FILMES[/COLOR] [COLOR pink]| INDIANA JONES[/COLOR][/B]</name>
+<name>[B][COLOR orange]FILMES[/COLOR] [COLOR pink]| VELOZES E FURIOSOS[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/lUiJKFmAqELHXNTr0eXqPGJYhsa.jpg</thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/painel%20categorias%20filmes/MENU%20FILMES%20LINK-DIRETO%20CATEGORIAS/filmesindianajones.xml</externallink>
@@ -76,5 +76,6 @@
  
   
 </channels>
+
 
 
