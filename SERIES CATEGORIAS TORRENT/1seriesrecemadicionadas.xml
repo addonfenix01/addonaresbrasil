@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+  <title>Invasão 3ª Temporada (2025)</title>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81871a27d061e5177ab596882c78485728032619$nome=[COLOR orange]ADDON ARES - Episódio 01[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:573f05024746e506de619f1d38b8fbd09ec2b8f3$nome=[COLOR pink]ADDON ARES - Episódio 02[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb39071de87ec0f0cedf9b20ec41df56d03227f6$nome=[COLOR orange]ADDON ARES - Episódio 03[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a026a5ab315b2be1e09be0bc59743c4b64f3f7a2$nome=[COLOR pink]ADDON ARES - Episódio 04[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d71817be8c304d4282baf5b1ba91391564bd5387$nome=[COLOR orange]ADDON ARES - Episódio 05[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5beb9817aaf8859acde119b4a3fbc9f876ae1db3$nome=[COLOR pink]ADDON ARES - Episódio 06[/COLOR]</link>
+  <thumbnail>https://image.tmdb.org/t/p/original/wDR8diLNJdlH5d4KzNnZXur9A6.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/original/i9IEOD1Li1y89xRHKH9kiE8dt9z.jpg</fanart>
+  <info>[COLOR orange]Título Original:[/COLOR] Animorphs
+[COLOR red]Elenco Principal:[/COLOR] Shawn Ashmore, Brooke Nevin, Paulo Costanzo, Nadia-Leigh Nascimento, Boris Cabrera
+[COLOR orange]Duração:[/COLOR] 24 min (por episódio)
+[COLOR red]Criado por:[/COLOR] Katherine Applegate
+[COLOR orange]Ano:[/COLOR] 1998
+[COLOR red]Nota:[/COLOR] 7.0
+[COLOR orange]Gênero:[/COLOR] Drama, Kids, Sci-Fi & Fantasy
+[COLOR red]Sinopse:[/COLOR] Eles se lembram frequentemente daquele último momento em que eram apenas jovens comuns. Parece que foi a milhões de anos. O grupo era tão diferente! Não poderiam imaginar que a decisão de pegar um simples atalho mudaria suas vidas, para sempre. Começam as extraordinárias aventuras de Jake, Rachel, Cassie, Tobias e Marco. Eles têm de enfrentar o maior e mais secreto desafio de suas vidas: defender o planeta terra da invasão de inimigos cruéis e impiedosos. Só um poder especial, o da metamorfose - poder que nenhum ser humano jamais teve - poderá ajudá-los a enfrentar os terríveis inimigos. Jake e seus amigos, agora, são os Animorphs.</info>
+</item>
 
 <item>
   <title>Pacificador 2ª Temporada (2025)</title>
@@ -340,23 +358,6 @@
 [COLOR red]Nota:[/COLOR] 8.3
 [COLOR orange]Gênero:[/COLOR] Crime, Drama, Comédia
 [COLOR red]Sinopse:[/COLOR] Depois de cumprir 25 anos de prisão, Dwight Manfredi é exilado sem cerimônia por seu chefe da máfia para se estabelecer em Oklahoma. Dwight lentamente constrói um novo império criminoso em Tulsa.</info>
-</item>
-
-<item>
-  <title>Invasão 3ª Temporada (2025)</title>
-  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81871a27d061e5177ab596882c78485728032619$nome=[COLOR orange]ADDON ARES - Episódio 01[/COLOR]</link>
-  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:573f05024746e506de619f1d38b8fbd09ec2b8f3$nome=[COLOR pink]ADDON ARES - Episódio 02[/COLOR]</link>
-  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb39071de87ec0f0cedf9b20ec41df56d03227f6$nome=[COLOR orange]ADDON ARES - Episódio 03[/COLOR]</link>
-  <thumbnail>https://image.tmdb.org/t/p/original/wDR8diLNJdlH5d4KzNnZXur9A6.jpg</thumbnail>
-  <fanart>https://image.tmdb.org/t/p/original/i9IEOD1Li1y89xRHKH9kiE8dt9z.jpg</fanart>
-  <info>[COLOR orange]Título Original:[/COLOR] Animorphs
-[COLOR red]Elenco Principal:[/COLOR] Shawn Ashmore, Brooke Nevin, Paulo Costanzo, Nadia-Leigh Nascimento, Boris Cabrera
-[COLOR orange]Duração:[/COLOR] 24 min (por episódio)
-[COLOR red]Criado por:[/COLOR] Katherine Applegate
-[COLOR orange]Ano:[/COLOR] 1998
-[COLOR red]Nota:[/COLOR] 7.0
-[COLOR orange]Gênero:[/COLOR] Drama, Kids, Sci-Fi & Fantasy
-[COLOR red]Sinopse:[/COLOR] Eles se lembram frequentemente daquele último momento em que eram apenas jovens comuns. Parece que foi a milhões de anos. O grupo era tão diferente! Não poderiam imaginar que a decisão de pegar um simples atalho mudaria suas vidas, para sempre. Começam as extraordinárias aventuras de Jake, Rachel, Cassie, Tobias e Marco. Eles têm de enfrentar o maior e mais secreto desafio de suas vidas: defender o planeta terra da invasão de inimigos cruéis e impiedosos. Só um poder especial, o da metamorfose - poder que nenhum ser humano jamais teve - poderá ajudá-los a enfrentar os terríveis inimigos. Jake e seus amigos, agora, são os Animorphs.</info>
 </item>
 
 <item>
