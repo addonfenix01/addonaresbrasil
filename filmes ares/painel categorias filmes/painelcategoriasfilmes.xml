@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 
+<channel>
+<name>[B][COLOR lime]Pesquisar Filmes [/COLOR][/B]</name>  
+<thumbnail>https://archive.org/download/aresfilmesmisterio/aresfilmesacao.png</thumbnail>    
+<fanart>https://archive.org/download/aresfilmesmisterio/aresfilmesacao.png</fanart>  
+<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/acao.xml</pesquisa>
+<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/animacao.xml</pesquisa>
+<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/aventura.xml</pesquisa>
+<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/classicos.xml</pesquisa>
+<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/comedia.xml</pesquisa>
+<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/crime.xnl</pesquisa>
+<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/documentario.xml</pesquisa>
+<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/drama.xml</pesquisa>
+<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/fantasia.xml</pesquisa>
+<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/faroeste.xml</pesquisa>
+<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/ficcao%2Cxml</pesquisa>
+<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/guerra.xml</pesquisa>
+<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/homenagemaoartista.xml</pesquisa>
+</channel>
 
 <channel>
 <name>[B][COLOR red]ARES [/COLOR] [COLOR pink]RECEM-ADICIONADOS [/COLOR][/B]</name>  
@@ -132,3 +150,4 @@
 
     
 </channels>
+
