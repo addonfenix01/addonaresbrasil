@@ -2,9 +2,10 @@
 <channels>
 
 <channel>
-<name>[B][COLOR lime]Pesquisar Filmes [/COLOR][/B]</name>  
+<name>[COLOR lime]PESQUISAR [/COLOR][COLOR orange]FILMES [/COLOR]</name>  
 <thumbnail>https://archive.org/download/aresfilmesmisterio/aresfilmesacao.png</thumbnail>    
-<fanart>https://archive.org/download/aresfilmesmisterio/aresfilmesacao.png</fanart>  
+<fanart>https://archive.org/download/aresfilmesmisterio/aresfilmesacao.png</fanart>
+<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/1filmesrecemadicionados.xml</pesquisa> 
 <pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/acao.xml</pesquisa>
 <pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/animacao.xml</pesquisa>
 <pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/aventura.xml</pesquisa>
@@ -18,6 +19,11 @@
 <pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/ficcao%2Cxml</pesquisa>
 <pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/guerra.xml</pesquisa>
 <pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/homenagemaoartista.xml</pesquisa>
+<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/misterio.xml</pesquisa> 
+<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/romance.xml</pesquisa> 
+<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/terror.xml</pesquisa> 
+<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/2teste.xml</pesquisa> 
+
 </channel>
 
 <channel>
@@ -123,14 +129,14 @@
 <name>[B][COLOR pink]ARES[/COLOR] [COLOR red]MISTÉRIO [/COLOR][/B]</name> 
 <thumbnail>https://archive.org/download/aresfilmesmisterio/aresfilmesmisterio.png</thumbnail>    
 <fanart>https://archive.org/download/aresfilmesmisterio/aresfilmesmisterio.png</fanart>     
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/misterio.xml</externallink>
 </channel>
 
 <channel>
 <name>[B][COLOR red]ARES [/COLOR] [COLOR pink]ROMANCE [/COLOR][/B]</name>  
 <thumbnail>https://archive.org/download/aresrecemadicionados/aresfilmesromance1.png</thumbnail>    
 <fanart>https://archive.org/download/aresrecemadicionados/aresfilmesromance1.png</fanart>  
-<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/misterio.xml</externallink>
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/romance.xml</externallink>
 </channel>
     
 <channel>
@@ -150,4 +156,3 @@
 
     
 </channels>
-
