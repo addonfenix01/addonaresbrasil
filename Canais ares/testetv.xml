@@ -1,10 +1,10 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-#EXTINF:-1 tvg-id="AE.br" tvg-name="A&E 4K" tvg-logo="https://img.hotice.site/icones_channels/A&E.png" group-title="⭐ 4K",A&E 4K
-http://defumadeghuoiew.maistv.xyz:80/866582838/159759854/4230933
-#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC FHD 4K" tvg-logo="https://img.hotice.site/icones_channels/AMC_HD.png" group-title="⭐ 4K",AMC FHD 4K
-http://defumadeghuoiew.maistv.xyz:80/866582838/159759854/4230944
-#EXTINF:-1 tvg-id="ANIMALPLANET.br" tvg-name="ANIMAL PLANET 4K" tvg-logo="https://img.hotice.site/icones_channels/Animal_Planet_HD.png" group-title="⭐ 4K",ANIMAL PLANET 4K
-http://defumadeghuoiew.maistv.xyz:80/866582838/159759854/4230947
-#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN 4K" tvg-logo="https://img.hotice.site/icones_channels/AXN_HD.png" group-title="⭐ 4K",AXN 4K
-http://defumadeghuoiew.maistv.xyz:80/866582838/159759854/4230954
+#EXTINF:-1 tvg-id="AE.br" tvg-name="A&E 4K" tvg-logo="plugin://script.hls.tester/?action=play&url=https://img.hotice.site/icones_channels/A&E.png" group-title="⭐ 4K",A&E 4K
+plugin://script.hls.tester/?action=play&url=http://defumadeghuoiew.maistv.xyz:80/866582838/159759854/4230933
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC FHD 4K" tvg-logo="plugin://script.hls.tester/?action=play&url=https://img.hotice.site/icones_channels/AMC_HD.png" group-title="⭐ 4K",AMC FHD 4K
+plugin://script.hls.tester/?action=play&url=http://defumadeghuoiew.maistv.xyz:80/866582838/159759854/4230944
+#EXTINF:-1 tvg-id="ANIMALPLANET.br" tvg-name="ANIMAL PLANET 4K" tvg-logo="plugin://script.hls.tester/?action=play&url=https://img.hotice.site/icones_channels/Animal_Planet_HD.png" group-title="⭐ 4K",ANIMAL PLANET 4K
+plugin://script.hls.tester/?action=play&url=http://defumadeghuoiew.maistv.xyz:80/866582838/159759854/4230947
+#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN 4K" tvg-logo="plugin://script.hls.tester/?action=play&url=https://img.hotice.site/icones_channels/AXN_HD.png" group-title="⭐ 4K",AXN 4K
+plugin://script.hls.tester/?action=play&url=http://defumadeghuoiew.maistv.xyz:80/866582838/159759854/4230954
