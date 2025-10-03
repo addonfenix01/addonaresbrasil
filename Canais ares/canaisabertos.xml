@@ -1,47 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="São.Paulo/SP..Agro.Mais.br" tvg-name="AGRO+ FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://ixi.paineluhd.club:80/images/0d1eb6c8a1bc30ba6454eb2ab48266ed.png" group-title="✨ABERTOS",AGRO+ FHD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/6.m3u8
-#EXTINF:-1 tvg-id="Canal Brasil SD" tvg-name="CANAL BRASIL FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/canalbrasil.png" group-title="✨ABERTOS",CANAL BRASIL FHD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/469.m3u8
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="TV BRASIL HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://ixi.paineluhd.club:80/images/ae774b8cbf672f48bf845f9a8c20d2ef.png" group-title="✨ABERTOS",TV BRASIL HD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/4774475.m3u8
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="TV BRASIL SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://ixi.paineluhd.club:80/images/ae774b8cbf672f48bf845f9a8c20d2ef.png" group-title="✨ABERTOS",TV BRASIL SD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/4774476.m3u8
-#EXTINF:-1 tvg-id="canalboi.br" tvg-name="CANAL DO BOI FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://ixi.paineluhd.club:80/images/53eced46522e5cd74ccb01083dbff7d9.png" group-title="✨ABERTOS",CANAL DO BOI FHD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/369617.m3u8
-#EXTINF:-1 tvg-id="canalrural.br" tvg-name="Canal Rural HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://ixi.paineluhd.club:80/images/d8c93108600d114d5727ac8c5fa7b3ec.png" group-title="✨ABERTOS",Canal Rural HD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/470.m3u8
-#EXTINF:-1 tvg-id="canalrural.br" tvg-name="Canal Rural SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://ixi.paineluhd.club:80/images/d8c93108600d114d5727ac8c5fa7b3ec.png" group-title="✨ABERTOS",Canal Rural SD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/471.m3u8
-#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA 4K" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA 4K
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/369649.m3u8
-#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA FHD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/171844.m3u8
-#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA HD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/472.m3u8
-#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA SD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/473.m3u8
-#EXTINF:-1 tvg-id="REDEBR" tvg-name="REDE BRASIL" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/tVMEQmb.png" group-title="✨ABERTOS",REDE BRASIL
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/474.m3u8
-#EXTINF:-1 tvg-id="Rede TV SD" tvg-name="REDE TV FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV FHD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/476.m3u8
-#EXTINF:-1 tvg-id="Rede TV HD" tvg-name="REDE TV HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV HD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/171878.m3u8
-#EXTINF:-1 tvg-id="Rede TV FHD" tvg-name="REDE TV SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV SD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/477.m3u8
-#EXTINF:-1 tvg-id="tvcÃƒÆ’Ã‚Â¢mara.br" tvg-name="TV CAMARA" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="✨ABERTOS",TV CAMARA
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/479.m3u8
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA 4K" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA 4K
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/369627.m3u8
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA FHD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/480.m3u8
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA HD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/481.m3u8
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA SD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/482.m3u8
-#EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV GAZETA 4K" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/2th79Ey.png" group-title="✨ABERTOS",TV GAZETA 4K
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/369727.m3u8
-#EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV GAZETA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/2th79Ey.png" group-title="✨ABERTOS",TV GAZETA FHD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/483.m3u8
-#EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV GAZETA HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/2th79Ey.png" group-title="✨ABERTOS",TV GAZETA HD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/171896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/254d6fc6447918f5ce9c12eff8352d13.png" group-title="Canais | Abertos",CANAL DO BOI
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/536.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/e9af0d88078e8f7ccf2ac2423c8182ef.png" group-title="Canais | Abertos",CANAL RURAL
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/528.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE BRASIL HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/b8f7e11a5b8b039c0bbc82d228721d7d.png" group-title="Canais | Abertos",CINE BRASIL HD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/198.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://blogger.googleusercontent.com/img/a/AVvXsEi342hoB7-1kTkS2614cXlDeUzlPB-zQJZXLhgFqxZSJ11eAxAaf-a75kWMA8WJKxcRKV3w1ROIYMXUgQh-BB817ufF3IG8c-ouLCuFutqHDhip684nUmt1BZkJ9sK9RhRqMifjV0qG-WrUCtohiSBZWrAZmZwXK2peZ0IGOJrSm95luBJ0T4XKgKJP" group-title="Canais | Abertos",CNN INTERNACIONAL HD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/233.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://blogger.googleusercontent.com/img/a/AVvXsEi342hoB7-1kTkS2614cXlDeUzlPB-zQJZXLhgFqxZSJ11eAxAaf-a75kWMA8WJKxcRKV3w1ROIYMXUgQh-BB817ufF3IG8c-ouLCuFutqHDhip684nUmt1BZkJ9sK9RhRqMifjV0qG-WrUCtohiSBZWrAZmZwXK2peZ0IGOJrSm95luBJ0T4XKgKJP" group-title="Canais | Abertos",CNN INTERNACIONAL SD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/578.ts
+#EXTINF:-1 tvg-id="" tvg-name="FUTURA SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/930a5786230659c49aeb46b29480e2cf.png" group-title="Canais | Abertos",FUTURA SD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/575.ts
+#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/d90e695a7501eab8376e7195e7a28682.png" group-title="Canais | Abertos",REDE BRASIL SD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/543.ts
+#EXTINF:-1 tvg-id="Rede TV.br" tvg-name="REDE TV FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/1cacc3ce42dfe22059381d796f419cae.png" group-title="Canais | Abertos",REDE TV FHD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/133.ts
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/1cacc3ce42dfe22059381d796f419cae.png" group-title="Canais | Abertos",REDE TV HD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/134.ts
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/1cacc3ce42dfe22059381d796f419cae.png" group-title="Canais | Abertos",REDE TV SD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/610.ts
+#EXTINF:-1 tvg-id="" tvg-name="REDETV NACIONAL HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/1cacc3ce42dfe22059381d796f419cae.png" group-title="Canais | Abertos",REDETV NACIONAL HD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/326.ts
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV BRASIL 2 SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/56e92fffbeeaedaae066a57818c63ec7.png" group-title="Canais | Abertos",TV BRASIL 2 SD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/555.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/d90e695a7501eab8376e7195e7a28682.png" group-title="Canais | Abertos",TV BRASIL FHD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/194.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="TV CULTURA" tvg-logo="plugin://script.hls.tester/?action=play&url=https://blogger.googleusercontent.com/img/a/AVvXsEgfuPVZQkblrQjE99ha2cr3-MuuEQcGVv24b1hdCuuLzFEzJ8L8T0vkfiABGmAzPqvFW6MZLg-SeM7kgo14zClrftVSJL3PGIb44uCiBr3jXAvAcPN0mgBRcZbfJNtv6cU3rzJvZCvgeoZD7AUc0M1WX5vDD4gT9WeIT-WOMYQOyEWIym2WpuMtcfUHHdI" group-title="Canais | Abertos",TV CULTURA
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/556.ts
+#EXTINF:-1 tvg-id="TV Cultura.br" tvg-name="TV CULTURA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://blogger.googleusercontent.com/img/a/AVvXsEgfuPVZQkblrQjE99ha2cr3-MuuEQcGVv24b1hdCuuLzFEzJ8L8T0vkfiABGmAzPqvFW6MZLg-SeM7kgo14zClrftVSJL3PGIb44uCiBr3jXAvAcPN0mgBRcZbfJNtv6cU3rzJvZCvgeoZD7AUc0M1WX5vDD4gT9WeIT-WOMYQOyEWIym2WpuMtcfUHHdI" group-title="Canais | Abertos",TV CULTURA FHD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/195.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV CÂMERA SD" tvg-logo="" group-title="Canais | Abertos",TV CÂMERA SD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/557.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tv nova serrana" tvg-logo="" group-title="Canais | Abertos",Tv nova serrana
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/764464.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV SENADO" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/c3fea9ad73cf415874c75e2622985aff.png" group-title="Canais | Abertos",TV SENADO
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/558.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVE BA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://i.imgur.com/IWGyp65.jpeg" group-title="Canais | Abertos",TVE BA FHD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/760.ts
