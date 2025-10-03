@@ -1,75 +1,63 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="CARTOON NETWORK 4K" tvg-logo="plugin://script.hls.tester/?action=play&url=https://www.freepnglogos.com/uploads/cartoon-network-png-logo/buy-cheap-cartoon-network-clothing-toys-png-logo-5.png" group-title="⚡INFANTIL",CARTOON NETWORK 4K
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/369620.ts
-#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="CARTOON NETWORK  FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://www.freepnglogos.com/uploads/cartoon-network-png-logo/buy-cheap-cartoon-network-clothing-toys-png-logo-5.png" group-title="⚡INFANTIL",CARTOON NETWORK  FHD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/364.ts
-#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="CARTOON NETWORK HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://www.freepnglogos.com/uploads/cartoon-network-png-logo/buy-cheap-cartoon-network-clothing-toys-png-logo-5.png" group-title="⚡INFANTIL",CARTOON NETWORK HD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/365.ts
-#EXTINF:-1 tvg-id="Cartoon Network SD" tvg-name="CARTOON NETWORK SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://www.freepnglogos.com/uploads/cartoon-network-png-logo/buy-cheap-cartoon-network-clothing-toys-png-logo-5.png" group-title="⚡INFANTIL",CARTOON NETWORK SD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/366.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..Cartoonito.HD.br" tvg-name="CARTOONITO 4K" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/6eZoxoi.png" group-title="⚡INFANTIL",CARTOONITO 4K
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/369621.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..Cartoonito.HD.br" tvg-name="CARTOONITO FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/6eZoxoi.png" group-title="⚡INFANTIL",CARTOONITO FHD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/173204.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..Cartoonito.HD.br" tvg-name="CARTOONITO HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/6eZoxoi.png" group-title="⚡INFANTIL",CARTOONITO HD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/367.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..Cartoonito.HD.br" tvg-name="CARTOONITO SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/6eZoxoi.png" group-title="⚡INFANTIL",CARTOONITO SD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/368.ts
-#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="DISCOVERY KIDS 4K" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/KVTtanr.png" group-title="⚡INFANTIL",DISCOVERY KIDS 4K
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/1158.ts
-#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="DISCOVERY KIDS FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/KVTtanr.png" group-title="⚡INFANTIL",DISCOVERY KIDS FHD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/369.ts
-#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="DISCOVERY KIDS HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/KVTtanr.png" group-title="⚡INFANTIL",DISCOVERY KIDS HD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/370.ts
-#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="DISCOVERY KIDS SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/KVTtanr.png" group-title="⚡INFANTIL",DISCOVERY KIDS SD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/371.ts
-#EXTINF:-1 tvg-id="Gloob HD" tvg-name="GLOOB FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/1HpWXSU.png" group-title="⚡INFANTIL",GLOOB FHD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/374.ts
-#EXTINF:-1 tvg-id="Gloob HD" tvg-name="GLOOB HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/1HpWXSU.png" group-title="⚡INFANTIL",GLOOB HD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/375.ts
-#EXTINF:-1 tvg-id="Gloob HD" tvg-name="GLOOB SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/1HpWXSU.png" group-title="⚡INFANTIL",GLOOB SD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/376.ts
-#EXTINF:-1 tvg-id="TV Gloobinho FHD" tvg-name="GLOOBINHO 4K" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/T49MSXk.png" group-title="⚡INFANTIL",GLOOBINHO 4K
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/4137003.ts
-#EXTINF:-1 tvg-id="TV Gloobinho FHD" tvg-name="GLOOBINHO FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/T49MSXk.png" group-title="⚡INFANTIL",GLOOBINHO FHD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/377.ts
-#EXTINF:-1 tvg-id="TV Gloobinho FHD" tvg-name="GLOOBINHO HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/T49MSXk.png" group-title="⚡INFANTIL",GLOOBINHO HD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/378.ts
-#EXTINF:-1 tvg-id="TV Gloobinho FHD" tvg-name="GLOOBINHO SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/T49MSXk.png" group-title="⚡INFANTIL",GLOOBINHO SD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/379.ts
-#EXTINF:-1 tvg-id="Nick Jr HD" tvg-name="NICK JR  FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logoeps.com/wp-content/uploads/2011/05/nick-jr.-logo-vector.png" group-title="⚡INFANTIL",NICK JR  FHD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/380.ts
-#EXTINF:-1 tvg-id="Nick Jr HD" tvg-name="NICK JR HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logoeps.com/wp-content/uploads/2011/05/nick-jr.-logo-vector.png" group-title="⚡INFANTIL",NICK JR HD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/381.ts
-#EXTINF:-1 tvg-id="Nick Jr HD" tvg-name="NICK JR SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logoeps.com/wp-content/uploads/2011/05/nick-jr.-logo-vector.png" group-title="⚡INFANTIL",NICK JR SD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/382.ts
-#EXTINF:-1 tvg-id="Nick Jr HD" tvg-name="NICK JR. 4K" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logoeps.com/wp-content/uploads/2011/05/nick-jr.-logo-vector.png" group-title="⚡INFANTIL",NICK JR. 4K
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/369682.ts
-#EXTINF:-1 tvg-id="Nickelodeon FHD" tvg-name="NICKELODEON 4K" tvg-logo="plugin://script.hls.tester/?action=play&url=https://files.jpnetwork.com.br/index.php/s/7S7naikyYYQMKEy/download/nickelodeonhd.png" group-title="⚡INFANTIL",NICKELODEON 4K
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/369683.ts
-#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="NICKELODEON FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://files.jpnetwork.com.br/index.php/s/7S7naikyYYQMKEy/download/nickelodeonhd.png" group-title="⚡INFANTIL",NICKELODEON FHD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/383.ts
-#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="NICKELODEON HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://files.jpnetwork.com.br/index.php/s/7S7naikyYYQMKEy/download/nickelodeonhd.png" group-title="⚡INFANTIL",NICKELODEON HD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/384.ts
-#EXTINF:-1 tvg-id="Nickelodeon SD" tvg-name="NICKELODEON SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://files.jpnetwork.com.br/index.php/s/7S7naikyYYQMKEy/download/nickelodeonhd.png" group-title="⚡INFANTIL",NICKELODEON SD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/385.ts
-#EXTINF:-1 tvg-id="Tooncast SD" tvg-name="TOONCAST FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/s6tkdIZ.png" group-title="⚡INFANTIL",TOONCAST FHD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/171892.ts
-#EXTINF:-1 tvg-id="Tooncast SD" tvg-name="TOONCAST HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/s6tkdIZ.png" group-title="⚡INFANTIL",TOONCAST HD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/386.ts
-#EXTINF:-1 tvg-id="Tooncast SD" tvg-name="TOONCAST SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/s6tkdIZ.png" group-title="⚡INFANTIL",TOONCAST SD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/387.ts
-#EXTINF:-1 tvg-id="TV Ra tim bum SD" tvg-name="TV RA TIM BUM FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://acsgr.net:80/images/33e61c2b80c89a89beb2f542949754aa.png" group-title="⚡INFANTIL",TV RA TIM BUM FHD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/388.ts
-#EXTINF:-1 tvg-id="TV Ra tim bum SD" tvg-name="TV RA TIM BUM HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://acsgr.net:80/images/33e61c2b80c89a89beb2f542949754aa.png" group-title="⚡INFANTIL",TV RA TIM BUM HD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/389.ts
-#EXTINF:-1 tvg-id="TV Ra tim bum SD" tvg-name="TV RA TIM BUM SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://acsgr.net:80/images/33e61c2b80c89a89beb2f542949754aa.png" group-title="⚡INFANTIL",TV RA TIM BUM SD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/390.ts
-#EXTINF:-1 tvg-id="Zoomoo SD" tvg-name="ZOOMOO 4K" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/PxTRD5v.png" group-title="⚡INFANTIL",ZOOMOO 4K
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/369736.ts
-#EXTINF:-1 tvg-id="Zoomoo SD" tvg-name="ZOOMOO FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/PxTRD5v.png" group-title="⚡INFANTIL",ZOOMOO FHD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/391.ts
-#EXTINF:-1 tvg-id="Zoomoo SD" tvg-name="ZOOMOO HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/PxTRD5v.png" group-title="⚡INFANTIL",ZOOMOO HD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/392.ts
-#EXTINF:-1 tvg-id="Zoomoo SD" tvg-name="ZOOMOO SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/PxTRD5v.png" group-title="⚡INFANTIL",ZOOMOO SD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/393.ts
+#EXTINF:-1 tvg-id="Boomerang HD.br" tvg-name="BOOMERANG SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiBp9X6VwOqh7YZp-s05dcEm5a7VMKsXMFcG8fYs5VVyPcX-5M0SmFJFIr0esBZCh_mhj_mvwphjEAjRFtjXJ25wa62ATONTPUtBvyxP4JJJi9Y-YPae1ByHk4nRUgrhUvtaMGGP9w6cfb747HWXP6E.png" group-title="Canais | Infantil",BOOMERANG SD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/529.ts
+#EXTINF:-1 tvg-id="Cartoon Network.br" tvg-name="Cartoon Network FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://blogger.googleusercontent.com/img/a/AVvXsEj4JNc9pVMP5ioT3QoykVcjKfLyXTW4MHmMbMUcOawEh1z8erv3-3FSGG4RYDygWtOBiHe8xVGwU5IhHFEDxYpagEhz34Qlonka8HvCKIQhNa2gp8ToGUQ73e52qd-VEXK4L7-XK6Es-nn1wElUwVv-BdDbtXnZcaPYvL3zIK0pPkKZ6_C4eAp4D7-i" group-title="Canais | Infantil",Cartoon Network FHD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/16.ts
+#EXTINF:-1 tvg-id="Cartoon Network.br" tvg-name="Cartoon Network HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://blogger.googleusercontent.com/img/a/AVvXsEj4JNc9pVMP5ioT3QoykVcjKfLyXTW4MHmMbMUcOawEh1z8erv3-3FSGG4RYDygWtOBiHe8xVGwU5IhHFEDxYpagEhz34Qlonka8HvCKIQhNa2gp8ToGUQ73e52qd-VEXK4L7-XK6Es-nn1wElUwVv-BdDbtXnZcaPYvL3zIK0pPkKZ6_C4eAp4D7-i" group-title="Canais | Infantil",Cartoon Network HD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/17.ts
+#EXTINF:-1 tvg-id="Cartoon Network.br" tvg-name="Cartoon Network SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://blogger.googleusercontent.com/img/a/AVvXsEj4JNc9pVMP5ioT3QoykVcjKfLyXTW4MHmMbMUcOawEh1z8erv3-3FSGG4RYDygWtOBiHe8xVGwU5IhHFEDxYpagEhz34Qlonka8HvCKIQhNa2gp8ToGUQ73e52qd-VEXK4L7-XK6Es-nn1wElUwVv-BdDbtXnZcaPYvL3zIK0pPkKZ6_C4eAp4D7-i" group-title="Canais | Infantil",Cartoon Network SD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/632.ts
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiBp9X6VwOqh7YZp-s05dcEm5a7VMKsXMFcG8fYs5VVyPcX-5M0SmFJFIr0esBZCh_mhj_mvwphjEAjRFtjXJ25wa62ATONTPUtBvyxP4JJJi9Y-YPae1ByHk4nRUgrhUvtaMGGP9w6cfb747HWXP6E.png" group-title="Canais | Infantil",Cartoonito FHD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/295.ts
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Cartoonito HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiBp9X6VwOqh7YZp-s05dcEm5a7VMKsXMFcG8fYs5VVyPcX-5M0SmFJFIr0esBZCh_mhj_mvwphjEAjRFtjXJ25wa62ATONTPUtBvyxP4JJJi9Y-YPae1ByHk4nRUgrhUvtaMGGP9w6cfb747HWXP6E.png" group-title="Canais | Infantil",Cartoonito HD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/275.ts
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiBp9X6VwOqh7YZp-s05dcEm5a7VMKsXMFcG8fYs5VVyPcX-5M0SmFJFIr0esBZCh_mhj_mvwphjEAjRFtjXJ25wa62ATONTPUtBvyxP4JJJi9Y-YPae1ByHk4nRUgrhUvtaMGGP9w6cfb747HWXP6E.png" group-title="Canais | Infantil",Cartoonito SD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/607.ts
+#EXTINF:-1 tvg-id="Discovery Kids.br" tvg-name="Discovery Kids FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojC1ppsizPGHf75INWKL6Zn2vVw6gTKj4xbuWtLwHmWjEfagoQrcSxpaDViy1DArcSYEBkA7nCQ3WHYZoqC3KE5p8ibwmFquBomGSLQcVRCJwWT9zrdnC5XoK8XWwmsnrudHYYXdMx8hlZCtzR6Rs2D.png" group-title="Canais | Infantil",Discovery Kids FHD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/30.ts
+#EXTINF:-1 tvg-id="Discovery Kids.br" tvg-name="Discovery Kids HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojC1ppsizPGHf75INWKL6Zn2vVw6gTKj4xbuWtLwHmWjEfagoQrcSxpaDViy1DArcSYEBkA7nCQ3WHYZoqC3KE5p8ibwmFquBomGSLQcVRCJwWT9zrdnC5XoK8XWwmsnrudHYYXdMx8hlZCtzR6Rs2D.png" group-title="Canais | Infantil",Discovery Kids HD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/31.ts
+#EXTINF:-1 tvg-id="Discovery Kids.br" tvg-name="Discovery Kids SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojC1ppsizPGHf75INWKL6Zn2vVw6gTKj4xbuWtLwHmWjEfagoQrcSxpaDViy1DArcSYEBkA7nCQ3WHYZoqC3KE5p8ibwmFquBomGSLQcVRCJwWT9zrdnC5XoK8XWwmsnrudHYYXdMx8hlZCtzR6Rs2D.png" group-title="Canais | Infantil",Discovery Kids SD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/581.ts
+#EXTINF:-1 tvg-id="Disney Channel.br" tvg-name="Disney Channel SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojbRlddG3Ncfbt5divAj-zNdx5jdYJhY2qwMMlfUNrzGTj7FxnZ8BbzLKK9m387UWsJrRhsi1481dz2pv8X0Q1oLey92rszMX1WwbsxXFBcQp_qObKWUtoT69r8FDzn_RkgLaURkHLPrkAVecW125ch.png" group-title="Canais | Infantil",Disney Channel SD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/524.ts
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojIKwICMTRQPIe2gesvNiTpUATi6t4SaWolP67AN7fKyyRhSzsrjonnsV74HHPkyfpsJXwrIKYfWHvWnervTHyElqM94TZ1oV3dpHQ9wgOAE7nda1LI4tF4e-hVTS1HRWc0u1kHT2D9HMUovBxCMP-r.png" group-title="Canais | Infantil",Gloob FHD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/66.ts
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojIKwICMTRQPIe2gesvNiTpUATi6t4SaWolP67AN7fKyyRhSzsrjonnsV74HHPkyfpsJXwrIKYfWHvWnervTHyElqM94TZ1oV3dpHQ9wgOAE7nda1LI4tF4e-hVTS1HRWc0u1kHT2D9HMUovBxCMP-r.png" group-title="Canais | Infantil",Gloob HD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/67.ts
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojIKwICMTRQPIe2gesvNiTpUATi6t4SaWolP67AN7fKyyRhSzsrjonnsV74HHPkyfpsJXwrIKYfWHvWnervTHyElqM94TZ1oV3dpHQ9wgOAE7nda1LI4tF4e-hVTS1HRWc0u1kHT2D9HMUovBxCMP-r.png" group-title="Canais | Infantil",Gloob SD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/647.ts
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Gloobinho FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojGSK1sKuiby5Uj57kmRagjCmsF7JDKL7nU6fMj0IEQxuY86krGOzfYQRkpFhYZUxRgOBdEeEqYNwEo_i3ZwmFcu5RvqG5wlwUwonUvwbdfT2yrerNfFYHFxEVLUYRCMUA.png" group-title="Canais | Infantil",Gloobinho FHD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/272.ts
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Gloobinho FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojGSK1sKuiby5Uj57kmRagjCmsF7JDKL7nU6fMj0IEQxuY86krGOzfYQRkpFhYZUxRgOBdEeEqYNwEo_i3ZwmFcu5RvqG5wlwUwonUvwbdfT2yrerNfFYHFxEVLUYRCMUA.png" group-title="Canais | Infantil",Gloobinho FHD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/68.ts
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Gloobinho HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojGSK1sKuiby5Uj57kmRagjCmsF7JDKL7nU6fMj0IEQxuY86krGOzfYQRkpFhYZUxRgOBdEeEqYNwEo_i3ZwmFcu5RvqG5wlwUwonUvwbdfT2yrerNfFYHFxEVLUYRCMUA.png" group-title="Canais | Infantil",Gloobinho HD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/69.ts
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Gloobinho SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojGSK1sKuiby5Uj57kmRagjCmsF7JDKL7nU6fMj0IEQxuY86krGOzfYQRkpFhYZUxRgOBdEeEqYNwEo_i3ZwmFcu5RvqG5wlwUwonUvwbdfT2yrerNfFYHFxEVLUYRCMUA.png" group-title="Canais | Infantil",Gloobinho SD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/583.ts
+#EXTINF:-1 tvg-id="Nick Jr..br" tvg-name="Nick Jr FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoict8RdOsX7xL6Wk2HlvLAxuJlrd_SoZrFCbvw089u7unutsZVad22QlzmX0j4zl_Sa1HEnNKqtFMJGvNDhYXMkWCW8X19_1A6J2UVjC2N4gnaJYHFQxTM5L1neEnVc6v4lkBCOB3flzbQy0_pk1ykU.png" group-title="Canais | Infantil",Nick Jr FHD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/720.ts
+#EXTINF:-1 tvg-id="Nick Jr..br" tvg-name="Nick Jr HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoict8RdOsX7xL6Wk2HlvLAxuJlrd_SoZrFCbvw089u7unutsZVad22QlzmX0j4zl_Sa1HEnNKqtFMJGvNDhYXMkWCW8X19_1A6J2UVjC2N4gnaJYHFQxTM5L1neEnVc6v4lkBCOB3flzbQy0_pk1ykU.png" group-title="Canais | Infantil",Nick Jr HD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/107.ts
+#EXTINF:-1 tvg-id="Nick Jr..br" tvg-name="Nick Jr SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoict8RdOsX7xL6Wk2HlvLAxuJlrd_SoZrFCbvw089u7unutsZVad22QlzmX0j4zl_Sa1HEnNKqtFMJGvNDhYXMkWCW8X19_1A6J2UVjC2N4gnaJYHFQxTM5L1neEnVc6v4lkBCOB3flzbQy0_pk1ykU.png" group-title="Canais | Infantil",Nick Jr SD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/527.ts
+#EXTINF:-1 tvg-id="Nick Jr..br" tvg-name="Nickelodeon HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojnv5z5352dFT7Ujeptur05ueYB7cr_opXpKiVZBX66BI8FV9TGLsQdyXcXtW4yYE7WwPKl_pmyTMUqV8LNrvA6nxu9CV9rJlnIRFirKgrXmddO6C-bO4OkN4234WqpjYXAIp6ZA6DkjZxT4yQkwaKL.png" group-title="Canais | Infantil",Nickelodeon HD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/108.ts
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojnv5z5352dFT7Ujeptur05ueYB7cr_opXpKiVZBX66BI8FV9TGLsQdyXcXtW4yYE7WwPKl_pmyTMUqV8LNrvA6nxu9CV9rJlnIRFirKgrXmddO6C-bO4OkN4234WqpjYXAIp6ZA6DkjZxT4yQkwaKL.png" group-title="Canais | Infantil",Nickelodeon SD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/661.ts
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/b1905747fdb52a55c92a1c1309fae363.png" group-title="Canais | Infantil",Tooncast HD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/436.ts
+#EXTINF:-1 tvg-id="TV Rá Tim Bum! HD.br" tvg-name="TV Rá Tim Bum HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/lO4I6ENDRiY1iG64O8qqg2GpfExWIYWrraBLZfED9H1P4Gkb-AMOIFbVeMSI4ZLQh6c_KvaDQdjaw0Qy9A7d998vGgkbmfmNufIY1FVz6VJzxnNPEw9eS8s9HwY_47_2Z9Vqlgq-lBrxJ8IAWdwILj2cf7bWw8KE3gvp5RWTcllfM-fRAoWfIdQQkkX_rts1.png" group-title="Canais | Infantil",TV Rá Tim Bum HD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/126.ts
+#EXTINF:-1 tvg-id="TV Rá Tim Bum! HD.br" tvg-name="TV Rá Tim Bum SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/lO4I6ENDRiY1iG64O8qqg2GpfExWIYWrraBLZfED9H1P4Gkb-AMOIFbVeMSI4ZLQh6c_KvaDQdjaw0Qy9A7d998vGgkbmfmNufIY1FVz6VJzxnNPEw9eS8s9HwY_47_2Z9Vqlgq-lBrxJ8IAWdwILj2cf7bWw8KE3gvp5RWTcllfM-fRAoWfIdQQkkX_rts1.png" group-title="Canais | Infantil",TV Rá Tim Bum SD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/526.ts
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WooHoo FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoh2s9zNZqfbBdwfKHXrFOtf4c4kShTp0L6u1wRC3vX3g4IknSH24lxDUXdrcI5ZZ042eJbgCx6bExzevjKXhoYj8Y5nCmVGCFgdSwA_AlMSiwD6-VyamQQMauqz1T1cRKrknUOsGNrWGc5SvHTQnaH5.png" group-title="Canais | Infantil",WooHoo FHD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/277.ts
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WooHoo HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoh2s9zNZqfbBdwfKHXrFOtf4c4kShTp0L6u1wRC3vX3g4IknSH24lxDUXdrcI5ZZ042eJbgCx6bExzevjKXhoYj8Y5nCmVGCFgdSwA_AlMSiwD6-VyamQQMauqz1T1cRKrknUOsGNrWGc5SvHTQnaH5.png" group-title="Canais | Infantil",WooHoo HD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/276.ts
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WooHoo SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoh2s9zNZqfbBdwfKHXrFOtf4c4kShTp0L6u1wRC3vX3g4IknSH24lxDUXdrcI5ZZ042eJbgCx6bExzevjKXhoYj8Y5nCmVGCFgdSwA_AlMSiwD6-VyamQQMauqz1T1cRKrknUOsGNrWGc5SvHTQnaH5.png" group-title="Canais | Infantil",WooHoo SD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/571.ts
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZooMoo FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohM_ArQtITqMo10nE0ba8AyMQen7C_nCZf8OrD-iPbNMHAHYKZisetmr3yS6gfybqMDsxzMLvYQe1DoqDflQuuX-W2Tsr4N5TijwS9uFNNBcNwdSO4cORhrNeiq12hfyfs.png" group-title="Canais | Infantil",ZooMoo FHD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/188.ts
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZooMoo HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohM_ArQtITqMo10nE0ba8AyMQen7C_nCZf8OrD-iPbNMHAHYKZisetmr3yS6gfybqMDsxzMLvYQe1DoqDflQuuX-W2Tsr4N5TijwS9uFNNBcNwdSO4cORhrNeiq12hfyfs.png" group-title="Canais | Infantil",ZooMoo HD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/270.ts
