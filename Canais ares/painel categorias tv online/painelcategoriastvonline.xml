@@ -98,15 +98,16 @@ l
 </channel>
 
 <channel>
-<name>[B][COLOR pink]AREA D.V [/COLOR] [COLOR orange]| TESTES[/COLOR][/B]</name>
+<name>[B][COLOR pink]AREA D.V [/COLOR] [COLOR orange]| TESTES T.V[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
 <fanart>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</fanart>
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/Canais ares/testetv.xml</externallink>
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/Canais%20ares/testetv.xml</externallink>
 </channel>
   
   
 </channels>
+
 
 
 
