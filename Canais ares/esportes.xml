@@ -1,29 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="São.Paulo/SP..Band.Sports.br" tvg-name="BAND SPORTS 4K" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.imgur.com/jXSVsni.png" group-title="⚽ESPORTES",BAND SPORTS 4K
-plugin://script.hls.tester/?action=play&url=://levelxpt.lat:80/18564635/25335134/369614.ts
-#EXTINF:-1 tvg-id="Band Sports HD" tvg-name="BAND SPORTS FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.imgur.com/jXSVsni.png" group-title="⚽ESPORTES",BAND SPORTS FHD
-plugin://script.hls.tester/?action=play&url=://levelxpt.lat:80/18564635/25335134/422.ts
-#EXTINF:-1 tvg-id="Band Sports SD" tvg-name="BAND SPORTS HD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.imgur.com/jXSVsni.png" group-title="⚽ESPORTES",BAND SPORTS HD
-plugin://script.hls.tester/?action=play&url=://levelxpt.lat:80/18564635/25335134/423.ts
-#EXTINF:-1 tvg-id="Band Sports FHD H.265" tvg-name="BAND SPORTS SD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.imgur.com/jXSVsni.png" group-title="⚽ESPORTES",BAND SPORTS SD
-plugin://script.hls.tester/?action=play&url=://levelxpt.lat:80/18564635/25335134/424.ts
-#EXTINF:-1 tvg-id="Fish TV HD" tvg-name="FISH TV 4K" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.imgur.com/fSDUo6W.png" group-title="⚽ESPORTES",FISH TV 4K
-plugin://script.hls.tester/?action=play&url=://levelxpt.lat:80/18564635/25335134/369645.ts
-#EXTINF:-1 tvg-id="Fish TV SD" tvg-name="FISH TV FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.imgur.com/fSDUo6W.png" group-title="⚽ESPORTES",FISH TV FHD
-plugin://script.hls.tester/?action=play&url=://levelxpt.lat:80/18564635/25335134/444.ts
-#EXTINF:-1 tvg-id="Fish TV SD" tvg-name="FISH TV HD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.imgur.com/fSDUo6W.png" group-title="⚽ESPORTES",FISH TV HD
-plugin://script.hls.tester/?action=play&url=://levelxpt.lat:80/18564635/25335134/446.ts
-#EXTINF:-1 tvg-id="Fish TV SD" tvg-name="FISH TV SD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.imgur.com/fSDUo6W.png" group-title="⚽ESPORTES",FISH TV SD
-plugin://script.hls.tester/?action=play&url=://levelxpt.lat:80/18564635/25335134/447.ts
-#EXTINF:-1 tvg-id="BR - Off" tvg-name="OFF FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.imgur.com/on9YQ4Q.png" group-title="⚽ESPORTES",OFF FHD
-plugin://script.hls.tester/?action=play&url=://levelxpt.lat:80/18564635/25335134/459.ts
-#EXTINF:-1 tvg-id="BR - Off" tvg-name="OFF HD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.imgur.com/on9YQ4Q.png" group-title="⚽ESPORTES",OFF HD
-plugin://script.hls.tester/?action=play&url=://levelxpt.lat:80/18564635/25335134/460.ts
-#EXTINF:-1 tvg-id="BR - Off" tvg-name="OFF SD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.imgur.com/on9YQ4Q.png" group-title="⚽ESPORTES",OFF SD
-plugin://script.hls.tester/?action=play&url=://levelxpt.lat:80/18564635/25335134/171871.ts
-#EXTINF:-1 tvg-id="BR - WooHoo" tvg-name="WOOHOO FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.imgur.com/gdBzn5K.png" group-title="⚽ESPORTES",WOOHOO FHD
-plugin://script.hls.tester/?action=play&url=://levelxpt.lat:80/18564635/25335134/435.ts
-#EXTINF:-1 tvg-id="BR - WooHoo" tvg-name="WOOHOO HD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.imgur.com/gdBzn5K.png" group-title="⚽ESPORTES",WOOHOO HD
-plugin://script.hls.tester/?action=play&url=://levelxpt.lat:80/18564635/25335134/436.ts
-#EXTINF:-1 tvg-id="BR - WooHoo" tvg-name="WOOHOO SD" tvg-logo="plugin://script.hls.tester/?action=play&url=s://i.imgur.com/gdBzn5K.png" group-title="⚽ESPORTES",WOOHOO SD
-plugin://script.hls.tester/?action=play&url=://levelxpt.lat:80/18564635/25335134/437.ts
+#EXTINF:-1 tvg-id="Band Sports.br" tvg-name="Band Sports FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojfHSXkRrhhGXmkMRguGzF6roDEarLuS9vyE-nJb2gGnL4CO_ZxOagL6xPfH2AN4eiZxyN5ZB0gZaoXT2_0r7kL6K47O4AjFhxxLU_hM6XcKcg1xtFb4pm7kQYPmutiy7h-3qB0ij2sWMeFrjRwG5nW.png" group-title="Canais | Esportes",Band Sports FHD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/10.ts
+#EXTINF:-1 tvg-id="Band Sports.br" tvg-name="Band Sports HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojfHSXkRrhhGXmkMRguGzF6roDEarLuS9vyE-nJb2gGnL4CO_ZxOagL6xPfH2AN4eiZxyN5ZB0gZaoXT2_0r7kL6K47O4AjFhxxLU_hM6XcKcg1xtFb4pm7kQYPmutiy7h-3qB0ij2sWMeFrjRwG5nW.png" group-title="Canais | Esportes",Band Sports HD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/318.ts
+#EXTINF:-1 tvg-id="Band Sports.br" tvg-name="BAND SPORTS SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojfHSXkRrhhGXmkMRguGzF6roDEarLuS9vyE-nJb2gGnL4CO_ZxOagL6xPfH2AN4eiZxyN5ZB0gZaoXT2_0r7kL6K47O4AjFhxxLU_hM6XcKcg1xtFb4pm7kQYPmutiy7h-3qB0ij2sWMeFrjRwG5nW.png" group-title="Canais | Esportes",BAND SPORTS SD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/629.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohkeNsjI_M4m2pOb5M3RxPwcsdLjQWq1BQVr2Q0IqqqlzQTXqP5uLAG3T3eGPXrEYXKaKR15P47NnYCEpOW5SJLaNb_pFxGNqNnexIsn_P1sVKfkBTyZXTkGTpAXNqrjeU.png" group-title="Canais | Esportes",Combate FHD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/22.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohkeNsjI_M4m2pOb5M3RxPwcsdLjQWq1BQVr2Q0IqqqlzQTXqP5uLAG3T3eGPXrEYXKaKR15P47NnYCEpOW5SJLaNb_pFxGNqNnexIsn_P1sVKfkBTyZXTkGTpAXNqrjeU.png" group-title="Canais | Esportes",Combate HD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/23.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohkeNsjI_M4m2pOb5M3RxPwcsdLjQWq1BQVr2Q0IqqqlzQTXqP5uLAG3T3eGPXrEYXKaKR15P47NnYCEpOW5SJLaNb_pFxGNqNnexIsn_P1sVKfkBTyZXTkGTpAXNqrjeU.png" group-title="Canais | Esportes",Combate SD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/633.ts
+#EXTINF:-1 tvg-id="E!.br" tvg-name="E! FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/lO4I6ENDRiY1iG64O8qqg90OmZPHDtj5vJ7MEhaHEigz3O8_spRW-U43CWSuUoUpbe8-l6SqhN20ols4V-cv9raKoWVAyCqYQHH0Xv_vbAD8FlBlHHIbyz3fTCLldzD1xB6BtN7KGIKi0WjmFIVvO6AO98R77nsqv124rKRq2vo.png" group-title="Canais | Esportes",E! FHD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/42.ts
+#EXTINF:-1 tvg-id="E!.br" tvg-name="E! HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/lO4I6ENDRiY1iG64O8qqg90OmZPHDtj5vJ7MEhaHEigz3O8_spRW-U43CWSuUoUpbe8-l6SqhN20ols4V-cv9raKoWVAyCqYQHH0Xv_vbAD8FlBlHHIbyz3fTCLldzD1xB6BtN7KGIKi0WjmFIVvO6AO98R77nsqv124rKRq2vo.png" group-title="Canais | Esportes",E! HD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/40.ts
+#EXTINF:-1 tvg-id="E!.br" tvg-name="E! SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/lO4I6ENDRiY1iG64O8qqg90OmZPHDtj5vJ7MEhaHEigz3O8_spRW-U43CWSuUoUpbe8-l6SqhN20ols4V-cv9raKoWVAyCqYQHH0Xv_vbAD8FlBlHHIbyz3fTCLldzD1xB6BtN7KGIKi0WjmFIVvO6AO98R77nsqv124rKRq2vo.png" group-title="Canais | Esportes",E! SD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/637.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://blogger.googleusercontent.com/img/a/AVvXsEhpkHjz8Y2Mes0_ffpiNxZ6zz8yxinYYP-_nOrjGh4mH6eND50LWaMD2QfPp6i3OjZAtreh-UDVesBFfngZWvxkppaesWX1KaKi8PcTYsrBfp_cNxbHLmX8LKOU8rLQ_nHgP5p2x8LsqMMBV3-HViiv-oHoGG6b9DscQVszGcfIH8DClh6e74gHmb2-" group-title="Canais | Esportes",UFC Fight Pass HD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/347.ts
