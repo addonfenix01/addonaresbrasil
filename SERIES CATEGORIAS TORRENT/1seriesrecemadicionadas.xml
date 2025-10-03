@@ -3,6 +3,30 @@
 
 
 
+
+
+<item>
+  <title>Pacificador 2ª Temporada (2025)</title>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07b7dcfe3a5cd6b74c4f708957c5036bc89ae08a$nome=[COLOR orange]ADDON ARES - EPISÓDIO 01[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:731aea7980cea04a86ddbb123fd97d826d4df054$nome=[COLOR pink]ADDON ARES - EPISÓDIO 02[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b540b88898bfdc4621c708a50ba1667415a176ee$nome=[COLOR orange]ADDON ARES - EPISÓDIO 03[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a59e2d2c125eab28d6de676a5d1d7a01e474e589$nome=[COLOR pink]ADDON ARES - EPISÓDIO 04[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bd497c6fbf3113227ddf51446d4ecb219675f245$nome=[COLOR pink]ADDON ARES - EPISÓDIO 05[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fad92229ee6c08498692093f083c707dc092b2ec$nome=[COLOR orange]ADDON ARES - EPISÓDIO 06[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a997bb1b1b006cbf97957643d2e408f1052edc6$nome=[COLOR green]ADDON ARES - EPISÓDIO 07[/COLOR]</link>
+  <link>plugin://plugin.video.youtube/play/?video_id=aRHeECoV8Vk$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+  <thumbnail>https://image.tmdb.org/t/p/w500/vWwICzQIMeVvqtdAk44vZKgp4dl.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/original/pj1wFbZF3gpEg7F0EreXTvZNZTG.jpg</fanart>
+  <info>[COLOR orange]Título Original:[/COLOR] Peacemaker
+[COLOR red]Elenco Principal:[/COLOR] John Cena, Danielle Brooks, Freddie Stroma, Jennifer Holland, Steve Agee
+[COLOR orange]Duração:[/COLOR] --
+[COLOR red]Criado por:[/COLOR] James Gunn
+[COLOR orange]Ano:[/COLOR] 2022
+[COLOR red]Nota:[/COLOR] 8.2
+[COLOR orange]Gênero:[/COLOR] Action & Adventure, Sci-Fi & Fantasy, Drama
+[COLOR red]Sinopse:[/COLOR] A série explorará as origens do Pacificador, um homem que acredita na paz a qualquer custo - não importa quantas pessoas ele tenha que matar para obtê-la.</info>
+</item>
+
 <item>
   <title>Chad Powers: O Quarterback 1ª Temporada (2025)</title>
   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f3599fcd59aecec9901810dc823cb51368137a2$nome=[COLOR orange]ADDON ARES - EPISÓDIOS 01 E 02[/COLOR]</link>
@@ -256,27 +280,6 @@
 [COLOR red]Nota:[/COLOR] 7.0
 [COLOR orange]Gênero:[/COLOR] Drama, Kids, Sci-Fi & Fantasy
 [COLOR red]Sinopse:[/COLOR] Eles se lembram frequentemente daquele último momento em que eram apenas jovens comuns. Parece que foi a milhões de anos. O grupo era tão diferente! Não poderiam imaginar que a decisão de pegar um simples atalho mudaria suas vidas, para sempre. Começam as extraordinárias aventuras de Jake, Rachel, Cassie, Tobias e Marco. Eles têm de enfrentar o maior e mais secreto desafio de suas vidas: defender o planeta terra da invasão de inimigos cruéis e impiedosos. Só um poder especial, o da metamorfose - poder que nenhum ser humano jamais teve - poderá ajudá-los a enfrentar os terríveis inimigos. Jake e seus amigos, agora, são os Animorphs.</info>
-</item>
-
-<item>
-  <title>Pacificador 2ª Temporada (2025)</title>
-  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07b7dcfe3a5cd6b74c4f708957c5036bc89ae08a$nome=[COLOR orange]ADDON ARES - EPISÓDIO 01[/COLOR]</link>
-  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:731aea7980cea04a86ddbb123fd97d826d4df054$nome=[COLOR pink]ADDON ARES - EPISÓDIO 02[/COLOR]</link>
-  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b540b88898bfdc4621c708a50ba1667415a176ee$nome=[COLOR orange]ADDON ARES - EPISÓDIO 03[/COLOR]</link>
-  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a59e2d2c125eab28d6de676a5d1d7a01e474e589$nome=[COLOR pink]ADDON ARES - EPISÓDIO 04[/COLOR]</link>
-  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bd497c6fbf3113227ddf51446d4ecb219675f245$nome=[COLOR pink]ADDON ARES - EPISÓDIO 05[/COLOR]</link>
-  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fad92229ee6c08498692093f083c707dc092b2ec$nome=[COLOR orange]ADDON ARES - EPISÓDIO 06[/COLOR]</link>
-  <link>plugin://plugin.video.youtube/play/?video_id=aRHeECoV8Vk$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
-  <thumbnail>https://image.tmdb.org/t/p/w500/vWwICzQIMeVvqtdAk44vZKgp4dl.jpg</thumbnail>
-  <fanart>https://image.tmdb.org/t/p/original/pj1wFbZF3gpEg7F0EreXTvZNZTG.jpg</fanart>
-  <info>[COLOR orange]Título Original:[/COLOR] Peacemaker
-[COLOR red]Elenco Principal:[/COLOR] John Cena, Danielle Brooks, Freddie Stroma, Jennifer Holland, Steve Agee
-[COLOR orange]Duração:[/COLOR] --
-[COLOR red]Criado por:[/COLOR] James Gunn
-[COLOR orange]Ano:[/COLOR] 2022
-[COLOR red]Nota:[/COLOR] 8.2
-[COLOR orange]Gênero:[/COLOR] Action & Adventure, Sci-Fi & Fantasy, Drama
-[COLOR red]Sinopse:[/COLOR] A série explorará as origens do Pacificador, um homem que acredita na paz a qualquer custo - não importa quantas pessoas ele tenha que matar para obtê-la.</info>
 </item>
 
 <item>
