@@ -1,65 +1,47 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO 4K" tvg-logo="plugin://script.hls.tester/?action=play&url=shttp://i.imgur.com/thGAGIl.png" group-title="⚡REDE HBO",HBO 4K
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/369659.ts
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=shttp://i.imgur.com/thGAGIl.png" group-title="⚡REDE HBO",HBO FHD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/599.ts
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="plugin://script.hls.tester/?action=play&url=shttp://i.imgur.com/thGAGIl.png" group-title="⚡REDE HBO",HBO HD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/600.ts
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD" tvg-logo="plugin://script.hls.tester/?action=play&url=shttp://i.imgur.com/thGAGIl.png" group-title="⚡REDE HBO",HBO SD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/610.ts
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 4K" tvg-logo="plugin://script.hls.tester/?action=play&url=shttp://i.imgur.com/ojABnUw.png" group-title="⚡REDE HBO",HBO 2 4K
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/369658.ts
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=shttp://i.imgur.com/ojABnUw.png" group-title="⚡REDE HBO",HBO 2 FHD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/171851.ts
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="plugin://script.hls.tester/?action=play&url=shttp://i.imgur.com/ojABnUw.png" group-title="⚡REDE HBO",HBO 2 HD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/595.ts
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 SD" tvg-logo="plugin://script.hls.tester/?action=play&url=shttp://i.imgur.com/ojABnUw.png" group-title="⚡REDE HBO",HBO 2 SD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/173229.ts
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY 4K" tvg-logo="plugin://script.hls.tester/?action=play&url=http://ixi.paineluhd.club:80/images/6a70f1b4937458e8d796cb4fa637e58c.png" group-title="⚡REDE HBO",HBO FAMILY 4K
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/173153.ts
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://ixi.paineluhd.club:80/images/6a70f1b4937458e8d796cb4fa637e58c.png" group-title="⚡REDE HBO",HBO FAMILY FHD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/391362.ts
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://ixi.paineluhd.club:80/images/6a70f1b4937458e8d796cb4fa637e58c.png" group-title="⚡REDE HBO",HBO FAMILY HD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/597.ts
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://ixi.paineluhd.club:80/images/6a70f1b4937458e8d796cb4fa637e58c.png" group-title="⚡REDE HBO",HBO FAMILY SD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/29.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.MUNDI.HD.br" tvg-name="HBO MUNDI 4K" tvg-logo="plugin://script.hls.tester/?action=play&url=shttp://i.imgur.com/WTar9pP.png" group-title="⚡REDE HBO",HBO MUNDI 4K
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/369661.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.MUNDI.HD.br" tvg-name="HBO MUNDI FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=shttp://i.imgur.com/WTar9pP.png" group-title="⚡REDE HBO",HBO MUNDI FHD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/601.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.MUNDI.HD.br" tvg-name="HBO MUNDI HD" tvg-logo="plugin://script.hls.tester/?action=play&url=shttp://i.imgur.com/WTar9pP.png" group-title="⚡REDE HBO",HBO MUNDI HD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/602.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.MUNDI.HD.br" tvg-name="HBO MUNDI SD" tvg-logo="plugin://script.hls.tester/?action=play&url=shttp://i.imgur.com/WTar9pP.png" group-title="⚡REDE HBO",HBO MUNDI SD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/603.ts
-#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO PLUS 4K" tvg-logo="plugin://script.hls.tester/?action=play&url=shttp://i.imgur.com/ZJhyEji.png" group-title="⚡REDE HBO",HBO PLUS 4K
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/615.ts
-#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO PLUS FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=shttp://i.imgur.com/ZJhyEji.png" group-title="⚡REDE HBO",HBO PLUS FHD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/604.ts
-#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO PLUS HD" tvg-logo="plugin://script.hls.tester/?action=play&url=shttp://i.imgur.com/ZJhyEji.png" group-title="⚡REDE HBO",HBO PLUS HD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/605.ts
-#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO PLUS SD" tvg-logo="plugin://script.hls.tester/?action=play&url=shttp://i.imgur.com/ZJhyEji.png" group-title="⚡REDE HBO",HBO PLUS SD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/616.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.POP.HD.br" tvg-name="HBO POP 4K" tvg-logo="plugin://script.hls.tester/?action=play&url=shttp://i.imgur.com/rvBuRMM.png" group-title="⚡REDE HBO",HBO POP 4K
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/369663.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.POP.HD.br" tvg-name="HBO POP FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=shttp://i.imgur.com/rvBuRMM.png" group-title="⚡REDE HBO",HBO POP FHD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/607.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.POP.HD.br" tvg-name="HBO POP HD" tvg-logo="plugin://script.hls.tester/?action=play&url=shttp://i.imgur.com/rvBuRMM.png" group-title="⚡REDE HBO",HBO POP HD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/608.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.POP.HD.br" tvg-name="HBO POP SD" tvg-logo="plugin://script.hls.tester/?action=play&url=shttp://i.imgur.com/rvBuRMM.png" group-title="⚡REDE HBO",HBO POP SD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/609.ts
-#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE 4K" tvg-logo="plugin://script.hls.tester/?action=play&url=shttp://i.imgur.com/X0ulza3.png" group-title="⚡REDE HBO",HBO SIGNATURE 4K
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/369664.ts
-#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=shttp://i.imgur.com/X0ulza3.png" group-title="⚡REDE HBO",HBO SIGNATURE FHD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/171857.ts
-#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="plugin://script.hls.tester/?action=play&url=shttp://i.imgur.com/X0ulza3.png" group-title="⚡REDE HBO",HBO SIGNATURE HD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/611.ts
-#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="plugin://script.hls.tester/?action=play&url=shttp://i.imgur.com/X0ulza3.png" group-title="⚡REDE HBO",HBO SIGNATURE SD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/612.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.Xtreme.HD.br" tvg-name="HBO XTREME 4K" tvg-logo="plugin://script.hls.tester/?action=play&url=shttp://i.imgur.com/iu72id7.png" group-title="⚡REDE HBO",HBO XTREME 4K
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/369665.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.Xtreme.HD.br" tvg-name="HBO XTREME FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=shttp://i.imgur.com/iu72id7.png" group-title="⚡REDE HBO",HBO XTREME FHD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/613.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.Xtreme.HD.br" tvg-name="HBO XTREME HD" tvg-logo="plugin://script.hls.tester/?action=play&url=shttp://i.imgur.com/iu72id7.png" group-title="⚡REDE HBO",HBO XTREME HD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/171858.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.Xtreme.HD.br" tvg-name="HBO XTREME SD" tvg-logo="plugin://script.hls.tester/?action=play&url=shttp://i.imgur.com/iu72id7.png" group-title="⚡REDE HBO",HBO XTREME SD
-plugin://script.hls.tester/?action=play&url=http://levelxpt.lat:80/18564635/25335134/614.ts
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/lO4I6ENDRiY1iG64O8qqg1BLJaz8bjKiLVe9KZZsFzmXXt0mtqHr2Mctx7Tac42Egu0odFZyDyG5Rvi5ECp6H8xEoilmxnUe63bp37C1_a0IMa3GpMudBaUpWY8dlxddilJmJ99YP2TM9QoVWnfsl57dlxjTlB-3D61jJVe3OCQ.png" group-title="Canais | Hbo",HBO 2 FHD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/72.ts
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/lO4I6ENDRiY1iG64O8qqg1BLJaz8bjKiLVe9KZZsFzmXXt0mtqHr2Mctx7Tac42Egu0odFZyDyG5Rvi5ECp6H8xEoilmxnUe63bp37C1_a0IMa3GpMudBaUpWY8dlxddilJmJ99YP2TM9QoVWnfsl57dlxjTlB-3D61jJVe3OCQ.png" group-title="Canais | Hbo",HBO 2 HD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/73.ts
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/lO4I6ENDRiY1iG64O8qqg1BLJaz8bjKiLVe9KZZsFzmXXt0mtqHr2Mctx7Tac42Egu0odFZyDyG5Rvi5ECp6H8xEoilmxnUe63bp37C1_a0IMa3GpMudBaUpWY8dlxddilJmJ99YP2TM9QoVWnfsl57dlxjTlB-3D61jJVe3OCQ.png" group-title="Canais | Hbo",HBO 2 SD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/653.ts
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/lO4I6ENDRiY1iG64O8qqg62GfVYki3wU23XRQGEnFonBKV5K8ryr8h-cZ7bGo7mw3L2j4UECoIvVNZ4MNoz571n1JkSmtq3N9giDiG-pgz6fWgGbjV1FdWz3Ytf2vVwPiYN07f4iLHQK60YZo3tuIefg8KTtPIwVNsQh-VZgeFo.png" group-title="Canais | Hbo",HBO Family FHD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/74.ts
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/lO4I6ENDRiY1iG64O8qqg62GfVYki3wU23XRQGEnFonBKV5K8ryr8h-cZ7bGo7mw3L2j4UECoIvVNZ4MNoz571n1JkSmtq3N9giDiG-pgz6fWgGbjV1FdWz3Ytf2vVwPiYN07f4iLHQK60YZo3tuIefg8KTtPIwVNsQh-VZgeFo.png" group-title="Canais | Hbo",HBO Family HD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/75.ts
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/lO4I6ENDRiY1iG64O8qqg62GfVYki3wU23XRQGEnFonBKV5K8ryr8h-cZ7bGo7mw3L2j4UECoIvVNZ4MNoz571n1JkSmtq3N9giDiG-pgz6fWgGbjV1FdWz3Ytf2vVwPiYN07f4iLHQK60YZo3tuIefg8KTtPIwVNsQh-VZgeFo.png" group-title="Canais | Hbo",HBO Family SD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/538.ts
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmogdxGiFkz78aoPa6O7Z_BJVwIQbCGdq6_RZEqub90g1m7QHKFRfsPYZV0TkCk0OcN7Qqf5dVFVxAojlS2EYPo6vo3HkwdePA_agz2qFmmE1quWb-DdvIl3ZUo8n4vi2Hug.png" group-title="Canais | Hbo",HBO FHD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/76.ts
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmogdxGiFkz78aoPa6O7Z_BJVwIQbCGdq6_RZEqub90g1m7QHKFRfsPYZV0TkCk0OcN7Qqf5dVFVxAojlS2EYPo6vo3HkwdePA_agz2qFmmE1quWb-DdvIl3ZUo8n4vi2Hug.png" group-title="Canais | Hbo",HBO HD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/77.ts
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/lO4I6ENDRiY1iG64O8qqg10qMqg0RO-ZVmj2UbP-JZIe2IJ0ckE9i2PwDRG4iOZnvjfxavuESIJTRj1mxD7_O7nskJ9PsTi3CJZn-qHLSIxL07hkT0c_T3_Wr9FaerETC1_BomqF4wRJxKTTLiRUDOK6DrRGlO1lOs1TA1m1S70.png" group-title="Canais | Hbo",HBO Mundi FHD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/78.ts
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/lO4I6ENDRiY1iG64O8qqg10qMqg0RO-ZVmj2UbP-JZIe2IJ0ckE9i2PwDRG4iOZnvjfxavuESIJTRj1mxD7_O7nskJ9PsTi3CJZn-qHLSIxL07hkT0c_T3_Wr9FaerETC1_BomqF4wRJxKTTLiRUDOK6DrRGlO1lOs1TA1m1S70.png" group-title="Canais | Hbo",HBO Mundi HD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/79.ts
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/lO4I6ENDRiY1iG64O8qqg10qMqg0RO-ZVmj2UbP-JZIe2IJ0ckE9i2PwDRG4iOZnvjfxavuESIJTRj1mxD7_O7nskJ9PsTi3CJZn-qHLSIxL07hkT0c_T3_Wr9FaerETC1_BomqF4wRJxKTTLiRUDOK6DrRGlO1lOs1TA1m1S70.png" group-title="Canais | Hbo",HBO Mundi SD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/649.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/lO4I6ENDRiY1iG64O8qqg-RM978yKiw72aTI5TPW2d-zvNXU7nRkLxBwE0SP5gU49MmslEeG8VhMw87bhXJvjA5za5Ug2f8ogGGUr9JmqUH8kbYhVXovjNaybI2UmnKYTN-idqHs2ST54AMt-SNVnzC2N6vwmeI0O1lq2zL3HUU.png" group-title="Canais | Hbo",HBO Plus FHD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/80.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/lO4I6ENDRiY1iG64O8qqg-RM978yKiw72aTI5TPW2d-zvNXU7nRkLxBwE0SP5gU49MmslEeG8VhMw87bhXJvjA5za5Ug2f8ogGGUr9JmqUH8kbYhVXovjNaybI2UmnKYTN-idqHs2ST54AMt-SNVnzC2N6vwmeI0O1lq2zL3HUU.png" group-title="Canais | Hbo",HBO Plus HD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/81.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/lO4I6ENDRiY1iG64O8qqg-RM978yKiw72aTI5TPW2d-zvNXU7nRkLxBwE0SP5gU49MmslEeG8VhMw87bhXJvjA5za5Ug2f8ogGGUr9JmqUH8kbYhVXovjNaybI2UmnKYTN-idqHs2ST54AMt-SNVnzC2N6vwmeI0O1lq2zL3HUU.png" group-title="Canais | Hbo",HBO Plus SD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/652.ts
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="HBO Pop FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/lO4I6ENDRiY1iG64O8qqg3gPyC_SbPboVLPpeLU0YTk3pkjLNP_w3xN8GmBi5PtQeTrqXQTLZ6wGQNKNF3nd98rKVRHJmPC1Vpnx6r25Dy1kKgNdt5WqKjDlGZsUYrSle-R2o_1fB3eWFKZDNEd8WWeZC6ImHita27bbi8otPN0.png" group-title="Canais | Hbo",HBO Pop FHD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/82.ts
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="HBO Pop HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/lO4I6ENDRiY1iG64O8qqg3gPyC_SbPboVLPpeLU0YTk3pkjLNP_w3xN8GmBi5PtQeTrqXQTLZ6wGQNKNF3nd98rKVRHJmPC1Vpnx6r25Dy1kKgNdt5WqKjDlGZsUYrSle-R2o_1fB3eWFKZDNEd8WWeZC6ImHita27bbi8otPN0.png" group-title="Canais | Hbo",HBO Pop HD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/83.ts
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="HBO Pop SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/lO4I6ENDRiY1iG64O8qqg3gPyC_SbPboVLPpeLU0YTk3pkjLNP_w3xN8GmBi5PtQeTrqXQTLZ6wGQNKNF3nd98rKVRHJmPC1Vpnx6r25Dy1kKgNdt5WqKjDlGZsUYrSle-R2o_1fB3eWFKZDNEd8WWeZC6ImHita27bbi8otPN0.png" group-title="Canais | Hbo",HBO Pop SD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/650.ts
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmogdxGiFkz78aoPa6O7Z_BJVwIQbCGdq6_RZEqub90g1m7QHKFRfsPYZV0TkCk0OcN7Qqf5dVFVxAojlS2EYPo6vo3HkwdePA_agz2qFmmE1quWb-DdvIl3ZUo8n4vi2Hug.png" group-title="Canais | Hbo",HBO SD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/648.ts
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/lO4I6ENDRiY1iG64O8qqgy8ukhFsAU_8CcF2v6fBPO12D1wli-6g7HplIa8s3HK7zJ6HbnkYe4gpdKBTm9jGzb67Ft2tWrU_mesgVXSnc-cMgOb29pmlvpf_kb7T60dEloWHsktKa9pj5oUQBXgegBixTKo76jIBMGEkQ5kUbYZV5lvyMfA14loIWPwz4RHT.png" group-title="Canais | Hbo",HBO Signature FHD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/84.ts
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/lO4I6ENDRiY1iG64O8qqgy8ukhFsAU_8CcF2v6fBPO12D1wli-6g7HplIa8s3HK7zJ6HbnkYe4gpdKBTm9jGzb67Ft2tWrU_mesgVXSnc-cMgOb29pmlvpf_kb7T60dEloWHsktKa9pj5oUQBXgegBixTKo76jIBMGEkQ5kUbYZV5lvyMfA14loIWPwz4RHT.png" group-title="Canais | Hbo",HBO Signature HD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/85.ts
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/lO4I6ENDRiY1iG64O8qqgy8ukhFsAU_8CcF2v6fBPO12D1wli-6g7HplIa8s3HK7zJ6HbnkYe4gpdKBTm9jGzb67Ft2tWrU_mesgVXSnc-cMgOb29pmlvpf_kb7T60dEloWHsktKa9pj5oUQBXgegBixTKo76jIBMGEkQ5kUbYZV5lvyMfA14loIWPwz4RHT.png" group-title="Canais | Hbo",HBO Signature SD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/651.ts
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/lO4I6ENDRiY1iG64O8qqg5z8zM_RQ_ZmVYVxkIzi93E7c5BJm1RRHaHnLIfOIxiON1QxfcmZcUxvd-j1_S6ViW38rWQQpx1ixT4sVoftyw64FeIdNBKZEU1VBNUZjEO5KLwyrE3uroWH97AgUmPvcIAJu7snX9gafN0SZwEye1k.png" group-title="Canais | Hbo",HBO Xtreme FHD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/86.ts
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/images/lO4I6ENDRiY1iG64O8qqg5z8zM_RQ_ZmVYVxkIzi93E7c5BJm1RRHaHnLIfOIxiON1QxfcmZcUxvd-j1_S6ViW38rWQQpx1ixT4sVoftyw64FeIdNBKZEU1VBNUZjEO5KLwyrE3uroWH97AgUmPvcIAJu7snX9gafN0SZwEye1k.png" group-title="Canais | Hbo",HBO Xtreme HD
+plugin://script.hls.tester/?action=play&url=http://dnscine.top:80/Rodrigo2684/3eKub4zsz/87.ts
