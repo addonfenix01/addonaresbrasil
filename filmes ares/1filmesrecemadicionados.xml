@@ -5,6 +5,22 @@
 
 
 
+<channel>
+    <name>Monstro: A História de Ed Gein</name>
+    <thumbnail>https://image.tmdb.org/t/p/w500/67bzxW9Rf7kUCMWMeYr1SXV40ht.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/9kEIibz7t3c9KFKSk3GhhX4xqC0.jpg</fanart>
+    <info>A chocante história real de Ed Gein, o infame assassino e ladrão de túmulos que inspirou alguns dos assassinos mais icônicos do cinema de Hollywood.</info>
+    <genre>Drama, Crime</genre>
+    <items>
+      <item>
+        <title>Monstro: A História de Ed Gein - 1ª Temporada</title>
+        <thumbnail>https://image.tmdb.org/t/p/w500/67bzxW9Rf7kUCMWMeYr1SXV40ht.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/original/9kEIibz7t3c9KFKSk3GhhX4xqC0.jpg</fanart>
+        <link>plugin://plugin.video.resolverurl_player?url=https://md3b0j6hj.com/f/k01jrodnbgelwl$$lsname=[COLOR white]EPISÓDIO 1[/COLOR] - [COLOR yellow]Mamãe![/COLOR]</link>
+      </item>
+    </items>
+</channel>
+
 <item>
     <title>Coração de Lutador: The Smashing Machine CAM (2025)</title>
     <link>plugin://plugin.video.resolverurl_player?url=https://filemoon.in/d/8ji23dawcf68$nome=[COLOR white]LINK[/COLOR][COLOR aquamarine]DIRETO 1[/COLOR]</link>
