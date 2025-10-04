@@ -11,32 +11,6 @@
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonares01/refs/heads/main/entrada.xml</externallink>
 </channel>
-
-<channel>
-<name>[COLOR pink]PESQUISAR [/COLOR][COLOR orange]FILMES [/COLOR]</name>  
-<thumbnail>https://archive.org/download/arespesquisalupa/arespesquisalupa.png</thumbnail>    
-<fanart>https://archive.org/download/arespesquisalupa/arespesquisalupa.png</fanart>
-<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/1filmesrecemadicionados.xml</pesquisa>
-<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/acao.xml</pesquisa>
-<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/animacao.xml</pesquisa>
-<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/aventura.xml</pesquisa>
-<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/classicos.xml</pesquisa>
-<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/comedia.xml</pesquisa>
-<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/crime.xnl</pesquisa>
-<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/documentario.xml</pesquisa>
-<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/drama.xml</pesquisa>
-<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/fantasia.xml</pesquisa>
-<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/faroeste.xml</pesquisa>
-<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/ficcao%2Cxml</pesquisa>
-<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/guerra.xml</pesquisa>
-<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/homenagemaoartista.xml</pesquisa>
-<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/misterio.xml</pesquisa> 
-<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/romance.xml</pesquisa> 
-<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/terror.xml</pesquisa> 
-<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/2teste.xml</pesquisa> 
-<pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes4k.xml</pesquisa>
-    
-</channel>
   
 <channel>  
 <name>[COLOR orange] FILMES [/COLOR] CATEGORIAS</name>
