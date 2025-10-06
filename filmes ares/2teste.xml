@@ -6,37 +6,28 @@
 
 
 
-<item>
-  <title>SANDA- 1ª Temporada (2025)</title>
-  <link>plugin://plugin.video.elementum/play?uri=https://streamtape.com/v/QbxOqRlBmzu0L3v$nome=[COLOR orange]ADDON ARES - EPISÓDIO 01[/COLOR]</link>
-  <thumbnail>https://image.tmdb.org/t/p/w500/5Nfdb0I8Az6rwSOtS4K0HnsHEd4.jpg</thumbnail>
-  <fanart>https://image.tmdb.org/t/p/original/7gphZmKk3BVAeIK4AdN8GLmtoZ2.jpg</fanart>
-  <info>[COLOR orange]Título Original:[/COLOR] SANDA
-[COLOR red]Elenco Principal:[/COLOR] Ayumu Murase, Hiroki Touchi, 庄司宇芽香, Anna Nagase, Yuuki Shin
-[COLOR orange]Duração:[/COLOR] 24 min (por episódio)
-[COLOR red]Criado por:[/COLOR] Desconhecido
-[COLOR orange]Ano:[/COLOR] 2025
-[COLOR red]Nota:[/COLOR] 7.5
-[COLOR orange]Gênero:[/COLOR] Animação, Action & Adventure, Mistério, Drama
-[COLOR red]Sinopse:[/COLOR] No Japão do futuro, com natalidade ultrabaixa, as crianças são valorizadas, mas monitoradas. O Papai Noel é visto como perigoso e banido. Em 25 de dezembro, Kazushige Sanda, descendente do Papai Noel, é atacado pela colega Fuyumura, que quer que ele ache sua amiga desaparecida, Ono. "Papai Noel, encontre minha amiga!" Para proteger as crianças, Sanda se torna Papai Noel e luta contra os adultos.</info>
-</item>
 
-<channel>
-    <name>SANDA</name>
-    <thumbnail>https://image.tmdb.org/t/p/w500/5Nfdb0I8Az6rwSOtS4K0HnsHEd4.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/original/7gphZmKk3BVAeIK4AdN8GLmtoZ2.jpg</fanart>
-    <info>No Japão do futuro, com natalidade ultrabaixa, as crianças são valorizadas, mas monitoradas. O Papai Noel é visto como perigoso e banido. Em 25 de dezembro, Kazushige Sanda, descendente do Papai Noel, é atacado pela colega Fuyumura, que quer que ele ache sua amiga desaparecida, Ono.</info>
-    <genre>Animação, Desconhecido, Mistério, Drama</genre>
-    <items>
-      <item>
-        <title>SANDA - 1ª Temporada</title>
-        <thumbnail>https://image.tmdb.org/t/p/w500/5Nfdb0I8Az6rwSOtS4K0HnsHEd4.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/original/7gphZmKk3BVAeIK4AdN8GLmtoZ2.jpg</fanart>
-        <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/QbxOqRlBmzu0L3v$$lsname=[COLOR white]EPISÓDIO 1[/COLOR] - [COLOR yellow]Que Claridade, Envelheci?[/COLOR]</link>
-        <link>plugin://plugin.video.resolverurl_player?url=BREVE - ADDON ARES$$lsname=[COLOR white]EPISÓDIO 2[/COLOR] - [COLOR yellow]Episódio 2[/COLOR]</link>
-      </item>
-    </items>
-</channel>
+
+<item>
+  <title>Vermelho Sangue 1ª Temporada (2025)</title>
+  <link>plugin://plugin.video.elementum/play?uri=https://streamtape.com/v/laPMabAJYLs718z$nome=[COLOR orange]ADDON ARES - ADDON ARES - EPISÓDIO 01[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=https://streamtape.com/v/wDoD8e0OMaCJRww$nome=[COLOR orange]ADDON ARES - ADDON ARES - EPISÓDIO 02[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=https://streamtape.com/v/Y76rxYp9jLtvAQM$nome=[COLOR orange]ADDON ARES - ADDON ARES - EPISÓDIO 03[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=https://streamtape.com/v/GkZPb08x9dTYG6$nome=[COLOR orange]ADDON ARES - ADDON ARES - EPISÓDIO 04[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=https://streamtape.com/v/e4QpzLaWedTYvmY$nome=[COLOR orange]ADDON ARES - ADDON ARES - EPISÓDIO 05[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=https://streamtape.com/v/JJZ9GR1m7MSjX2A$nome=[COLOR orange]ADDON ARES - ADDON ARES - EPISÓDIO 06[/COLOR]</link>
+  <link>plugin://plugin.video.youtube/play/?video_id=Br6LYPGTtoM$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+  <thumbnail>https://image.tmdb.org/t/p/w500/xJ4UEA5VA7L1bpn0Q4xZw80K2xT.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/original/9vBJxXs7tmueOzFPXGRV7PeRPG2.jpg</fanart>
+  <info>[COLOR orange]Título Original:[/COLOR] Vermelho Sangue
+[COLOR red]Elenco Principal:[/COLOR] Letícia Vieira, Alanis Guillen, Laura Dutra, Pedro Alves, Lucas Leto
+[COLOR orange]Duração:[/COLOR] --
+[COLOR red]Criado por:[/COLOR] Rosane Svartman, Claudia Sardinha
+[COLOR orange]Ano:[/COLOR] 2025
+[COLOR red]Nota:[/COLOR] 0.0
+[COLOR orange]Gênero:[/COLOR] Sci-Fi & Fantasy
+[COLOR red]Sinopse:[/COLOR] Luna, uma garota em busca de cura para sua maldição de se transformar em lobo-guará a cada lua cheia, é filha de Carol, que iniciou uma pesquisa genética secreta financiada por um grupo farmacêutico para encontrar uma solução para o problema de sua filha, resultado de um relacionamento com um lobisomem durante seus dias de estudante de Biologia na universidade.</info>
+</item>
 
 <item>
     <title>Coração de Lutador: The Smashing Machine (2025)</title>
