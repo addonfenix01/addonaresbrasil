@@ -4,7 +4,22 @@
 
 
 
-
+<channel>
+    <name>SANDA</name>
+    <thumbnail>https://image.tmdb.org/t/p/w500/5Nfdb0I8Az6rwSOtS4K0HnsHEd4.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/7gphZmKk3BVAeIK4AdN8GLmtoZ2.jpg</fanart>
+    <info>No Japão do futuro, com natalidade ultrabaixa, as crianças são valorizadas, mas monitoradas. O Papai Noel é visto como perigoso e banido. Em 25 de dezembro, Kazushige Sanda, descendente do Papai Noel, é atacado pela colega Fuyumura, que quer que ele ache sua amiga desaparecida, Ono.</info>
+    <genre>Animação, Desconhecido, Mistério, Drama</genre>
+    <items>
+      <item>
+        <title>SANDA - 1ª Temporada</title>
+        <thumbnail>https://image.tmdb.org/t/p/w500/5Nfdb0I8Az6rwSOtS4K0HnsHEd4.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/original/7gphZmKk3BVAeIK4AdN8GLmtoZ2.jpg</fanart>
+        <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/QbxOqRlBmzu0L3v$$lsname=[COLOR white]EPISÓDIO 1[/COLOR] - [COLOR yellow]Que Claridade, Envelheci?[/COLOR]</link>
+        <link>plugin://plugin.video.resolverurl_player?url=BREVE - ADDON ARES$$lsname=[COLOR white]EPISÓDIO 2[/COLOR] - [COLOR yellow]Episódio 2[/COLOR]</link>
+      </item>
+    </items>
+</channel>
 
 <item>
     <title>Coração de Lutador: The Smashing Machine (2025)</title>
