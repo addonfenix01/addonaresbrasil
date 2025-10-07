@@ -66,14 +66,22 @@
 </channel>
 
 <channel>
-<name>[B][COLOR pink]FILMES[/COLOR] [COLOR orange]| JOGOS MORTAIS[/COLOR][/B]</name>
+<name>[B][COLOR orange]FILMES[/COLOR] [COLOR orange]| JOGOS MORTAIS[/COLOR][/B]</name>
 <thumbnail>file:///C:/Users/Roberson13/Downloads/mazaropi.webp</thumbnail>
 <fanart>file:///C:/Users/Roberson13/Downloads/mazaropi.webp</fanart>
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/painel%20categorias%20filmes/MENU%20FILMES%20LINK-DIRETO%20CATEGORIAS/jogosmortasidireto.xml</externallink>
 </channel>
 
+<channel>
+<name>[B][COLOR pink]FILMES[/COLOR] [COLOR orange]|maiores de 18 (Teste)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/aev8KwfhLbNzumqGlRoG4K0dUne.jpg</thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/painel%20categorias%20filmes/MENU%20FILMES%20LINK-DIRETO%20CATEGORIAS/conteudoparamaioresde18.xml</externallink>
+</channel>
+ 
 
    
 </channels>
+
 
 
