@@ -1,11 +1,305 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Jurassic World: O Mundo dos Dinossauros (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMvpXTXokWPsyj9nr8TokmIvAfz.jpg" group-title="3 - FILMES - BILHETERIAS",Jurassic World: O Mundo dos Dinossauros (2015)
-http://defumadeghuoiew.maistv.xyz:80/movie/866582838/159759854/4244415.mp4
-#EXTINF:-1 tvg-name="Avatar: O Caminho da Água (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbYQLLluS651W89jO7MOZcLSCUw.jpg" group-title="3 - FILMES - BILHETERIAS",Avatar: O Caminho da Água (2022)
-http://defumadeghuoiew.maistv.xyz:80/movie/866582838/159759854/4244414.mp4
-#EXTINF:-1 tvg-name="Titanic (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg" group-title="3 - FILMES - BILHETERIAS",Titanic (1997)
-http://defumadeghuoiew.maistv.xyz:80/movie/866582838/159759854/4244413.mp4
-#EXTINF:-1 tvg-name="Avatar (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNMP8uzV2Ing6ZCw0IICgEFVNfC.jpg" group-title="3 - FILMES - BILHETERIAS",Avatar (2009)
-http://defumadeghuoiew.maistv.xyz:80/movie/866582838/159759854/4244412.mp4
-#EXTINF:-1 tvg-name="O Rei Leão (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrHr8eEJYDAA7WYybyH162s4oZ4.jpg" group-title="3 - FILMES - BILHETERIAS",O Rei Leão (2019)
-http://defumadeghuoiew.maistv.xyz:80/movie/866582838/159759854/4244411.mp4
+#EXTINF:-1 tvg-name="Como Descartar um Corpo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXqZvvgIEbZM3gQBa4jLcNnLWmx.jpg" group-title="Filmes | Lancamentos",Como Descartar um Corpo (2022)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886547.mp4
+#EXTINF:-1 tvg-name="Forças Hostis (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8M4SSjPhTbXne96KHQD2QqBgSa.jpg" group-title="Filmes | Lancamentos",Forças Hostis (2023)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886546.mp4
+#EXTINF:-1 tvg-name="A Lei (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pep83sKsypHJZwwGeAUHxAmXiyQ.jpg" group-title="Filmes | Lancamentos",A Lei (2021)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886545.mp4
+#EXTINF:-1 tvg-name="O Limite do Prazer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fmLQaEPC9uRCbjPs1NI4S90qimH.jpg" group-title="Filmes | Lancamentos",O Limite do Prazer (2023)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886544.mp4
+#EXTINF:-1 tvg-name="Dog - A Aventura de Uma Vida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gln0b5rezteLuyv9kO1q0h0vqnA.jpg" group-title="Filmes | Lancamentos",Dog - A Aventura de Uma Vida (2022)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886543.mp4
+#EXTINF:-1 tvg-name="Juntos (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9jfOWLuyYejyJX17wRFUQGtUji.jpg" group-title="Filmes | Lancamentos",Juntos (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886542.mp4
+#EXTINF:-1 tvg-name="Lilo & Stitch (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLeEudeDDufArn1qn6KbmPO2FAL.jpg" group-title="Filmes | Lancamentos",Lilo & Stitch (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886541.mp4
+#EXTINF:-1 tvg-name="Guerreiras do K-Pop (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbdMa7woiuF7IiEB5Spwv5od4oo.jpg" group-title="Filmes | Lancamentos",Guerreiras do K-Pop (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886540.mp4
+#EXTINF:-1 tvg-name="Flechas da Vingança (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSaDo8CtKq85wu1cja7ACxbjk8j.jpg" group-title="Filmes | Lancamentos",Flechas da Vingança (2022)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886539.mp4
+#EXTINF:-1 tvg-name="Gemini: O Planeta Sombrio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXTgaKzbJ4Zex8xN6HAqe7IRb1L.jpg" group-title="Filmes | Lancamentos",Gemini: O Planeta Sombrio (2022)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886538.mp4
+#EXTINF:-1 tvg-name="Estranho Caminho (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w2VuStOacjsFl6utlfD32KUYF94.jpg" group-title="Filmes | Lancamentos",Estranho Caminho (2024)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886537.mp4
+#EXTINF:-1 tvg-name="Corra Que a Polícia Vem Aí! (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDN8VDEQjh8QBEeT7C6Ml5Uqln8.jpg" group-title="Filmes | Lancamentos",Corra Que a Polícia Vem Aí! (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886536.mp4
+#EXTINF:-1 tvg-name="Dias Perfeitos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4oCDJgtYPg8lWqmeNIsqPwzZ7X.jpg" group-title="Filmes | Lancamentos",Dias Perfeitos (2023)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886535.mp4
+#EXTINF:-1 tvg-name="Atrevida: A Paixão Não Tem Regras (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4qSFM3KiPkvD0hdDh5loXvwIPw.jpg" group-title="Filmes | Lancamentos",Atrevida: A Paixão Não Tem Regras (2023)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886534.mp4
+#EXTINF:-1 tvg-name="O Dia Que Te Conheci (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2y5OvVBIWxSNwEVV65UIyFIHf6s.jpg" group-title="Filmes | Lancamentos",O Dia Que Te Conheci (2024)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886533.mp4
+#EXTINF:-1 tvg-name="Espíritos Obscuros (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2c8DlW3qfu4w6fgn4lMrI6wEfM.jpg" group-title="Filmes | Lancamentos",Espíritos Obscuros (2021)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886532.mp4
+#EXTINF:-1 tvg-name="Anônimo 2 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ObRyIQHJAY2X575hLVgKsnNlar.jpg" group-title="Filmes | Lancamentos",Anônimo 2 (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886531.mp4
+#EXTINF:-1 tvg-name="Alemão 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dg28tcd1gU9YtEjlrWh22RbeQJx.jpg" group-title="Filmes | Lancamentos",Alemão 2 (2022)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886530.mp4
+#EXTINF:-1 tvg-name="Patrulha Canina: O Filme (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56V3xa8ymXzOQLFGsiU9T1sDmfI.jpg" group-title="Filmes | Lancamentos",Patrulha Canina: O Filme (2021)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886529.mp4
+#EXTINF:-1 tvg-name="Luta de Classes em Beverly Hills (1989) (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7KomAY7WpNgAKIbQuJpXPw3czRS.jpg" group-title="Filmes | Lancamentos",Luta de Classes em Beverly Hills (1989) (1989)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886528.mp4
+#EXTINF:-1 tvg-name="O Jogo do Medo (2022) (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmbBqnLjawUQblDb29wWqhYT6oA.jpg" group-title="Filmes | Lancamentos",O Jogo do Medo (2022) (2022)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886527.mp4
+#EXTINF:-1 tvg-name="Chariot (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/gKqA1Vz9CtDbiwR4z2peJjqwPXA.jpg" group-title="Filmes | Lancamentos",Chariot (2022)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886526.mp4
+#EXTINF:-1 tvg-name="Uma Viagem ao Desconhecido (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/yA1ltwVBSgOpNqmldtcqmVknR2I.jpg" group-title="Filmes | Lancamentos",Uma Viagem ao Desconhecido (2023)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886525.mp4
+#EXTINF:-1 tvg-name="Amizade Tóxica (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/4lpfBxET1zqLvtnf303FS5nUVvR.jpg" group-title="Filmes | Lancamentos",Amizade Tóxica (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886524.mp4
+#EXTINF:-1 tvg-name="O Quarto Passageiro (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/x6esLDD0bcUXYCumhpyBi4eriYx.jpg" group-title="Filmes | Lancamentos",O Quarto Passageiro (2022)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886523.mp4
+#EXTINF:-1 tvg-name="Água na Boca (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/4vd4yZdmESayTzXwZHadWFWWAnc.jpg" group-title="Filmes | Lancamentos",Água na Boca (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886522.mp4
+#EXTINF:-1 tvg-name="As Órfãs da Rainha (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/f8WTqEfS1LSiJQWhyaFBaG858L1.jpg" group-title="Filmes | Lancamentos",As Órfãs da Rainha (2023)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886521.mp4
+#EXTINF:-1 tvg-name="Os Ossos da Saudade (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/t3C3YfExXMy8puug6iBW18T3XVH.jpg" group-title="Filmes | Lancamentos",Os Ossos da Saudade (2022)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886520.mp4
+#EXTINF:-1 tvg-name="Uýra - A Retomada da Floresta (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/auVsD3LaFdnQg2K3OZ9n5aQ0guL.jpg" group-title="Filmes | Lancamentos",Uýra - A Retomada da Floresta (2022)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886519.mp4
+#EXTINF:-1 tvg-name="Velocidade Total (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/wmh23jJy0nbVSPTrbLufLz1Eh9G.jpg" group-title="Filmes | Lancamentos",Velocidade Total (2024)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886518.mp4
+#EXTINF:-1 tvg-name="A Incrível História de Henry Sugar e Outros Três Contos (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/8gBOtLTs0GNMEZnisAK132o5V67.jpg" group-title="Filmes | Lancamentos",A Incrível História de Henry Sugar e Outros Três Contos (2024)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886517.mp4
+#EXTINF:-1 tvg-name="Rédeas da Vida (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/9DG4WouNpLgqbiWmDh8EnwZX0jY.jpg" group-title="Filmes | Lancamentos",Rédeas da Vida (2021)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886516.mp4
+#EXTINF:-1 tvg-name="Thomas & Seus Amigos: Corrida pela Taça Sodor (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/i4YZc8UuBbUlzuLl3A8y8E7q7R1.jpg" group-title="Filmes | Lancamentos",Thomas & Seus Amigos: Corrida pela Taça Sodor (2021)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886515.mp4
+#EXTINF:-1 tvg-name="Algo sobre Ilda (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/h9uNxqbgNmngjjzkjDWxwCVxjIq.jpg" group-title="Filmes | Lancamentos",Algo sobre Ilda (2023)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886514.mp4
+#EXTINF:-1 tvg-name="Call in the Cheapskates (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/6uuQI1LeEuCzR33iLqVKAmLpr2j.jpg" group-title="Filmes | Lancamentos",Call in the Cheapskates (2021)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886513.mp4
+#EXTINF:-1 tvg-name="Dakar: Corrida Contra o Deserto (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/5qinrc3OOmVgUXIsb1aXXd1A5lq.jpg" group-title="Filmes | Lancamentos",Dakar: Corrida Contra o Deserto (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886512.mp4
+#EXTINF:-1 tvg-name="Inverno em Chamas (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/hcfDoTS3Cjy1RQml6WyGBsDDOhY.jpg" group-title="Filmes | Lancamentos",Inverno em Chamas (2023)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886511.mp4
+#EXTINF:-1 tvg-name="Prazer Sem Limites (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/5c2K6a2ADAOMCrddZUqdGCbsK2L.jpg" group-title="Filmes | Lancamentos",Prazer Sem Limites (2023)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886510.mp4
+#EXTINF:-1 tvg-name="Candy Land (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/3upBKM4ZFZ1fEEnWrnTZMuyPrzI.jpg" group-title="Filmes | Lancamentos",Candy Land (2023)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886509.mp4
+#EXTINF:-1 tvg-name="Zoya (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/uKz44FpX5yRxcRpe5uXuClb7jfl.jpg" group-title="Filmes | Lancamentos",Zoya (2024)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886508.mp4
+#EXTINF:-1 tvg-name="A Maldição dos Minimoys (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/4wCq8o9ucebeYhPpspGUoRkJov5.jpg" group-title="Filmes | Lancamentos",A Maldição dos Minimoys (2022)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886507.mp4
+#EXTINF:-1 tvg-name="Missão Resgate: Vingança" tvg-logo="http://file.gstaticontent.com//t/p/w600_and_h900_bestv2/sPTeizmI8p40oEuvbIc2B3H5mg6.jpg" group-title="Filmes | Lancamentos",Missão Resgate: Vingança
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886506.mp4
+#EXTINF:-1 tvg-name="A Hora do Mal (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/hxD55aM6nrU6bgvAC7lknZKzZZR.jpg" group-title="Filmes | Lancamentos",A Hora do Mal (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886505.mp4
+#EXTINF:-1 tvg-name="A Infância Perdida (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/iRq7MlpGUvmhMcm9E9LrhnJlY1t.jpg" group-title="Filmes | Lancamentos",A Infância Perdida (2023)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886504.mp4
+#EXTINF:-1 tvg-name="A Revolução Romena (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/i0GVbBm0GvV7MO1XWjC4yaZWHmn.jpg" group-title="Filmes | Lancamentos",A Revolução Romena (2023)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886503.mp4
+#EXTINF:-1 tvg-name="A Paris Errada (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/nMhG3Gt2qyQWoKRqsaXWQ1tnlL4.jpg" group-title="Filmes | Lancamentos",A Paris Errada (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886502.mp4
+#EXTINF:-1 tvg-name="A Vida Depois de Você (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/o61RnIKtEaaMxqNhVbmPUQhqUAa.jpg" group-title="Filmes | Lancamentos",A Vida Depois de Você (2022)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886501.mp4
+#EXTINF:-1 tvg-name="Academia de Vilões (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/4fkhzO6RFo6YL16oOZJak169I1L.jpg" group-title="Filmes | Lancamentos",Academia de Vilões (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886500.mp4
+#EXTINF:-1 tvg-name="Amor de Ano Novo (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/nU1geEfVPwzrsmLHTenl2mMrbBW.jpg" group-title="Filmes | Lancamentos",Amor de Ano Novo (2024)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886499.mp4
+#EXTINF:-1 tvg-name="Beezel: A Devoradora de Almas (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/4qUNDF3Ho1dzLWZTqjFCL7UnDse.jpg" group-title="Filmes | Lancamentos",Beezel: A Devoradora de Almas (2024)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886498.mp4
+#EXTINF:-1 tvg-name="Dormindo com seu Ídolo (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/oB5DoPDrxnoLwoZTgbcTG62LQU4.jpg" group-title="Filmes | Lancamentos",Dormindo com seu Ídolo (2024)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886497.mp4
+#EXTINF:-1 tvg-name="Faça Ela Voltar (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/1zcH6vJs0TnCVXK7TGdTkEzR5J8.jpg" group-title="Filmes | Lancamentos",Faça Ela Voltar (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886496.mp4
+#EXTINF:-1 tvg-name="Fúria da Natureza (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/rAct5T9uP3WgeZEAFduOAZlTcPu.jpg" group-title="Filmes | Lancamentos",Fúria da Natureza (2023)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886495.mp4
+#EXTINF:-1 tvg-name="O Que Pode Dar Errado? (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/dgSIsvpxbXmgFob4N66C8xYzWkL.jpg" group-title="Filmes | Lancamentos",O Que Pode Dar Errado? (2023)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886494.mp4
+#EXTINF:-1 tvg-name="Opus (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/m0du9dsiOVeb0SgfqR8ZAEPRxww.jpg" group-title="Filmes | Lancamentos",Opus (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886493.mp4
+#EXTINF:-1 tvg-name="Quase Apaixonados (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/htmC2TFpQQd54FD1iLsqTRuY6jU.jpg" group-title="Filmes | Lancamentos",Quase Apaixonados (2024)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886492.mp4
+#EXTINF:-1 tvg-name="Sequestro 1971 (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/jEPBYkNY8G50JR62RTQ3eTTFxQS.jpg" group-title="Filmes | Lancamentos",Sequestro 1971 (2024)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886491.mp4
+#EXTINF:-1 tvg-name="Vermelho Monet (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/9EfittuWcBh1wKpyq657AsdATf.jpg" group-title="Filmes | Lancamentos",Vermelho Monet (2024)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886490.mp4
+#EXTINF:-1 tvg-name="75 días (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/50i8ibosATVWZFaQtm6s1xaUnF3.jpg" group-title="Filmes | Lancamentos",75 días (2022)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886489.mp4
+#EXTINF:-1 tvg-name="Estudante Exemplar (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/hOLcatOq9JKRFTEEIjwkkOQ6Pfh.jpg" group-title="Filmes | Lancamentos",Estudante Exemplar (2023)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886488.mp4
+#EXTINF:-1 tvg-name="Os Músicos (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/z4K5lcMGC6C6HsiQK0pIBsoaeAd.jpg" group-title="Filmes | Lancamentos",Os Músicos (2021)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886487.mp4
+#EXTINF:-1 tvg-name="Rust (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/tbJ3RkA2s6X5qrBzrYHYTxvDBui.jpg" group-title="Filmes | Lancamentos",Rust (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886486.mp4
+#EXTINF:-1 tvg-name="Sem Tempo a Perder (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/8AnPoD6FLO1eWAP3TP59bWEYKDD.jpg" group-title="Filmes | Lancamentos",Sem Tempo a Perder (2023)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886485.mp4
+#EXTINF:-1 tvg-name="Um Gesto de Esperança (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/8GIxHlXltseirZjKh1EsHw31lq5.jpg" group-title="Filmes | Lancamentos",Um Gesto de Esperança (2021)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886484.mp4
+#EXTINF:-1 tvg-name="Uma Comédia Romântica (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/8FDkoe1B3GbtoxZG3zI59W1camE.jpg" group-title="Filmes | Lancamentos",Uma Comédia Romântica (2022)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886483.mp4
+#EXTINF:-1 tvg-name="A Criada Proibida (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/6QgSlS0IV9jlDadjdVrrN4quqEM.jpg" group-title="Filmes | Lancamentos",A Criada Proibida (2021)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886482.mp4
+#EXTINF:-1 tvg-name="Ele disse, ela disse: Blake Lively contra Justin Baldoni (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/yxWA3nShaMXRMoBX5xpGnPW3eP9.jpg" group-title="Filmes | Lancamentos",Ele disse, ela disse: Blake Lively contra Justin Baldoni (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886481.mp4
+#EXTINF:-1 tvg-name="O Crítico (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/mWbHAqe9rJhliogsohcHzzLaeWA.jpg" group-title="Filmes | Lancamentos",O Crítico (2022)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886480.mp4
+#EXTINF:-1 tvg-name="Realeza Rebelde: Um Amor Improvável (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/9Hq0O4SuaZCgwEN7d5nYIP7qbks.jpg" group-title="Filmes | Lancamentos",Realeza Rebelde: Um Amor Improvável (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886479.mp4
+#EXTINF:-1 tvg-name="Chacina de Sangue (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/iR1LbFdcCwNs1jYpb3ybWATPO6H.jpg" group-title="Filmes | Lancamentos",Chacina de Sangue (2024)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886478.mp4
+#EXTINF:-1 tvg-name="Elio (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/yt6VGEUxzwDodTq56D1pEX3TFYw.jpg" group-title="Filmes | Lancamentos",Elio (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886477.mp4
+#EXTINF:-1 tvg-name="Inferno Tropical (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/puuLDhapYJ5WpLKDfcl8XUbj8eJ.jpg" group-title="Filmes | Lancamentos",Inferno Tropical (2023)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886476.mp4
+#EXTINF:-1 tvg-name="Reféns de Um Fantasma (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/cx8NwwfkKbBOM1zwqd8rVbSdwNM.jpg" group-title="Filmes | Lancamentos",Reféns de Um Fantasma (2022)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886475.mp4
+#EXTINF:-1 tvg-name="Spithood (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/zV5djt7n4IZDR0ixq7hsafNTj91.jpg" group-title="Filmes | Lancamentos",Spithood (2024)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886474.mp4
+#EXTINF:-1 tvg-name="Destinos Opostos (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/nwEnFfGog2PjaJNJci0EMPWdFOX.jpg" group-title="Filmes | Lancamentos",Destinos Opostos (2023)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886473.mp4
+#EXTINF:-1 tvg-name="Refazendo Laços (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/qzd14POdi80yv6kQ7w4vHAGPGF5.jpg" group-title="Filmes | Lancamentos",Refazendo Laços (2023)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886472.mp4
+#EXTINF:-1 tvg-name="#Sem_Filtro - Noite Sangrenta (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/hlIXhMYMjxhppv2EagLNXXey5H5.jpg" group-title="Filmes | Lancamentos",#Sem_Filtro - Noite Sangrenta (2022)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886471.mp4
+#EXTINF:-1 tvg-name="A Outra Face de Dorian Gray (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/wKZW3o3QwpC5sQMrd9lJDAhEKcU.jpg" group-title="Filmes | Lancamentos",A Outra Face de Dorian Gray (2023)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886470.mp4
+#EXTINF:-1 tvg-name="A Perseguição (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/wB4JPuLWRFS1gtCLXE5hEl6e8p2.jpg" group-title="Filmes | Lancamentos",A Perseguição (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886469.mp4
+#EXTINF:-1 tvg-name="Acompanhante Fatal (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/aHLSB5y42sPjbZhMabG0NVkWtUH.jpg" group-title="Filmes | Lancamentos",Acompanhante Fatal (2023)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886468.mp4
+#EXTINF:-1 tvg-name="Marcas do Passado (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/sjEBZw8ADzs0rNyaOQydJNyEafp.jpg" group-title="Filmes | Lancamentos",Marcas do Passado (2022)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886467.mp4
+#EXTINF:-1 tvg-name="O Espírito do Natal (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/jdPcQsTEeOR7yfDawowwtS4gltp.jpg" group-title="Filmes | Lancamentos",O Espírito do Natal (2022)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886466.mp4
+#EXTINF:-1 tvg-name="O Mesmo Dia com Você (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/ekyvMJ4SQMDRwTlLYktamGMbO4y.jpg" group-title="Filmes | Lancamentos",O Mesmo Dia com Você (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886465.mp4
+#EXTINF:-1 tvg-name="O Último Lutador (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/emnk3rHlqcKc5gr7YOuBwt0aoIB.jpg" group-title="Filmes | Lancamentos",O Último Lutador (2023)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886464.mp4
+#EXTINF:-1 tvg-name="Trust (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/b803hag2QDyHphM6AuSWCjoVVbl.jpg" group-title="Filmes | Lancamentos",Trust (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886463.mp4
+#EXTINF:-1 tvg-name="Um Grito Silencioso (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/gnYKApC4xHy2B3cH1gMMneE1BcK.jpg" group-title="Filmes | Lancamentos",Um Grito Silencioso (2024)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886462.mp4
+#EXTINF:-1 tvg-name="Bem-Vindo ao Crime (2020)" tvg-logo="https://image.tmdb.org/t/p/w780/qvjYnvt5bd6j8FeqwEbftLTosvA.jpg" group-title="Filmes | Lancamentos",Bem-Vindo ao Crime (2020)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886461.mp4
+#EXTINF:-1 tvg-name="Cazuza: Boas Novas (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/3K65Ikh2pe87GARhPXHlsDsKGqm.jpg" group-title="Filmes | Lancamentos",Cazuza: Boas Novas (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886460.mp4
+#EXTINF:-1 tvg-name="Deu Match: A Rainha de Apps de Namoro (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/ulRT1tSPzaPuySSHZgc5UGFMIMh.jpg" group-title="Filmes | Lancamentos",Deu Match: A Rainha de Apps de Namoro (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886459.mp4
+#EXTINF:-1 tvg-name="Ela Disse Talvez (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/1IyovHStVFP3Bt5JwGB0c4uST5J.jpg" group-title="Filmes | Lancamentos",Ela Disse Talvez (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886458.mp4
+#EXTINF:-1 tvg-name="Os Caras Malvados 2 (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/b0UoBkMSi6hflLxNFIFbJgskorU.jpg" group-title="Filmes | Lancamentos",Os Caras Malvados 2 (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886457.mp4
+#EXTINF:-1 tvg-name="Padel Nosso (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/NMVbasCl3PO2Uy1POFm2S4jojM.jpg" group-title="Filmes | Lancamentos",Padel Nosso (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886456.mp4
+#EXTINF:-1 tvg-name="Ritas (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/bbKmjCnyAaLjT5ucCaiikTCWy7G.jpg" group-title="Filmes | Lancamentos",Ritas (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886455.mp4
+#EXTINF:-1 tvg-name="Uma Advogada Brilhante (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/1O1GV6UhiWW7uRG8m92VApsi96V.jpg" group-title="Filmes | Lancamentos",Uma Advogada Brilhante (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886454.mp4
+#EXTINF:-1 tvg-name="A Disputa (2020)" tvg-logo="https://image.tmdb.org/t/p/w780/jYFaFJPg79ngwBrxjQw4aThzen4.jpg" group-title="Filmes | Lancamentos",A Disputa (2020)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886453.mp4
+#EXTINF:-1 tvg-name="A Mãe do Meu Filho (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ygddj46XCGU2QUkIRSQw2EcdxYZ.jpg" group-title="Filmes | Lancamentos",A Mãe do Meu Filho (2022)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886452.mp4
+#EXTINF:-1 tvg-name="You Gotta Believe (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/l4X9SeMFCv414BCt97IBgzYX7JC.jpg" group-title="Filmes | Lancamentos",You Gotta Believe (2024)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886451.mp4
+#EXTINF:-1 tvg-name="Golfinhos de Perto com Bertie Gregory (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/nB4RrShCVQ1V9dKsyKPO7isfmOH.jpg" group-title="Filmes | Lancamentos",Golfinhos de Perto com Bertie Gregory (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886450.mp4
+#EXTINF:-1 tvg-name="Malu (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/jMPczLymsusTdhmvPcPK5EBVOMS.jpg" group-title="Filmes | Lancamentos",Malu (2024)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886449.mp4
+#EXTINF:-1 tvg-name="O Corpo que Habito (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/mpApQFCpHDjUUKYeA8J6Jb2kEJ5.jpg" group-title="Filmes | Lancamentos",O Corpo que Habito (2024)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886448.mp4
+#EXTINF:-1 tvg-name="O menino d’Olho d’Água (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/2BR9gs2NxlEuI9EI9zmMvij0Ec3.jpg" group-title="Filmes | Lancamentos",O menino d’Olho d’Água (2024)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886447.mp4
+#EXTINF:-1 tvg-name="WWE Wrestlepalooza (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/nigCd4SaacDaLZSKsXWWnDMqJtM.jpg" group-title="Filmes | Lancamentos",WWE Wrestlepalooza (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886446.mp4
+#EXTINF:-1 tvg-name="American Dream - Um Reality Sangrento (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/pY8zP4IJPwUqCPedS3akEVIoZdu.jpg" group-title="Filmes | Lancamentos",American Dream - Um Reality Sangrento (2021)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886445.mp4
+#EXTINF:-1 tvg-name="Cordel do Amor Sem Fim" tvg-logo="http://file.gstaticontent.com//t/p/w600_and_h900_bestv2/ulf01uRYf3XF2LCmXaMyyrO6ycn.jpg" group-title="Filmes | Lancamentos",Cordel do Amor Sem Fim
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886444.mp4
+#EXTINF:-1 tvg-name="De Dentro da Escuridão (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/6ngnGcJOSUQBp1GWAIFkQWkMJMo.jpg" group-title="Filmes | Lancamentos",De Dentro da Escuridão (2024)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886443.mp4
+#EXTINF:-1 tvg-name="Entre os Vivos (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/tfsEQnB1fAXb7a1fcKQFg6NCeF9.jpg" group-title="Filmes | Lancamentos",Entre os Vivos (2022)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886442.mp4
+#EXTINF:-1 tvg-name="F1: Furious One (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/z0xO5rc4jmYr62isjTRhyabMan4.jpg" group-title="Filmes | Lancamentos",F1: Furious One (2021)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886441.mp4
+#EXTINF:-1 tvg-name="A Mesa de Café (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/7jTeKAVHQTGyf1jDfUx7ZMOqPkb.jpg" group-title="Filmes | Lancamentos",A Mesa de Café (2023)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886440.mp4
+#EXTINF:-1 tvg-name="O Entregador da Noite (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/vxbxmUtuoVeIH4teo1EuQl9Gw4z.jpg" group-title="Filmes | Lancamentos",O Entregador da Noite (2023)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886439.mp4
+#EXTINF:-1 tvg-name="Perigo das Profundezas (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/dsXqBhf0pYlrnFshx63mXftQ9Uf.jpg" group-title="Filmes | Lancamentos",Perigo das Profundezas (2024)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886438.mp4
+#EXTINF:-1 tvg-name="Todos Irão Queimar (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/6pwaIysNFfOwLkUldbUzSoMtJoO.jpg" group-title="Filmes | Lancamentos",Todos Irão Queimar (2023)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886437.mp4
+#EXTINF:-1 tvg-name="Um Tiro no Escuro (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/jQkiet9qDNvsqIypeBewIYl7L1A.jpg" group-title="Filmes | Lancamentos",Um Tiro no Escuro (2021)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886436.mp4
+#EXTINF:-1 tvg-name="Volte para Casa (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/7rCISJiSduhnowiA6m7LbsvJYI7.jpg" group-title="Filmes | Lancamentos",Volte para Casa (2024)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886435.mp4
+#EXTINF:-1 tvg-name="Um Homem Abandonado (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/jfkCJDrZX6rVvvVqQ8ME4tDmRa.jpg" group-title="Filmes | Lancamentos",Um Homem Abandonado (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886434.mp4
+#EXTINF:-1 tvg-name="Alibi.com 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/hiMcN5jpDEeT1ZytPuNwad7XxBE.jpg" group-title="Filmes | Lancamentos",Alibi.com 2 (2023)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886433.mp4
+#EXTINF:-1 tvg-name="Novas Raízes – Escolhas do Futuro (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/hzbDm8WGR8bytlG2QQpzoZteMrF.jpg" group-title="Filmes | Lancamentos",Novas Raízes – Escolhas do Futuro (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886432.mp4
+#EXTINF:-1 tvg-name="O Ritual (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/5GnAC2RLDLZdFKZwKuZbfyG4uma.jpg" group-title="Filmes | Lancamentos",O Ritual (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886431.mp4
+#EXTINF:-1 tvg-name="Sem Prévio Aviso (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/8gcW6GZ6N7pVivQtqo0gF7a66Rk.jpg" group-title="Filmes | Lancamentos",Sem Prévio Aviso (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886430.mp4
+#EXTINF:-1 tvg-name="Além da Liberdade (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/g50GNexL36yoEqDutFhfgQ7Z6Nk.jpg" group-title="Filmes | Lancamentos",Além da Liberdade (2023)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886429.mp4
+#EXTINF:-1 tvg-name="French Lover (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/5ODw6phtT75gq28I8fQ2OVSb5qy.jpg" group-title="Filmes | Lancamentos",French Lover (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886428.mp4
+#EXTINF:-1 tvg-name="Gatilheiro (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/2l1om8E5zoHCm9cjLR1Zyr1UHUj.jpg" group-title="Filmes | Lancamentos",Gatilheiro (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886427.mp4
+#EXTINF:-1 tvg-name="Oeste Outra Vez (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/Ug4a4PVByVtUpYYSg2ayqjelgA.jpg" group-title="Filmes | Lancamentos",Oeste Outra Vez (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886426.mp4
+#EXTINF:-1 tvg-name="Por Inteiro (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/8LFBJA9nyjXOC1ZgcYV39gZ07Hj.jpg" group-title="Filmes | Lancamentos",Por Inteiro (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886425.mp4
+#EXTINF:-1 tvg-name="Uma Questão de Escolha (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/v6FTKHcXURfvmgq9aeMz7w582EW.jpg" group-title="Filmes | Lancamentos",Uma Questão de Escolha (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886424.mp4
+#EXTINF:-1 tvg-name="Mantis (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/8Jqrvmq1dwfJtOfUOt8ByinEPts.jpg" group-title="Filmes | Lancamentos",Mantis (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886423.mp4
+#EXTINF:-1 tvg-name="The Birth of H. Teixeira (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/yqVlMYMpVuDggJyhMw6BrAOfhoD.jpg" group-title="Filmes | Lancamentos",The Birth of H. Teixeira (2024)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886422.mp4
+#EXTINF:-1 tvg-name="Rute e Boaz (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/u7tqBQrxq6AyT7LMcBzv3vykysn.jpg" group-title="Filmes | Lancamentos",Rute e Boaz (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886421.mp4
+#EXTINF:-1 tvg-name="A Lenda dos Cavaleiros da Água (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/BicyBZ6oP0V7Bf3HynvMCsAUza.jpg" group-title="Filmes | Lancamentos",A Lenda dos Cavaleiros da Água (2024)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886420.mp4
+#EXTINF:-1 tvg-name="A Pior Pessoa do Mundo (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/k2Uvqj0oiwjEprdIL6YDt06v7UQ.jpg" group-title="Filmes | Lancamentos",A Pior Pessoa do Mundo (2021)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886419.mp4
+#EXTINF:-1 tvg-name="Ressignificar (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/itREAICZ5v1kZTtixzBtjpTwcAf.jpg" group-title="Filmes | Lancamentos",Ressignificar (2023)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886418.mp4
+#EXTINF:-1 tvg-name="Sugar Dead - A Baby teve um Baby! (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/ub43P92mw43tUCID8aCgGdknnK0.jpg" group-title="Filmes | Lancamentos",Sugar Dead - A Baby teve um Baby! (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886417.mp4
+#EXTINF:-1 tvg-name="Ladrões (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/7iw7CFHDVblVmAosmcNs42UP3Im.jpg" group-title="Filmes | Lancamentos",Ladrões (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886416.mp4
+#EXTINF:-1 tvg-name="Sacramento (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/hVhDtbVs6PIxvIbAKL5zom4BnkO.jpg" group-title="Filmes | Lancamentos",Sacramento (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886415.mp4
+#EXTINF:-1 tvg-name="A Nova Vida de Rose (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/yJdvBHu36H4euYp5ZTlpAml3KlE.jpg" group-title="Filmes | Lancamentos",A Nova Vida de Rose (2021)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886414.mp4
+#EXTINF:-1 tvg-name="Deep Web: O Show da Morte (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/nzvW8wPSswjLZUv00FDL00JmhKB.jpg" group-title="Filmes | Lancamentos",Deep Web: O Show da Morte (2024)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886413.mp4
+#EXTINF:-1 tvg-name="Descobrindo Novos Ventos (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/vjq231E2zVe4wnzIdakembLdxW4.jpg" group-title="Filmes | Lancamentos",Descobrindo Novos Ventos (2022)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886412.mp4
+#EXTINF:-1 tvg-name="Flechas da Vingança (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/wSaDo8CtKq85wu1cja7ACxbjk8j.jpg" group-title="Filmes | Lancamentos",Flechas da Vingança (2022)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886411.mp4
+#EXTINF:-1 tvg-name="Fogo vs Fogo (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/nXqzmtYY4JrQKEvJ0rw04O1Cakq.jpg" group-title="Filmes | Lancamentos",Fogo vs Fogo (2022)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886410.mp4
+#EXTINF:-1 tvg-name="Jaws vs. the Meg (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/sZRuMAqypMTP8hJVwDiXMRgOuaE.jpg" group-title="Filmes | Lancamentos",Jaws vs. the Meg (2023)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886409.mp4
+#EXTINF:-1 tvg-name="Jogo Sujo (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/2fXF4GY6eoyjRLjtreVJGajT9WV.jpg" group-title="Filmes | Lancamentos",Jogo Sujo (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886408.mp4
+#EXTINF:-1 tvg-name="Juntos e Separados (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/n2H7rJJt6BIeVi5aoDWXawxF180.jpg" group-title="Filmes | Lancamentos",Juntos e Separados (2023)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886407.mp4
+#EXTINF:-1 tvg-name="Mamma Mu - Voltando Para Casa (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/lOcMhqlyhL28cYnTEjDND03MozJ.jpg" group-title="Filmes | Lancamentos",Mamma Mu - Voltando Para Casa (2021)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886406.mp4
+#EXTINF:-1 tvg-name="Amanda (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/96Ejikunkn4d5Yo0o9HTqOzEyI9.jpg" group-title="Filmes | Lancamentos",Amanda (2022)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886405.mp4
+#EXTINF:-1 tvg-name="Como Descartar um Corpo (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/nXqZvvgIEbZM3gQBa4jLcNnLWmx.jpg" group-title="Filmes | Lancamentos",Como Descartar um Corpo (2022)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886404.mp4
+#EXTINF:-1 tvg-name="Lendas dos Heróis do Condor: Os Valentes (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/rJBPn6EXVgecDgKc0C8nS6A7euI.jpg" group-title="Filmes | Lancamentos",Lendas dos Heróis do Condor: Os Valentes (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886403.mp4
+#EXTINF:-1 tvg-name="Morando Com o Ex (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/1lw3yM9ce9DEq1DIFMNekis2wlg.jpg" group-title="Filmes | Lancamentos",Morando Com o Ex (2021)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886402.mp4
+#EXTINF:-1 tvg-name="Nascido para Esquiar (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/nq88WaOpARaWkF4n6pgMHr5BQRj.jpg" group-title="Filmes | Lancamentos",Nascido para Esquiar (2022)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886401.mp4
+#EXTINF:-1 tvg-name="O Demônio do Alasca (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/2b8tnSruPQnzEJSSsI0lEsY84KJ.jpg" group-title="Filmes | Lancamentos",O Demônio do Alasca (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886400.mp4
+#EXTINF:-1 tvg-name="O Ônibus Perdido (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/dynpfgDMzE9Q7qQOVE72DWulYrX.jpg" group-title="Filmes | Lancamentos",O Ônibus Perdido (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886399.mp4
+#EXTINF:-1 tvg-name="Primavera (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/u1DjupEg4em6wySDVoYVdqxNKc9.jpg" group-title="Filmes | Lancamentos",Primavera (2022)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886398.mp4
+#EXTINF:-1 tvg-name="Segredos Proibidos (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/iyp0W828SdsN7VxwMr0Yo9ZjyUp.jpg" group-title="Filmes | Lancamentos",Segredos Proibidos (2023)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886397.mp4
+#EXTINF:-1 tvg-name="Steve (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/uwfSpSF5h0De9kvrQYflEWasin4.jpg" group-title="Filmes | Lancamentos",Steve (2025)
+plugin://script.hls.tester/?action=play&url=http://acoes.petr0bras.com:80/movie/AlexHeio7140/188583759403/886396.mp4
