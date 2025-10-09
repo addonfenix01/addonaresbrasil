@@ -14,8 +14,8 @@
   
 <channel>  
 <name>[COLOR orange] FILMES [/COLOR]</name>
-<thumbnail>https://archive.org/download/file_000000008ef0623093d82ad182c028c4_conversation_id67f6e244-4654-8013-9804-37d/file_00000000f5d861f793414aaf751e540b_conversation_id%3D67f82169-a858-8007-ac0b-bd639d559fdb%26message_id%3Deed5cac3-88fc-4800-bd62-ea90e788b4fe.png</thumbnail>
-<fanart>https://archive.org/download/file_000000008ef0623093d82ad182c028c4_conversation_id67f6e244-4654-8013-9804-37d/file_00000000f5d861f793414aaf751e540b_conversation_id%3D67f82169-a858-8007-ac0b-bd639d559fdb%26message_id%3Deed5cac3-88fc-4800-bd62-ea90e788b4fe.png</fanart>
+<thumbnail>https://archive.org/download/aresfilmescategorias1/aresfilmescategorias1.png</thumbnail>
+<fanart>https://archive.org/download/aresfilmescategorias1/aresfilmescategorias1.png</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/painel%20categorias%20filmes/painelcategoriasfilmes.xml</externallink>
 </channel>
@@ -38,8 +38,8 @@
   
 <channel>  
 <name>[COLOR pink] SÉRIES [/COLOR]</name>
-<thumbnail>https://archive.org/download/file_000000008ef0623093d82ad182c028c4_conversation_id67f6e244-4654-8013-9804-37d/file_00000000282461f780a341fb479a12e5_conversation_id%3D67f82169-a858-8007-ac0b-bd639d559fdb%26message_id%3De761ed6d-5528-4c81-af7b-d58838227948.png</thumbnail>
-<fanart>https://archive.org/download/file_000000008ef0623093d82ad182c028c4_conversation_id67f6e244-4654-8013-9804-37d/file_00000000282461f780a341fb479a12e5_conversation_id%3D67f82169-a858-8007-ac0b-bd639d559fdb%26message_id%3De761ed6d-5528-4c81-af7b-d58838227948.png</fanart>
+<thumbnail>https://archive.org/download/aresfilmescategorias1/aresseriescategorias1.png</thumbnail>
+<fanart>https://archive.org/download/aresfilmescategorias1/aresseriescategorias1.png</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/SERIES%20CATEGORIAS%20TORRENT/PAINEL%20CATEGORIAS%20TORRENT/painelcategoriasdeseries.xml</externallink>
 </channel>
