@@ -11,6 +11,14 @@
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonares01/refs/heads/main/entrada.xml</externallink>
 </channel>
+
+    <channel>
+        <name>[COLOR yellow]🔍 PESQUISAR CONTEÚDO[/COLOR]</name>
+        <thumbnail>https://archive.org/download/addonfanart2/search.png</thumbnail>
+        <fanart>https://archive.org/download/addonfanart2/addonfanart2.png</fanart>
+        <pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/painel%20categorias%20filmes/painelcategoriasfilmes.xml</pesquisa>
+        <pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/1filmesrecemadicionados.xml</pesquisa>
+    </channel>
   
 <channel>  
 <name>[COLOR orange] FILMES [/COLOR]</name>
