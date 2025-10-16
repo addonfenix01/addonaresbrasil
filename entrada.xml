@@ -17,8 +17,8 @@
     <pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/1filmesrecemadicionados.xml</pesquisa>
     <pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/acao.xml</pesquisa>
     <pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/animacao.xml</pesquisa>
-    <thumbnail>https://exemplo.com/lupa.png</thumbnail>
-    <fanart>https://exemplo.com/fanart.jpg</fanart>
+    <thumbnail>https://archive.org/download/arespesquisalupa/arespesquisalupa.png/thumbnail>
+    <fanart>https://archive.org/download/arespesquisalupa/arespesquisalupa.png</fanart>
     <info>Pesquise simultaneamente em múltiplas fontes</info>
 </channel>
     
