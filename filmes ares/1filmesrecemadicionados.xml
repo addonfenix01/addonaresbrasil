@@ -46,8 +46,9 @@
 
 <item>
     <title>Furioza (2021/25)</title>
-    <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/gv4ZD1prXPfY1B$nome=[COLOR pink]LINK ARES[/COLOR][COLOR orange]DIRETO 1[/COLOR]</link>
-    <link>plugin://plugin.video.resolverurl_player?url=https://filemoon.in/d/f7l7ndq80fvb$nome=[COLOR orange]LINK ARES[/COLOR][COLOR pink]DIRETO 2[/COLOR]</link>
+    <link>magnet:?xt=urn:btih:65MVVXMOYTQJR6PKXGKEIVUO4O45FQTK$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/gv4ZD1prXPfY1B$nome=[COLOR pink]LINK[/COLOR][COLOR orange]DIRETO 1[/COLOR]</link>
+    <link>plugin://plugin.video.resolverurl_player?url=https://filemoon.in/d/f7l7ndq80fvb$nome=[COLOR orange]LINK[/COLOR][COLOR pink]DIRETO 2[/COLOR]</link>
     <link>plugin://plugin.video.youtube/play/?video_id=E6bNmhhWixs$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
     <thumbnail>https://image.tmdb.org/t/p/w500/sSIo1vG0IILxzHkLKmtFEoTbVE9.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/w1280/4G7216ezKodauyP7cvNswiEf33k.jpg</fanart>
