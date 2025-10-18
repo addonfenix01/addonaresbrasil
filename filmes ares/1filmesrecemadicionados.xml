@@ -22,6 +22,19 @@
 </item>
 
 <item>
+    <title>Ares Creed: Coleção I/II/III</title>
+    <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/wYrb9oYzDeUJJGV$nome=[COLOR pink]Creed I[/COLOR][COLOR orange]DIRETO 1[/COLOR]</link>
+    <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/mwpKaWvKoDTbmk9$nome=[COLOR orange]Creed II[/COLOR][COLOR pink]DIRETO 2[/COLOR]</link>
+	<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/1pv2KRrj7OtevPa$nome=[COLOR orange]Creed III[/COLOR][COLOR orange]DIRETO 2[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=CgXF-nabwfw$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/43kNaSDGQKN1k8uXziL0jeu9z9h.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/3g01Cm3tUT778Qi9GslAHDbWOh0.jpg</fanart>
+    <info>
+
+    </info>
+</item>
+	
+<item>
     <title>Jester: A Morte Sorri (2023/25)</title>
     <link>magnet:?xt=urn:btih:5eb2328c993059fbd4cc0164d5cb9a0bc78ef03e$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
     <link>plugin://plugin.video.youtube/play/?video_id=hyHJ6opdQsk$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
