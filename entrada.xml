@@ -45,7 +45,7 @@
 </channel>
   
 <channel>  
-<name>[COLOR orange] TV/HLS [/COLOR]</name>
+<name>[COLOR orange] T.V [/COLOR]</name>
 <thumbnail>https://archive.org/download/file_000000008ef0623093d82ad182c028c4_conversation_id67f6e244-4654-8013-9804-37d/file_000000002d6861f78f1d498bf91682b2_conversation_id%3D67f82169-a858-8007-ac0b-bd639d559fdb%26message_id%3Defa717a5-1363-4160-99fd-b603ed9df812.png</thumbnail>
 <fanart>https://archive.org/download/file_000000008ef0623093d82ad182c028c4_conversation_id67f6e244-4654-8013-9804-37d/file_000000002d6861f78f1d498bf91682b2_conversation_id%3D67f82169-a858-8007-ac0b-bd639d559fdb%26message_id%3Defa717a5-1363-4160-99fd-b603ed9df812.png</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
@@ -61,7 +61,7 @@
 </channel>
 
 <channel>  
-<name>[COLOR orange] ARES [/COLOR] G.T </name>
+<name>[COLOR orange] ARES [/COLOR]</name>
 <thumbnail>https://archive.org/download/grupo-tele-ares-1/GRUPO%20TELE%20ARES%201.png</thumbnail>
 <fanart>https://archive.org/download/grupo-tele-ares-1/GRUPO%20TELE%20ARES%201.png</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
@@ -69,7 +69,7 @@
 </channel>
   
 <channel>  
-<name>[COLOR pink] ARES [/COLOR] CONT. </name>
+<name>[COLOR pink] ARES [/COLOR]</name>
 <thumbnail>https://archive.org/download/qrdaddonares1_202502/qrdaddonares1.jpg</thumbnail>
 <fanart>https://archive.org/download/qrdaddonares1_202502/qrdaddonares1.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
