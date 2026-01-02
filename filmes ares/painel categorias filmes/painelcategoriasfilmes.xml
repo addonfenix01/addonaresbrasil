@@ -2,17 +2,17 @@
 <channels>
 
 <channel>
-<name>[B][COLOR red]ARES [/COLOR] [COLOR pink]RECEM-ADICIONADOS 2026 [/COLOR][/B]</name>  
+<name>[B][COLOR orange]ARES [/COLOR] [COLOR pink]RECEM-ADICIONADOS 2026 [/COLOR][/B]</name>  
 <thumbnail>https://archive.org/download/aresfilmesmisterio/aresfilmesacao.jpg</thumbnail>    
 <fanart>https://archive.org/download/aresfilmesmisterio/aresfilmesacao.jpg</fanart>  
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/0filmes2026.xml</externallink>
 </channel>
 
 <channel>
-<name>[B][COLOR red]ARES [/COLOR] [COLOR pink]RECEM-ADICIONADOS 2025 [/COLOR][/B]</name>  
+<name>[B][COLOR red]ARES [/COLOR] [COLOR pink]FILMES 2025 [/COLOR][/B]</name>  
 <thumbnail>https://archive.org/download/aresfilmesmisterio/aresfilmesacao.jpg</thumbnail>    
 <fanart>https://archive.org/download/aresfilmesmisterio/aresfilmesacao.jpg</fanart>  
-<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/1filmesrecemadicionados2025.xml</externallink>
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/1filmes2025.xml</externallink>
 </channel>
 
 <channel>
@@ -145,6 +145,7 @@
 
     
 </channels>
+
 
 
 
