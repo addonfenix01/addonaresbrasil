@@ -10,8 +10,8 @@
 
 <channel>
 <name>[B][COLOR red]ARES [/COLOR] [COLOR pink]FILMES 2025 [/COLOR][/B]</name>  
-<thumbnail>https://archive.org/download/aresfilmesmisterio/aresfilmesacao.jpg</thumbnail>    
-<fanart>https://archive.org/download/aresfilmesmisterio/aresfilmesacao.jpg</fanart>  
+<thumbnail>https://archive.org/download/aresfilmes2025/aresfilmes2025.png</thumbnail>    
+<fanart>https://archive.org/download/aresfilmes2025/aresfilmes2025.png</fanart>  
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/1filmes2025.xml</externallink>
 </channel>
 
@@ -145,6 +145,7 @@
 
     
 </channels>
+
 
 
 
