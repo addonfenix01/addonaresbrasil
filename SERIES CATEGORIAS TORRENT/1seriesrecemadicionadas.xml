@@ -7,6 +7,21 @@
 
 
 <item>
+    <name>A Guerra dos Reinos 1ª Temporada (2025)</name>
+    <thumbnail>https://image.tmdb.org/t/p/w500/X9hGgXE3bhII5Xp31c8quv0Csq.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/wX9a0mqhgJyLiRXbNjuPULjwakZ.jpg</fanart>
+    <info>História medieval, relacionada à saga dos Nibelungos, mas vista de uma perspectiva diferente</info>
+    <genre>Desconhecido, Desconhecido, Drama</genre>
+    <items>
+      <item>
+        <title>A Guerra dos Reinos 1ª Temporada (2025) - 1ª Temporada</title>
+        <thumbnail>https://image.tmdb.org/t/p/w500/X9hGgXE3bhII5Xp31c8quv0Csq.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/original/wX9a0mqhgJyLiRXbNjuPULjwakZ.jpg</fanart>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc17c1b37abb2153b1a395a0ea7f8a8624aee440$$lsname=[COLOR white]EPISÓDIO 1[/COLOR] - [COLOR yellow]Episódio 1[/COLOR]</link>
+      </item>
+    </items>
+
+<item>
   <title>Os Dinossauros (2026)</title>
   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab0c4cac4c016ad53a951fb8da19a934e2436f0b$nome=[COLOR orange]ADDON ARES - 1 Ascensão[/COLOR]</link>
   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab0c4cac4c016ad53a951fb8da19a934e2436f0b$nome=[COLOR orange]ADDON ARES - 2 Conquista[/COLOR]</link>
