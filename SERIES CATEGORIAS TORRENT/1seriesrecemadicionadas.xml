@@ -21,35 +21,19 @@
 </item>
 
 <item>
-  <title>A Guerra dos Reinos</title>
-  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc17c1b37abb2153b1a395a0ea7f8a8624aee440$$lsname=[COLOR white]A Guerra dos Reinos 1ª Temporada (2026)[/COLOR]</link>
+  <title>A Guerra dos Reinos (2025)</title>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc17c1b37abb2153b1a395a0ea7f8a8624aee440$nome=[COLOR orange]ADDON ARES - A Guerra dos Reinos 1ª Temporada (2026)[/COLOR]</link>
   <thumbnail>https://image.tmdb.org/t/p/w500/X9hGgXE3bhII5Xp31c8quv0Csq.jpg</thumbnail>
   <fanart>https://image.tmdb.org/t/p/original/wX9a0mqhgJyLiRXbNjuPULjwakZ.jpg</fanart>
-  <info>[COLOR pink]Título Original:[/COLOR] Die Nibelungen - Kampf der Königreiche
-[COLOR pink]Dirigido por:[/COLOR] Cyrill Boss
-[COLOR pink]Ano:[/COLOR] 2025
-[COLOR pink]Duração:[/COLOR] --
-[COLOR pink]Nota:[/COLOR] 7.1
-[COLOR pink]Gênero:[/COLOR] Action & Adventure, Sci-Fi & Fantasy, Drama
-[COLOR pink]Áudio:[/COLOR] Português / Inglês
-[COLOR pink]Qualidade do Vídeo:[/COLOR] 1080p WEBRip
-[COLOR pink]Sinopse:[/COLOR] História medieval, relacionada à saga dos Nibelungos, mas vista de uma perspectiva diferente</info>
+  <info>[COLOR orange]Título Original:[/COLOR] Die Nibelungen - Kampf der Königreiche
+[COLOR red]Elenco Principal:[/COLOR] Gijs Naber, Jannis Niewöhner, Dominic Marcus Singer, Lilja van der Zwaag, Rosalinde Mynster
+[COLOR orange]Duração:[/COLOR] --
+[COLOR red]Criado por:[/COLOR] Wolfgang Hohlbein
+[COLOR orange]Ano:[/COLOR] 2025
+[COLOR red]Nota:[/COLOR] 7.1
+[COLOR orange]Gênero:[/COLOR] Action & Adventure, Sci-Fi & Fantasy, Drama
+[COLOR red]Sinopse:[/COLOR] História medieval, relacionada à saga dos Nibelungos, mas vista de uma perspectiva diferente</info>
 </item>
-
-<item>
-    <name>A Guerra dos Reinos 1ª Temporada (2025)</name>
-    <thumbnail>https://image.tmdb.org/t/p/w500/X9hGgXE3bhII5Xp31c8quv0Csq.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/original/wX9a0mqhgJyLiRXbNjuPULjwakZ.jpg</fanart>
-    <info>História medieval, relacionada à saga dos Nibelungos, mas vista de uma perspectiva diferente</info>
-    <genre>Desconhecido, Desconhecido, Drama</genre>
-    <items>
-      <item>
-        <title>A Guerra dos Reinos 1ª Temporada (2025) - 1ª Temporada</title>
-        <thumbnail>https://image.tmdb.org/t/p/w500/X9hGgXE3bhII5Xp31c8quv0Csq.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/original/wX9a0mqhgJyLiRXbNjuPULjwakZ.jpg</fanart>
-        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc17c1b37abb2153b1a395a0ea7f8a8624aee440$$lsname=[COLOR white]EPISÓDIO 1[/COLOR] - [COLOR yellow]Episódio 1[/COLOR]</link>
-      </item>
-    </items>
 
 <item>
   <title>Os Dinossauros (2026)</title>
