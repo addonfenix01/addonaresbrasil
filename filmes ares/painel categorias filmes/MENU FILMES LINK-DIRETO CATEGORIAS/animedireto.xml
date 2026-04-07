@@ -1,4 +1,881 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="A Bela e a Fera" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iQONLfZmFDgyo6m8yQir64jO8Z.jpg" group-title="♠️Filmes | Fantasia",A Bela e a Fera
+http://172.110.219.252:80/movie/89754974222122/5207418122/4804406.mp4
+#EXTINF:-1 tvg-name="Ghostbusters: Apocalipse de Gelo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPJX925yPfqUPsNnOx9We6tppD4.jpg" group-title="♠️Filmes | Fantasia",Ghostbusters: Apocalipse de Gelo
+http://172.110.219.252:80/movie/89754974222122/5207418122/4804506.mp4
+#EXTINF:-1 tvg-name="O Predador 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2B6yDvD0hre65fyRi9LC3UJ9uSq.jpg" group-title="♠️Filmes | Fantasia",O Predador 3
+http://172.110.219.252:80/movie/89754974222122/5207418122/4804508.mp4
+#EXTINF:-1 tvg-name="A Caverna" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwQ9XAjHzRqjVtFI98XAsHwBNx3.jpg" group-title="♠️Filmes | Fantasia",A Caverna
+http://172.110.219.252:80/movie/89754974222122/5207418122/4804527.mp4
+#EXTINF:-1 tvg-name="A Garota da Capa Vermelha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aq9kdQZlUnS14exVkaVYvgxLWYl.jpg" group-title="♠️Filmes | Fantasia",A Garota da Capa Vermelha
+http://172.110.219.252:80/movie/89754974222122/5207418122/4804641.mp4
+#EXTINF:-1 tvg-name="A Princesa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCN3CU79s7fCDhYB4hXy6rgEHD1.jpg" group-title="♠️Filmes | Fantasia",A Princesa
+http://172.110.219.252:80/movie/89754974222122/5207418122/4804689.mp4
+#EXTINF:-1 tvg-name="Viagem a Lua de Jupiter" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/QIt5991D5zMP3QTsqwcReADo11.jpg" group-title="♠️Filmes | Fantasia",Viagem a Lua de Jupiter
+http://172.110.219.252:80/movie/89754974222122/5207418122/4804782.mp4
+#EXTINF:-1 tvg-name="I Am Mother" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayPSqlpYIbeq1RiDekx6W9WUqrL.jpg" group-title="♠️Filmes | Fantasia",I Am Mother
+http://172.110.219.252:80/movie/89754974222122/5207418122/4804850.mp4
+#EXTINF:-1 tvg-name="Um Olhar do Paraiso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJEvxyCflOvCoY3ToK6iQoUCVrn.jpg" group-title="♠️Filmes | Fantasia",Um Olhar do Paraiso
+http://172.110.219.252:80/movie/89754974222122/5207418122/4804870.mp4
+#EXTINF:-1 tvg-name="O Conto dos Contos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cj6r23X8wny24OZbEkZJxwVr4OZ.jpg" group-title="♠️Filmes | Fantasia",O Conto dos Contos
+http://172.110.219.252:80/movie/89754974222122/5207418122/4804988.mp4
+#EXTINF:-1 tvg-name="O Diário Mágico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bwV0lpKipUcY9sT3Xabndx57Eh.jpg" group-title="♠️Filmes | Fantasia",O Diário Mágico
+http://172.110.219.252:80/movie/89754974222122/5207418122/4805076.mp4
+#EXTINF:-1 tvg-name="Tron - Uma Odisséia Eletrônica" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xTQHQxApZnnA7yPU31VgEggO6f.jpg" group-title="♠️Filmes | Fantasia",Tron - Uma Odisséia Eletrônica
+http://172.110.219.252:80/movie/89754974222122/5207418122/4805078.mp4
+#EXTINF:-1 tvg-name="O Predador (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NQd3uDbOsEvpvDRGusZnUbRDOO.jpg" group-title="♠️Filmes | Fantasia",O Predador (2018)
+http://172.110.219.252:80/movie/89754974222122/5207418122/4805100.mp4
+#EXTINF:-1 tvg-name="Guardiões do Tempo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iYkzHd81ZsLQHa12oUhBVIS7ToY.jpg" group-title="♠️Filmes | Fantasia",Guardiões do Tempo
+http://172.110.219.252:80/movie/89754974222122/5207418122/4805206.mp4
+#EXTINF:-1 tvg-name="A Bela e a Fera (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iQONLfZmFDgyo6m8yQir64jO8Z.jpg" group-title="♠️Filmes | Fantasia",A Bela e a Fera (2009)
+http://172.110.219.252:80/movie/89754974222122/5207418122/4805227.mp4
+#EXTINF:-1 tvg-name="O Feitico de Aquila" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukD0bIefPRm12ZBPYNtWdGd0c7L.jpg" group-title="♠️Filmes | Fantasia",O Feitico de Aquila
+http://172.110.219.252:80/movie/89754974222122/5207418122/4805354.mp4
+#EXTINF:-1 tvg-name="Drones" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpCb1VdxYyo98b0eWfgHEi3qMUX.jpg" group-title="♠️Filmes | Fantasia",Drones
+http://172.110.219.252:80/movie/89754974222122/5207418122/4805428.mp4
+#EXTINF:-1 tvg-name="R.I.P.D Agentes do Alem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwrmdGGGFnylffZqZgkoJa31DOn.jpg" group-title="♠️Filmes | Fantasia",R.I.P.D Agentes do Alem
+http://172.110.219.252:80/movie/89754974222122/5207418122/4805441.mp4
+#EXTINF:-1 tvg-name="O Segredo do Vale da Lua" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apvQgHsJSEDytsECnTe3g7b7qLf.jpg" group-title="♠️Filmes | Fantasia",O Segredo do Vale da Lua
+http://172.110.219.252:80/movie/89754974222122/5207418122/4805553.mp4
+#EXTINF:-1 tvg-name="Piratas das Galáxias" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8flHJiqb532axHHHGqTTKwDXBZ.jpg" group-title="♠️Filmes | Fantasia",Piratas das Galáxias
+http://172.110.219.252:80/movie/89754974222122/5207418122/4805648.mp4
+#EXTINF:-1 tvg-name="O Predador 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNchZAgFuP7vmqb7uIIjesG1uZo.jpg" group-title="♠️Filmes | Fantasia",O Predador 2
+http://172.110.219.252:80/movie/89754974222122/5207418122/4805671.mp4
+#EXTINF:-1 tvg-name="Nanny McPhee: A Babá Encantada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eUMsZbnhquxIpr7lV5w78P2P7CH.jpg" group-title="♠️Filmes | Fantasia",Nanny McPhee: A Babá Encantada
+http://172.110.219.252:80/movie/89754974222122/5207418122/4805780.mp4
+#EXTINF:-1 tvg-name="Gremlins" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ga9iYdXXSphT4Ufn7jmhUOhdXLu.jpg" group-title="♠️Filmes | Fantasia",Gremlins
+http://172.110.219.252:80/movie/89754974222122/5207418122/4805915.mp4
+#EXTINF:-1 tvg-name="Fim do Mundo" tvg-logo="http://gstaticontent.com/images/6rwPXazSZHl379aBcBVN9d44ze4_big.jpg" group-title="♠️Filmes | Fantasia",Fim do Mundo
+http://172.110.219.252:80/movie/89754974222122/5207418122/4805985.mp4
+#EXTINF:-1 tvg-name="Percy Jackson e o Mar de Monstros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/izLw6mf5coAJZV6n9wDfbYWXXHW.jpg" group-title="♠️Filmes | Fantasia",Percy Jackson e o Mar de Monstros
+http://172.110.219.252:80/movie/89754974222122/5207418122/4805999.mp4
+#EXTINF:-1 tvg-name="Pegasus: Pônei com uma Asa Quebrada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywNNEM44laI6y8UkiGxpbJPmt0g.jpg" group-title="♠️Filmes | Fantasia",Pegasus: Pônei com uma Asa Quebrada
+http://172.110.219.252:80/movie/89754974222122/5207418122/4806026.mp4
+#EXTINF:-1 tvg-name="Gremlins 2: A Nova Geração" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDVXvZoNz6o00I6JCJ99KkLIjmS.jpg" group-title="♠️Filmes | Fantasia",Gremlins 2: A Nova Geração
+http://172.110.219.252:80/movie/89754974222122/5207418122/4806109.mp4
+#EXTINF:-1 tvg-name="Re Animator Fase Terminal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsveBwfKkQsSccIoBABe3LRciUz.jpg" group-title="♠️Filmes | Fantasia",Re Animator Fase Terminal
+http://172.110.219.252:80/movie/89754974222122/5207418122/4806219.mp4
+#EXTINF:-1 tvg-name="O Predador (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2B6yDvD0hre65fyRi9LC3UJ9uSq.jpg" group-title="♠️Filmes | Fantasia",O Predador (1987)
+http://172.110.219.252:80/movie/89754974222122/5207418122/4806229.mp4
+#EXTINF:-1 tvg-name="Doutor Estranho no Multiverso da Loucura" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pLIVfovuIf2KQOOvMsKx3Lanrg.jpg" group-title="♠️Filmes | Fantasia",Doutor Estranho no Multiverso da Loucura
+http://172.110.219.252:80/movie/89754974222122/5207418122/4806357.mp4
+#EXTINF:-1 tvg-name="O Cemitério das Almas Perdidas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziXXbtWaPuEE50kxT34exku7dyH.jpg" group-title="♠️Filmes | Fantasia",O Cemitério das Almas Perdidas
+http://172.110.219.252:80/movie/89754974222122/5207418122/4806475.mp4
+#EXTINF:-1 tvg-name="Alice no País das Maravilhas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvD0kvICG7hP03vrNvylUINhafM.jpg" group-title="♠️Filmes | Fantasia",Alice no País das Maravilhas
+http://172.110.219.252:80/movie/89754974222122/5207418122/4806494.mp4
+#EXTINF:-1 tvg-name="A Gente Se Ve Ontem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sE2MSSjAHVU8gOz2SPQMaTQtO9c.jpg" group-title="♠️Filmes | Fantasia",A Gente Se Ve Ontem
+http://172.110.219.252:80/movie/89754974222122/5207418122/4806542.mp4
+#EXTINF:-1 tvg-name="Percy Jackson e Ladrao de Raios" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcTRDr6wTCEjSeXCGEmHrGhwPqf.jpg" group-title="♠️Filmes | Fantasia",Percy Jackson e Ladrao de Raios
+http://172.110.219.252:80/movie/89754974222122/5207418122/4806551.mp4
+#EXTINF:-1 tvg-name="Meu Amigo, O Dragão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gozblxrP4IhkEWXNjsRWpFmny04.jpg" group-title="♠️Filmes | Fantasia",Meu Amigo, O Dragão
+http://172.110.219.252:80/movie/89754974222122/5207418122/4806646.mp4
+#EXTINF:-1 tvg-name="Atrás da Sombra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2kGaGKr1eiQ1JzxMjmTJeDEyiS.jpg" group-title="♠️Filmes | Fantasia",Atrás da Sombra
+http://172.110.219.252:80/movie/89754974222122/5207418122/4806715.mp4
+#EXTINF:-1 tvg-name="O Nucleo - Missao ao Centro Da Terra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fgCPqrF94rfXw4cSJjexxcGL8l.jpg" group-title="♠️Filmes | Fantasia",O Nucleo - Missao ao Centro Da Terra
+http://172.110.219.252:80/movie/89754974222122/5207418122/4806725.mp4
+#EXTINF:-1 tvg-name="Árvores da Paz" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afMQQrv7np2IycgkpymhOjqCsrs.jpg" group-title="♠️Filmes | Fantasia",Árvores da Paz
+http://172.110.219.252:80/movie/89754974222122/5207418122/4806810.mp4
+#EXTINF:-1 tvg-name="A Origem (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3Vnq3FvBgjFqX6G5f8zjwCeQC0.jpg" group-title="♠️Filmes | Fantasia",A Origem (2010)
+http://172.110.219.252:80/movie/89754974222122/5207418122/4806882.mp4
+#EXTINF:-1 tvg-name="Genie - A Magia do Natal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykkVuQgvjrVWiEe7TvUQZOrLUgC.jpg" group-title="♠️Filmes | Fantasia",Genie - A Magia do Natal
+http://172.110.219.252:80/movie/89754974222122/5207418122/4806895.mp4
+#EXTINF:-1 tvg-name="Prisao Estelar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvfxfTUpjKslL1hp4KHhKlWRvsa.jpg" group-title="♠️Filmes | Fantasia",Prisao Estelar
+http://172.110.219.252:80/movie/89754974222122/5207418122/4806923.mp4
+#EXTINF:-1 tvg-name="Oz - Magico e Poderoso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oh4J8VEdORbZkajRlJDQqHvM5tj.jpg" group-title="♠️Filmes | Fantasia",Oz - Magico e Poderoso
+http://172.110.219.252:80/movie/89754974222122/5207418122/4806932.mp4
+#EXTINF:-1 tvg-name="As Múmias do Faraó" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rHps2s8XFQYtyP0lUvF7682ExWo.jpg" group-title="♠️Filmes | Fantasia",As Múmias do Faraó
+http://172.110.219.252:80/movie/89754974222122/5207418122/4807006.mp4
+#EXTINF:-1 tvg-name="Agora Estamos Sozinhos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnW8wWx1xulYgHqXuVn9Pj7HnCX.jpg" group-title="♠️Filmes | Fantasia",Agora Estamos Sozinhos
+http://172.110.219.252:80/movie/89754974222122/5207418122/4807072.mp4
+#EXTINF:-1 tvg-name="O Exterminador do Futuro - Genesis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAvjgsPiNp0pvgOWaMTSk2HXJh0.jpg" group-title="♠️Filmes | Fantasia",O Exterminador do Futuro - Genesis
+http://172.110.219.252:80/movie/89754974222122/5207418122/4807085.mp4
+#EXTINF:-1 tvg-name="9 Satra: A Lenda do Muay Thai" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQPKRpI34LtQ16WKhYKqh1dIbMK.jpg" group-title="♠️Filmes | Fantasia",9 Satra: A Lenda do Muay Thai
+http://172.110.219.252:80/movie/89754974222122/5207418122/4807192.mp4
+#EXTINF:-1 tvg-name="2019: O Ano da Extinção" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWkkCjHaJaxEEbWTTNunYPNxqYo.jpg" group-title="♠️Filmes | Fantasia",2019: O Ano da Extinção
+http://172.110.219.252:80/movie/89754974222122/5207418122/4807246.mp4
+#EXTINF:-1 tvg-name="Uma Fada Veio Me Visitar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atxRkJD5gvBDl8m02UZtoA6jwNr.jpg" group-title="♠️Filmes | Fantasia",Uma Fada Veio Me Visitar
+http://172.110.219.252:80/movie/89754974222122/5207418122/4807260.mp4
+#EXTINF:-1 tvg-name="Guerreiros do Futuro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wGb5BO3wBVVtnHY7ERdQIODjnl.jpg" group-title="♠️Filmes | Fantasia",Guerreiros do Futuro
+http://172.110.219.252:80/movie/89754974222122/5207418122/4807283.mp4
+#EXTINF:-1 tvg-name="Os Fantasmas se Divertem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLSJNejuGDegsMDiWWwIP7VDiyz.jpg" group-title="♠️Filmes | Fantasia",Os Fantasmas se Divertem
+http://172.110.219.252:80/movie/89754974222122/5207418122/4807291.mp4
+#EXTINF:-1 tvg-name="Jumanji" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgpXmVaVyUL7GGiDeiK1mKEKzcX.jpg" group-title="♠️Filmes | Fantasia",Jumanji
+http://172.110.219.252:80/movie/89754974222122/5207418122/4807365.mp4
+#EXTINF:-1 tvg-name="Coração de Dragão: Vingança" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGsD7kCegBuI9MPCQvFsOUe26V2.jpg" group-title="♠️Filmes | Fantasia",Coração de Dragão: Vingança
+http://172.110.219.252:80/movie/89754974222122/5207418122/4807431.mp4
+#EXTINF:-1 tvg-name="O Destino de Jupiter" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1p4Fw1nqYOQcRgD63sJmX3ZjgU.jpg" group-title="♠️Filmes | Fantasia",O Destino de Jupiter
+http://172.110.219.252:80/movie/89754974222122/5207418122/4807442.mp4
+#EXTINF:-1 tvg-name="Fuga da Biblioteca do Sr. Lemoncello" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXlVRhyFlxk1rKlZBQEPUKbHYHs.jpg" group-title="♠️Filmes | Fantasia",Fuga da Biblioteca do Sr. Lemoncello
+http://172.110.219.252:80/movie/89754974222122/5207418122/4807550.mp4
+#EXTINF:-1 tvg-name="Meu Monstro de Estimação" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwnaWwmYSaTaW5NSUzeaXjC2aNw.jpg" group-title="♠️Filmes | Fantasia",Meu Monstro de Estimação
+http://172.110.219.252:80/movie/89754974222122/5207418122/4807605.mp4
+#EXTINF:-1 tvg-name="Um Chamado Natalino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLqDHsjImc96QSsyLTx8mr9CL6k.jpg" group-title="♠️Filmes | Fantasia",Um Chamado Natalino
+http://172.110.219.252:80/movie/89754974222122/5207418122/4807622.mp4
+#EXTINF:-1 tvg-name="A Maquina de Lembrancas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZ3CUbcm17EXsO0k3Clv378hkqs.jpg" group-title="♠️Filmes | Fantasia",A Maquina de Lembrancas
+http://172.110.219.252:80/movie/89754974222122/5207418122/4807640.mp4
+#EXTINF:-1 tvg-name="Os Caca Fantasmas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RjSQGuqwY2kqpNN7ibono0e1Cc.jpg" group-title="♠️Filmes | Fantasia",Os Caca Fantasmas
+http://172.110.219.252:80/movie/89754974222122/5207418122/4807649.mp4
+#EXTINF:-1 tvg-name="Alice e Peter: Onde Nascem os Sonhos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGTKgXQyJ1Tj1OUaUZVUWYoPVlQ.jpg" group-title="♠️Filmes | Fantasia",Alice e Peter: Onde Nascem os Sonhos
+http://172.110.219.252:80/movie/89754974222122/5207418122/4807724.mp4
+#EXTINF:-1 tvg-name="A Vastidão da Noite" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcZb17z4szf7ovmsjTGc2qDmaoQ.jpg" group-title="♠️Filmes | Fantasia",A Vastidão da Noite
+http://172.110.219.252:80/movie/89754974222122/5207418122/4807789.mp4
+#EXTINF:-1 tvg-name="O Culto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2D0lOSwNAq1jUmeJgrdgPbBY9dK.jpg" group-title="♠️Filmes | Fantasia",O Culto
+http://172.110.219.252:80/movie/89754974222122/5207418122/4807798.mp4
+#EXTINF:-1 tvg-name="Pinky" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KF6DKLq5vVVjLriBnCttJGTiHA.jpg" group-title="♠️Filmes | Fantasia",Pinky
+http://172.110.219.252:80/movie/89754974222122/5207418122/4807831.mp4
+#EXTINF:-1 tvg-name="A Bússola de Ouro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9KqGkas7C6Cp802HhKNGQTDnbw.jpg" group-title="♠️Filmes | Fantasia",A Bússola de Ouro
+http://172.110.219.252:80/movie/89754974222122/5207418122/4807916.mp4
+#EXTINF:-1 tvg-name="O Hobbit: A Batalha dos Cinco Exércitos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRKwrfQ7p0ttrb09G3mcOSyN1pk.jpg" group-title="♠️Filmes | Fantasia",O Hobbit: A Batalha dos Cinco Exércitos
+http://172.110.219.252:80/movie/89754974222122/5207418122/4807966.mp4
+#EXTINF:-1 tvg-name="Sereias - Elas Existem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydje305YYUys5m0O1O95gm4mwCw.jpg" group-title="♠️Filmes | Fantasia",Sereias - Elas Existem
+http://172.110.219.252:80/movie/89754974222122/5207418122/4807995.mp4
+#EXTINF:-1 tvg-name="Os Caca Fantasmas 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hacjLeFkaqtsb3r9waXUeSoPUnn.jpg" group-title="♠️Filmes | Fantasia",Os Caca Fantasmas 2
+http://172.110.219.252:80/movie/89754974222122/5207418122/4808006.mp4
+#EXTINF:-1 tvg-name="Cada Um na Sua Casa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oPaWNQKrQ3enUzNbEQqadWGAuwJ.jpg" group-title="♠️Filmes | Fantasia",Cada Um na Sua Casa
+http://172.110.219.252:80/movie/89754974222122/5207418122/4808083.mp4
+#EXTINF:-1 tvg-name="Aberrações" tvg-logo="http://gstaticontent.com/images/bdeW3VjDtXuVXQEQMO4n9fbx8Jf_big.jpg" group-title="♠️Filmes | Fantasia",Aberrações
+http://172.110.219.252:80/movie/89754974222122/5207418122/4808147.mp4
+#EXTINF:-1 tvg-name="Nerve - Um Jogo Sem Regras" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzW57bccJv79IbUuQh8Bwf3Qnmi.jpg" group-title="♠️Filmes | Fantasia",Nerve - Um Jogo Sem Regras
+http://172.110.219.252:80/movie/89754974222122/5207418122/4808161.mp4
+#EXTINF:-1 tvg-name="O Apocalípse" tvg-logo="http://gstaticontent.com/images/3c2ca807a50e7572cbb7e22842563ae2.jpg" group-title="♠️Filmes | Fantasia",O Apocalípse
+http://172.110.219.252:80/movie/89754974222122/5207418122/4808275.mp4
+#EXTINF:-1 tvg-name="Mansão Mal-Assombrada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3puybXuYPlZPRplIVSrExZnWibb.jpg" group-title="♠️Filmes | Fantasia",Mansão Mal-Assombrada
+http://172.110.219.252:80/movie/89754974222122/5207418122/4808287.mp4
+#EXTINF:-1 tvg-name="O Hobbit: A Desolação de Smaug" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ws5z2UmmVzRDD8hZtHTHfcqTOAW.jpg" group-title="♠️Filmes | Fantasia",O Hobbit: A Desolação de Smaug
+http://172.110.219.252:80/movie/89754974222122/5207418122/4808319.mp4
+#EXTINF:-1 tvg-name="O Lar das Criancas Peculiares" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hduPv3S40NElnwnBUB5g9GbkKYx.jpg" group-title="♠️Filmes | Fantasia",O Lar das Criancas Peculiares
+http://172.110.219.252:80/movie/89754974222122/5207418122/4808364.mp4
+#EXTINF:-1 tvg-name="O Baile das Bruxas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70RiLlSIi5q17Ybnq61rUt8JVoU.jpg" group-title="♠️Filmes | Fantasia",O Baile das Bruxas
+http://172.110.219.252:80/movie/89754974222122/5207418122/4808367.mp4
+#EXTINF:-1 tvg-name="Edward Mãos de Tesoura" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJJv9F6s31pNE1aXUKsWtGspeE4.jpg" group-title="♠️Filmes | Fantasia",Edward Mãos de Tesoura
+http://172.110.219.252:80/movie/89754974222122/5207418122/4808453.mp4
+#EXTINF:-1 tvg-name="A Ascensão da Rainha Guerreira" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDxD2XrDmoFBtNiq69ko12O5Z98.jpg" group-title="♠️Filmes | Fantasia",A Ascensão da Rainha Guerreira
+http://172.110.219.252:80/movie/89754974222122/5207418122/4808502.mp4
+#EXTINF:-1 tvg-name="Mentes Sombrias" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19d4P4FAab0z9gUaHAJHqptUPDc.jpg" group-title="♠️Filmes | Fantasia",Mentes Sombrias
+http://172.110.219.252:80/movie/89754974222122/5207418122/4808516.mp4
+#EXTINF:-1 tvg-name="Luccas Neto em: O Hotel Mágico 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEUlxyFHZ838xnjWk1MrWeumVWw.jpg" group-title="♠️Filmes | Fantasia",Luccas Neto em: O Hotel Mágico 2
+http://172.110.219.252:80/movie/89754974222122/5207418122/4808557.mp4
+#EXTINF:-1 tvg-name="Mona Lisa e a Lua de Sangue" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnszI3HhHQEs5VOprDaQU0j670J.jpg" group-title="♠️Filmes | Fantasia",Mona Lisa e a Lua de Sangue
+http://172.110.219.252:80/movie/89754974222122/5207418122/4808645.mp4
+#EXTINF:-1 tvg-name="O Hobbit: Uma Jornada Inesperada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZtmn2pLw1kgDYj4Ig4s3DYBQCD.jpg" group-title="♠️Filmes | Fantasia",O Hobbit: Uma Jornada Inesperada
+http://172.110.219.252:80/movie/89754974222122/5207418122/4808681.mp4
+#EXTINF:-1 tvg-name="Marjorie Prime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvTZFjcNvzPFYJnmdrvSrGvqx67.jpg" group-title="♠️Filmes | Fantasia",Marjorie Prime
+http://172.110.219.252:80/movie/89754974222122/5207418122/4808689.mp4
+#EXTINF:-1 tvg-name="O Ilusionista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvHWsmniMfN8vfXerzwQueacv6w.jpg" group-title="♠️Filmes | Fantasia",O Ilusionista
+http://172.110.219.252:80/movie/89754974222122/5207418122/4808725.mp4
+#EXTINF:-1 tvg-name="De Volta ao Jardim Secreto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Iw38EampUN9flh7L3KxH4IeEhw.jpg" group-title="♠️Filmes | Fantasia",De Volta ao Jardim Secreto
+http://172.110.219.252:80/movie/89754974222122/5207418122/4808812.mp4
+#EXTINF:-1 tvg-name="20.000 Léguas Submarinas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edY5eDCC08OUKjS0k7zWUxYM9BB.jpg" group-title="♠️Filmes | Fantasia",20.000 Léguas Submarinas
+http://172.110.219.252:80/movie/89754974222122/5207418122/4808865.mp4
+#EXTINF:-1 tvg-name="Maze Runner 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpdGT57Rn3mAZsNOkeDeINB6L9v.jpg" group-title="♠️Filmes | Fantasia",Maze Runner 2
+http://172.110.219.252:80/movie/89754974222122/5207418122/4808877.mp4
+#EXTINF:-1 tvg-name="Encontro Marcado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xa4VLDaWdH44zxuUPikPBfTl9M.jpg" group-title="♠️Filmes | Fantasia",Encontro Marcado
+http://172.110.219.252:80/movie/89754974222122/5207418122/4808971.mp4
+#EXTINF:-1 tvg-name="Scooby-Doo 2: Monstros à Solta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0mA7YFHM0apmvYMKhueFwwCPfC.jpg" group-title="♠️Filmes | Fantasia",Scooby-Doo 2: Monstros à Solta
+http://172.110.219.252:80/movie/89754974222122/5207418122/4808986.mp4
+#EXTINF:-1 tvg-name="O Senhor dos Anéis: O Retorno do Rei" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rU4oIKv5I4C59DpcXKmT7kNwGI0.jpg" group-title="♠️Filmes | Fantasia",O Senhor dos Anéis: O Retorno do Rei
+http://172.110.219.252:80/movie/89754974222122/5207418122/4809034.mp4
+#EXTINF:-1 tvg-name="Em Busca da Carta Proibida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/knrIT27GVsP2gUDOVS4kUo0b6ie.jpg" group-title="♠️Filmes | Fantasia",Em Busca da Carta Proibida
+http://172.110.219.252:80/movie/89754974222122/5207418122/4809045.mp4
+#EXTINF:-1 tvg-name="O Estranho Mundo de Jack" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyMGhuAWC7nYyolKJlFbT7pp02K.jpg" group-title="♠️Filmes | Fantasia",O Estranho Mundo de Jack
+http://172.110.219.252:80/movie/89754974222122/5207418122/4809082.mp4
+#EXTINF:-1 tvg-name="A Fantastica Fábrica de Chocolate (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSl1u0z4TCKL4VPVyr6KDtZibYT.jpg" group-title="♠️Filmes | Fantasia",A Fantastica Fábrica de Chocolate (2005)
+http://172.110.219.252:80/movie/89754974222122/5207418122/4809166.mp4
+#EXTINF:-1 tvg-name="Cidade das Sombras" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eM4avuHgZYSo9uZmIBWFfgcCCNB.jpg" group-title="♠️Filmes | Fantasia",Cidade das Sombras
+http://172.110.219.252:80/movie/89754974222122/5207418122/4809219.mp4
+#EXTINF:-1 tvg-name="Maze Runner 1" tvg-logo="http://gstaticontent.com/images/uHnRw9Kccevck2KdmzJ8Xf7zczM_big.jpg" group-title="♠️Filmes | Fantasia",Maze Runner 1
+http://172.110.219.252:80/movie/89754974222122/5207418122/4809240.mp4
+#EXTINF:-1 tvg-name="A Princesa Prometida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tXM8AR7BZ8cu6JkI9FlBl98Vao.jpg" group-title="♠️Filmes | Fantasia",A Princesa Prometida
+http://172.110.219.252:80/movie/89754974222122/5207418122/4809308.mp4
+#EXTINF:-1 tvg-name="O Sexto Homem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BDUF1q45iuggEkfByniae6wZVD.jpg" group-title="♠️Filmes | Fantasia",O Sexto Homem
+http://172.110.219.252:80/movie/89754974222122/5207418122/4809334.mp4
+#EXTINF:-1 tvg-name="O Senhor dos Anéis: As Duas Torres" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmTFY35KK40yBX23Z9HhqU5uZ2O.jpg" group-title="♠️Filmes | Fantasia",O Senhor dos Anéis: As Duas Torres
+http://172.110.219.252:80/movie/89754974222122/5207418122/4809388.mp4
+#EXTINF:-1 tvg-name="Cacadora de Gigantes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1llJ6a7P4JShSqJtNGnmY8J6YC8.jpg" group-title="♠️Filmes | Fantasia",Cacadora de Gigantes
+http://172.110.219.252:80/movie/89754974222122/5207418122/4809403.mp4
+#EXTINF:-1 tvg-name="O Bom Gigante Amigo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAbbJPbRnY8TRwFure08S7SWnM9.jpg" group-title="♠️Filmes | Fantasia",O Bom Gigante Amigo
+http://172.110.219.252:80/movie/89754974222122/5207418122/4809455.mp4
+#EXTINF:-1 tvg-name="A Fantástica Fábrica de Chocolate" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSl1u0z4TCKL4VPVyr6KDtZibYT.jpg" group-title="♠️Filmes | Fantasia",A Fantástica Fábrica de Chocolate
+http://172.110.219.252:80/movie/89754974222122/5207418122/4809522.mp4
+#EXTINF:-1 tvg-name="O Universo no Olhar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liySWQIA4AcpwAsEeTlS368IkF9.jpg" group-title="♠️Filmes | Fantasia",O Universo no Olhar
+http://172.110.219.252:80/movie/89754974222122/5207418122/4809571.mp4
+#EXTINF:-1 tvg-name="Jurassic World 2 - Reino Ameacado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xykpkKqfBfDgEKvS4jqpFF0S4K.jpg" group-title="♠️Filmes | Fantasia",Jurassic World 2 - Reino Ameacado
+http://172.110.219.252:80/movie/89754974222122/5207418122/4809600.mp4
+#EXTINF:-1 tvg-name="A Bruxinha e o Dragão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nXP7x7vw3raOYwkUagwp3nShHP.jpg" group-title="♠️Filmes | Fantasia",A Bruxinha e o Dragão
+http://172.110.219.252:80/movie/89754974222122/5207418122/4809716.mp4
+#EXTINF:-1 tvg-name="O Portal Secreto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mu3olAbPYTm4GkEdsr6Bk1MU5.jpg" group-title="♠️Filmes | Fantasia",O Portal Secreto
+http://172.110.219.252:80/movie/89754974222122/5207418122/4809745.mp4
+#EXTINF:-1 tvg-name="O Senhor dos Anéis: A Sociedade do Anel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/omoMXT3Z7XrQwRZ2OGJGNWbdeEl.jpg" group-title="♠️Filmes | Fantasia",O Senhor dos Anéis: A Sociedade do Anel
+http://172.110.219.252:80/movie/89754974222122/5207418122/4809753.mp4
+#EXTINF:-1 tvg-name="O Quebra Nozes e os Quatro Reinos" tvg-logo="http://gstaticontent.com/images/qQziRQeYUIc9I3lVEcdwQJGy5dS_big.jpg" group-title="♠️Filmes | Fantasia",O Quebra Nozes e os Quatro Reinos
+http://172.110.219.252:80/movie/89754974222122/5207418122/4809765.mp4
+#EXTINF:-1 tvg-name="Malevola" tvg-logo="http://gstaticontent.com/images/kqifqRhUWjx5WT0OJPxWbcnzc2O_big.jpg" group-title="♠️Filmes | Fantasia",Malevola
+http://172.110.219.252:80/movie/89754974222122/5207418122/4809814.mp4
+#EXTINF:-1 tvg-name="Um Amor Após a Vida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7mOuZrL4q1swV7sWPzTxZGgNzfK.jpg" group-title="♠️Filmes | Fantasia",Um Amor Após a Vida
+http://172.110.219.252:80/movie/89754974222122/5207418122/4809877.mp4
+#EXTINF:-1 tvg-name="O Furioso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcWdKnd8ghsGIpjEaxDekdno1Cr.jpg" group-title="♠️Filmes | Fantasia",O Furioso
+http://172.110.219.252:80/movie/89754974222122/5207418122/4809924.mp4
+#EXTINF:-1 tvg-name="Jornada Nas Estrelas 9" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQg1M46bIcqozNYfhYPJs93Dd2w.jpg" group-title="♠️Filmes | Fantasia",Jornada Nas Estrelas 9
+http://172.110.219.252:80/movie/89754974222122/5207418122/4809954.mp4
+#EXTINF:-1 tvg-name="A Jornada Mágica de Emily" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8bhp4YgYqHFMgEVdUOouDjqZ2bu.jpg" group-title="♠️Filmes | Fantasia",A Jornada Mágica de Emily
+http://172.110.219.252:80/movie/89754974222122/5207418122/4810057.mp4
+#EXTINF:-1 tvg-name="O Menino que Queria Ser Rei" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bu0BurnKgnobJoCEXUsHKxvlXd4.jpg" group-title="♠️Filmes | Fantasia",O Menino que Queria Ser Rei
+http://172.110.219.252:80/movie/89754974222122/5207418122/4810097.mp4
+#EXTINF:-1 tvg-name="Lua de Júpiter" tvg-logo="http://gstaticontent.com/images/2yq55TlXbksYInqpWvDf7QckG9V_big.jpg" group-title="♠️Filmes | Fantasia",Lua de Júpiter
+http://172.110.219.252:80/movie/89754974222122/5207418122/4810112.mp4
+#EXTINF:-1 tvg-name="O Estranho Caso do Fantasma Claustrofóbico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxl2XF0Qnmig21w4btbQjxxcIq.jpg" group-title="♠️Filmes | Fantasia",O Estranho Caso do Fantasma Claustrofóbico
+http://172.110.219.252:80/movie/89754974222122/5207418122/4810137.mp4
+#EXTINF:-1 tvg-name="Lucas Um Intruso no Formigueiro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RilrFBatK7fDwyI8Q7r4XhdF44.jpg" group-title="♠️Filmes | Fantasia",Lucas Um Intruso no Formigueiro
+http://172.110.219.252:80/movie/89754974222122/5207418122/4810161.mp4
+#EXTINF:-1 tvg-name="Planeta Vermelho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLNe1qndPl7wBhwW21Tw9olr4z3.jpg" group-title="♠️Filmes | Fantasia",Planeta Vermelho
+http://172.110.219.252:80/movie/89754974222122/5207418122/4810253.mp4
+#EXTINF:-1 tvg-name="Mortal Kombat Legends: A Vingança de Scorpion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zO5913BWcWYrhgACNpaaw9CCycX.jpg" group-title="♠️Filmes | Fantasia",Mortal Kombat Legends: A Vingança de Scorpion
+http://172.110.219.252:80/movie/89754974222122/5207418122/4810289.mp4
+#EXTINF:-1 tvg-name="Jornada Nas Estrelas 8" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/idKfn9XDzVSemYDw7tsohdRNA5b.jpg" group-title="♠️Filmes | Fantasia",Jornada Nas Estrelas 8
+http://172.110.219.252:80/movie/89754974222122/5207418122/4810313.mp4
+#EXTINF:-1 tvg-name="Globo de Neve" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQN6hnpTmHwFgGZjidVFZ2EpAJT.jpg" group-title="♠️Filmes | Fantasia",Globo de Neve
+http://172.110.219.252:80/movie/89754974222122/5207418122/4810419.mp4
+#EXTINF:-1 tvg-name="IO - O Ultimo na Terra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1zlj72JhgveCoLLUuYayGcVyhw.jpg" group-title="♠️Filmes | Fantasia",IO - O Ultimo na Terra
+http://172.110.219.252:80/movie/89754974222122/5207418122/4810453.mp4
+#EXTINF:-1 tvg-name="Fahrenheit 451" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/58yr4Y6g1g3B8LB7RI8neUgEBpn.jpg" group-title="♠️Filmes | Fantasia",Fahrenheit 451
+http://172.110.219.252:80/movie/89754974222122/5207418122/4810467.mp4
+#EXTINF:-1 tvg-name="Hook - A Volta do Capitao Gancho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xvJUSXz9wo97kvgABUDgBCsUNp.jpg" group-title="♠️Filmes | Fantasia",Hook - A Volta do Capitao Gancho
+http://172.110.219.252:80/movie/89754974222122/5207418122/4810517.mp4
+#EXTINF:-1 tvg-name="Undergods: Contos do Submundo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/puVUV2UWmuN6a4E0givje2q1HRu.jpg" group-title="♠️Filmes | Fantasia",Undergods: Contos do Submundo
+http://172.110.219.252:80/movie/89754974222122/5207418122/4810543.mp4
+#EXTINF:-1 tvg-name="Peter Pan (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooZYY1HiuekAYoZgR91xdndCFCh.jpg" group-title="♠️Filmes | Fantasia",Peter Pan (2003)
+http://172.110.219.252:80/movie/89754974222122/5207418122/4810609.mp4
+#EXTINF:-1 tvg-name="Don't Let Go" tvg-logo="http://gstaticontent.com/images/63pDQtG3PfTnJIKpAMZpZHKA13D_big.jpg" group-title="♠️Filmes | Fantasia",Don't Let Go
+http://172.110.219.252:80/movie/89754974222122/5207418122/4810655.mp4
+#EXTINF:-1 tvg-name="Jornada Nas Estrelas 7" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVyaD651EiuME23UdhoAHHg3BlV.jpg" group-title="♠️Filmes | Fantasia",Jornada Nas Estrelas 7
+http://172.110.219.252:80/movie/89754974222122/5207418122/4810667.mp4
+#EXTINF:-1 tvg-name="Master Moley em O Convite Real" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99h0I9Lj00KkXVuput3vlgzjQSt.jpg" group-title="♠️Filmes | Fantasia",Master Moley em O Convite Real
+http://172.110.219.252:80/movie/89754974222122/5207418122/4810777.mp4
+#EXTINF:-1 tvg-name="Volcano" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Azlmj0MvhXvFIqUs5Jg0AS5sA2.jpg" group-title="♠️Filmes | Fantasia",Volcano
+http://172.110.219.252:80/movie/89754974222122/5207418122/4810816.mp4
+#EXTINF:-1 tvg-name="The Ash Lad Em Busca do Castelo Dourado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDKrLfuaqVAQ8L3etC7Kd34fjDu.jpg" group-title="♠️Filmes | Fantasia",The Ash Lad Em Busca do Castelo Dourado
+http://172.110.219.252:80/movie/89754974222122/5207418122/4810820.mp4
+#EXTINF:-1 tvg-name="Edward Maos de Tesoura" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJJv9F6s31pNE1aXUKsWtGspeE4.jpg" group-title="♠️Filmes | Fantasia",Edward Maos de Tesoura
+http://172.110.219.252:80/movie/89754974222122/5207418122/4810878.mp4
+#EXTINF:-1 tvg-name="Manequim" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/alIbFujsD0JvrgbBlX0h9v0V92U.jpg" group-title="♠️Filmes | Fantasia",Manequim
+http://172.110.219.252:80/movie/89754974222122/5207418122/4810908.mp4
+#EXTINF:-1 tvg-name="O Arrebatamento 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apHC6DHpibhPFl8NRxIxOPni6tG.jpg" group-title="♠️Filmes | Fantasia",O Arrebatamento 2
+http://172.110.219.252:80/movie/89754974222122/5207418122/4810972.mp4
+#EXTINF:-1 tvg-name="Maya (III)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvVx2aEsgTGgFxmSnPiPReLDX5.jpg" group-title="♠️Filmes | Fantasia",Maya (III)
+http://172.110.219.252:80/movie/89754974222122/5207418122/4811011.mp4
+#EXTINF:-1 tvg-name="Jornada Nas Estrelas 6" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOIRuEWq2otcK6pGGntBGIKquC9.jpg" group-title="♠️Filmes | Fantasia",Jornada Nas Estrelas 6
+http://172.110.219.252:80/movie/89754974222122/5207418122/4811024.mp4
+#EXTINF:-1 tvg-name="A Família Addams 2: Pé na Estrada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGSZSlmJqshcxh6Usgx9Um0utK0.jpg" group-title="♠️Filmes | Fantasia",A Família Addams 2: Pé na Estrada
+http://172.110.219.252:80/movie/89754974222122/5207418122/4811118.mp4
+#EXTINF:-1 tvg-name="Valerian e a Cidade dos Mil Planetas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ar9Npj8l5SnxpwAGNkdmObv0VBd.jpg" group-title="♠️Filmes | Fantasia",Valerian e a Cidade dos Mil Planetas
+http://172.110.219.252:80/movie/89754974222122/5207418122/4811173.mp4
+#EXTINF:-1 tvg-name="Os Escolhidos (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvqt8MbXz0fITnQfBJCr3Pri1s9.jpg" group-title="♠️Filmes | Fantasia",Os Escolhidos (2017)
+http://172.110.219.252:80/movie/89754974222122/5207418122/4811179.mp4
+#EXTINF:-1 tvg-name="Donnie Darko" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg" group-title="♠️Filmes | Fantasia",Donnie Darko
+http://172.110.219.252:80/movie/89754974222122/5207418122/4811240.mp4
+#EXTINF:-1 tvg-name="Os Flintstones: O Filme" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmYUwoDwuIIHK3yVQlvVN0J3CKh.jpg" group-title="♠️Filmes | Fantasia",Os Flintstones: O Filme
+http://172.110.219.252:80/movie/89754974222122/5207418122/4811273.mp4
+#EXTINF:-1 tvg-name="O Arrebatamento" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfUzUhSto3NwAg9iYnmr9iJUTPp.jpg" group-title="♠️Filmes | Fantasia",O Arrebatamento
+http://172.110.219.252:80/movie/89754974222122/5207418122/4811312.mp4
+#EXTINF:-1 tvg-name="Elmo na Terra dos Rabugentos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRXLkMYf1yzvELPgNp04qSAhKAL.jpg" group-title="♠️Filmes | Fantasia",Elmo na Terra dos Rabugentos
+http://172.110.219.252:80/movie/89754974222122/5207418122/4811366.mp4
+#EXTINF:-1 tvg-name="Jornada Nas Estrelas 5" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohA8ogNltkGmyIiO3vpw3UUltmK.jpg" group-title="♠️Filmes | Fantasia",Jornada Nas Estrelas 5
+http://172.110.219.252:80/movie/89754974222122/5207418122/4811381.mp4
+#EXTINF:-1 tvg-name="David e os Duendes de Natal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGAkhpLoDsNddSRybFsrNM6kfAF.jpg" group-title="♠️Filmes | Fantasia",David e os Duendes de Natal
+http://172.110.219.252:80/movie/89754974222122/5207418122/4811475.mp4
+#EXTINF:-1 tvg-name="Uma Noite de Crime 3" tvg-logo="http://gstaticontent.com/images/2MLDMRWXZEIZsQ1KEelUeX2dUAZ_big.jpg" group-title="♠️Filmes | Fantasia",Uma Noite de Crime 3
+http://172.110.219.252:80/movie/89754974222122/5207418122/4811537.mp4
+#EXTINF:-1 tvg-name="A Invenção de Hugo Cabret" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/df4KBKhswf9GODVQqBAsHVJP5HG.jpg" group-title="♠️Filmes | Fantasia",A Invenção de Hugo Cabret
+http://172.110.219.252:80/movie/89754974222122/5207418122/4811539.mp4
+#EXTINF:-1 tvg-name="Descendentes 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jGEBYg13Sa1J3D6KOlQ2EH8Uxg.jpg" group-title="♠️Filmes | Fantasia",Descendentes 2
+http://172.110.219.252:80/movie/89754974222122/5207418122/4811598.mp4
+#EXTINF:-1 tvg-name="Os Cavaleiros do Zodíaco - Saint Seiya: O Começo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qos0X6EIi4KT9RmJiVGZB9Kw6l.jpg" group-title="♠️Filmes | Fantasia",Os Cavaleiros do Zodíaco - Saint Seiya: O Começo
+http://172.110.219.252:80/movie/89754974222122/5207418122/4811613.mp4
+#EXTINF:-1 tvg-name="Caminhos da Floresta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lV9VadnnXvv8qxoHkT9XWwGesQw.jpg" group-title="♠️Filmes | Fantasia",Caminhos da Floresta
+http://172.110.219.252:80/movie/89754974222122/5207418122/4811676.mp4
+#EXTINF:-1 tvg-name="Zoe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hagf4LA3FRD2o1wI3LhNzl0t5vo.jpg" group-title="♠️Filmes | Fantasia",Zoe
+http://172.110.219.252:80/movie/89754974222122/5207418122/4811735.mp4
+#EXTINF:-1 tvg-name="Jornada Nas Estrelas 4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1QfHoXsGaMc1OgGcBoPNxcJ9WeI.jpg" group-title="♠️Filmes | Fantasia",Jornada Nas Estrelas 4
+http://172.110.219.252:80/movie/89754974222122/5207418122/4811739.mp4
+#EXTINF:-1 tvg-name="Caçadora de Gigantes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1llJ6a7P4JShSqJtNGnmY8J6YC8.jpg" group-title="♠️Filmes | Fantasia",Caçadora de Gigantes
+http://172.110.219.252:80/movie/89754974222122/5207418122/4811814.mp4
+#EXTINF:-1 tvg-name="O Céu Pode Esperar" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/63dhJ8928ekVwVxvVzbeuirIwTi.jpg" group-title="♠️Filmes | Fantasia",O Céu Pode Esperar
+http://172.110.219.252:80/movie/89754974222122/5207418122/4811832.mp4
+#EXTINF:-1 tvg-name="Procurada" tvg-logo="http://gstaticontent.com/images/zftgIV8k5PzFfumIq79a7qMapoH_big.jpg" group-title="♠️Filmes | Fantasia",Procurada
+http://172.110.219.252:80/movie/89754974222122/5207418122/4811898.mp4
+#EXTINF:-1 tvg-name="Uma Noite de Crime 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2S7u7tSyqavp1d81dZkzIEjIwD.jpg" group-title="♠️Filmes | Fantasia",Uma Noite de Crime 1
+http://172.110.219.252:80/movie/89754974222122/5207418122/4811912.mp4
+#EXTINF:-1 tvg-name="Descendentes 1" tvg-logo="http://gstaticontent.com/images/i36xiPRiRgy8x261fk80CyVcaYF_big.jpg" group-title="♠️Filmes | Fantasia",Descendentes 1
+http://172.110.219.252:80/movie/89754974222122/5207418122/4811961.mp4
+#EXTINF:-1 tvg-name="O Mundo Mágico de Andrew Bennett" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWUkPLf1PoarqVmfAstBt7Dk7Yd.jpg" group-title="♠️Filmes | Fantasia",O Mundo Mágico de Andrew Bennett
+http://172.110.219.252:80/movie/89754974222122/5207418122/4811997.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Sharkboy e Lavagirl" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WUV2wPCFDX2LRQY5Iv6ElxdDe6.jpg" group-title="♠️Filmes | Fantasia",As Aventuras de Sharkboy e Lavagirl
+http://172.110.219.252:80/movie/89754974222122/5207418122/4812019.mp4
+#EXTINF:-1 tvg-name="Gravidez Monstruosa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lamHjIpX3IA3wKEa8X8358UqcAW.jpg" group-title="♠️Filmes | Fantasia",Gravidez Monstruosa
+http://172.110.219.252:80/movie/89754974222122/5207418122/4812098.mp4
+#EXTINF:-1 tvg-name="Jornada Nas Estrelas 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oGn1eFPzI35QrjTcN1WFHGbzWKm.jpg" group-title="♠️Filmes | Fantasia",Jornada Nas Estrelas 3
+http://172.110.219.252:80/movie/89754974222122/5207418122/4812099.mp4
+#EXTINF:-1 tvg-name="A Família Addams" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFwaszCIbVXGnsJG6dg6WUY7d6P.jpg" group-title="♠️Filmes | Fantasia",A Família Addams
+http://172.110.219.252:80/movie/89754974222122/5207418122/4812174.mp4
+#EXTINF:-1 tvg-name="De Novo Natal?" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo13I9sQURkQCkGxbNjMSiUkGsI.jpg" group-title="♠️Filmes | Fantasia",De Novo Natal?
+http://172.110.219.252:80/movie/89754974222122/5207418122/4812188.mp4
+#EXTINF:-1 tvg-name="Cronicas De Natal Parte Dois" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axIreLP9hr0ENvr5kR1sncxuYue.jpg" group-title="♠️Filmes | Fantasia",Cronicas De Natal Parte Dois
+http://172.110.219.252:80/movie/89754974222122/5207418122/4812259.mp4
+#EXTINF:-1 tvg-name="Uma Noite De Crime 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ht1MWx0ZMgqKzvAUBp1WhsOQLWN.jpg" group-title="♠️Filmes | Fantasia",Uma Noite De Crime 2
+http://172.110.219.252:80/movie/89754974222122/5207418122/4812277.mp4
+#EXTINF:-1 tvg-name="Crepusculo 5 - Amanhecer Parte 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1clnx7FymVEo1NC3Yikf1GrEfq7.jpg" group-title="♠️Filmes | Fantasia",Crepusculo 5 - Amanhecer Parte 2
+http://172.110.219.252:80/movie/89754974222122/5207418122/4812323.mp4
+#EXTINF:-1 tvg-name="João e Maria - Depois do para Sempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Xv3NuOu772IhhlpixNSosUB1jY.jpg" group-title="♠️Filmes | Fantasia",João e Maria - Depois do para Sempre
+http://172.110.219.252:80/movie/89754974222122/5207418122/4812363.mp4
+#EXTINF:-1 tvg-name="Gravidade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAc3HjzhIhO914nWlOeiaxkcfyU.jpg" group-title="♠️Filmes | Fantasia",Gravidade
+http://172.110.219.252:80/movie/89754974222122/5207418122/4812376.mp4
+#EXTINF:-1 tvg-name="Era uma Vez: Anastasia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h106wFGiYoqasneT0L1OnIgV20c.jpg" group-title="♠️Filmes | Fantasia",Era uma Vez: Anastasia
+http://172.110.219.252:80/movie/89754974222122/5207418122/4812455.mp4
+#EXTINF:-1 tvg-name="Jornada Nas Estrelas 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4hqeVjhAdVgbdYQRzxcJTEEaJP.jpg" group-title="♠️Filmes | Fantasia",Jornada Nas Estrelas 2
+http://172.110.219.252:80/movie/89754974222122/5207418122/4812460.mp4
+#EXTINF:-1 tvg-name="Z-O-M-B-I-E-S 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cOnxoQ3kx4mgmWb7yRi6GBWssOh.jpg" group-title="♠️Filmes | Fantasia",Z-O-M-B-I-E-S 2
+http://172.110.219.252:80/movie/89754974222122/5207418122/4812529.mp4
+#EXTINF:-1 tvg-name="Batman: Morte em Família" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97zKwVhOLyTnFbnuLZHbOboLyrM.jpg" group-title="♠️Filmes | Fantasia",Batman: Morte em Família
+http://172.110.219.252:80/movie/89754974222122/5207418122/4812555.mp4
+#EXTINF:-1 tvg-name="Uma Dobra no Tempo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbevoY1JitEd1EmSAaZOsozCUND.jpg" group-title="♠️Filmes | Fantasia",Uma Dobra no Tempo
+http://172.110.219.252:80/movie/89754974222122/5207418122/4812616.mp4
+#EXTINF:-1 tvg-name="High Life - Uma Nova Vida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OmHJI83sqYH2y82EJHkqqEKOt9.jpg" group-title="♠️Filmes | Fantasia",High Life - Uma Nova Vida
+http://172.110.219.252:80/movie/89754974222122/5207418122/4812645.mp4
+#EXTINF:-1 tvg-name="Crepusculo 4 - Amanhecer Parte 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6PexAo0jJRLlPNBfdiXXr0HYyz.jpg" group-title="♠️Filmes | Fantasia",Crepusculo 4 - Amanhecer Parte 1
+http://172.110.219.252:80/movie/89754974222122/5207418122/4812669.mp4
+#EXTINF:-1 tvg-name="Peter Pan & Wendy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkWxiUsc32qJHLwt7vt5AvUFNlx.jpg" group-title="♠️Filmes | Fantasia",Peter Pan & Wendy
+http://172.110.219.252:80/movie/89754974222122/5207418122/4812716.mp4
+#EXTINF:-1 tvg-name="A Montanha Enfeitiçada" tvg-logo="http://gstaticontent.com/images/8zQqwec4ZFATE06jjdAW4U9Rq9L_big.jpg" group-title="♠️Filmes | Fantasia",A Montanha Enfeitiçada
+http://172.110.219.252:80/movie/89754974222122/5207418122/4812730.mp4
+#EXTINF:-1 tvg-name="Jornada Nas Estrelas 13" tvg-logo="http://gstaticontent.com/images/zC2lEQjA4X814UnvekmdkM5hXmk_big.jpg" group-title="♠️Filmes | Fantasia",Jornada Nas Estrelas 13
+http://172.110.219.252:80/movie/89754974222122/5207418122/4812817.mp4
+#EXTINF:-1 tvg-name="Level 16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/glVIjhLmzmgtppLWb3lvnoPljGW.jpg" group-title="♠️Filmes | Fantasia",Level 16
+http://172.110.219.252:80/movie/89754974222122/5207418122/4812819.mp4
+#EXTINF:-1 tvg-name="Z-O-M-B-I-E-S" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smfvg3SfpkSS0dwCq2C9bhva3A8.jpg" group-title="♠️Filmes | Fantasia",Z-O-M-B-I-E-S
+http://172.110.219.252:80/movie/89754974222122/5207418122/4812906.mp4
+#EXTINF:-1 tvg-name="A Serpente Verde" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKrdS3he8ckFWa0wySI8kfYHWw6.jpg" group-title="♠️Filmes | Fantasia",A Serpente Verde
+http://172.110.219.252:80/movie/89754974222122/5207418122/4812909.mp4
+#EXTINF:-1 tvg-name="Ultravioleta" tvg-logo="http://gstaticontent.com/images/f22q6UGTq0IRL7uM6hzqwjpW5DQ_big.jpg" group-title="♠️Filmes | Fantasia",Ultravioleta
+http://172.110.219.252:80/movie/89754974222122/5207418122/4812972.mp4
+#EXTINF:-1 tvg-name="Uma Invenção de Natal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdqdvFt0AIwnX1spxVwaOOc9p4A.jpg" group-title="♠️Filmes | Fantasia",Uma Invenção de Natal
+http://172.110.219.252:80/movie/89754974222122/5207418122/4813016.mp4
+#EXTINF:-1 tvg-name="Crepusculo 3 - Eclipse" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8qPjwfKA1MwjEoVPhTf1ptVzdE.jpg" group-title="♠️Filmes | Fantasia",Crepusculo 3 - Eclipse
+http://172.110.219.252:80/movie/89754974222122/5207418122/4813034.mp4
+#EXTINF:-1 tvg-name="O Incrível Sr. Blunden" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/woBicMCavmuqbgj4CiT84zB3rDq.jpg" group-title="♠️Filmes | Fantasia",O Incrível Sr. Blunden
+http://172.110.219.252:80/movie/89754974222122/5207418122/4813081.mp4
+#EXTINF:-1 tvg-name="Labirinto: A Magia do Tempo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqe2yUPPdUqJe3mBoyVfWfZ47s1.jpg" group-title="♠️Filmes | Fantasia",Labirinto: A Magia do Tempo
+http://172.110.219.252:80/movie/89754974222122/5207418122/4813086.mp4
+#EXTINF:-1 tvg-name="Jornada Nas Estrelas 11" tvg-logo="http://gstaticontent.com/images/qZ9VC2XGEqdPWOO8yA5BSBU5vDd_big.jpg" group-title="♠️Filmes | Fantasia",Jornada Nas Estrelas 11
+http://172.110.219.252:80/movie/89754974222122/5207418122/4813170.mp4
+#EXTINF:-1 tvg-name="Presas no Paraíso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKuBMNDCrkE7c7YugHOpyWVwWSR.jpg" group-title="♠️Filmes | Fantasia",Presas no Paraíso
+http://172.110.219.252:80/movie/89754974222122/5207418122/4813173.mp4
+#EXTINF:-1 tvg-name="Bem a Tempo para o Natal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AaOfOKo5REHbSV4fzFFl2mm9JHH.jpg" group-title="♠️Filmes | Fantasia",Bem a Tempo para o Natal
+http://172.110.219.252:80/movie/89754974222122/5207418122/4813266.mp4
+#EXTINF:-1 tvg-name="Descendentes 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moyDQs4U4D4b0kG7vfqt8DKskkI.jpg" group-title="♠️Filmes | Fantasia",Descendentes 3
+http://172.110.219.252:80/movie/89754974222122/5207418122/4813273.mp4
+#EXTINF:-1 tvg-name="Tomorrowland - Um Lugar Onde Nada e impossivel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7vf2ByJw8V7FLQNc2HYxHTNned.jpg" group-title="♠️Filmes | Fantasia",Tomorrowland - Um Lugar Onde Nada e impossivel
+http://172.110.219.252:80/movie/89754974222122/5207418122/4813344.mp4
+#EXTINF:-1 tvg-name="A Seita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Qhadv77lcXs6WpfkgtAegQXEap.jpg" group-title="♠️Filmes | Fantasia",A Seita
+http://172.110.219.252:80/movie/89754974222122/5207418122/4813375.mp4
+#EXTINF:-1 tvg-name="A Saga Crepúsculo: Lua Nova" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gF0TjnaoKqsYaSni1YN1snQ8q4z.jpg" group-title="♠️Filmes | Fantasia",A Saga Crepúsculo: Lua Nova
+http://172.110.219.252:80/movie/89754974222122/5207418122/4813395.mp4
+#EXTINF:-1 tvg-name="Stardust - O Mistério da Estrela" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4SVyLxB7WGzW8GGiKs3pizTUte.jpg" group-title="♠️Filmes | Fantasia",Stardust - O Mistério da Estrela
+http://172.110.219.252:80/movie/89754974222122/5207418122/4813536.mp4
+#EXTINF:-1 tvg-name="Marte Ataca!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/koIxmF4RUofBWYhcpekQCbjefXY.jpg" group-title="♠️Filmes | Fantasia",Marte Ataca!
+http://172.110.219.252:80/movie/89754974222122/5207418122/4813606.mp4
+#EXTINF:-1 tvg-name="Jornada Nas Estrelas 10" tvg-logo="http://gstaticontent.com/images/zXp12dqRNk5JPoLN8pbW2VKL6GN_big.jpg" group-title="♠️Filmes | Fantasia",Jornada Nas Estrelas 10
+http://172.110.219.252:80/movie/89754974222122/5207418122/4813826.mp4
+#EXTINF:-1 tvg-name="O Último Sharknado: Já Estava na Hora" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNpEAfsW3rXTrn3bVqEzd89mzRG.jpg" group-title="♠️Filmes | Fantasia",O Último Sharknado: Já Estava na Hora
+http://172.110.219.252:80/movie/89754974222122/5207418122/4813842.mp4
+#EXTINF:-1 tvg-name="Papai Noel em Treinamento" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Anuuax6nxIS5xQniDJw9cUaMZV.jpg" group-title="♠️Filmes | Fantasia",Papai Noel em Treinamento
+http://172.110.219.252:80/movie/89754974222122/5207418122/4814064.mp4
+#EXTINF:-1 tvg-name="Malévola: Dona do Mal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VlGbVShN1qQx6WbshMA4Ex04qJ.jpg" group-title="♠️Filmes | Fantasia",Malévola: Dona do Mal
+http://172.110.219.252:80/movie/89754974222122/5207418122/4814108.mp4
+#EXTINF:-1 tvg-name="The Titan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZNgL1aXLdXSSTGdf9acxW7a5gR.jpg" group-title="♠️Filmes | Fantasia",The Titan
+http://172.110.219.252:80/movie/89754974222122/5207418122/4814326.mp4
+#EXTINF:-1 tvg-name="Harry Potter e as Relíquias da Morte - Parte 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yD3VosOVW8WxPUzBDpEdzfv5pGx.jpg" group-title="♠️Filmes | Fantasia",Harry Potter e as Relíquias da Morte - Parte 2
+http://172.110.219.252:80/movie/89754974222122/5207418122/4814443.mp4
+#EXTINF:-1 tvg-name="Crepusculo 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6PexAo0jJRLlPNBfdiXXr0HYyz.jpg" group-title="♠️Filmes | Fantasia",Crepusculo 1
+http://172.110.219.252:80/movie/89754974222122/5207418122/4814530.mp4
+#EXTINF:-1 tvg-name="O Mensageiro" tvg-logo="http://gstaticontent.com/images/hfgJx9x0mT7kI9Vy80cwL9lt8TK_big.jpg" group-title="♠️Filmes | Fantasia",O Mensageiro
+http://172.110.219.252:80/movie/89754974222122/5207418122/4814660.mp4
+#EXTINF:-1 tvg-name="Malévola: Dona do Mal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VlGbVShN1qQx6WbshMA4Ex04qJ.jpg" group-title="♠️Filmes | Fantasia",Malévola: Dona do Mal
+http://172.110.219.252:80/movie/89754974222122/5207418122/4814945.mp4
+#EXTINF:-1 tvg-name="Jornada Nas Estrelas 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLXFGIOSauP4Lo4T1H2Z0gc5l2t.jpg" group-title="♠️Filmes | Fantasia",Jornada Nas Estrelas 1
+http://172.110.219.252:80/movie/89754974222122/5207418122/4814952.mp4
+#EXTINF:-1 tvg-name="Os Três Desejos da Cinderela" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEoMVCqFs5YtxeF6huRF3tvMwd.jpg" group-title="♠️Filmes | Fantasia",Os Três Desejos da Cinderela
+http://172.110.219.252:80/movie/89754974222122/5207418122/4815047.mp4
+#EXTINF:-1 tvg-name="O Natal Encantado" tvg-logo="http://gstaticontent.com/images/ae0a72207130dc8c800d3aac6fd36470.jpg" group-title="♠️Filmes | Fantasia",O Natal Encantado
+http://172.110.219.252:80/movie/89754974222122/5207418122/4815147.mp4
+#EXTINF:-1 tvg-name="Cinderela" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DsfRsCxrhkHQHGLeY9m8oi9q46.jpg" group-title="♠️Filmes | Fantasia",Cinderela
+http://172.110.219.252:80/movie/89754974222122/5207418122/4815260.mp4
+#EXTINF:-1 tvg-name="Tempestade Planeta em Furia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHg6a64rTJHBZ0N0vEu17HGOsnJ.jpg" group-title="♠️Filmes | Fantasia",Tempestade Planeta em Furia
+http://172.110.219.252:80/movie/89754974222122/5207418122/4815475.mp4
+#EXTINF:-1 tvg-name="Harry Potter e as Relíquias da Morte - Parte 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38zEwrBvLOkg0y6MF4uYYyImYjm.jpg" group-title="♠️Filmes | Fantasia",Harry Potter e as Relíquias da Morte - Parte 1
+http://172.110.219.252:80/movie/89754974222122/5207418122/4815562.mp4
+#EXTINF:-1 tvg-name="Convencao das Bruxas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/orrJiQs30G6zSkT8is4QOAtRpFM.jpg" group-title="♠️Filmes | Fantasia",Convencao das Bruxas
+http://172.110.219.252:80/movie/89754974222122/5207418122/4815633.mp4
+#EXTINF:-1 tvg-name="Johnny Mnemonic, o Cyborg do Futuro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihO1cm2xseutLixlRM9i684Piyt.jpg" group-title="♠️Filmes | Fantasia",Johnny Mnemonic, o Cyborg do Futuro
+http://172.110.219.252:80/movie/89754974222122/5207418122/4815821.mp4
+#EXTINF:-1 tvg-name="Code 8: Renegados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ynRI69ind5gs4CO7gSAwtSHBlas.jpg" group-title="♠️Filmes | Fantasia",Code 8: Renegados
+http://172.110.219.252:80/movie/89754974222122/5207418122/4815988.mp4
+#EXTINF:-1 tvg-name="Jogador No 1" tvg-logo="http://gstaticontent.com/images/2sn3dMJYxhxCJ6cMCXAtBUjAeg1_big.jpg" group-title="♠️Filmes | Fantasia",Jogador No 1
+http://172.110.219.252:80/movie/89754974222122/5207418122/4816016.mp4
+#EXTINF:-1 tvg-name="Próxima Parada: Natal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8UchTIxOmVQattuwW4Mp0UxkY5h.jpg" group-title="♠️Filmes | Fantasia",Próxima Parada: Natal
+http://172.110.219.252:80/movie/89754974222122/5207418122/4816029.mp4
+#EXTINF:-1 tvg-name="Um Menino Chamado Natal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ik7x3QS4LVfZPMV4lAIFtoh7ASS.jpg" group-title="♠️Filmes | Fantasia",Um Menino Chamado Natal
+http://172.110.219.252:80/movie/89754974222122/5207418122/4816261.mp4
+#EXTINF:-1 tvg-name="Doutor Estranho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PwVXsbRttRxk4pVBdgqnzPXQG1.jpg" group-title="♠️Filmes | Fantasia",Doutor Estranho
+http://172.110.219.252:80/movie/89754974222122/5207418122/4816381.mp4
+#EXTINF:-1 tvg-name="Tau" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqYOlCee3X7cKg05EOQH1htcHmy.jpg" group-title="♠️Filmes | Fantasia",Tau
+http://172.110.219.252:80/movie/89754974222122/5207418122/4816525.mp4
+#EXTINF:-1 tvg-name="Harry Potter e o Enigma do Príncipe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1b50wj02qzCCeoXuDQpgRDc25e0.jpg" group-title="♠️Filmes | Fantasia",Harry Potter e o Enigma do Príncipe
+http://172.110.219.252:80/movie/89754974222122/5207418122/4816603.mp4
+#EXTINF:-1 tvg-name="Cinderella" tvg-logo="http://gstaticontent.com/images/4DsfRsCxrhkHQHGLeY9m8oi9q46_big.jpg" group-title="♠️Filmes | Fantasia",Cinderella
+http://172.110.219.252:80/movie/89754974222122/5207418122/4816682.mp4
+#EXTINF:-1 tvg-name="Gasparzinho, o Fantasminha Camarada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbmPaZqKa9VP2PB9khdlXd1EsXU.jpg" group-title="♠️Filmes | Fantasia",Gasparzinho, o Fantasminha Camarada
+http://172.110.219.252:80/movie/89754974222122/5207418122/4816881.mp4
+#EXTINF:-1 tvg-name="Dora e a Cidade Perdida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zn6uvrCTymyl9dYkoU2XDODC8IC.jpg" group-title="♠️Filmes | Fantasia",Dora e a Cidade Perdida
+http://172.110.219.252:80/movie/89754974222122/5207418122/4817072.mp4
+#EXTINF:-1 tvg-name="Joao e Maria Cacadores de Bruxas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNAOG8mvstBhUE1jhbGkB87G2VV.jpg" group-title="♠️Filmes | Fantasia",Joao e Maria Cacadores de Bruxas
+http://172.110.219.252:80/movie/89754974222122/5207418122/4817132.mp4
+#EXTINF:-1 tvg-name="Aya e a Bruxa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xgAhWu3v78zP6GIAbVHjcaBOR2.jpg" group-title="♠️Filmes | Fantasia",Aya e a Bruxa
+http://172.110.219.252:80/movie/89754974222122/5207418122/4817252.mp4
+#EXTINF:-1 tvg-name="Um Conto Sobre o Tempo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yE8knDkIZWSQACQEmxX7HdUtlP.jpg" group-title="♠️Filmes | Fantasia",Um Conto Sobre o Tempo
+http://172.110.219.252:80/movie/89754974222122/5207418122/4817418.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Paddington 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVAplALQBfKNRrAdOWol6T49Yw6.jpg" group-title="♠️Filmes | Fantasia",As Aventuras de Paddington 2
+http://172.110.219.252:80/movie/89754974222122/5207418122/4817443.mp4
+#EXTINF:-1 tvg-name="Star Wars 8" tvg-logo="http://gstaticontent.com/images/2iGN0aKHJYD0xQydlfuCUAcgNbO_big.jpg" group-title="♠️Filmes | Fantasia",Star Wars 8
+http://172.110.219.252:80/movie/89754974222122/5207418122/4817597.mp4
+#EXTINF:-1 tvg-name="Harry Potter e a Ordem da Fênix" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIf9aUyNljda9MG1pjlOLHCZ3b0.jpg" group-title="♠️Filmes | Fantasia",Harry Potter e a Ordem da Fênix
+http://172.110.219.252:80/movie/89754974222122/5207418122/4817657.mp4
+#EXTINF:-1 tvg-name="Cada um na Sua Casa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oPaWNQKrQ3enUzNbEQqadWGAuwJ.jpg" group-title="♠️Filmes | Fantasia",Cada um na Sua Casa
+http://172.110.219.252:80/movie/89754974222122/5207418122/4817779.mp4
+#EXTINF:-1 tvg-name="Aquamarine" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygaNIj6w1BWOeMFcgRBw9q168RG.jpg" group-title="♠️Filmes | Fantasia",Aquamarine
+http://172.110.219.252:80/movie/89754974222122/5207418122/4817978.mp4
+#EXTINF:-1 tvg-name="Ad Astra - Rumo às Estrelas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wigZBAmNrIhxp2FNGOROUAeHvdh.jpg" group-title="♠️Filmes | Fantasia",Ad Astra - Rumo às Estrelas
+http://172.110.219.252:80/movie/89754974222122/5207418122/4818178.mp4
+#EXTINF:-1 tvg-name="Hellboy (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ov29KV3ktK0rVLPFxSYvMNSTK1.jpg" group-title="♠️Filmes | Fantasia",Hellboy (2004)
+http://172.110.219.252:80/movie/89754974222122/5207418122/4818256.mp4
+#EXTINF:-1 tvg-name="A Dama na Água" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNGKdj46mM4Uyl1PLcYquX97Vo5.jpg" group-title="♠️Filmes | Fantasia",A Dama na Água
+http://172.110.219.252:80/movie/89754974222122/5207418122/4818349.mp4
+#EXTINF:-1 tvg-name="Violet no Mundo da Fantasia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqsoKyfHnXkB11nrHkMzHXHvHUl.jpg" group-title="♠️Filmes | Fantasia",Violet no Mundo da Fantasia
+http://172.110.219.252:80/movie/89754974222122/5207418122/4818543.mp4
+#EXTINF:-1 tvg-name="Teen Wolf: O Filme" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4M1YCKc07PeBoUs7ST2QgCiZFB.jpg" group-title="♠️Filmes | Fantasia",Teen Wolf: O Filme
+http://172.110.219.252:80/movie/89754974222122/5207418122/4818569.mp4
+#EXTINF:-1 tvg-name="As Férias Assustadoras de Nelly Rapp" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gH1b9vtGinOOt3mOoUTPhkEsrgJ.jpg" group-title="♠️Filmes | Fantasia",As Férias Assustadoras de Nelly Rapp
+http://172.110.219.252:80/movie/89754974222122/5207418122/4818577.mp4
+#EXTINF:-1 tvg-name="Star Wars 7" tvg-logo="http://gstaticontent.com/images/mc9hsb5BTTFGmPhHkXxonKP5rFN_big.jpg" group-title="♠️Filmes | Fantasia",Star Wars 7
+http://172.110.219.252:80/movie/89754974222122/5207418122/4818770.mp4
+#EXTINF:-1 tvg-name="Harry Potter e o Cálice de Fogo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg" group-title="♠️Filmes | Fantasia",Harry Potter e o Cálice de Fogo
+http://172.110.219.252:80/movie/89754974222122/5207418122/4818854.mp4
+#EXTINF:-1 tvg-name="Bright" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfWmA2k03GDWQmrcjusUcqBiYWT.jpg" group-title="♠️Filmes | Fantasia",Bright
+http://172.110.219.252:80/movie/89754974222122/5207418122/4818970.mp4
+#EXTINF:-1 tvg-name="A Máscara de Ferro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4TV8H3kQQdzXtAXPRDCzLILKIy.jpg" group-title="♠️Filmes | Fantasia",A Máscara de Ferro
+http://172.110.219.252:80/movie/89754974222122/5207418122/4819193.mp4
+#EXTINF:-1 tvg-name="Ajuda Natalina" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fFp4V4mvun4DbNIKgIOp9ECpNje.jpg" group-title="♠️Filmes | Fantasia",Ajuda Natalina
+http://172.110.219.252:80/movie/89754974222122/5207418122/4819409.mp4
+#EXTINF:-1 tvg-name="Hellboy 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nacReL80NUEGrVbyqXOhzbllOZJ.jpg" group-title="♠️Filmes | Fantasia",Hellboy 2
+http://172.110.219.252:80/movie/89754974222122/5207418122/4819475.mp4
+#EXTINF:-1 tvg-name="Um Dinossauro em Apuros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4IqrMLYLC11Z5W5eZkgeejabLj7.jpg" group-title="♠️Filmes | Fantasia",Um Dinossauro em Apuros
+http://172.110.219.252:80/movie/89754974222122/5207418122/4819616.mp4
+#EXTINF:-1 tvg-name="Wicked" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg" group-title="♠️Filmes | Fantasia",Wicked
+http://172.110.219.252:80/movie/89754974222122/5207418122/4819748.mp4
+#EXTINF:-1 tvg-name="Medusa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/da45lotiMcUGbnQgQ4thYZpoFIw.jpg" group-title="♠️Filmes | Fantasia",Medusa
+http://172.110.219.252:80/movie/89754974222122/5207418122/4819758.mp4
+#EXTINF:-1 tvg-name="Chapeuzinho Vermelho - Herança de Família" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxDqtu6kP1uEZAQ1a5rfcfB6k2a.jpg" group-title="♠️Filmes | Fantasia",Chapeuzinho Vermelho - Herança de Família
+http://172.110.219.252:80/movie/89754974222122/5207418122/4819840.mp4
+#EXTINF:-1 tvg-name="Star Wars 6" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llaJ35p5e23ygDbqd0H3otJLWsA.jpg" group-title="♠️Filmes | Fantasia",Star Wars 6
+http://172.110.219.252:80/movie/89754974222122/5207418122/4819929.mp4
+#EXTINF:-1 tvg-name="Harry Potter e o Prisioneiro de Azkaban" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg" group-title="♠️Filmes | Fantasia",Harry Potter e o Prisioneiro de Azkaban
+http://172.110.219.252:80/movie/89754974222122/5207418122/4820006.mp4
+#EXTINF:-1 tvg-name="Branca de Neve e o Cacador" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlXNRuDfoCRLvnVwU41DLO0p3ze.jpg" group-title="♠️Filmes | Fantasia",Branca de Neve e o Cacador
+http://172.110.219.252:80/movie/89754974222122/5207418122/4820104.mp4
+#EXTINF:-1 tvg-name="Um Faz de Conta que Acontece" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A95nNrCa98PTUHxBP3pCmcdkmZT.jpg" group-title="♠️Filmes | Fantasia",Um Faz de Conta que Acontece
+http://172.110.219.252:80/movie/89754974222122/5207418122/4820344.mp4
+#EXTINF:-1 tvg-name="Projeto Almanaque" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2krLUKMsKbnZk6j647IlkqlMZ2u.jpg" group-title="♠️Filmes | Fantasia",Projeto Almanaque
+http://172.110.219.252:80/movie/89754974222122/5207418122/4820526.mp4
+#EXTINF:-1 tvg-name="Han Solo Uma Historia Star Wars" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAMEX0syUh6sbjBiysibzrFpbo.jpg" group-title="♠️Filmes | Fantasia",Han Solo Uma Historia Star Wars
+http://172.110.219.252:80/movie/89754974222122/5207418122/4820573.mp4
+#EXTINF:-1 tvg-name="Descendentes: O Casamento Real" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzNIgQ4hjeNFln9DdLuJmNXVV9j.jpg" group-title="♠️Filmes | Fantasia",Descendentes: O Casamento Real
+http://172.110.219.252:80/movie/89754974222122/5207418122/4820777.mp4
+#EXTINF:-1 tvg-name="Moonwalker" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3GwTPQkAcgDeAirRpEuJG8HDdRz.jpg" group-title="♠️Filmes | Fantasia",Moonwalker
+http://172.110.219.252:80/movie/89754974222122/5207418122/4820850.mp4
+#EXTINF:-1 tvg-name="A Família Addams 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4OcwSxm47cmxT04MyGgI8aBfTlZ.jpg" group-title="♠️Filmes | Fantasia",A Família Addams 2
+http://172.110.219.252:80/movie/89754974222122/5207418122/4820855.mp4
+#EXTINF:-1 tvg-name="A Coroa e o Dragão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rD3fALABWDzOFHh0W8L1MqTWtTh.jpg" group-title="♠️Filmes | Fantasia",A Coroa e o Dragão
+http://172.110.219.252:80/movie/89754974222122/5207418122/4820913.mp4
+#EXTINF:-1 tvg-name="Star Wars 5" tvg-logo="http://gstaticontent.com/images/iXXSUFpfBKZimPyugKQShUO5NMS_big.jpg" group-title="♠️Filmes | Fantasia",Star Wars 5
+http://172.110.219.252:80/movie/89754974222122/5207418122/4821044.mp4
+#EXTINF:-1 tvg-name="Harry Potter e a Câmara Secreta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1TDLyxnP6NSeyA8KKgACmlChawd.jpg" group-title="♠️Filmes | Fantasia",Harry Potter e a Câmara Secreta
+http://172.110.219.252:80/movie/89754974222122/5207418122/4821107.mp4
+#EXTINF:-1 tvg-name="Bleach" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZIfxaWQw9zbch8ghCSHu2KxrMl.jpg" group-title="♠️Filmes | Fantasia",Bleach
+http://172.110.219.252:80/movie/89754974222122/5207418122/4821220.mp4
+#EXTINF:-1 tvg-name="Star Trek" tvg-logo="http://gstaticontent.com/images/qZ9VC2XGEqdPWOO8yA5BSBU5vDd_big.jpg" group-title="♠️Filmes | Fantasia",Star Trek
+http://172.110.219.252:80/movie/89754974222122/5207418122/4821461.mp4
+#EXTINF:-1 tvg-name="O Ataque Do Tubarao De 6 Cabecas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdwIRxdl4pd7Ely4PjAVhUpciIr.jpg" group-title="♠️Filmes | Fantasia",O Ataque Do Tubarao De 6 Cabecas
+http://172.110.219.252:80/movie/89754974222122/5207418122/4821698.mp4
+#EXTINF:-1 tvg-name="Gantz-O" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmYUrlTc6KwZKSHMXuyCvZF19tf.jpg" group-title="♠️Filmes | Fantasia",Gantz-O
+http://172.110.219.252:80/movie/89754974222122/5207418122/4821745.mp4
+#EXTINF:-1 tvg-name="A Família Noel" tvg-logo="http://gstaticontent.com/images/74854bc22f543bcdb9ebc6acd8562b2d.jpg" group-title="♠️Filmes | Fantasia",A Família Noel
+http://172.110.219.252:80/movie/89754974222122/5207418122/4822025.mp4
+#EXTINF:-1 tvg-name="Mulher-Maravilha 1984" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDA95ebiy3W3m8hTRB3xZNZVVBM.jpg" group-title="♠️Filmes | Fantasia",Mulher-Maravilha 1984
+http://172.110.219.252:80/movie/89754974222122/5207418122/4822116.mp4
+#EXTINF:-1 tvg-name="Os Fantasmas Contra-Atacam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbFQ2Dyw1OgxYQ3A4zK9azIk37P.jpg" group-title="♠️Filmes | Fantasia",Os Fantasmas Contra-Atacam
+http://172.110.219.252:80/movie/89754974222122/5207418122/4822151.mp4
+#EXTINF:-1 tvg-name="Era Uma Vez um Gênio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1zL4hVb4Ngg02VVxllBDT048Nn.jpg" group-title="♠️Filmes | Fantasia",Era Uma Vez um Gênio
+http://172.110.219.252:80/movie/89754974222122/5207418122/4822156.mp4
+#EXTINF:-1 tvg-name="Star Wars 4" tvg-logo="http://gstaticontent.com/images/3f27beb3513971396ce87bef67167366.jpg" group-title="♠️Filmes | Fantasia",Star Wars 4
+http://172.110.219.252:80/movie/89754974222122/5207418122/4822247.mp4
+#EXTINF:-1 tvg-name="Harry Potter e a Pedra Filosofal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rtsbE9aQ1qw4gv7yYwaNYfWFoS.jpg" group-title="♠️Filmes | Fantasia",Harry Potter e a Pedra Filosofal
+http://172.110.219.252:80/movie/89754974222122/5207418122/4822317.mp4
+#EXTINF:-1 tvg-name="Blade Runner 2049" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg" group-title="♠️Filmes | Fantasia",Blade Runner 2049
+http://172.110.219.252:80/movie/89754974222122/5207418122/4822410.mp4
+#EXTINF:-1 tvg-name="Ex Machina Instinto Artificial" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfpnFtgcYom9Gk9s1IyWiovpZYg.jpg" group-title="♠️Filmes | Fantasia",Ex Machina Instinto Artificial
+http://172.110.219.252:80/movie/89754974222122/5207418122/4822639.mp4
+#EXTINF:-1 tvg-name="Loucura do Tempo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XXc9fapIqFytmhxA3HxALfhi4j.jpg" group-title="♠️Filmes | Fantasia",Loucura do Tempo
+http://172.110.219.252:80/movie/89754974222122/5207418122/4822977.mp4
+#EXTINF:-1 tvg-name="Efeito Borboleta 3" tvg-logo="http://gstaticontent.com/images/6svx2au08QMyfXCEgNUht6maRIb_big.jpg" group-title="♠️Filmes | Fantasia",Efeito Borboleta 3
+http://172.110.219.252:80/movie/89754974222122/5207418122/4823098.mp4
+#EXTINF:-1 tvg-name="Um Anjo em Minha Vida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29lc7HgBCMqFQwYiS34TA8maTfV.jpg" group-title="♠️Filmes | Fantasia",Um Anjo em Minha Vida
+http://172.110.219.252:80/movie/89754974222122/5207418122/4823284.mp4
+#EXTINF:-1 tvg-name="Irmã de Neve" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljS93csJXgVP35RpDQgaT03y3LY.jpg" group-title="♠️Filmes | Fantasia",Irmã de Neve
+http://172.110.219.252:80/movie/89754974222122/5207418122/4823296.mp4
+#EXTINF:-1 tvg-name="O Troll da Montanha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9qC2hL61IcVYEGyRonx6qakJWw.jpg" group-title="♠️Filmes | Fantasia",O Troll da Montanha
+http://172.110.219.252:80/movie/89754974222122/5207418122/4823398.mp4
+#EXTINF:-1 tvg-name="Princesa Mononoke" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7EadOwHmyQgOnlghRiWBygNtnjl.jpg" group-title="♠️Filmes | Fantasia",Princesa Mononoke
+http://172.110.219.252:80/movie/89754974222122/5207418122/4823441.mp4
+#EXTINF:-1 tvg-name="De Volta para o Futuro 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KgDjwaoNvVDp5eET4VsGSwXnUO.jpg" group-title="♠️Filmes | Fantasia",De Volta para o Futuro 3
+http://172.110.219.252:80/movie/89754974222122/5207418122/4823468.mp4
+#EXTINF:-1 tvg-name="Star Wars 3" tvg-logo="http://gstaticontent.com/images/m4ihKTuWHiNa5u09OgFtvpnedQ6_big.jpg" group-title="♠️Filmes | Fantasia",Star Wars 3
+http://172.110.219.252:80/movie/89754974222122/5207418122/4823469.mp4
+#EXTINF:-1 tvg-name="As Cronicas de Narnia O Leao, a Feiticeira e o Guarda-Roupa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sDBziWxSTavCNjbayaXaDDwmTiQ.jpg" group-title="♠️Filmes | Fantasia",As Cronicas de Narnia O Leao, a Feiticeira e o Guarda-Roupa
+http://172.110.219.252:80/movie/89754974222122/5207418122/4823614.mp4
+#EXTINF:-1 tvg-name="O Juiz (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1NBG5CmYFAuLfOAoFQHzZhG1X.jpg" group-title="♠️Filmes | Fantasia",O Juiz (1995)
+http://172.110.219.252:80/movie/89754974222122/5207418122/4823822.mp4
+#EXTINF:-1 tvg-name="Kronos O Fim da Humanidade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAlGYFGssx7BoWtAPsz76uYCPWG.jpg" group-title="♠️Filmes | Fantasia",Kronos O Fim da Humanidade
+http://172.110.219.252:80/movie/89754974222122/5207418122/4824095.mp4
+#EXTINF:-1 tvg-name="Efeito Borboleta 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oGF8yxrzSEiBfx3pltTyWUC3KG.jpg" group-title="♠️Filmes | Fantasia",Efeito Borboleta 2
+http://172.110.219.252:80/movie/89754974222122/5207418122/4824194.mp4
+#EXTINF:-1 tvg-name="Encantada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dv3I9Zhn6Y1CGDyyrNEX9KFFdXR.jpg" group-title="♠️Filmes | Fantasia",Encantada
+http://172.110.219.252:80/movie/89754974222122/5207418122/4824348.mp4
+#EXTINF:-1 tvg-name="Eragon" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNu6QLUnKqPIjRA3pgEb5dkJye6.jpg" group-title="♠️Filmes | Fantasia",Eragon
+http://172.110.219.252:80/movie/89754974222122/5207418122/4824397.mp4
+#EXTINF:-1 tvg-name="Abracadabra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIzKIA43hE26HRV77RTYtZwjOSM.jpg" group-title="♠️Filmes | Fantasia",Abracadabra
+http://172.110.219.252:80/movie/89754974222122/5207418122/4824505.mp4
+#EXTINF:-1 tvg-name="O Cristal Encantado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XvmHnJdjcvd2OYBqylEQs2q6IY.jpg" group-title="♠️Filmes | Fantasia",O Cristal Encantado
+http://172.110.219.252:80/movie/89754974222122/5207418122/4824608.mp4
+#EXTINF:-1 tvg-name="Star Wars 2" tvg-logo="http://gstaticontent.com/images/s2ONgVK8ucLfobZn7VTyaAKH0yA_big.jpg" group-title="♠️Filmes | Fantasia",Star Wars 2
+http://172.110.219.252:80/movie/89754974222122/5207418122/4824630.mp4
+#EXTINF:-1 tvg-name="De Volta para o Futuro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/JoAiVdWmz8XFA9rl43EtjT8ipn.jpg" group-title="♠️Filmes | Fantasia",De Volta para o Futuro
+http://172.110.219.252:80/movie/89754974222122/5207418122/4824634.mp4
+#EXTINF:-1 tvg-name="As Cronicas de Narnia A Viagem do Peregrino da Alvorada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axMY6DSfkMdgUzejBqAPagynr6w.jpg" group-title="♠️Filmes | Fantasia",As Cronicas de Narnia A Viagem do Peregrino da Alvorada
+http://172.110.219.252:80/movie/89754974222122/5207418122/4824801.mp4
+#EXTINF:-1 tvg-name="Os 12 Macacos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VN4I4PphQCg3MkGwnqHGX65WY0.jpg" group-title="♠️Filmes | Fantasia",Os 12 Macacos
+http://172.110.219.252:80/movie/89754974222122/5207418122/4824988.mp4
+#EXTINF:-1 tvg-name="A Boneca que Virou Gente 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CwzaIz7MvzPs5fA4NddlFD27M5.jpg" group-title="♠️Filmes | Fantasia",A Boneca que Virou Gente 2
+http://172.110.219.252:80/movie/89754974222122/5207418122/4825262.mp4
+#EXTINF:-1 tvg-name="Efeito Borboleta 1" tvg-logo="http://gstaticontent.com/images/ojyrQRIQ6f0hHFpJoXTAeUx0ynX_big.jpg" group-title="♠️Filmes | Fantasia",Efeito Borboleta 1
+http://172.110.219.252:80/movie/89754974222122/5207418122/4825364.mp4
+#EXTINF:-1 tvg-name="Organização Monstro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2RxZbPGkxYOeiFkm7UR1zV0eJs.jpg" group-title="♠️Filmes | Fantasia",Organização Monstro
+http://172.110.219.252:80/movie/89754974222122/5207418122/4825448.mp4
+#EXTINF:-1 tvg-name="Pokémon: Detetive Pikachu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p72utWsmz5ZAmvVQPUhovq0jFK3.jpg" group-title="♠️Filmes | Fantasia",Pokémon: Detetive Pikachu
+http://172.110.219.252:80/movie/89754974222122/5207418122/4825532.mp4
+#EXTINF:-1 tvg-name="Ilha Dos Dinossauros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOe4S3eGogWQk4H8NhVe6eNJZSO.jpg" group-title="♠️Filmes | Fantasia",Ilha Dos Dinossauros
+http://172.110.219.252:80/movie/89754974222122/5207418122/4825564.mp4
+#EXTINF:-1 tvg-name="O Mundo dos Pequeninos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yovlgDFP53N7IW7O4irM6INBxmp.jpg" group-title="♠️Filmes | Fantasia",O Mundo dos Pequeninos
+http://172.110.219.252:80/movie/89754974222122/5207418122/4825723.mp4
+#EXTINF:-1 tvg-name="De Volta para o Futuro 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbX7hM03cHmpMPbpZ3lYmF2aABK.jpg" group-title="♠️Filmes | Fantasia",De Volta para o Futuro 2
+http://172.110.219.252:80/movie/89754974222122/5207418122/4825749.mp4
+#EXTINF:-1 tvg-name="Star Wars Uma Nova Esperança" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dw7X9YPjjAfIxKHW04V64Bb9TB0.jpg" group-title="♠️Filmes | Fantasia",Star Wars Uma Nova Esperança
+http://172.110.219.252:80/movie/89754974222122/5207418122/4825753.mp4
+#EXTINF:-1 tvg-name="As Cronicas de Narnia - Principe Caspian" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylf6hzCN4MU8Xt9xlypEySd75Z2.jpg" group-title="♠️Filmes | Fantasia",As Cronicas de Narnia - Principe Caspian
+http://172.110.219.252:80/movie/89754974222122/5207418122/4825948.mp4
+#EXTINF:-1 tvg-name="Casa de Antiguidades" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wsT4HzutHg8hfKdNmaQ4IE3v4kp.jpg" group-title="♠️Filmes | Fantasia",Casa de Antiguidades
+http://172.110.219.252:80/movie/89754974222122/5207418122/4826156.mp4
+#EXTINF:-1 tvg-name="Descendentes 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moyDQs4U4D4b0kG7vfqt8DKskkI.jpg" group-title="♠️Filmes | Fantasia",Descendentes 3
+http://172.110.219.252:80/movie/89754974222122/5207418122/4826415.mp4
+#EXTINF:-1 tvg-name="Dracula - A Historia Nunca Contada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8bA9xbOtqRaR8KwvzWlWwbvZvI.jpg" group-title="♠️Filmes | Fantasia",Dracula - A Historia Nunca Contada
+http://172.110.219.252:80/movie/89754974222122/5207418122/4826519.mp4
+#EXTINF:-1 tvg-name="Quando os Sinos Tocam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ja4VqlrXYS07EDnUUzfcXomP9cd.jpg" group-title="♠️Filmes | Fantasia",Quando os Sinos Tocam
+http://172.110.219.252:80/movie/89754974222122/5207418122/4826540.mp4
+#EXTINF:-1 tvg-name="A Escola do Bem e do Mal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbo6sHohCSQDOY6RYPQX3zO886y.jpg" group-title="♠️Filmes | Fantasia",A Escola do Bem e do Mal
+http://172.110.219.252:80/movie/89754974222122/5207418122/4826761.mp4
+#EXTINF:-1 tvg-name="Antes que Termine o Dia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRduoGq6vIeNQjsxc60OmF3gqip.jpg" group-title="♠️Filmes | Fantasia",Antes que Termine o Dia
+http://172.110.219.252:80/movie/89754974222122/5207418122/4826811.mp4
+#EXTINF:-1 tvg-name="A Última Jornada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8swZAUefTHzK8cCEpgLOXzBH7QE.jpg" group-title="♠️Filmes | Fantasia",A Última Jornada
+http://172.110.219.252:80/movie/89754974222122/5207418122/4827002.mp4
+#EXTINF:-1 tvg-name="O Pequeno Príncipe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4utMOX0GJJqUjJphLSsDlOr89zT.jpg" group-title="♠️Filmes | Fantasia",O Pequeno Príncipe
+http://172.110.219.252:80/movie/89754974222122/5207418122/4827005.mp4
+#EXTINF:-1 tvg-name="Riddick 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoNsvIBOIVegeCTzQBiOZUpC5Ml.jpg" group-title="♠️Filmes | Fantasia",Riddick 3
+http://172.110.219.252:80/movie/89754974222122/5207418122/4827027.mp4
+#EXTINF:-1 tvg-name="Anjos da Noite 5" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mM2D6fQFz3BjQaIHwqSniglD4iX.jpg" group-title="♠️Filmes | Fantasia",Anjos da Noite 5
+http://172.110.219.252:80/movie/89754974222122/5207418122/4827201.mp4
+#EXTINF:-1 tvg-name="Guerra dos Mundos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aU42RNFpLgXsg0Tsgo8g8RPji0N.jpg" group-title="♠️Filmes | Fantasia",Guerra dos Mundos
+http://172.110.219.252:80/movie/89754974222122/5207418122/4827416.mp4
+#EXTINF:-1 tvg-name="Darken O Universo Paralelo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/NiAom7x6McYHZxGHi3r8fUgH1F.jpg" group-title="♠️Filmes | Fantasia",Darken O Universo Paralelo
+http://172.110.219.252:80/movie/89754974222122/5207418122/4827739.mp4
+#EXTINF:-1 tvg-name="Quando os Sinos Tocam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ja4VqlrXYS07EDnUUzfcXomP9cd.jpg" group-title="♠️Filmes | Fantasia",Quando os Sinos Tocam
+http://172.110.219.252:80/movie/89754974222122/5207418122/4827803.mp4
+#EXTINF:-1 tvg-name="Brilho Eterno De Uma Mente Sem Lembrancas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3k9Y2886Uo6owGxoCteHSngwA6.jpg" group-title="♠️Filmes | Fantasia",Brilho Eterno De Uma Mente Sem Lembrancas
+http://172.110.219.252:80/movie/89754974222122/5207418122/4827856.mp4
+#EXTINF:-1 tvg-name="Perseguição às Bruxas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8L7u2Bh0y9QCf0bO0K0y7gzytaK.jpg" group-title="♠️Filmes | Fantasia",Perseguição às Bruxas
+http://172.110.219.252:80/movie/89754974222122/5207418122/4828062.mp4
+#EXTINF:-1 tvg-name="Muppets Haunted Mansion: A Festa Aterrorizante" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hctd04c3kD7TppVA577C3L51yqg.jpg" group-title="♠️Filmes | Fantasia",Muppets Haunted Mansion: A Festa Aterrorizante
+http://172.110.219.252:80/movie/89754974222122/5207418122/4828112.mp4
+#EXTINF:-1 tvg-name="Meu Amigo Robô" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YLaOOTiRtTeErBIU7k1uZk1xmd.jpg" group-title="♠️Filmes | Fantasia",Meu Amigo Robô
+http://172.110.219.252:80/movie/89754974222122/5207418122/4828268.mp4
+#EXTINF:-1 tvg-name="A Chave Mágica" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZMmUOzxIWEd8ClJjJZCC33UmVu.jpg" group-title="♠️Filmes | Fantasia",A Chave Mágica
+http://172.110.219.252:80/movie/89754974222122/5207418122/4828276.mp4
+#EXTINF:-1 tvg-name="Riddick 2" tvg-logo="http://gstaticontent.com/images/pfKnyehXOdFFKO1akcW7kdEKz82_big.jpg" group-title="♠️Filmes | Fantasia",Riddick 2
+http://172.110.219.252:80/movie/89754974222122/5207418122/4828308.mp4
+#EXTINF:-1 tvg-name="Anjos da Noite 4" tvg-logo="http://gstaticontent.com/images/u6GY91MCrmUdMeUIxbw9JXvblES_big.jpg" group-title="♠️Filmes | Fantasia",Anjos da Noite 4
+http://172.110.219.252:80/movie/89754974222122/5207418122/4828418.mp4
+#EXTINF:-1 tvg-name="Monster Hunter" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Q8IYWXYPW5yeiYdUSKEQiwBUzi.jpg" group-title="♠️Filmes | Fantasia",Monster Hunter
+http://172.110.219.252:80/movie/89754974222122/5207418122/4828480.mp4
+#EXTINF:-1 tvg-name="Descendentes: A Ascensão de Copas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOb3V9j4pt546e93CLMYudp9uZq.jpg" group-title="♠️Filmes | Fantasia",Descendentes: A Ascensão de Copas
+http://172.110.219.252:80/movie/89754974222122/5207418122/4828563.mp4
+#EXTINF:-1 tvg-name="A Menina e o Leão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mU6uKlTEi00KG3TdRNeuHONHiZi.jpg" group-title="♠️Filmes | Fantasia",A Menina e o Leão
+http://172.110.219.252:80/movie/89754974222122/5207418122/4828568.mp4
+#EXTINF:-1 tvg-name="Black Mirror - Bandersnatch" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fR0VZ0VE598zl1lrYf7IfBqEwQ2.jpg" group-title="♠️Filmes | Fantasia",Black Mirror - Bandersnatch
+http://172.110.219.252:80/movie/89754974222122/5207418122/4828597.mp4
+#EXTINF:-1 tvg-name="Hook: A Volta do Capitão Gancho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xvJUSXz9wo97kvgABUDgBCsUNp.jpg" group-title="♠️Filmes | Fantasia",Hook: A Volta do Capitão Gancho
+http://172.110.219.252:80/movie/89754974222122/5207418122/4828674.mp4
+#EXTINF:-1 tvg-name="A Menina e o Porquinho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iY2EoEvVPqU01toUVduVaczfAWv.jpg" group-title="♠️Filmes | Fantasia",A Menina e o Porquinho
+http://172.110.219.252:80/movie/89754974222122/5207418122/4828675.mp4
+#EXTINF:-1 tvg-name="Manual de Caça a Monstros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEKwyhgdAfw41zcMc9VAuKOdNN8.jpg" group-title="♠️Filmes | Fantasia",Manual de Caça a Monstros
+http://172.110.219.252:80/movie/89754974222122/5207418122/4828726.mp4
+#EXTINF:-1 tvg-name="Sparkle: Um Conto Mágico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cS1XzPqKJqgVBp78Ijth3SEtVwX.jpg" group-title="♠️Filmes | Fantasia",Sparkle: Um Conto Mágico
+http://172.110.219.252:80/movie/89754974222122/5207418122/4828732.mp4
+#EXTINF:-1 tvg-name="Riddick 1" tvg-logo="http://gstaticontent.com/images/7V4WfCUWYzMcBby8e6jAwVxw2Ai_big.jpg" group-title="♠️Filmes | Fantasia",Riddick 1
+http://172.110.219.252:80/movie/89754974222122/5207418122/4828739.mp4
+#EXTINF:-1 tvg-name="Anjos da Noite 3" tvg-logo="http://gstaticontent.com/images/atPv2WJzlD76ZQP3wjaixZooR1l_big.jpg" group-title="♠️Filmes | Fantasia",Anjos da Noite 3
+http://172.110.219.252:80/movie/89754974222122/5207418122/4828780.mp4
+#EXTINF:-1 tvg-name="A Bela e a Fera (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iQONLfZmFDgyo6m8yQir64jO8Z.jpg" group-title="♠️Filmes | Fantasia",A Bela e a Fera (2017)
+http://172.110.219.252:80/movie/89754974222122/5207418122/4828838.mp4
+#EXTINF:-1 tvg-name="Circo dos Horrores - Aprendiz de Vampiro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axRtGR62F8EpQkwTA35LxexVD9T.jpg" group-title="♠️Filmes | Fantasia",Circo dos Horrores - Aprendiz de Vampiro
+http://172.110.219.252:80/movie/89754974222122/5207418122/4828907.mp4
+#EXTINF:-1 tvg-name="Os Investigadores e a Maldição da Montanha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJAZxJAf8bZsmeTgARqXlmqF5Kq.jpg" group-title="♠️Filmes | Fantasia",Os Investigadores e a Maldição da Montanha
+http://172.110.219.252:80/movie/89754974222122/5207418122/4828923.mp4
+#EXTINF:-1 tvg-name="As Tartarugas Ninja 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28CV4RE4BayVZnbw7FdXbcvzSQb.jpg" group-title="♠️Filmes | Fantasia",As Tartarugas Ninja 2
+http://172.110.219.252:80/movie/89754974222122/5207418122/4828955.mp4
+#EXTINF:-1 tvg-name="Em Algum Lugar do Passado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKGMcizZuTMKMkqmdP9cRECtwyQ.jpg" group-title="♠️Filmes | Fantasia",Em Algum Lugar do Passado
+http://172.110.219.252:80/movie/89754974222122/5207418122/4829035.mp4
+#EXTINF:-1 tvg-name="Abracadabra 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8G7EaPTocE0ok3YNxo972woo9EP.jpg" group-title="♠️Filmes | Fantasia",Abracadabra 2
+http://172.110.219.252:80/movie/89754974222122/5207418122/4829040.mp4
+#EXTINF:-1 tvg-name="Contos do Caçador de Sombras" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/myKEaA1a1fnDxjqDrz3ZI6U3Bxx.jpg" group-title="♠️Filmes | Fantasia",Contos do Caçador de Sombras
+http://172.110.219.252:80/movie/89754974222122/5207418122/4829088.mp4
+#EXTINF:-1 tvg-name="Prometheus" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1GZVllOORTiN0XTPdumt9CSAcc.jpg" group-title="♠️Filmes | Fantasia",Prometheus
+http://172.110.219.252:80/movie/89754974222122/5207418122/4829101.mp4
+#EXTINF:-1 tvg-name="Anjos da Noite 2" tvg-logo="http://gstaticontent.com/images/bI2VTnT7EjYt4ZJEHn0cmJQYqpV_big.jpg" group-title="♠️Filmes | Fantasia",Anjos da Noite 2
+http://172.110.219.252:80/movie/89754974222122/5207418122/4829142.mp4
+#EXTINF:-1 tvg-name="Contatos Imediatos do Terceiro Grau" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXO1HXjuzZ4u1ZB1GuPHIDg5PSR.jpg" group-title="♠️Filmes | Fantasia",Contatos Imediatos do Terceiro Grau
+http://172.110.219.252:80/movie/89754974222122/5207418122/4829202.mp4
+#EXTINF:-1 tvg-name="A Academia do Sr. Kleks" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykZvwO1YvWCTV4XajuYBUXeubHA.jpg" group-title="♠️Filmes | Fantasia",A Academia do Sr. Kleks
+http://172.110.219.252:80/movie/89754974222122/5207418122/4829247.mp4
+#EXTINF:-1 tvg-name="Dummie A Mumia E A Tumba De Achnetut" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2obwJYn2N9teDclkgCgr79I5Y1R.jpg" group-title="♠️Filmes | Fantasia",Dummie A Mumia E A Tumba De Achnetut
+http://172.110.219.252:80/movie/89754974222122/5207418122/4829285.mp4
+#EXTINF:-1 tvg-name="As Tartarugas Ninja 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udkk1VQY9wgarV7xZ9qcraa7Qsd.jpg" group-title="♠️Filmes | Fantasia",As Tartarugas Ninja 1
+http://172.110.219.252:80/movie/89754974222122/5207418122/4829311.mp4
+#EXTINF:-1 tvg-name="Rainbow" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aakn1JBKwMQmT6CUFV7jRLb9D0h.jpg" group-title="♠️Filmes | Fantasia",Rainbow
+http://172.110.219.252:80/movie/89754974222122/5207418122/4829378.mp4
+#EXTINF:-1 tvg-name="O Gato" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40TWMjAZfN2MxF0npfA3P3Jx03Z.jpg" group-title="♠️Filmes | Fantasia",O Gato
+http://172.110.219.252:80/movie/89754974222122/5207418122/4829393.mp4
+#EXTINF:-1 tvg-name="Attraction 2: A Invasão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zT6jdeKbBlGHpkFbWF7HZNv7rUB.jpg" group-title="♠️Filmes | Fantasia",Attraction 2: A Invasão
+http://172.110.219.252:80/movie/89754974222122/5207418122/4829446.mp4
+#EXTINF:-1 tvg-name="Prometheus 2 - Alien Covenant" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNJqsL3ekBPUXsSDu6oABGZkJMM.jpg" group-title="♠️Filmes | Fantasia",Prometheus 2 - Alien Covenant
+http://172.110.219.252:80/movie/89754974222122/5207418122/4829462.mp4
+#EXTINF:-1 tvg-name="Anjos da Noite 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DraJB84CY1UX6IKEjdQbWEJcUQ.jpg" group-title="♠️Filmes | Fantasia",Anjos da Noite 1
+http://172.110.219.252:80/movie/89754974222122/5207418122/4829500.mp4
+#EXTINF:-1 tvg-name="Animais Fantásticos: Os Segredos de Dumbledore" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ha2sRkoBLO3VZuEUvzlKJi0hCF3.jpg" group-title="♠️Filmes | Fantasia",Animais Fantásticos: Os Segredos de Dumbledore
+http://172.110.219.252:80/movie/89754974222122/5207418122/4829549.mp4
+#EXTINF:-1 tvg-name="Mulher-Maravilha 1984" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDA95ebiy3W3m8hTRB3xZNZVVBM.jpg" group-title="♠️Filmes | Fantasia",Mulher-Maravilha 1984
+http://172.110.219.252:80/movie/89754974222122/5207418122/4829563.mp4
+#EXTINF:-1 tvg-name="A Colina Escarlate" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blDoxeetdq1n9n9RbXCoNIV3hzV.jpg" group-title="♠️Filmes | Fantasia",A Colina Escarlate
+http://172.110.219.252:80/movie/89754974222122/5207418122/4829643.mp4
+#EXTINF:-1 tvg-name="Anon" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhBTO9n3fxy3HJt7WlR9h9vvVmk.jpg" group-title="♠️Filmes | Fantasia",Anon
+http://172.110.219.252:80/movie/89754974222122/5207418122/4829674.mp4
+#EXTINF:-1 tvg-name="Espelho, Espelho Meu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/SzYZdrFn6esiwIKP0Mx2ukaIqn.jpg" group-title="♠️Filmes | Fantasia",Espelho, Espelho Meu
+http://172.110.219.252:80/movie/89754974222122/5207418122/4829699.mp4
+#EXTINF:-1 tvg-name="Pinóquio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ehp2KCOHwOwQpBXxyjzfLpngzY.jpg" group-title="♠️Filmes | Fantasia",Pinóquio (2022)
+http://172.110.219.252:80/movie/89754974222122/5207418122/4829736.mp4
+#EXTINF:-1 tvg-name="Magia Invertida" tvg-logo="http://gstaticontent.com/images/1WXhpygouqZ0eOAUKhrlSVonyBi_big.jpg" group-title="♠️Filmes | Fantasia",Magia Invertida
+http://172.110.219.252:80/movie/89754974222122/5207418122/4829811.mp4
+#EXTINF:-1 tvg-name="Power Rangers" tvg-logo="http://gstaticontent.com/images/69Eheo6f01q9T5Af1498oIRPcEC_big.jpg" group-title="♠️Filmes | Fantasia",Power Rangers
+http://172.110.219.252:80/movie/89754974222122/5207418122/4829820.mp4
+#EXTINF:-1 tvg-name="Animais Fantásticos: Os Crimes de Grindelwald" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXm5c31iPjGfgs3qP1d7zaKJtpa.jpg" group-title="♠️Filmes | Fantasia",Animais Fantásticos: Os Crimes de Grindelwald
+http://172.110.219.252:80/movie/89754974222122/5207418122/4829853.mp4
+#EXTINF:-1 tvg-name="Alice no Pais das Maravilhas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvD0kvICG7hP03vrNvylUINhafM.jpg" group-title="♠️Filmes | Fantasia",Alice no Pais das Maravilhas
+http://172.110.219.252:80/movie/89754974222122/5207418122/4829860.mp4
+#EXTINF:-1 tvg-name="A Estranha Vida De Timothy Green" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DzAiR21jQpuy832gIGCdUdnOvm.jpg" group-title="♠️Filmes | Fantasia",A Estranha Vida De Timothy Green
+http://172.110.219.252:80/movie/89754974222122/5207418122/4829921.mp4
+#EXTINF:-1 tvg-name="Saida Proibida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s58F5VUMZYv7bbNX5IadOYsR8Oz.jpg" group-title="♠️Filmes | Fantasia",Saida Proibida
+http://172.110.219.252:80/movie/89754974222122/5207418122/4830003.mp4
+#EXTINF:-1 tvg-name="Alien vs Predador 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4L66GQxKEEEvvpOybMyPI7G9Lb.jpg" group-title="♠️Filmes | Fantasia",Alien vs Predador 2
+http://172.110.219.252:80/movie/89754974222122/5207418122/4830034.mp4
+#EXTINF:-1 tvg-name="Noitários de Arrepiar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NTrSviwKL8GxGySG0n1ooyiFMA.jpg" group-title="♠️Filmes | Fantasia",Noitários de Arrepiar
+http://172.110.219.252:80/movie/89754974222122/5207418122/4830085.mp4
+#EXTINF:-1 tvg-name="Invasão Alienígena: Hudson Valley" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGeS46JuFkpfjCSYO3G7xQK4UPn.jpg" group-title="♠️Filmes | Fantasia",Invasão Alienígena: Hudson Valley
+http://172.110.219.252:80/movie/89754974222122/5207418122/4830097.mp4
+#EXTINF:-1 tvg-name="Jack: O Caçador de Gigantes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCp3BLjQc1qZTbw9VrEzuON9NEG.jpg" group-title="♠️Filmes | Fantasia",Jack: O Caçador de Gigantes
+http://172.110.219.252:80/movie/89754974222122/5207418122/4830157.mp4
+#EXTINF:-1 tvg-name="Sociedade Secreta dos Segundos Filhos Reais" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9f4D8zjF9fUEVI42WWBcvuRKytL.jpg" group-title="♠️Filmes | Fantasia",Sociedade Secreta dos Segundos Filhos Reais
+http://172.110.219.252:80/movie/89754974222122/5207418122/4830168.mp4
+#EXTINF:-1 tvg-name="Os Guardioes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NG1sSzoy6bUs1b4LdC23fywHpE.jpg" group-title="♠️Filmes | Fantasia",Os Guardioes
+http://172.110.219.252:80/movie/89754974222122/5207418122/4830184.mp4
+#EXTINF:-1 tvg-name="Alice Atraves do Espelho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHANJfW7hk2weM532IpUthgAQfo.jpg" group-title="♠️Filmes | Fantasia",Alice Atraves do Espelho
+http://172.110.219.252:80/movie/89754974222122/5207418122/4830220.mp4
+#EXTINF:-1 tvg-name="Peixe Grande E Suas Historias Maravilhosas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhgByY7qssUuttfNZCmQwGjiQIs.jpg" group-title="♠️Filmes | Fantasia",Peixe Grande E Suas Historias Maravilhosas
+http://172.110.219.252:80/movie/89754974222122/5207418122/4830284.mp4
+#EXTINF:-1 tvg-name="Dumbo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4x9FmvdJ464Fg7A9XcbYSmxfVw3.jpg" group-title="♠️Filmes | Fantasia",Dumbo
+http://172.110.219.252:80/movie/89754974222122/5207418122/4830360.mp4
+#EXTINF:-1 tvg-name="Alien vs Predador 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/esrGz7pDcssKPIxykO52rimIILQ.jpg" group-title="♠️Filmes | Fantasia",Alien vs Predador 1
+http://172.110.219.252:80/movie/89754974222122/5207418122/4830390.mp4
+#EXTINF:-1 tvg-name="Animais Fantásticos e Onde Habitam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hi04DrUYrNInswI8Kaf9qsTkIDt.jpg" group-title="♠️Filmes | Fantasia",Animais Fantásticos e Onde Habitam
+http://172.110.219.252:80/movie/89754974222122/5207418122/4830442.mp4
+#EXTINF:-1 tvg-name="Meu Amigo, o Unicórnio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lUJmAndoZWCeIivimGRgswIlxR.jpg" group-title="♠️Filmes | Fantasia",Meu Amigo, o Unicórnio
+http://172.110.219.252:80/movie/89754974222122/5207418122/4830444.mp4
+#EXTINF:-1 tvg-name="O Último Dragão" tvg-logo="http://gstaticontent.com/images/6234f4f351b07fa5eb72066c4ee661b4.jpg" group-title="♠️Filmes | Fantasia",O Último Dragão
+http://172.110.219.252:80/movie/89754974222122/5207418122/4830459.mp4
+#EXTINF:-1 tvg-name="The Ash Lad: Em Busca do Castelo Dourado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDKrLfuaqVAQ8L3etC7Kd34fjDu.jpg" group-title="♠️Filmes | Fantasia",The Ash Lad: Em Busca do Castelo Dourado
+http://172.110.219.252:80/movie/89754974222122/5207418122/4830525.mp4
+#EXTINF:-1 tvg-name="Onde Esta Segunda" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIDqKzz7Y0Unm9Sv4HW48EAW1CA.jpg" group-title="♠️Filmes | Fantasia",Onde Esta Segunda
+http://172.110.219.252:80/movie/89754974222122/5207418122/4830542.mp4
+#EXTINF:-1 tvg-name="A Maldicao da Bela Adormecida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8M9qjL1j47MYjxKjnLKEBHtg8j.jpg" group-title="♠️Filmes | Fantasia",A Maldicao da Bela Adormecida
+http://172.110.219.252:80/movie/89754974222122/5207418122/4830556.mp4
+#EXTINF:-1 tvg-name="Cyborg O Dragao Do Futuro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EDL970loaMozKVT36ovPFf9tRD.jpg" group-title="♠️Filmes | Fantasia",Cyborg O Dragao Do Futuro
+http://172.110.219.252:80/movie/89754974222122/5207418122/4830642.mp4
+#EXTINF:-1 tvg-name="Paralisia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14yjlCTSr6UZbd528OGDjHivmlz.jpg" group-title="♠️Filmes | Fantasia",Paralisia
+http://172.110.219.252:80/movie/89754974222122/5207418122/4830717.mp4
+#EXTINF:-1 tvg-name="Dezesseis Luas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BcxlJFLBk9DpDpcKYFExc4iubS.jpg" group-title="♠️Filmes | Fantasia",Dezesseis Luas
+http://172.110.219.252:80/movie/89754974222122/5207418122/4830752.mp4
+#EXTINF:-1 tvg-name="A Origem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3Vnq3FvBgjFqX6G5f8zjwCeQC0.jpg" group-title="♠️Filmes | Fantasia",A Origem
+http://172.110.219.252:80/movie/89754974222122/5207418122/4830761.mp4
+#EXTINF:-1 tvg-name="Regresso do Mal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ah2e9jcm2ySJq6pFvIgIX4KcVvi.jpg" group-title="♠️Filmes | Fantasia",Regresso do Mal
+http://172.110.219.252:80/movie/89754974222122/5207418122/4830821.mp4
+#EXTINF:-1 tvg-name="O Último Trem pro Natal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkVUORoeRbRnAq5IkN4Pwq45R07.jpg" group-title="♠️Filmes | Fantasia",O Último Trem pro Natal
+http://172.110.219.252:80/movie/89754974222122/5207418122/4830822.mp4
+#EXTINF:-1 tvg-name="Contos do Amanhã" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sDSM31tW04ReR9DiuJhjeS41wM.jpg" group-title="♠️Filmes | Fantasia",Contos do Amanhã
+http://172.110.219.252:80/movie/89754974222122/5207418122/4830891.mp4
+#EXTINF:-1 tvg-name="Oblivion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qL1qC0BCIgOvCLKyVj8bIeijMY9.jpg" group-title="♠️Filmes | Fantasia",Oblivion
+http://172.110.219.252:80/movie/89754974222122/5207418122/4830902.mp4
+#EXTINF:-1 tvg-name="A Liga Extraordinaria" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6cFlPBpEsMi6wzCIir65EcCzy9.jpg" group-title="♠️Filmes | Fantasia",A Liga Extraordinaria
+http://172.110.219.252:80/movie/89754974222122/5207418122/4830908.mp4
+#EXTINF:-1 tvg-name="Nelly Rapp e o Espelho da Morte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvVs7Oy4NgyOtQ6bz9081xhzjQx.jpg" group-title="♠️Filmes | Fantasia",Nelly Rapp e o Espelho da Morte
+http://172.110.219.252:80/movie/89754974222122/5207418122/4830982.mp4
+#EXTINF:-1 tvg-name="O Príncipe Esquecido" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cktr5OUrHjTPUzRAwJvplpvZPEs.jpg" group-title="♠️Filmes | Fantasia",O Príncipe Esquecido
+http://172.110.219.252:80/movie/89754974222122/5207418122/4831000.mp4
+#EXTINF:-1 tvg-name="A Rebeliao" tvg-logo="http://gstaticontent.com/images/yMicD9GcQWFbOTxjTQHPygxbmdO_big.jpg" group-title="♠️Filmes | Fantasia",A Rebeliao
+http://172.110.219.252:80/movie/89754974222122/5207418122/4831074.mp4
+#EXTINF:-1 tvg-name="A 5a Onda" tvg-logo="http://gstaticontent.com/images/asPv5M6bUn270EcUXUnEnC8CkB7_big.jpg" group-title="♠️Filmes | Fantasia",A 5a Onda
+http://172.110.219.252:80/movie/89754974222122/5207418122/4831150.mp4
+#EXTINF:-1 tvg-name="R.I.P.D.: Agentes do Além" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwrmdGGGFnylffZqZgkoJa31DOn.jpg" group-title="♠️Filmes | Fantasia",R.I.P.D.: Agentes do Além
+http://172.110.219.252:80/movie/89754974222122/5207418122/4831179.mp4
+#EXTINF:-1 tvg-name="Z-O-M-B-I-E-S 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QxbpQgzmTQjezu9YOeBk8JFzKg.jpg" group-title="♠️Filmes | Fantasia",Z-O-M-B-I-E-S 3
+http://172.110.219.252:80/movie/89754974222122/5207418122/4831199.mp4
+#EXTINF:-1 tvg-name="Valhalla: A Lenda de Thor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wls6yVzkdVaPNYEUnO0mI0K839u.jpg" group-title="♠️Filmes | Fantasia",Valhalla: A Lenda de Thor
+http://172.110.219.252:80/movie/89754974222122/5207418122/4831250.mp4
+#EXTINF:-1 tvg-name="O Ultimo Cacador de Bruxas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1ZUkSp18UvX53jaitbniAUXxZY.jpg" group-title="♠️Filmes | Fantasia",O Ultimo Cacador de Bruxas
+http://172.110.219.252:80/movie/89754974222122/5207418122/4831263.mp4
+#EXTINF:-1 tvg-name="A Lenda" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dsPVbw8763gl8qX0Z6w9jt9xe82.jpg" group-title="♠️Filmes | Fantasia",A Lenda
+http://172.110.219.252:80/movie/89754974222122/5207418122/4831266.mp4
+#EXTINF:-1 tvg-name="O Mapa das Pequenas Coisas Perfeitas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djMLMmgVQ3MBEj2vHipBki5d5ol.jpg" group-title="♠️Filmes | Fantasia",O Mapa das Pequenas Coisas Perfeitas
+http://172.110.219.252:80/movie/89754974222122/5207418122/4831367.mp4
+#EXTINF:-1 tvg-name="Copias de Volta a Vida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2R1xCxt6b1lkeEk33u86hqQDe6.jpg" group-title="♠️Filmes | Fantasia",Copias de Volta a Vida
+http://172.110.219.252:80/movie/89754974222122/5207418122/4831428.mp4
+#EXTINF:-1 tvg-name="2036 Origem Desconhecida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3StJTYXbU3OZ26Vh1PbczqfyCD.jpg" group-title="♠️Filmes | Fantasia",2036 Origem Desconhecida
+http://172.110.219.252:80/movie/89754974222122/5207418122/4831500.mp4
+#EXTINF:-1 tvg-name="Jane Goodall: A Esperança" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tn7oWdDC541wX7jTJMaLf9aBZsZ.jpg" group-title="♠️Filmes | Fantasia",Jane Goodall: A Esperança
+http://172.110.219.252:80/movie/89754974222122/5207418122/4831523.mp4
+#EXTINF:-1 tvg-name="O Filho do Máskara (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYiQoSOtnKqdlpIqNGr3JS7xKBx.jpg" group-title="♠️Filmes | Fantasia",O Filho do Máskara (2005)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5095059.mp4
+#EXTINF:-1 tvg-name="Abracadabra (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a41Qgoqki0s7A4cHbsbijMcBIVH.jpg" group-title="♠️Filmes | Fantasia",Abracadabra (1993)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5095072.mp4
+#EXTINF:-1 tvg-name="Branca de Neve e os Sete Anões (1938)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5l0dsoLXP2eifLQ0lFCYNC5Lcv0.jpg" group-title="♠️Filmes | Fantasia",Branca de Neve e os Sete Anões (1938)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5095140.mp4
+#EXTINF:-1 tvg-name="Medusa (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/da45lotiMcUGbnQgQ4thYZpoFIw.jpg" group-title="♠️Filmes | Fantasia",Medusa (2021)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5095352.mp4
+#EXTINF:-1 tvg-name="ZOMBIES 4: A Era dos Vampiros (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hkr3teBIjkgIYXTk0V36CThSVL.jpg" group-title="♠️Filmes | Fantasia",ZOMBIES 4: A Era dos Vampiros (2025)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5095371.mp4
+#EXTINF:-1 tvg-name="O Aprendiz de Feiticeiro (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYySizWljBGpNlulo6OHwciQQdv.jpg" group-title="♠️Filmes | Fantasia",O Aprendiz de Feiticeiro (2010)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5095411.mp4
+#EXTINF:-1 tvg-name="Anjos Rebeldes (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KJs2jViXLEjlGcqB9xZSfHzVCJ.jpg" group-title="♠️Filmes | Fantasia",Anjos Rebeldes (1995)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096672.mp4
+#EXTINF:-1 tvg-name="Floresta Negra (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eukFo8VY3kRzrO8jtmANzRQHc3S.jpg" group-title="♠️Filmes | Fantasia",Floresta Negra (1997)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096679.mp4
+#EXTINF:-1 tvg-name="A Sociedade Norte-Americana dos Negros Mágicos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGc9SKYuRg63H4IJw0HDUor0SU8.jpg" group-title="♠️Filmes | Fantasia",A Sociedade Norte-Americana dos Negros Mágicos (2024)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096206.mp4
+#EXTINF:-1 tvg-name="A Mulher do Lago (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHFUecfqY5BNdiG1ycYdPL3wPbQ.jpg" group-title="♠️Filmes | Fantasia",A Mulher do Lago (2019)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096207.mp4
+#EXTINF:-1 tvg-name="The Unhealer (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEuKhYfeS4dz0uQj1yTZ2Gl8yNH.jpg" group-title="♠️Filmes | Fantasia",The Unhealer (2021)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096208.mp4
+#EXTINF:-1 tvg-name="Meu Papai é Noel 2 (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKtcT1pZIR3eY8JkItZyuaQc72y.jpg" group-title="♠️Filmes | Fantasia",Meu Papai é Noel 2 (2002)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096209.mp4
+#EXTINF:-1 tvg-name="Manequim: A Magia do Amor (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtfAR8tXi8gFJigGGvqyw6vawc3.jpg" group-title="♠️Filmes | Fantasia",Manequim: A Magia do Amor (1991)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096210.mp4
+#EXTINF:-1 tvg-name="Batman: O Mistério da Mulher-Morcego (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJCDOMdjmy3yyClzJxGkJesyCiU.jpg" group-title="♠️Filmes | Fantasia",Batman: O Mistério da Mulher-Morcego (2003)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096211.mp4
+#EXTINF:-1 tvg-name="A Lenda dos Cavaleiros da Água (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BicyBZ6oP0V7Bf3HynvMCsAUza.jpg" group-title="♠️Filmes | Fantasia",A Lenda dos Cavaleiros da Água (2024)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096212.mp4
+#EXTINF:-1 tvg-name="A Lenda do Cavaleiro Sem Cabeça (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxOuNnW2qrOOFtiPVJtx5aRAJoX.jpg" group-title="♠️Filmes | Fantasia",A Lenda do Cavaleiro Sem Cabeça (1999)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096213.mp4
+#EXTINF:-1 tvg-name="A Vida de Chuck (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHPycdo2OOzsXf9GqdPp1zCEHuU.jpg" group-title="♠️Filmes | Fantasia",A Vida de Chuck (2025)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096214.mp4
+#EXTINF:-1 tvg-name="Guerreiros da Virtude (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/imOcpaBQsDmvB5NL72aFIH2OUHg.jpg" group-title="♠️Filmes | Fantasia",Guerreiros da Virtude (1997)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096215.mp4
+#EXTINF:-1 tvg-name="Gabriel: A Vinganca de um Anjo (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/832FABriuQ4ivW3yiInx9FitUFQ.jpg" group-title="♠️Filmes | Fantasia",Gabriel: A Vinganca de um Anjo (2007)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096216.mp4
+#EXTINF:-1 tvg-name="Os Ratos: Uma História de The Witcher (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kC3RUDlTk0KcOFWEPWlgtDxcTTz.jpg" group-title="♠️Filmes | Fantasia",Os Ratos: Uma História de The Witcher (2025)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096217.mp4
+#EXTINF:-1 tvg-name="A Lenda do Cavaleiro Sem Cabeça (1949)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bt8qmhxVsgbxFLQCoAcekdCFiw.jpg" group-title="♠️Filmes | Fantasia",A Lenda do Cavaleiro Sem Cabeça (1949)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096218.mp4
+#EXTINF:-1 tvg-name="Jovens Bruxas (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gi0NjXjO299vXmECIgV3Hx670qe.jpg" group-title="♠️Filmes | Fantasia",Jovens Bruxas (1996)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096219.mp4
+#EXTINF:-1 tvg-name="Arizona Dream - Um Sonho Americano (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WFAtyRyIvai011y2WL4GgpyXdO.jpg" group-title="♠️Filmes | Fantasia",Arizona Dream - Um Sonho Americano (1993)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096220.mp4
+#EXTINF:-1 tvg-name="Os Vourdalak (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2FOSsY817pAUph6C3nCNEL5HP7M.jpg" group-title="♠️Filmes | Fantasia",Os Vourdalak (2023)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096221.mp4
+#EXTINF:-1 tvg-name="Sete Minutos Depois da Meia-Noite (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YyikxaXMqouiyBmO6I1OUf5T9v.jpg" group-title="♠️Filmes | Fantasia",Sete Minutos Depois da Meia-Noite (2016)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096222.mp4
+#EXTINF:-1 tvg-name="Howard, o Super-Herói (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o471Swsc93IFUcixFRlhajNMl18.jpg" group-title="♠️Filmes | Fantasia",Howard, o Super-Herói (1986)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096223.mp4
+#EXTINF:-1 tvg-name="De Volta ao Velho Oeste (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbtpbqGt0U24zhtRd6U3CdY61UG.jpg" group-title="♠️Filmes | Fantasia",De Volta ao Velho Oeste (2022)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096224.mp4
+#EXTINF:-1 tvg-name="Maldição de Crom: A Lenda do Halloween (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8YqXTQoInK3ZnO47Rlc33P19VL.jpg" group-title="♠️Filmes | Fantasia",Maldição de Crom: A Lenda do Halloween (2022)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096225.mp4
+#EXTINF:-1 tvg-name="Voldemort A Origem do Herdeiro" tvg-logo="https://br.web.img3.acsta.net/pictures/17/12/04/20/34/4872687.jpg" group-title="♠️Filmes | Fantasia",Voldemort A Origem do Herdeiro
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096226.mp4
+#EXTINF:-1 tvg-name="Travessia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLsmPJbeba2yDgV9IgLKc5HIwRs.jpg" group-title="♠️Filmes | Fantasia",Travessia (2019)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096227.mp4
+#EXTINF:-1 tvg-name="Carmen and Magic (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99feejND8bJIV7qYsMkMw9atc5a.jpg" group-title="♠️Filmes | Fantasia",Carmen and Magic (2025)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096228.mp4
+#EXTINF:-1 tvg-name="Sob a Lua Cheia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70c3R1p2OL0vtplOSNUOjWk9NwC.jpg" group-title="♠️Filmes | Fantasia",Sob a Lua Cheia (2024)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096229.mp4
+#EXTINF:-1 tvg-name="Wicked: Parte II (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8VUn52P2qFepxG8b5W8pjS7DzCT.jpg" group-title="♠️Filmes | Fantasia",Wicked: Parte II (2025)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096230.mp4
+#EXTINF:-1 tvg-name="Criaturas da Noite (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVCzI7dAkWTrEftV07cHSW0Usz9.jpg" group-title="♠️Filmes | Fantasia",Criaturas da Noite (2016)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096231.mp4
+#EXTINF:-1 tvg-name="Powder Pup (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlhNmpozwtwm5HvUePppabCamkh.jpg" group-title="♠️Filmes | Fantasia",Powder Pup (2024)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096232.mp4
+#EXTINF:-1 tvg-name="Cada Um na Sua Casa (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oPaWNQKrQ3enUzNbEQqadWGAuwJ.jpg" group-title="♠️Filmes | Fantasia",Cada Um na Sua Casa (2015)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096233.mp4
+#EXTINF:-1 tvg-name="Meu Papai é Noel (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h39EEkZCT6K6k9uwkO3G2fk0UfV.jpg" group-title="♠️Filmes | Fantasia",Meu Papai é Noel (1994)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096234.mp4
+#EXTINF:-1 tvg-name="Guerreiras do K-Pop (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbdMa7woiuF7IiEB5Spwv5od4oo.jpg" group-title="♠️Filmes | Fantasia",Guerreiras do K-Pop (2025)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096235.mp4
+#EXTINF:-1 tvg-name="As Crônicas de Nárnia: Príncipe Caspian (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylf6hzCN4MU8Xt9xlypEySd75Z2.jpg" group-title="♠️Filmes | Fantasia",As Crônicas de Nárnia: Príncipe Caspian (2008)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096236.mp4
+#EXTINF:-1 tvg-name="A Vida de Chuck (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHPycdo2OOzsXf9GqdPp1zCEHuU.jpg" group-title="♠️Filmes | Fantasia",A Vida de Chuck (2025)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096237.mp4
+#EXTINF:-1 tvg-name="Fúria de Titãs (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LObtR57MxWD7Me0tiRaqgrqKQD.jpg" group-title="♠️Filmes | Fantasia",Fúria de Titãs (1981)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096238.mp4
+#EXTINF:-1 tvg-name="A Lenda de Ochi (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/WqxyyacuNBonVEm3VVh01BK1a3.jpg" group-title="♠️Filmes | Fantasia",A Lenda de Ochi (2025)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096239.mp4
+#EXTINF:-1 tvg-name="O Feitiço de Áquila (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8pevNw9wHLmIxyUjVpUxQ52nKjH.jpg" group-title="♠️Filmes | Fantasia",O Feitiço de Áquila (1985)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096240.mp4
+#EXTINF:-1 tvg-name="Um Natal em Biltmore (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZ51dIN3BzvmqbZjh1qhosl40Zk.jpg" group-title="♠️Filmes | Fantasia",Um Natal em Biltmore (2023)
+http://172.110.219.252:80/movie/89754974222122/5207418122/5096241.mp4
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="24H • Anime - 7Seeds" tvg-logo="https://i.imgur.com/CpJaH8X.png" group-title="(ANIMES 24H)",24H • Anime - 7Seeds
 http://dnsmain.site:80/Tourobox1-BWIWai7qsr/3ejoq2H1Ly/3250218
 #EXTINF:-1 tvg-id="" tvg-name="24H • Anime - Digimon Adventure" tvg-logo="https://i.imgur.com/CpJaH8X.png" group-title="(ANIMES 24H)",24H • Anime - Digimon Adventure
