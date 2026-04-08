@@ -1,63 +1,63 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="MX: Foro TV HD" tvg-logo="" group-title="LATINO",MX: Foro TV HD
-plugin://script.hls.tester/?action=play&url=://cord-cutter.net:8080/Jayco5/Sprinter15/57594
+http://cord-cutter.net:8080/Jayco5/Sprinter15/57594
 #EXTINF:-1 tvg-id="" tvg-name="MX | CNN " tvg-logo="" group-title="LATINO",MX | CNN 
-plugin://script.hls.tester/?action=play&url=://cord-cutter.net:8080/Jayco5/Sprinter15/57619
+http://cord-cutter.net:8080/Jayco5/Sprinter15/57619
 #EXTINF:-1 tvg-id="" tvg-name="MX | Discovery Channel" tvg-logo="" group-title="LATINO",MX | Discovery Channel
-plugin://script.hls.tester/?action=play&url=://cord-cutter.net:8080/Jayco5/Sprinter15/57625
+http://cord-cutter.net:8080/Jayco5/Sprinter15/57625
 #EXTINF:-1 tvg-id="" tvg-name="MX: Cinemax" tvg-logo="" group-title="LATINO",MX: Cinemax
-plugin://script.hls.tester/?action=play&url=://cord-cutter.net:8080/Jayco5/Sprinter15/57638
+http://cord-cutter.net:8080/Jayco5/Sprinter15/57638
 #EXTINF:-1 tvg-id="" tvg-name="MX  DISTRITO COMEDIA" tvg-logo="" group-title="LATINO",MX  DISTRITO COMEDIA
-plugin://script.hls.tester/?action=play&url=://cord-cutter.net:8080/Jayco5/Sprinter15/57639
+http://cord-cutter.net:8080/Jayco5/Sprinter15/57639
 #EXTINF:-1 tvg-id="" tvg-name="US Latin Discovery (F)" tvg-logo="" group-title="LATINO",US Latin Discovery (F)
-plugin://script.hls.tester/?action=play&url=://cord-cutter.net:8080/Jayco5/Sprinter15/57645
+http://cord-cutter.net:8080/Jayco5/Sprinter15/57645
 #EXTINF:-1 tvg-id="" tvg-name="MX: Multimedios " tvg-logo="" group-title="LATINO",MX: Multimedios 
-plugin://script.hls.tester/?action=play&url=://cord-cutter.net:8080/Jayco5/Sprinter15/57646
+http://cord-cutter.net:8080/Jayco5/Sprinter15/57646
 #EXTINF:-1 tvg-id="" tvg-name="ES: CANAL COCINA" tvg-logo="" group-title="LATINO",ES: CANAL COCINA
-plugin://script.hls.tester/?action=play&url=://cord-cutter.net:8080/Jayco5/Sprinter15/57698
+http://cord-cutter.net:8080/Jayco5/Sprinter15/57698
 #EXTINF:-1 tvg-id="" tvg-name="MX Multimedios HD" tvg-logo="" group-title="LATINO",MX Multimedios HD
-plugin://script.hls.tester/?action=play&url=://cord-cutter.net:8080/Jayco5/Sprinter15/57711
+http://cord-cutter.net:8080/Jayco5/Sprinter15/57711
 #EXTINF:-1 tvg-id="" tvg-name="MX | TNT " tvg-logo="" group-title="LATINO",MX | TNT 
-plugin://script.hls.tester/?action=play&url=://cord-cutter.net:8080/Jayco5/Sprinter15/57719
+http://cord-cutter.net:8080/Jayco5/Sprinter15/57719
 #EXTINF:-1 tvg-id="" tvg-name="LAT: TELEMUNDO 51 MIAMI HD" tvg-logo="" group-title="LATINO",LAT: TELEMUNDO 51 MIAMI HD
-plugin://script.hls.tester/?action=play&url=://cord-cutter.net:8080/Jayco5/Sprinter15/56410
+http://cord-cutter.net:8080/Jayco5/Sprinter15/56410
 #EXTINF:-1 tvg-id="" tvg-name="US Latin Hola TV (A)" tvg-logo="" group-title="LATINO",US Latin Hola TV (A)
-plugin://script.hls.tester/?action=play&url=://cord-cutter.net:8080/Jayco5/Sprinter15/139757
+http://cord-cutter.net:8080/Jayco5/Sprinter15/139757
 #EXTINF:-1 tvg-id="" tvg-name="PT: CMTV" tvg-logo="" group-title="Portugal",PT: CMTV
-plugin://script.hls.tester/?action=play&url=://cord-cutter.net:8080/Jayco5/Sprinter15/78441
+http://cord-cutter.net:8080/Jayco5/Sprinter15/78441
 #EXTINF:-1 tvg-id="" tvg-name="PT: TVI" tvg-logo="" group-title="Portugal",PT: TVI
-plugin://script.hls.tester/?action=play&url=://cord-cutter.net:8080/Jayco5/Sprinter15/78526
+http://cord-cutter.net:8080/Jayco5/Sprinter15/78526
 #EXTINF:-1 tvg-id="" tvg-name="PT BENFICA TV HD  (P)" tvg-logo="" group-title="Portugal",PT BENFICA TV HD  (P)
-plugin://script.hls.tester/?action=play&url=://cord-cutter.net:8080/Jayco5/Sprinter15/136726
+http://cord-cutter.net:8080/Jayco5/Sprinter15/136726
 #EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 FHD" tvg-logo="" group-title="Portugal",PT: RTP 1 FHD
-plugin://script.hls.tester/?action=play&url=://cord-cutter.net:8080/Jayco5/Sprinter15/164792
+http://cord-cutter.net:8080/Jayco5/Sprinter15/164792
 #EXTINF:-1 tvg-id="" tvg-name="PT: CNN HD" tvg-logo="" group-title="Portugal",PT: CNN HD
-plugin://script.hls.tester/?action=play&url=://cord-cutter.net:8080/Jayco5/Sprinter15/164802
+http://cord-cutter.net:8080/Jayco5/Sprinter15/164802
 #EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE ACTION FHD" tvg-logo="" group-title="Portugal",PT: TV CINE ACTION FHD
-plugin://script.hls.tester/?action=play&url=://cord-cutter.net:8080/Jayco5/Sprinter15/164809
+http://cord-cutter.net:8080/Jayco5/Sprinter15/164809
 #EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS FHD" tvg-logo="" group-title="Portugal",PT: NOS STUDIOS FHD
-plugin://script.hls.tester/?action=play&url=://cord-cutter.net:8080/Jayco5/Sprinter15/164811
+http://cord-cutter.net:8080/Jayco5/Sprinter15/164811
 #EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD FHD" tvg-logo="" group-title="Portugal",PT: HOLLYWOOD FHD
-plugin://script.hls.tester/?action=play&url=://cord-cutter.net:8080/Jayco5/Sprinter15/164813
+http://cord-cutter.net:8080/Jayco5/Sprinter15/164813
 #EXTINF:-1 tvg-id="" tvg-name="PT: AXN WHITE FHD" tvg-logo="" group-title="Portugal",PT: AXN WHITE FHD
-plugin://script.hls.tester/?action=play&url=://cord-cutter.net:8080/Jayco5/Sprinter15/164815
+http://cord-cutter.net:8080/Jayco5/Sprinter15/164815
 #EXTINF:-1 tvg-id="" tvg-name="PT: AXN MOVIES  HD" tvg-logo="" group-title="Portugal",PT: AXN MOVIES  HD
-plugin://script.hls.tester/?action=play&url=://cord-cutter.net:8080/Jayco5/Sprinter15/164818
+http://cord-cutter.net:8080/Jayco5/Sprinter15/164818
 #EXTINF:-1 tvg-id="" tvg-name="PT: SYFY FHD" tvg-logo="" group-title="Portugal",PT: SYFY FHD
-plugin://script.hls.tester/?action=play&url=://cord-cutter.net:8080/Jayco5/Sprinter15/164821
+http://cord-cutter.net:8080/Jayco5/Sprinter15/164821
 #EXTINF:-1 tvg-id="" tvg-name="PT: TV GLOBO HD" tvg-logo="" group-title="Portugal",PT: TV GLOBO HD
-plugin://script.hls.tester/?action=play&url=://cord-cutter.net:8080/Jayco5/Sprinter15/164824
+http://cord-cutter.net:8080/Jayco5/Sprinter15/164824
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="" group-title="Portugal",PT: SPORT TV 1 FHD
-plugin://script.hls.tester/?action=play&url=://cord-cutter.net:8080/Jayco5/Sprinter15/167742
+http://cord-cutter.net:8080/Jayco5/Sprinter15/167742
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="Portugal",PT: SPORT TV 2 HD
-plugin://script.hls.tester/?action=play&url=://cord-cutter.net:8080/Jayco5/Sprinter15/167743
+http://cord-cutter.net:8080/Jayco5/Sprinter15/167743
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="Portugal",PT: SPORT TV 3 HD
-plugin://script.hls.tester/?action=play&url=://cord-cutter.net:8080/Jayco5/Sprinter15/167744
+http://cord-cutter.net:8080/Jayco5/Sprinter15/167744
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="" group-title="Portugal",PT: SPORT TV 4 FHD
-plugin://script.hls.tester/?action=play&url=://cord-cutter.net:8080/Jayco5/Sprinter15/167745
+http://cord-cutter.net:8080/Jayco5/Sprinter15/167745
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 3 HD
-plugin://script.hls.tester/?action=play&url=://cord-cutter.net:8080/Jayco5/Sprinter15/167748
+http://cord-cutter.net:8080/Jayco5/Sprinter15/167748
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 4 HD
-plugin://script.hls.tester/?action=play&url=://cord-cutter.net:8080/Jayco5/Sprinter15/167749
+http://cord-cutter.net:8080/Jayco5/Sprinter15/167749
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 5 HD
-plugin://script.hls.tester/?action=play&url=://cord-cutter.net:8080/Jayco5/Sprinter15/167750
+http://cord-cutter.net:8080/Jayco5/Sprinter15/167750
