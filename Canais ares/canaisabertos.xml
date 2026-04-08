@@ -1,187 +1,187 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:GLOBO BRASILIA HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:GLOBO BRASILIA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27108
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27108
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:A&E HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:A&E HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27109
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27109
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:ANIMAL PLANET HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27110
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27110
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:AXN HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:AXN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27111
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27111
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:BAND HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:BAND HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27112
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27112
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:BAND NEWS HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:BAND NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27113
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27113
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:BAND SPORTS HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:BAND SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27114
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27114
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:BIS HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:BIS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27124
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27124
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:CARTOONITO HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:CARTOONITO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27131
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27131
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:CANAL BRASIL HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:CANAL BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27139
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27139
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:CARTOON NETWORK HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27142
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27142
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:CINEMAX HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:CINEMAX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27143
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27143
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:COMEDY CENTRAL HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27144
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27144
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:DISCOVERY CH. HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:DISCOVERY CH. HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27145
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27145
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:DISCOVERY CIVILIZATION HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:DISCOVERY CIVILIZATION HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27146
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27146
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:DISCOVERY H&H HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:DISCOVERY H&H HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27147
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27147
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:DISCOVERY ID HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:DISCOVERY ID HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27148
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27148
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:DISCOVERY KIDS HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:DISCOVERY KIDS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27149
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27149
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:DISCOVERY SCIENCE HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27150
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27150
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:DISCOVERY THEATHER HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:DISCOVERY THEATHER HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27151
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27151
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:DISCOVERY TURBO HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:DISCOVERY TURBO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27152
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27152
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:DISCOVERY WORLD HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:DISCOVERY WORLD HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27153
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27153
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:DISNEY CHANNEL HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27154
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27154
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:DISNEY JUNIOR HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:DISNEY JUNIOR HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27155
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27155
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:E! HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:E! HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27156
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27156
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:ESPN 2 HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27157
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27157
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:ESPN BRASIL HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:ESPN BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27158
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27158
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:ESPN EXTRA HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:ESPN EXTRA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27159
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27159
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:ESPN HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27160
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27160
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:FISH TV HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:FISH TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27161
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27161
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:Star Channel HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:Star Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27162
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27162
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:Star Life HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:Star Life HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27163
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27163
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:FOX PREMIUM 1 HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:FOX PREMIUM 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27164
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27164
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:FOX PREMIUM 2 HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:FOX PREMIUM 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27165
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27165
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:FOX SPORTS 2 HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27166
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27166
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:FOX SPORTS HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:FOX SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27167
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27167
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:FUTURA HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:FUTURA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27168
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27168
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:FX HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:FX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27169
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27169
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:GLOBO NEWS HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:GLOBO NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27170
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27170
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:GLOBO RIO HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:GLOBO RIO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27171
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27171
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:GLOBO SP HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:GLOBO SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27172
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27172
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:GLOOB HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:GLOOB HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27173
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27173
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:GNT HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:GNT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27174
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27174
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:HBO 2 HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27175
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27175
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:HBO FAMILY HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:HBO FAMILY HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27176
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27176
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:HBO HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:HBO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27177
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27177
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:HBO SIGNATURE HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:HBO SIGNATURE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27178
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27178
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:HISTORY 2 HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:HISTORY 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27179
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27179
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:HISTORY HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:HISTORY HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27180
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27180
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:LIFETIME HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:LIFETIME HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27181
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27181
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:MAIS GLOBOSAT HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:MAIS GLOBOSAT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27182
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27182
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:MAX HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:MAX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27183
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27183
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:MAX PRIME HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:MAX PRIME HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27184
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27184
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:MAX UP HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:MAX UP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27185
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27185
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:MEGAPIX HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:MEGAPIX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27186
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27186
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:MULTISHOW HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:MULTISHOW HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27187
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27187
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:NAT GEO KIDS HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:NAT GEO KIDS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27188
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27188
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:NAT GEO WILD HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:NAT GEO WILD HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27189
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27189
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27190
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27190
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:NICK JR HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:NICK JR HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27191
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27191
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:NICKELODEON HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27192
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27192
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:OFF HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:OFF HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27193
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27193
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:PARAMOUNT HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:PARAMOUNT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27194
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27194
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:PREMIERE 8 HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:PREMIERE 8 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27195
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27195
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:PRIME BOX BRASIL HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:PRIME BOX BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27196
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27196
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:RECORD HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:RECORD HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27197
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27197
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:RECORD NEWS HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:RECORD NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27198
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27198
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:REDE VIDA HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:REDE VIDA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27199
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27199
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:SONY HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:SONY HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27200
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27200
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:SPACE HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:SPACE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27201
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27201
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:SPORTV 2 HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:SPORTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27202
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27202
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:SPORTV 3 HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:SPORTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27203
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27203
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:SPORTV HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:SPORTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27204
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27204
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:STUDIO UNIVERSAL HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:STUDIO UNIVERSAL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27205
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27205
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:SYFY HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27206
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27206
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:TBS HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:TBS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27207
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27207
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:TELECINE ACTION HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:TELECINE ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27208
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27208
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:TELECINE CULT HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:TELECINE CULT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27209
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27209
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:TELECINE FUN HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:TELECINE FUN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27210
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27210
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:TELECINE PIPOCA HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:TELECINE PIPOCA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27211
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27211
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:TELECINE PREMIUM HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:TELECINE PREMIUM HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27212
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27212
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:TELECINE TOUCH HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:TELECINE TOUCH HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27213
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27213
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:TLC HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:TLC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27214
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27214
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:TNT HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:TNT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27215
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27215
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:TNT SERIES HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:TNT SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27216
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27216
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:TOONCAST HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:TOONCAST HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27217
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27217
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:TV BRASIL HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:TV BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27218
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27218
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:TV CÂMARA HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:TV CÂMARA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27219
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27219
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:TV CULTURA HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:TV CULTURA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27220
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27220
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:TV GAZETA HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:TV GAZETA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27221
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27221
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:VIVA HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:VIVA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27222
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27222
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:WARNER HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:WARNER HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27223
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27223
 #EXTINF:-1 tvg-id="" tvg-name="VIP_BR:WOOHOO HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:WOOHOO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]TESTE HADES[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]lista 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27224
+plugin://script.hls.tester/?action=play&url=http://newultra.xyz:8080/Gabi25lan09/Campanar682hiejd8/27224
