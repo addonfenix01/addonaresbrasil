@@ -1,61 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="br#telecine-premium-hd" tvg-name="Telecine Premium FHD" tvg-logo="plugin://plugin.video.f4mTester/?url=http://channelart.8b90287dn2.online/images/logos/Telecine%20Premium.png" group-title="TELECINE",Telecine Premium FHD
-plugin://plugin.video.f4mTester/?url=http://flipex.pro:80/live/fabio8558/85585978bbb/1904.m3u8
-#EXTINF:-1 tvg-id="br#telecine-premium-hd" tvg-name="Telecine Premium HD" tvg-logo="plugin://plugin.video.f4mTester/?url=http://channelart.8b90287dn2.online/images/logos/Telecine%20Premium.png" group-title="TELECINE",Telecine Premium HD
-plugin://plugin.video.f4mTester/?url=http://flipex.pro:80/live/fabio8558/85585978bbb/2235.m3u8
-#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium" tvg-logo="plugin://plugin.video.f4mTester/?url=http://channelart.8b90287dn2.online/images/logos/Telecine%20Premium.png" group-title="TELECINE",Telecine Premium
-plugin://plugin.video.f4mTester/?url=http://flipex.pro:80/live/fabio8558/85585978bbb/2234.m3u8
-#EXTINF:-1 tvg-id="br#telecine-pipoca-hd" tvg-name="Telecine Pipoca FHD" tvg-logo="plugin://plugin.video.f4mTester/?url=http://channelart.8b90287dn2.online/images/logos/Telecine%20Pipoca.png" group-title="TELECINE",Telecine Pipoca FHD
-plugin://plugin.video.f4mTester/?url=http://flipex.pro:80/live/fabio8558/85585978bbb/1903.m3u8
-#EXTINF:-1 tvg-id="br#telecine-pipoca-hd" tvg-name="Telecine Pipoca HD" tvg-logo="plugin://plugin.video.f4mTester/?url=http://channelart.8b90287dn2.online/images/logos/Telecine%20Pipoca.png" group-title="TELECINE",Telecine Pipoca HD
-plugin://plugin.video.f4mTester/?url=http://flipex.pro:80/live/fabio8558/85585978bbb/2233.m3u8
-#EXTINF:-1 tvg-id="br#telecine-pipoca-hd" tvg-name="Telecine Pipoca" tvg-logo="plugin://plugin.video.f4mTester/?url=http://channelart.8b90287dn2.online/images/logos/Telecine%20Pipoca.png" group-title="TELECINE",Telecine Pipoca
-plugin://plugin.video.f4mTester/?url=http://flipex.pro:80/live/fabio8558/85585978bbb/2232.m3u8
-#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action FHD" tvg-logo="plugin://plugin.video.f4mTester/?url=http://channelart.8b90287dn2.online/images/logos/Telecine%20Action.png" group-title="TELECINE",Telecine Action FHD
-plugin://plugin.video.f4mTester/?url=http://flipex.pro:80/live/fabio8558/85585978bbb/1901.m3u8
-#EXTINF:-1 tvg-id="br#telecine-action-hd" tvg-name="Telecine Action HD" tvg-logo="plugin://plugin.video.f4mTester/?url=http://channelart.8b90287dn2.online/images/logos/Telecine%20Action.png" group-title="TELECINE",Telecine Action HD
-plugin://plugin.video.f4mTester/?url=http://flipex.pro:80/live/fabio8558/85585978bbb/2227.m3u8
-#EXTINF:-1 tvg-id="br#telecine-action-hd" tvg-name="Telecine Action" tvg-logo="plugin://plugin.video.f4mTester/?url=http://channelart.8b90287dn2.online/images/logos/Telecine%20Action.png" group-title="TELECINE",Telecine Action
-plugin://plugin.video.f4mTester/?url=http://flipex.pro:80/live/fabio8558/85585978bbb/2226.m3u8
-#EXTINF:-1 tvg-id="br#telecine-touch-hd" tvg-name="Telecine Touch FHD" tvg-logo="plugin://plugin.video.f4mTester/?url=http://channelart.8b90287dn2.online/images/logos/Telecine%20Touch.png" group-title="TELECINE",Telecine Touch FHD
-plugin://plugin.video.f4mTester/?url=http://flipex.pro:80/live/fabio8558/85585978bbb/1905.m3u8
-#EXTINF:-1 tvg-id="br#telecine-touch-hd" tvg-name="Telecine Touch HD" tvg-logo="plugin://plugin.video.f4mTester/?url=http://channelart.8b90287dn2.online/images/logos/Telecine%20Touch.png" group-title="TELECINE",Telecine Touch HD
-plugin://plugin.video.f4mTester/?url=http://flipex.pro:80/live/fabio8558/85585978bbb/2237.m3u8
-#EXTINF:-1 tvg-id="br#telecine-touch-hd" tvg-name="Telecine Touch" tvg-logo="plugin://plugin.video.f4mTester/?url=http://channelart.8b90287dn2.online/images/logos/Telecine%20Touch.png" group-title="TELECINE",Telecine Touch
-plugin://plugin.video.f4mTester/?url=http://flipex.pro:80/live/fabio8558/85585978bbb/2236.m3u8
-#EXTINF:-1 tvg-id="br#telecine-fun-hd" tvg-name="Telecine Fun FHD" tvg-logo="plugin://plugin.video.f4mTester/?url=http://channelart.8b90287dn2.online/images/logos/Telecine%20Fun.png" group-title="TELECINE",Telecine Fun FHD
-plugin://plugin.video.f4mTester/?url=http://flipex.pro:80/live/fabio8558/85585978bbb/1902.m3u8
-#EXTINF:-1 tvg-id="br#telecine-fun-hd" tvg-name="Telecine Fun HD" tvg-logo="plugin://plugin.video.f4mTester/?url=http://channelart.8b90287dn2.online/images/logos/Telecine%20Fun.png" group-title="TELECINE",Telecine Fun HD
-plugin://plugin.video.f4mTester/?url=http://flipex.pro:80/live/fabio8558/85585978bbb/2231.m3u8
-#EXTINF:-1 tvg-id="br#telecine-fun-hd" tvg-name="Telecine Fun" tvg-logo="plugin://plugin.video.f4mTester/?url=http://channelart.8b90287dn2.online/images/logos/Telecine%20Fun.png" group-title="TELECINE",Telecine Fun
-plugin://plugin.video.f4mTester/?url=http://flipex.pro:80/live/fabio8558/85585978bbb/2230.m3u8
-#EXTINF:-1 tvg-id="br#telecine-cult-hd" tvg-name="Telecine Cult FHD" tvg-logo="plugin://plugin.video.f4mTester/?url=http://channelart.8b90287dn2.online/images/logos/Telecine%20Cult.png" group-title="TELECINE",Telecine Cult FHD
-plugin://plugin.video.f4mTester/?url=http://flipex.pro:80/live/fabio8558/85585978bbb/1866.m3u8
-#EXTINF:-1 tvg-id="br#telecine-cult-hd" tvg-name="Telecine Cult HD" tvg-logo="plugin://plugin.video.f4mTester/?url=http://channelart.8b90287dn2.online/images/logos/Telecine%20Cult.png" group-title="TELECINE",Telecine Cult HD
-plugin://plugin.video.f4mTester/?url=http://flipex.pro:80/live/fabio8558/85585978bbb/2229.m3u8
-#EXTINF:-1 tvg-id="br#telecine-cult-hd" tvg-name="Telecine Cult" tvg-logo="plugin://plugin.video.f4mTester/?url=http://channelart.8b90287dn2.online/images/logos/Telecine%20Cult.png" group-title="TELECINE",Telecine Cult
-plugin://plugin.video.f4mTester/?url=http://flipex.pro:80/live/fabio8558/85585978bbb/2228.m3u8
-#EXTINF:-1 tvg-id="br#megapix-hd" tvg-name="Megapix FHD" tvg-logo="plugin://plugin.video.f4mTester/?url=http://channelart.8b90287dn2.online/images/logos/Megapix%20HD.png" group-title="TELECINE",Megapix FHD
-plugin://plugin.video.f4mTester/?url=http://flipex.pro:80/live/fabio8558/85585978bbb/1848.m3u8
-#EXTINF:-1 tvg-id="br#megapix-hd" tvg-name="Megapix HD" tvg-logo="plugin://plugin.video.f4mTester/?url=http://channelart.8b90287dn2.online/images/logos/Megapix%20HD.png" group-title="TELECINE",Megapix HD
-plugin://plugin.video.f4mTester/?url=http://flipex.pro:80/live/fabio8558/85585978bbb/2164.m3u8
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix" tvg-logo="plugin://plugin.video.f4mTester/?url=http://channelart.8b90287dn2.online/images/logos/Megapix.png" group-title="TELECINE",Megapix
-plugin://plugin.video.f4mTester/?url=http://flipex.pro:80/live/fabio8558/85585978bbb/2163.m3u8
-#EXTINF:-1 tvg-id="USA.br" tvg-name="USA FHD" tvg-logo="plugin://plugin.video.f4mTester/?url=http://channelart.8b90287dn2.online/images/logos/Syfy%20HD.png" group-title="TELECINE",USA FHD
-plugin://plugin.video.f4mTester/?url=http://flipex.pro:80/live/fabio8558/85585978bbb/1864.m3u8
-#EXTINF:-1 tvg-id="USA.br" tvg-name="USA HD" tvg-logo="plugin://plugin.video.f4mTester/?url=http://channelart.8b90287dn2.online/images/logos/Syfy%20HD.png" group-title="TELECINE",USA HD
-plugin://plugin.video.f4mTester/?url=http://flipex.pro:80/live/fabio8558/85585978bbb/2215.m3u8
-#EXTINF:-1 tvg-id="24HAnimes" tvg-name="USA" tvg-logo="plugin://plugin.video.f4mTester/?url=http://channelart.8b90287dn2.online/images/logos/Syfy.png" group-title="TELECINE",USA
-plugin://plugin.video.f4mTester/?url=http://flipex.pro:80/live/fabio8558/85585978bbb/2214.m3u8
-#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal TV FHD" tvg-logo="plugin://plugin.video.f4mTester/?url=http://channelart.8b90287dn2.online/images/logos/Universal%20TV.png" group-title="TELECINE",Universal TV FHD
-plugin://plugin.video.f4mTester/?url=http://flipex.pro:80/live/fabio8558/85585978bbb/1872.m3u8
-#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal TV HD" tvg-logo="plugin://plugin.video.f4mTester/?url=http://channelart.8b90287dn2.online/images/logos/Universal%20TV.png" group-title="TELECINE",Universal TV HD
-plugin://plugin.video.f4mTester/?url=http://flipex.pro:80/live/fabio8558/85585978bbb/2258.m3u8
-#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal TV " tvg-logo="plugin://plugin.video.f4mTester/?url=http://channelart.8b90287dn2.online/images/logos/Universal%20TV.png" group-title="TELECINE",Universal TV 
-plugin://plugin.video.f4mTester/?url=http://flipex.pro:80/live/fabio8558/85585978bbb/2257.m3u8
-#EXTINF:-1 tvg-id="br#canal-brasil-hd" tvg-name="Canal Brasil FHD" tvg-logo="plugin://plugin.video.f4mTester/?url=http://channelart.8b90287dn2.online/images/logos/Canal%20Brasil.png" group-title="TELECINE",Canal Brasil FHD
-plugin://plugin.video.f4mTester/?url=http://flipex.pro:80/live/fabio8558/85585978bbb/1908.m3u8
-#EXTINF:-1 tvg-id="br#canal-brasil-hd" tvg-name="Canal Brasil HD" tvg-logo="plugin://plugin.video.f4mTester/?url=http://channelart.8b90287dn2.online/images/logos/Canal%20Brasil.png" group-title="TELECINE",Canal Brasil HD
-plugin://plugin.video.f4mTester/?url=http://flipex.pro:80/live/fabio8558/85585978bbb/2067.m3u8
-#EXTINF:-1 tvg-id="br#canal-brasil-hd" tvg-name="Canal Brasil" tvg-logo="plugin://plugin.video.f4mTester/?url=http://channelart.8b90287dn2.online/images/logos/Canal%20Brasil.png" group-title="TELECINE",Canal Brasil
-plugin://plugin.video.f4mTester/?url=http://flipex.pro:80/live/fabio8558/85585978bbb/2066.m3u8
+#EXTINF:-1 tvg-id="br#telecine-premium-hd" tvg-name="Telecine Premium FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Premium.png" group-title="TELECINE",Telecine Premium FHD
+http://flipex.pro:80/live/fabio8558/85585978bbb/1904.m3u8
+#EXTINF:-1 tvg-id="br#telecine-premium-hd" tvg-name="Telecine Premium HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Premium.png" group-title="TELECINE",Telecine Premium HD
+http://flipex.pro:80/live/fabio8558/85585978bbb/2235.m3u8
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Premium.png" group-title="TELECINE",Telecine Premium
+http://flipex.pro:80/live/fabio8558/85585978bbb/2234.m3u8
+#EXTINF:-1 tvg-id="br#telecine-pipoca-hd" tvg-name="Telecine Pipoca FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Pipoca.png" group-title="TELECINE",Telecine Pipoca FHD
+http://flipex.pro:80/live/fabio8558/85585978bbb/1903.m3u8
+#EXTINF:-1 tvg-id="br#telecine-pipoca-hd" tvg-name="Telecine Pipoca HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Pipoca.png" group-title="TELECINE",Telecine Pipoca HD
+http://flipex.pro:80/live/fabio8558/85585978bbb/2233.m3u8
+#EXTINF:-1 tvg-id="br#telecine-pipoca-hd" tvg-name="Telecine Pipoca" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Pipoca.png" group-title="TELECINE",Telecine Pipoca
+http://flipex.pro:80/live/fabio8558/85585978bbb/2232.m3u8
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Action.png" group-title="TELECINE",Telecine Action FHD
+http://flipex.pro:80/live/fabio8558/85585978bbb/1901.m3u8
+#EXTINF:-1 tvg-id="br#telecine-action-hd" tvg-name="Telecine Action HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Action.png" group-title="TELECINE",Telecine Action HD
+http://flipex.pro:80/live/fabio8558/85585978bbb/2227.m3u8
+#EXTINF:-1 tvg-id="br#telecine-action-hd" tvg-name="Telecine Action" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Action.png" group-title="TELECINE",Telecine Action
+http://flipex.pro:80/live/fabio8558/85585978bbb/2226.m3u8
+#EXTINF:-1 tvg-id="br#telecine-touch-hd" tvg-name="Telecine Touch FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Touch.png" group-title="TELECINE",Telecine Touch FHD
+http://flipex.pro:80/live/fabio8558/85585978bbb/1905.m3u8
+#EXTINF:-1 tvg-id="br#telecine-touch-hd" tvg-name="Telecine Touch HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Touch.png" group-title="TELECINE",Telecine Touch HD
+http://flipex.pro:80/live/fabio8558/85585978bbb/2237.m3u8
+#EXTINF:-1 tvg-id="br#telecine-touch-hd" tvg-name="Telecine Touch" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Touch.png" group-title="TELECINE",Telecine Touch
+http://flipex.pro:80/live/fabio8558/85585978bbb/2236.m3u8
+#EXTINF:-1 tvg-id="br#telecine-fun-hd" tvg-name="Telecine Fun FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Fun.png" group-title="TELECINE",Telecine Fun FHD
+http://flipex.pro:80/live/fabio8558/85585978bbb/1902.m3u8
+#EXTINF:-1 tvg-id="br#telecine-fun-hd" tvg-name="Telecine Fun HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Fun.png" group-title="TELECINE",Telecine Fun HD
+http://flipex.pro:80/live/fabio8558/85585978bbb/2231.m3u8
+#EXTINF:-1 tvg-id="br#telecine-fun-hd" tvg-name="Telecine Fun" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Fun.png" group-title="TELECINE",Telecine Fun
+http://flipex.pro:80/live/fabio8558/85585978bbb/2230.m3u8
+#EXTINF:-1 tvg-id="br#telecine-cult-hd" tvg-name="Telecine Cult FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Cult.png" group-title="TELECINE",Telecine Cult FHD
+http://flipex.pro:80/live/fabio8558/85585978bbb/1866.m3u8
+#EXTINF:-1 tvg-id="br#telecine-cult-hd" tvg-name="Telecine Cult HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Cult.png" group-title="TELECINE",Telecine Cult HD
+http://flipex.pro:80/live/fabio8558/85585978bbb/2229.m3u8
+#EXTINF:-1 tvg-id="br#telecine-cult-hd" tvg-name="Telecine Cult" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Cult.png" group-title="TELECINE",Telecine Cult
+http://flipex.pro:80/live/fabio8558/85585978bbb/2228.m3u8
+#EXTINF:-1 tvg-id="br#megapix-hd" tvg-name="Megapix FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Megapix%20HD.png" group-title="TELECINE",Megapix FHD
+http://flipex.pro:80/live/fabio8558/85585978bbb/1848.m3u8
+#EXTINF:-1 tvg-id="br#megapix-hd" tvg-name="Megapix HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Megapix%20HD.png" group-title="TELECINE",Megapix HD
+http://flipex.pro:80/live/fabio8558/85585978bbb/2164.m3u8
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Megapix.png" group-title="TELECINE",Megapix
+http://flipex.pro:80/live/fabio8558/85585978bbb/2163.m3u8
+#EXTINF:-1 tvg-id="USA.br" tvg-name="USA FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Syfy%20HD.png" group-title="TELECINE",USA FHD
+http://flipex.pro:80/live/fabio8558/85585978bbb/1864.m3u8
+#EXTINF:-1 tvg-id="USA.br" tvg-name="USA HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Syfy%20HD.png" group-title="TELECINE",USA HD
+http://flipex.pro:80/live/fabio8558/85585978bbb/2215.m3u8
+#EXTINF:-1 tvg-id="24HAnimes" tvg-name="USA" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Syfy.png" group-title="TELECINE",USA
+http://flipex.pro:80/live/fabio8558/85585978bbb/2214.m3u8
+#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal TV FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Universal%20TV.png" group-title="TELECINE",Universal TV FHD
+http://flipex.pro:80/live/fabio8558/85585978bbb/1872.m3u8
+#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal TV HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Universal%20TV.png" group-title="TELECINE",Universal TV HD
+http://flipex.pro:80/live/fabio8558/85585978bbb/2258.m3u8
+#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal TV " tvg-logo="http://channelart.8b90287dn2.online/images/logos/Universal%20TV.png" group-title="TELECINE",Universal TV 
+http://flipex.pro:80/live/fabio8558/85585978bbb/2257.m3u8
+#EXTINF:-1 tvg-id="br#canal-brasil-hd" tvg-name="Canal Brasil FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Canal%20Brasil.png" group-title="TELECINE",Canal Brasil FHD
+http://flipex.pro:80/live/fabio8558/85585978bbb/1908.m3u8
+#EXTINF:-1 tvg-id="br#canal-brasil-hd" tvg-name="Canal Brasil HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Canal%20Brasil.png" group-title="TELECINE",Canal Brasil HD
+http://flipex.pro:80/live/fabio8558/85585978bbb/2067.m3u8
+#EXTINF:-1 tvg-id="br#canal-brasil-hd" tvg-name="Canal Brasil" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Canal%20Brasil.png" group-title="TELECINE",Canal Brasil
+http://flipex.pro:80/live/fabio8558/85585978bbb/2066.m3u8
