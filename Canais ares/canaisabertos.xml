@@ -1,47 +1,365 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="São.Paulo/SP..Agro.Mais.br" tvg-name="AGRO+ FHD" tvg-logo="http://ixi.paineluhd.club:80/images/0d1eb6c8a1bc30ba6454eb2ab48266ed.png" group-title="✨ABERTOS",AGRO+ FHD
-http://lbmaispt.shop:80/geraldomendes88/mendesgeraldo88/6.ts
-#EXTINF:-1 tvg-id="Canal Brasil SD" tvg-name="TV BRASIL FHD" tvg-logo="http://ixi.paineluhd.club:80/images/ae774b8cbf672f48bf845f9a8c20d2ef.png" group-title="✨ABERTOS",TV BRASIL FHD
-http://lbmaispt.shop:80/geraldomendes88/mendesgeraldo88/469.ts
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="TV BRASIL HD" tvg-logo="http://ixi.paineluhd.club:80/images/ae774b8cbf672f48bf845f9a8c20d2ef.png" group-title="✨ABERTOS",TV BRASIL HD
-http://lbmaispt.shop:80/geraldomendes88/mendesgeraldo88/4774475.ts
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="TV BRASIL SD" tvg-logo="http://ixi.paineluhd.club:80/images/ae774b8cbf672f48bf845f9a8c20d2ef.png" group-title="✨ABERTOS",TV BRASIL SD
-http://lbmaispt.shop:80/geraldomendes88/mendesgeraldo88/4774476.ts
-#EXTINF:-1 tvg-id="canalboi.br" tvg-name="CANAL DO BOI FHD" tvg-logo="http://ixi.paineluhd.club:80/images/53eced46522e5cd74ccb01083dbff7d9.png" group-title="✨ABERTOS",CANAL DO BOI FHD
-http://lbmaispt.shop:80/geraldomendes88/mendesgeraldo88/369617.ts
-#EXTINF:-1 tvg-id="canalrural.br" tvg-name="CANAL RURAL HD" tvg-logo="http://ixi.paineluhd.club:80/images/d8c93108600d114d5727ac8c5fa7b3ec.png" group-title="✨ABERTOS",CANAL RURAL HD
-http://lbmaispt.shop:80/geraldomendes88/mendesgeraldo88/470.ts
-#EXTINF:-1 tvg-id="canalrural.br" tvg-name="CANAL RURAL SD" tvg-logo="http://ixi.paineluhd.club:80/images/d8c93108600d114d5727ac8c5fa7b3ec.png" group-title="✨ABERTOS",CANAL RURAL SD
-http://lbmaispt.shop:80/geraldomendes88/mendesgeraldo88/471.ts
-#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA 4K" tvg-logo="https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA 4K
-http://lbmaispt.shop:80/geraldomendes88/mendesgeraldo88/369649.ts
-#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA FHD" tvg-logo="https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA FHD
-http://lbmaispt.shop:80/geraldomendes88/mendesgeraldo88/171844.ts
-#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA HD" tvg-logo="https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA HD
-http://lbmaispt.shop:80/geraldomendes88/mendesgeraldo88/472.ts
-#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA SD" tvg-logo="https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA SD
-http://lbmaispt.shop:80/geraldomendes88/mendesgeraldo88/473.ts
-#EXTINF:-1 tvg-id="REDEBR" tvg-name="REDE BRASIL" tvg-logo="https://i.imgur.com/tVMEQmb.png" group-title="✨ABERTOS",REDE BRASIL
-http://lbmaispt.shop:80/geraldomendes88/mendesgeraldo88/474.ts
-#EXTINF:-1 tvg-id="Rede TV SD" tvg-name="REDE TV FHD" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV FHD
-http://lbmaispt.shop:80/geraldomendes88/mendesgeraldo88/476.ts
-#EXTINF:-1 tvg-id="Rede TV HD" tvg-name="REDE TV HD" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV HD
-http://lbmaispt.shop:80/geraldomendes88/mendesgeraldo88/171878.ts
-#EXTINF:-1 tvg-id="Rede TV FHD" tvg-name="REDE TV SD" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV SD
-http://lbmaispt.shop:80/geraldomendes88/mendesgeraldo88/477.ts
-#EXTINF:-1 tvg-id="tvcÃƒÆ’Ã‚Â¢mara.br" tvg-name="TV CAMARA" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="✨ABERTOS",TV CAMARA
-http://lbmaispt.shop:80/geraldomendes88/mendesgeraldo88/479.ts
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA 4K" tvg-logo="https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA 4K
-http://lbmaispt.shop:80/geraldomendes88/mendesgeraldo88/369627.ts
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA FHD" tvg-logo="https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA FHD
-http://lbmaispt.shop:80/geraldomendes88/mendesgeraldo88/480.ts
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA HD" tvg-logo="https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA HD
-http://lbmaispt.shop:80/geraldomendes88/mendesgeraldo88/481.ts
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA SD" tvg-logo="https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA SD
-http://lbmaispt.shop:80/geraldomendes88/mendesgeraldo88/482.ts
-#EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV GAZETA 4K" tvg-logo="https://i.imgur.com/2th79Ey.png" group-title="✨ABERTOS",TV GAZETA 4K
-http://lbmaispt.shop:80/geraldomendes88/mendesgeraldo88/369727.ts
-#EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV GAZETA FHD" tvg-logo="https://i.imgur.com/2th79Ey.png" group-title="✨ABERTOS",TV GAZETA FHD
-http://lbmaispt.shop:80/geraldomendes88/mendesgeraldo88/483.ts
-#EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV GAZETA HD" tvg-logo="https://i.imgur.com/2th79Ey.png" group-title="✨ABERTOS",TV GAZETA HD
-http://lbmaispt.shop:80/geraldomendes88/mendesgeraldo88/171896.ts
+#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br" tvg-name="Globo RBS Porto Alegre FHD " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RBS%20TV.png" group-title="GLOBO SUL ",Globo RBS Porto Alegre FHD 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/901491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS Porto Alegre HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RBS%20TV.png" group-title="GLOBO SUL ",Globo RBS Porto Alegre HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/901492.m3u8
+#EXTINF:-1 tvg-id="rbs.rio.grande.br" tvg-name="Globo RBS Porto Alegre " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RBS%20TV.png" group-title="GLOBO SUL ",Globo RBS Porto Alegre 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/901493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RPC%20TV%20Curitiba.png" group-title="GLOBO SUL ",Globo RPC Curitiba FHD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba HD²" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RPC%20TV%20Curitiba.png" group-title="GLOBO SUL ",Globo RPC Curitiba HD²
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1945.m3u8
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Curitiba" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RPC%20TV%20Curitiba.png" group-title="GLOBO SUL ",Globo RPC Curitiba
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba Alternativo HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RPC%20TV%20Curitiba.png" group-title="GLOBO SUL ",Globo RPC Curitiba Alternativo HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/61306.m3u8
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Curitiba Alternativo" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RPC%20TV%20Curitiba.png" group-title="GLOBO SUL ",Globo RPC Curitiba Alternativo
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/61307.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Londrina FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RPC%20TV%20Curitiba.png" group-title="GLOBO SUL ",Globo RPC Londrina FHD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/901280.m3u8
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Londrina HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RPC%20TV%20Londrina.png" group-title="GLOBO SUL ",Globo RPC Londrina HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/902601.m3u8
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Londrina" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RPC%20TV%20Londrina.png" group-title="GLOBO SUL ",Globo RPC Londrina
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/902604.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Foz do Iguaçu FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RPC%20TV%20Foz%20do%20Iguac%CC%A7u.png" group-title="GLOBO SUL ",Globo RPC Foz do Iguaçu FHD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Foz do Iguaçu HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RPC%20TV%20Foz%20do%20Iguac%CC%A7u.png" group-title="GLOBO SUL ",Globo RPC Foz do Iguaçu HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1969.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Foz do Iguaçu" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RPC%20TV%20Foz%20do%20Iguac%CC%A7u.png" group-title="GLOBO SUL ",Globo RPC Foz do Iguaçu
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1967.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Maringa FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RPC%20TV%20Maringa%CC%81.png" group-title="GLOBO SUL ",Globo RPC Maringa FHD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/12729.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Maringa HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RPC%20TV%20Maringa%CC%81.png" group-title="GLOBO SUL ",Globo RPC Maringa HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/12730.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Maringa " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RPC%20TV%20Maringa%CC%81.png" group-title="GLOBO SUL ",Globo RPC Maringa 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/12731.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Cascavel FHD " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RPC%20TV%20Curitiba.png" group-title="GLOBO SUL ",Globo RPC Cascavel FHD 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/39420.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Cascavel HD " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RPC%20TV%20Curitiba.png" group-title="GLOBO SUL ",Globo RPC Cascavel HD 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/39421.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Cascavel " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RPC%20TV%20Curitiba.png" group-title="GLOBO SUL ",Globo RPC Cascavel 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/39422.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC TV Paranavai FHD " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RPC%20TV%20Curitiba.png" group-title="GLOBO SUL ",Globo RPC TV Paranavai FHD 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/39423.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC TV Paranavai HD " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RPC%20TV%20Curitiba.png" group-title="GLOBO SUL ",Globo RPC TV Paranavai HD 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/39424.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC TV Paranavai " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RPC%20TV%20Curitiba.png" group-title="GLOBO SUL ",Globo RPC TV Paranavai 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/39425.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC TV Ponta Grossa FHD " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RPC%20TV%20Curitiba.png" group-title="GLOBO SUL ",Globo RPC TV Ponta Grossa FHD 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/39434.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC TV Ponta Grossa HD " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RPC%20TV%20Curitiba.png" group-title="GLOBO SUL ",Globo RPC TV Ponta Grossa HD 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/39435.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC TV Ponta Grossa " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RPC%20TV%20Curitiba.png" group-title="GLOBO SUL ",Globo RPC TV Ponta Grossa 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/39436.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RBS TV Pelotas FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RBS%20TV.png" group-title="GLOBO SUL ",Globo RBS TV Pelotas FHD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2021.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Pelotas HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RBS%20TV.png" group-title="GLOBO SUL ",Globo RBS TV Pelotas HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2022.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RBS TV Pelotas" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RBS%20TV.png" group-title="GLOBO SUL ",Globo RBS TV Pelotas
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2023.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RBS TV Caxias do Sul FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RBS%20TV.png" group-title="GLOBO SUL ",Globo RBS TV Caxias do Sul FHD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2015.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RBS TV Caxias do Sul HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RBS%20TV.png" group-title="GLOBO SUL ",Globo RBS TV Caxias do Sul HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Caxias do Sul" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RBS%20TV.png" group-title="GLOBO SUL ",Globo RBS TV Caxias do Sul
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Passo Fundo FHD " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RBS%20TV.png" group-title="GLOBO SUL ",Globo RBS TV Passo Fundo FHD 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/39437.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Passo Fundo HD " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RBS%20TV.png" group-title="GLOBO SUL ",Globo RBS TV Passo Fundo HD 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/39438.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Passo Fundo" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RBS%20TV.png" group-title="GLOBO SUL ",Globo RBS TV Passo Fundo
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/39439.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Santa Maria FHD " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RBS%20TV.png" group-title="GLOBO SUL ",Globo RBS TV Santa Maria FHD 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/39440.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Santa Maria HD " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RBS%20TV.png" group-title="GLOBO SUL ",Globo RBS TV Santa Maria HD 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/39441.m3u8
+#EXTINF:-1 tvg-id="rbs.santa.maria.br" tvg-name="Globo RBS TV Santa Maria" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RBS%20TV.png" group-title="GLOBO SUL ",Globo RBS TV Santa Maria
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/39442.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Florianopolis FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/NSC%20TV.png" group-title="GLOBO SUL ",Globo NSC TV Florianopolis FHD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1983.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Florianopolis HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/NSC%20TV.png" group-title="GLOBO SUL ",Globo NSC TV Florianopolis HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1937.m3u8
+#EXTINF:-1 tvg-id="nsc.florianopolis.br" tvg-name="Globo NSC TV Florianopolis" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/NSC%20TV.png" group-title="GLOBO SUL ",Globo NSC TV Florianopolis
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Joinville FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/NSC%20TV.png" group-title="GLOBO SUL ",Globo NSC TV Joinville FHD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2018.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Joinville HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/NSC%20TV.png" group-title="GLOBO SUL ",Globo NSC TV Joinville HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2019.m3u8
+#EXTINF:-1 tvg-id="nsc.joinville.br" tvg-name="Globo NSC TV Joinville" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/NSC%20TV.png" group-title="GLOBO SUL ",Globo NSC TV Joinville
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Chapecó FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/NSC%20TV.png" group-title="GLOBO SUL ",Globo NSC TV Chapecó FHD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1964.m3u8
+#EXTINF:-1 tvg-id="nsc.chapeco.br" tvg-name="Globo NSC TV Chapecó HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/NSC%20TV.png" group-title="GLOBO SUL ",Globo NSC TV Chapecó HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1965.m3u8
+#EXTINF:-1 tvg-id="nsc.chapeco.br" tvg-name="Globo NSC TV Chapecó" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/NSC%20TV.png" group-title="GLOBO SUL ",Globo NSC TV Chapecó
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1966.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Blumenau FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/NSC%20TV.png" group-title="GLOBO SUL ",Globo NSC TV Blumenau FHD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2012.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Blumenau HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/NSC%20TV.png" group-title="GLOBO SUL ",Globo NSC TV Blumenau HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2013.m3u8
+#EXTINF:-1 tvg-id="nsc.blumenau.br" tvg-name="Globo NSC TV Blumenal" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/NSC%20TV.png" group-title="GLOBO SUL ",Globo NSC TV Blumenal
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Criciuma FHD " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/NSC%20TV.png" group-title="GLOBO SUL ",Globo NSC TV Criciuma FHD 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/39446.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo NSC TV Criciuma HD " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/NSC%20TV.png" group-title="GLOBO SUL ",Globo NSC TV Criciuma HD 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/39447.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Criciuma" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/NSC%20TV.png" group-title="GLOBO SUL ",Globo NSC TV Criciuma
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/39448.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo NSC TV Centro Oeste FHD " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/NSC%20TV.png" group-title="GLOBO SUL ",Globo NSC TV Centro Oeste FHD 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/39443.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo NSC TV Centro Oeste HD " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/NSC%20TV.png" group-title="GLOBO SUL ",Globo NSC TV Centro Oeste HD 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/39444.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Centro Oeste" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/NSC%20TV.png" group-title="GLOBO SUL ",Globo NSC TV Centro Oeste
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/39445.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV POA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RBS%20TV.png" group-title="GLOBO SUL ",Globo RBS TV POA FHD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV POA HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RBS%20TV.png" group-title="GLOBO SUL ",Globo RBS TV POA HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1939.m3u8
+#EXTINF:-1 tvg-id="rbs.santa.maria.br" tvg-name="Globo RBS Santa Maria " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RBS%20TV.png" group-title="GLOBO SUL ",Globo RBS Santa Maria 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/901278.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RBS TV Uruguaiana" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RBS%20TV.png" group-title="GLOBO SUL ",Globo RBS TV Uruguaiana
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/901124.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RBS Erechim" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RBS%20TV.png" group-title="GLOBO SUL ",Globo RBS Erechim
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/901272.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RBS dos Vales " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RBS%20TV.png" group-title="GLOBO SUL ",Globo RBS dos Vales 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/901273.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RBS Santa Rosa " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RBS%20TV.png" group-title="GLOBO SUL ",Globo RBS Santa Rosa 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/901274.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RBS Rio Grande " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RBS%20TV.png" group-title="GLOBO SUL ",Globo RBS Rio Grande 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/901275.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RBS Cruz Alta " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RBS%20TV.png" group-title="GLOBO SUL ",Globo RBS Cruz Alta 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/901276.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RBS Bage HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/RBS%20TV.png" group-title="GLOBO SUL ",Globo RBS Bage HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/901277.m3u8
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record SP FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record.png" group-title="RECORD",Record SP FHD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2371.m3u8
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record SP HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record.png" group-title="RECORD",Record SP HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2206.m3u8
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record SP" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record.png" group-title="RECORD",Record SP
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1899.m3u8
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record SP HD2" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record.png" group-title="RECORD",Record SP HD2
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2203.m3u8
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record SP2" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record.png" group-title="RECORD",Record SP2
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2202.m3u8
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record SP Alternativo HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record.png" group-title="RECORD",Record SP Alternativo HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1278.m3u8
+#EXTINF:-1 tvg-id="br#record-hd" tvg-name="Record SP Alternativo" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record.png" group-title="RECORD",Record SP Alternativo
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1165.m3u8
+#EXTINF:-1 tvg-id="br#record-rio" tvg-name="Record RJ FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record%20HD.png" group-title="RECORD",Record RJ FHD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/898378.m3u8
+#EXTINF:-1 tvg-id="br#record-rio" tvg-name="Record RJ HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record%20Rio.png" group-title="RECORD",Record RJ HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2274.m3u8
+#EXTINF:-1 tvg-id="br#record-rio" tvg-name="Record RJ" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record%20Rio.png" group-title="RECORD",Record RJ
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2275.m3u8
+#EXTINF:-1 tvg-id="br#record-rio" tvg-name="Record RJ Alternativo HD " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record.png" group-title="RECORD",Record RJ Alternativo HD 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/61274.m3u8
+#EXTINF:-1 tvg-id="br#record-rio" tvg-name="Record RJ Alternativo " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record.png" group-title="RECORD",Record RJ Alternativo 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/61275.m3u8
+#EXTINF:-1 tvg-id="br#record-minas" tvg-name="Record MG HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record%20Minas.png" group-title="RECORD",Record MG HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2276.m3u8
+#EXTINF:-1 tvg-id="RecordTVMinas.br" tvg-name="Record MG" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record%20Minas.png" group-title="RECORD",Record MG
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2277.m3u8
+#EXTINF:-1 tvg-id="br#record-porto-alegre" tvg-name="Record RS HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record%20RS.png" group-title="RECORD",Record RS HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2285.m3u8
+#EXTINF:-1 tvg-id="br#record-porto-alegre" tvg-name="Record RS" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record%20RS.png" group-title="RECORD",Record RS
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2286.m3u8
+#EXTINF:-1 tvg-id="br#record-brasilia" tvg-name="Record DF HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record%20Brasi%CC%81lia.png" group-title="RECORD",Record DF HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2283.m3u8
+#EXTINF:-1 tvg-id="br#record-brasilia" tvg-name="Record DF" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record%20Brasi%CC%81lia.png" group-title="RECORD",Record DF
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2284.m3u8
+#EXTINF:-1 tvg-id="br#record-bahia" tvg-name="Record BA HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record%20Itapoan.png" group-title="RECORD",Record BA HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2281.m3u8
+#EXTINF:-1 tvg-id="br#record-bahia" tvg-name="Record BA" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record%20Itapoan.png" group-title="RECORD",Record BA
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2282.m3u8
+#EXTINF:-1 tvg-id="br#record-goias" tvg-name="Record GO FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record%20HD.png" group-title="RECORD",Record GO FHD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/914179.m3u8
+#EXTINF:-1 tvg-id="br#record-goias" tvg-name="Record GO HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record%20HD.png" group-title="RECORD",Record GO HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/10932.m3u8
+#EXTINF:-1 tvg-id="br#record-goias" tvg-name="Record ES" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record.png" group-title="RECORD",Record ES
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/10933.m3u8
+#EXTINF:-1 tvg-id="br#recordtv-belem-hd" tvg-name="Record Belem HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record%20HD.png" group-title="RECORD",Record Belem HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/10930.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record Belem " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record.png" group-title="RECORD",Record Belem 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/10931.m3u8
+#EXTINF:-1 tvg-id="tv.cidade.br" tvg-name="Record TV Cidade HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record.png" group-title="RECORD",Record TV Cidade HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/906278.m3u8
+#EXTINF:-1 tvg-id="tv.cidade.br" tvg-name="Record TV Cidade " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record.png" group-title="RECORD",Record TV Cidade 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/906279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record Campinas HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record%20HD.png" group-title="RECORD",Record Campinas HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/45140.m3u8
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record Campinas " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record.png" group-title="RECORD",Record Campinas 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/19845.m3u8
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record SJRP" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record.png" group-title="RECORD",Record SJRP
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/13195.m3u8
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record Paulista Bauru" tvg-logo="plugin://script.hls.tester/?action=play&url=https://prinplay.com.br/server/Record.png" group-title="RECORD",Record Paulista Bauru
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1266983.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record Santa Catarina " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record.png" group-title="RECORD",Record Santa Catarina 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/16606.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record Parana" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record.png" group-title="RECORD",Record Parana
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/50847.m3u8
+#EXTINF:-1 tvg-id="record.itapoan.br" tvg-name="Record TV Itapoan " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record.png" group-title="RECORD",Record TV Itapoan 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/61302.m3u8
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record TV Correio" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record.png" group-title="RECORD",Record TV Correio
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/903321.m3u8
+#EXTINF:-1 tvg-id="record.rio.br" tvg-name="Record RJ Interior" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record.png" group-title="RECORD",Record RJ Interior
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/913839.m3u8
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record CE" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record.png" group-title="RECORD",Record CE
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/913841.m3u8
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Manaus " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record.png" group-title="RECORD",Record Manaus 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/913837.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Cabralia " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record.png" group-title="RECORD",Record TV Cabralia 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/914180.m3u8
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record Maranhao " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record.png" group-title="RECORD",Record Maranhao 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/914221.m3u8
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record Guaiba" tvg-logo="plugin://script.hls.tester/?action=play&url=https://prinplay.com.br/server/Record.png" group-title="RECORD",Record Guaiba
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1266981.m3u8
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record TV Pajuçara" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record.png" group-title="RECORD",Record TV Pajuçara
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1266411.m3u8
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record TV Tropical" tvg-logo="plugin://script.hls.tester/?action=play&url=https://prinplay.com.br/server/Record.png" group-title="RECORD",Record TV Tropical
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1266982.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record Portugal" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Record.png" group-title="RECORD",Record Portugal
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2436.m3u8
+#EXTINF:-1 tvg-id="br#sbt-s-o-paulo" tvg-name="SBT SP FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/SBT.png" group-title="SBT",SBT SP FHD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1900.m3u8
+#EXTINF:-1 tvg-id="br#sbt-s-o-paulo" tvg-name="SBT SP HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/SBT.png" group-title="SBT",SBT SP HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2212.m3u8
+#EXTINF:-1 tvg-id="br#sbt-s-o-paulo" tvg-name="SBT SP " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/SBT.png" group-title="SBT",SBT SP 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2211.m3u8
+#EXTINF:-1 tvg-id="br#sbt-s-o-paulo" tvg-name="SBT SP Alternativo HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/SBT.png" group-title="SBT",SBT SP Alternativo HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1324.m3u8
+#EXTINF:-1 tvg-id="br#sbt-s-o-paulo" tvg-name="SBT SP Alternativo" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/SBT.png" group-title="SBT",SBT SP Alternativo
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1218.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT SP Interior" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/SBT.png" group-title="SBT",SBT SP Interior
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2213.m3u8
+#EXTINF:-1 tvg-id="SBTRio.br" tvg-name="SBT RJ HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/SBT.png" group-title="SBT",SBT RJ HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/908290.m3u8
+#EXTINF:-1 tvg-id="SBTRio.br" tvg-name="SBT RJ " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/SBT.png" group-title="SBT",SBT RJ 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/53001.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT Paraná HD " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/SBT.png" group-title="SBT",SBT Paraná HD 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/52131.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT Paraná " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/SBT.png" group-title="SBT",SBT Paraná 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/50840.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV Aratu BA" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/SBT.png" group-title="SBT",SBT TV Aratu BA
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/20980.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="TV JANGADEIRO" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/SBT.png" group-title="SBT",TV JANGADEIRO
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/905382.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT TV Serra Dourada GO HD " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/SBT.png" group-title="SBT",SBT TV Serra Dourada GO HD 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/20984.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT TV Serra Dourada GO " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/SBT.png" group-title="SBT",SBT TV Serra Dourada GO 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/72358.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT TV Alterosa FHD " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/SBT.png" group-title="SBT",SBT TV Alterosa FHD 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/914181.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT TV Alterosa HD " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/SBT.png" group-title="SBT",SBT TV Alterosa HD 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/914182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV Alterosa" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/SBT.png" group-title="SBT",SBT TV Alterosa
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/50848.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT TV Aperipe SE " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/SBT.png" group-title="SBT",SBT TV Aperipe SE 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/45753.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT TV Tambau " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/SBT.png" group-title="SBT",SBT TV Tambau 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/61273.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT Brasília " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/SBT.png" group-title="SBT",SBT Brasília 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/52567.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT Rede Massa PR" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/SBT.png" group-title="SBT",SBT Rede Massa PR
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/897996.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT TV Guajara" tvg-logo="plugin://script.hls.tester/?action=play&url=https://prinplay.com.br/server/SBT.png" group-title="SBT",SBT TV Guajara
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1266987.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT RS " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/SBT.png" group-title="SBT",SBT RS 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/52473.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT SC" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/SBT.png" group-title="SBT",SBT SC
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/70107.m3u8
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RN " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/SBT.png" group-title="SBT",SBT RN 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/61717.m3u8
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT Juiz de Fora" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/SBT.png" group-title="SBT",SBT Juiz de Fora
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/978124.m3u8
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band SP FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Band%20HD.png" group-title="BAND",Band SP FHD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1878.m3u8
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band SP HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Band%20HD.png" group-title="BAND",Band SP HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2056.m3u8
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band SP" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Band.png" group-title="BAND",Band SP
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2055.m3u8
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band SP Alternativo HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Band%20HD.png" group-title="BAND",Band SP Alternativo HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1268.m3u8
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band Mais Campinas FHD " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Band.png" group-title="BAND",Band Mais Campinas FHD 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/66554.m3u8
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band Mais Campinas HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Band.png" group-title="BAND",Band Mais Campinas HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/66553.m3u8
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band Taubate HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Band.png" group-title="BAND",Band Taubate HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1243452.m3u8
+#EXTINF:-1 tvg-id="br#band-rj-hd" tvg-name="Band RJ " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Band.png" group-title="BAND",Band RJ 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/913990.m3u8
+#EXTINF:-1 tvg-id="br#band-minas" tvg-name="Band MG " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Band.png" group-title="BAND",Band MG 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/60666.m3u8
+#EXTINF:-1 tvg-id="br#band-rio-grande-do-sul-hd" tvg-name="Band RS " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Band.png" group-title="BAND",Band RS 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/61271.m3u8
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band BSB " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Band.png" group-title="BAND",Band BSB 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/61731.m3u8
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band SE" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Band.png" group-title="BAND",Band SE
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/27023.m3u8
+#EXTINF:-1 tvg-id="br#band-tv-goiania-hd" tvg-name="Band Recife " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Band.png" group-title="BAND",Band Recife 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/61268.m3u8
+#EXTINF:-1 tvg-id="band.goiania.br" tvg-name="Band TV Goiânia " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Band.png" group-title="BAND",Band TV Goiânia 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/20985.m3u8
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band TV Taroba Curitiba " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Band.png" group-title="BAND",Band TV Taroba Curitiba 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/61732.m3u8
+#EXTINF:-1 tvg-id="BandBahia.br" tvg-name="Band Bahia " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Band.png" group-title="BAND",Band Bahia 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/61733.m3u8
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band RBATV " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Band.png" group-title="BAND",Band RBATV 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/913991.m3u8
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band Paulista" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Band.png" group-title="BAND",Band Paulista
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/913992.m3u8
+#EXTINF:-1 tvg-id="BandCuritiba.br" tvg-name="Band Parana" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Band.png" group-title="BAND",Band Parana
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/940846.m3u8
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Rede%20TV%21%20HD.png" group-title="ABERTOS",Rede TV FHD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1910.m3u8
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Rede%20TV%21%20HD.png" group-title="ABERTOS",Rede TV HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2209.m3u8
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Rede%20TV%21.png" group-title="ABERTOS",Rede TV
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2208.m3u8
+#EXTINF:-1 tvg-id="TVDiario.br" tvg-name="TV Diário Fortaleza FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/TV%20Dia%CC%81rio.png" group-title="ABERTOS",TV Diário Fortaleza FHD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1914.m3u8
+#EXTINF:-1 tvg-id="TVDiario.br" tvg-name="TV Diario Fortaleza HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/TV%20Dia%CC%81rio.png" group-title="ABERTOS",TV Diario Fortaleza HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2287.m3u8
+#EXTINF:-1 tvg-id="TVDiario.br" tvg-name="TV Diário Fortaleza" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/TV%20Dia%CC%81rio.png" group-title="ABERTOS",TV Diário Fortaleza
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2288.m3u8
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-name="Tv Cultura FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Cultura.png" group-title="ABERTOS",Tv Cultura FHD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1909.m3u8
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-name="TV Cultura HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Cultura.png" group-title="ABERTOS",TV Cultura HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2272.m3u8
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-name="TV Cultura" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Cultura.png" group-title="ABERTOS",TV Cultura
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2271.m3u8
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/TV%20Brasill.png" group-title="ABERTOS",TV Brasil FHD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/897609.m3u8
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil HD " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/TV%20Brasill.png" group-title="ABERTOS",TV Brasil HD 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/61722.m3u8
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/TV%20Brasill.png" group-title="ABERTOS",TV Brasil
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Câmara HD " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/TV%20Ca%CC%82mara.png" group-title="ABERTOS",TV Câmara HD 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/61721.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Justiça HD " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/TV%20Justic%CC%A7a.png" group-title="ABERTOS",TV Justiça HD 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/61723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Justica" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/TV%20Justic%CC%A7a.png" group-title="ABERTOS",TV Justica
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2247.m3u8
+#EXTINF:-1 tvg-id="tv.senado.br" tvg-name="TV Senado HD " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/TV%20Senado.png" group-title="ABERTOS",TV Senado HD 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/61724.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Senado" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/TV%20Senado.png" group-title="ABERTOS",TV Senado
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2246.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta SP FHD " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Gazeta.png" group-title="ABERTOS",TV Gazeta SP FHD 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/24271.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta SP  HD " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Gazeta.png" group-title="ABERTOS",TV Gazeta SP  HD 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2252.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta SP" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Gazeta.png" group-title="ABERTOS",TV Gazeta SP
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/24272.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Futura FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Futura.png" group-title="ABERTOS",Futura FHD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1834.m3u8
+#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Futura.png" group-title="ABERTOS",Futura HD
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Futura" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Futura.png" group-title="ABERTOS",Futura
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal do Boi HD " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Canal%20do%20Boi.png" group-title="ABERTOS",Canal do Boi HD 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/70104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal do Boi " tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Canal%20do%20Boi.png" group-title="ABERTOS",Canal do Boi 
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/2291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Rural" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Canal%20Rural.png" group-title="ABERTOS",Canal Rural
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/1183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura PA" tvg-logo="plugin://script.hls.tester/?action=play&url=http://channelart.8b90287dn2.online/images/logos/Cultura.png" group-title="ABERTOS",TV Cultura PA
+plugin://script.hls.tester/?action=play&url=http://flipex.pro:80/live/fabio8558/85585978bbb/928412.m3u8
