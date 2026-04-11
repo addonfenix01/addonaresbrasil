@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="PARAMOUNT+ 1 HD" tvg-logo="http://209.14.88.42:80/images/af448f88f92030aa191f46592a0e6b2a.png" group-title="CANAIS | PARAMOUNT+",PARAMOUNT+ 1 HD
+plugin://script.hls.tester/?action=play&url=http://hplay10.xyz:80/03816022/51019400/3425379.ts
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="PARAMOUNT+ 1 HD¹" tvg-logo="http://209.14.88.42:80/images/af448f88f92030aa191f46592a0e6b2a.png" group-title="CANAIS | PARAMOUNT+",PARAMOUNT+ 1 HD¹
+plugin://script.hls.tester/?action=play&url=http://hplay10.xyz:80/03816022/51019400/3425380.ts
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="PARAMOUNT+ 2 HD" tvg-logo="http://209.14.88.42:80/images/af448f88f92030aa191f46592a0e6b2a.png" group-title="CANAIS | PARAMOUNT+",PARAMOUNT+ 2 HD
+plugin://script.hls.tester/?action=play&url=http://hplay10.xyz:80/03816022/51019400/3425381.ts
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="PARAMOUNT+ 2 HD²" tvg-logo="http://209.14.88.42:80/images/af448f88f92030aa191f46592a0e6b2a.png" group-title="CANAIS | PARAMOUNT+",PARAMOUNT+ 2 HD²
+plugin://script.hls.tester/?action=play&url=http://hplay10.xyz:80/03816022/51019400/3425382.ts
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="PARAMOUNT+ 3 HD" tvg-logo="http://209.14.88.42:80/images/11e23e4a06c365f119d1139c9b0d4027.png" group-title="CANAIS | PARAMOUNT+",PARAMOUNT+ 3 HD
+plugin://script.hls.tester/?action=play&url=http://hplay10.xyz:80/03816022/51019400/3425383.ts
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="PARAMOUNT+ 3 HD¹" tvg-logo="http://209.14.88.42:80/images/af448f88f92030aa191f46592a0e6b2a.png" group-title="CANAIS | PARAMOUNT+",PARAMOUNT+ 3 HD¹
+plugin://script.hls.tester/?action=play&url=http://hplay10.xyz:80/03816022/51019400/3425384.ts
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="PARAMOUNT+ 4 HD" tvg-logo="http://209.14.88.42:80/images/af448f88f92030aa191f46592a0e6b2a.png" group-title="CANAIS | PARAMOUNT+",PARAMOUNT+ 4 HD
+plugin://script.hls.tester/?action=play&url=http://hplay10.xyz:80/03816022/51019400/3425385.ts
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="PARAMOUNT+ 4 HD¹" tvg-logo="http://209.14.88.42:80/images/af448f88f92030aa191f46592a0e6b2a.png" group-title="CANAIS | PARAMOUNT+",PARAMOUNT+ 4 HD¹
+plugin://script.hls.tester/?action=play&url=http://hplay10.xyz:80/03816022/51019400/3425386.ts
