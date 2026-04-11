@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/562a2ad62127a601f3308f5a622a704e.png" group-title="Paramount | Amazon",Amazon Prime Video
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/202341.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 2" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/562a2ad62127a601f3308f5a622a704e.png" group-title="Paramount | Amazon",Amazon Prime Video 2
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/202342.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 4" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/562a2ad62127a601f3308f5a622a704e.png" group-title="Paramount | Amazon",Amazon Prime Video 4
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/202344.ts
+#EXTINF:-1 tvg-id="Paramount+" tvg-name="Paramount+" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/6e77344ba58b07641ce121d1dc1f01d7.png" group-title="Paramount | Amazon",Paramount+
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/202353.ts
+#EXTINF:-1 tvg-id="Paramount+" tvg-name="Paramount+ *" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/6e77344ba58b07641ce121d1dc1f01d7.png" group-title="Paramount | Amazon",Paramount+ *
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/202354.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 2" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/6e77344ba58b07641ce121d1dc1f01d7.png" group-title="Paramount | Amazon",Paramount+ 2
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/202355.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 2*" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/6e77344ba58b07641ce121d1dc1f01d7.png" group-title="Paramount | Amazon",Paramount+ 2*
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/202356.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 3" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/6e77344ba58b07641ce121d1dc1f01d7.png" group-title="Paramount | Amazon",Paramount+ 3
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/202357.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 3*" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/6e77344ba58b07641ce121d1dc1f01d7.png" group-title="Paramount | Amazon",Paramount+ 3*
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/202358.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 4" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/6e77344ba58b07641ce121d1dc1f01d7.png" group-title="Paramount | Amazon",Paramount+ 4
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/202359.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 4*" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/6e77344ba58b07641ce121d1dc1f01d7.png" group-title="Paramount | Amazon",Paramount+ 4*
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/202360.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 5" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/6e77344ba58b07641ce121d1dc1f01d7.png" group-title="Paramount | Amazon",Paramount+ 5
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/202361.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 5*" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/6e77344ba58b07641ce121d1dc1f01d7.png" group-title="Paramount | Amazon",Paramount+ 5*
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/202362.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 6" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/6e77344ba58b07641ce121d1dc1f01d7.png" group-title="Paramount | Amazon",Paramount+ 6
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/202363.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 6*" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/6e77344ba58b07641ce121d1dc1f01d7.png" group-title="Paramount | Amazon",Paramount+ 6*
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/202364.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 7" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/6e77344ba58b07641ce121d1dc1f01d7.png" group-title="Paramount | Amazon",Paramount+ 7
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/202365.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 7*" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/6e77344ba58b07641ce121d1dc1f01d7.png" group-title="Paramount | Amazon",Paramount+ 7*
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/202366.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 8" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/6e77344ba58b07641ce121d1dc1f01d7.png" group-title="Paramount | Amazon",Paramount+ 8
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/202367.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 8*" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/6e77344ba58b07641ce121d1dc1f01d7.png" group-title="Paramount | Amazon",Paramount+ 8*
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/202368.ts
