@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="28" tvg-name="ESPN 2 FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/f54db0c0cb0fe922985d9ed747761e5e.png" group-title="Canais | Espn",ESPN 2 FHD
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/43.ts
+#EXTINF:-1 tvg-id="28" tvg-name="ESPN 2 HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/f54db0c0cb0fe922985d9ed747761e5e.png" group-title="Canais | Espn",ESPN 2 HD
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/44.ts
+#EXTINF:-1 tvg-id="28" tvg-name="ESPN 2 SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/f54db0c0cb0fe922985d9ed747761e5e.png" group-title="Canais | Espn",ESPN 2 SD
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/638.ts
+#EXTINF:-1 tvg-id="28" tvg-name="ESPN 2 SD H.265" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/f54db0c0cb0fe922985d9ed747761e5e.png" group-title="Canais | Espn",ESPN 2 SD H.265
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/207.ts
+#EXTINF:-1 tvg-id="39" tvg-name="ESPN 3 FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/f54db0c0cb0fe922985d9ed747761e5e.png" group-title="Canais | Espn",ESPN 3 FHD
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/45.ts
+#EXTINF:-1 tvg-id="39" tvg-name="ESPN 3 HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/f54db0c0cb0fe922985d9ed747761e5e.png" group-title="Canais | Espn",ESPN 3 HD
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/46.ts
+#EXTINF:-1 tvg-id="39" tvg-name="ESPN 3 SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/f54db0c0cb0fe922985d9ed747761e5e.png" group-title="Canais | Espn",ESPN 3 SD
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/640.ts
+#EXTINF:-1 tvg-id="26" tvg-name="ESPN 4 FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/f54db0c0cb0fe922985d9ed747761e5e.png" group-title="Canais | Espn",ESPN 4 FHD
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/61.ts
+#EXTINF:-1 tvg-id="26" tvg-name="ESPN 4 HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/f54db0c0cb0fe922985d9ed747761e5e.png" group-title="Canais | Espn",ESPN 4 HD
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/62.ts
+#EXTINF:-1 tvg-id="26" tvg-name="ESPN 4 SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/f54db0c0cb0fe922985d9ed747761e5e.png" group-title="Canais | Espn",ESPN 4 SD
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/644.ts
+#EXTINF:-1 tvg-id="29" tvg-name="ESPN 5 FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/f54db0c0cb0fe922985d9ed747761e5e.png" group-title="Canais | Espn",ESPN 5 FHD
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/59.ts
+#EXTINF:-1 tvg-id="29" tvg-name="ESPN 5 HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/f54db0c0cb0fe922985d9ed747761e5e.png" group-title="Canais | Espn",ESPN 5 HD
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/60.ts
+#EXTINF:-1 tvg-id="29" tvg-name="ESPN 5 SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/f54db0c0cb0fe922985d9ed747761e5e.png" group-title="Canais | Espn",ESPN 5 SD
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/645.ts
+#EXTINF:-1 tvg-id="50" tvg-name="ESPN 6 FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/f54db0c0cb0fe922985d9ed747761e5e.png" group-title="Canais | Espn",ESPN 6 FHD
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/47.ts
+#EXTINF:-1 tvg-id="50" tvg-name="ESPN 6 HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/f54db0c0cb0fe922985d9ed747761e5e.png" group-title="Canais | Espn",ESPN 6 HD
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/48.ts
+#EXTINF:-1 tvg-id="29" tvg-name="ESPN FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/f54db0c0cb0fe922985d9ed747761e5e.png" group-title="Canais | Espn",ESPN FHD
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/49.ts
+#EXTINF:-1 tvg-id="29" tvg-name="ESPN HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/f54db0c0cb0fe922985d9ed747761e5e.png" group-title="Canais | Espn",ESPN HD
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/50.ts
+#EXTINF:-1 tvg-id="29" tvg-name="ESPN SD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/images/f54db0c0cb0fe922985d9ed747761e5e.png" group-title="Canais | Espn",ESPN SD
+plugin://script.hls.tester/?action=play&url=http://mainxs.site:80/817986130/496113165/639.ts
