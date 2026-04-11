@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="HBO MAX 1" tvg-logo="http://209.14.88.42:80/images/00e2aa1fd4841c7885fe83e98ddf3e93.png" group-title="CANAIS | HBO MAX",HBO MAX 1
+plugin://script.hls.tester/?action=play&url=http://hplay10.xyz:80/03816022/51019400/3425301.ts
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="HBO MAX 2" tvg-logo="http://209.14.88.42:80/images/00e2aa1fd4841c7885fe83e98ddf3e93.png" group-title="CANAIS | HBO MAX",HBO MAX 2
+plugin://script.hls.tester/?action=play&url=http://hplay10.xyz:80/03816022/51019400/3425302.ts
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="HBO MAX 3" tvg-logo="http://209.14.88.42:80/images/00e2aa1fd4841c7885fe83e98ddf3e93.png" group-title="CANAIS | HBO MAX",HBO MAX 3
+plugin://script.hls.tester/?action=play&url=http://hplay10.xyz:80/03816022/51019400/3425303.ts
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="HBO MAX 4" tvg-logo="http://209.14.88.42:80/images/00e2aa1fd4841c7885fe83e98ddf3e93.png" group-title="CANAIS | HBO MAX",HBO MAX 4
+plugin://script.hls.tester/?action=play&url=http://hplay10.xyz:80/03816022/51019400/3425304.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 7" tvg-logo="http://209.14.88.42:80/images/00e2aa1fd4841c7885fe83e98ddf3e93.png" group-title="CANAIS | HBO MAX",HBO MAX 7
+plugin://script.hls.tester/?action=play&url=http://hplay10.xyz:80/03816022/51019400/3425305.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 5" tvg-logo="http://209.14.88.42:80/images/00e2aa1fd4841c7885fe83e98ddf3e93.png" group-title="CANAIS | HBO MAX",HBO MAX 5
+plugin://script.hls.tester/?action=play&url=http://hplay10.xyz:80/03816022/51019400/3425306.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 6" tvg-logo="http://209.14.88.42:80/images/00e2aa1fd4841c7885fe83e98ddf3e93.png" group-title="CANAIS | HBO MAX",HBO MAX 6
+plugin://script.hls.tester/?action=play&url=http://hplay10.xyz:80/03816022/51019400/3425307.ts
