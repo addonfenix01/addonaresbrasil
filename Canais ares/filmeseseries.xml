@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/TCM.png" group-title="♦️Canais | Filmes e Séries",TCM FHD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/127042.ts
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/TCM.png" group-title="♦️Canais | Filmes e Séries",TCM HD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/127043.ts
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/TCM.png" group-title="♦️Canais | Filmes e Séries",TCM SD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/127044.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/A&E.png" group-title="♦️Canais | Filmes e Séries",A&E FHD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223531.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/A&E.png" group-title="♦️Canais | Filmes e Séries",A&E HD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223532.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/A&E.png" group-title="♦️Canais | Filmes e Séries",A&E SD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223533.ts
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/AMC.png" group-title="♦️Canais | Filmes e Séries",AMC FHD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223534.ts
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/AMC.png" group-title="♦️Canais | Filmes e Séries",AMC HD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223535.ts
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/AMC.png" group-title="♦️Canais | Filmes e Séries",AMC SD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223536.ts
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/AXN.png" group-title="♦️Canais | Filmes e Séries",AXN FHD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223537.ts
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/AXN.png" group-title="♦️Canais | Filmes e Séries",AXN HD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223538.ts
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/AXN.png" group-title="♦️Canais | Filmes e Séries",AXN SD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223540.ts
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/CANAL_BRASIL.png" group-title="♦️Canais | Filmes e Séries",Canal Brasil FHD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223541.ts
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/CANAL_BRASIL.png" group-title="♦️Canais | Filmes e Séries",Canal Brasil HD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223542.ts
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/CANAL_BRASIL.png" group-title="♦️Canais | Filmes e Séries",Canal Brasil SD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223543.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Brasil TV FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/CINEBRASILTV.png" group-title="♦️Canais | Filmes e Séries",Cine Brasil TV FHD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223544.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/CINEMAX.png" group-title="♦️Canais | Filmes e Séries",Cinemax FHD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223548.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/CINEMAX.png" group-title="♦️Canais | Filmes e Séries",Cinemax HD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223549.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/CINEMAX.png" group-title="♦️Canais | Filmes e Séries",Cinemax SD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223550.ts
+#EXTINF:-1 tvg-id="film.arts.br" tvg-name="Film & Arts FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/FILM&ART.png" group-title="♦️Canais | Filmes e Séries",Film & Arts FHD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223551.ts
+#EXTINF:-1 tvg-id="film.arts.br" tvg-name="Film & Arts HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/FILM&ART.png" group-title="♦️Canais | Filmes e Séries",Film & Arts HD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223552.ts
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/MEGAPIX.png" group-title="♦️Canais | Filmes e Séries",Megapix FHD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223556.ts
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/MEGAPIX.png" group-title="♦️Canais | Filmes e Séries",Megapix HD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223557.ts
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/MEGAPIX.png" group-title="♦️Canais | Filmes e Séries",Megapix SD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223558.ts
+#EXTINF:-1 tvg-id="bis.br" tvg-name="MyTime Movie Network Brazil HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/zE64Hwc.png" group-title="♦️Canais | Filmes e Séries",MyTime Movie Network Brazil HD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223559.ts
+#EXTINF:-1 tvg-id="" tvg-name="Playpoca Filmes" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/PLAYPOCA.png" group-title="♦️Canais | Filmes e Séries",Playpoca Filmes
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223563.ts
+#EXTINF:-1 tvg-id="" tvg-name="Playpoca Series" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/PLAYPOCA.png" group-title="♦️Canais | Filmes e Séries",Playpoca Series
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223564.ts
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="Runtime Brasil HD" tvg-logo="plugin://script.hls.tester/?action=play&url=http://logos.imperioapps.top/RUNTIME.jpeg" group-title="♦️Canais | Filmes e Séries",Runtime Brasil HD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223565.ts
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/SONY.png" group-title="♦️Canais | Filmes e Séries",Sony FHD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223566.ts
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/SONY.png" group-title="♦️Canais | Filmes e Séries",Sony HD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223567.ts
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony One Classics" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/SONY.png" group-title="♦️Canais | Filmes e Séries",Sony One Classics
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223569.ts
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/SONY.png" group-title="♦️Canais | Filmes e Séries",Sony SD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223570.ts
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/SPACE.png" group-title="♦️Canais | Filmes e Séries",Space FHD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223571.ts
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/SPACE.png" group-title="♦️Canais | Filmes e Séries",Space HD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223572.ts
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/SPACE.png" group-title="♦️Canais | Filmes e Séries",Space SD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223573.ts
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/STUDIO_UNIVERSAL.png" group-title="♦️Canais | Filmes e Séries",Studio Universal FHD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223578.ts
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/STUDIO_UNIVERSAL.png" group-title="♦️Canais | Filmes e Séries",Studio Universal HD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223579.ts
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/STUDIO_UNIVERSAL.png" group-title="♦️Canais | Filmes e Séries",Studio Universal SD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223580.ts
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/TLC.png" group-title="♦️Canais | Filmes e Séries",TLC FHD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223581.ts
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/TLC.png" group-title="♦️Canais | Filmes e Séries",TLC HD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223582.ts
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/TLC.png" group-title="♦️Canais | Filmes e Séries",TLC SD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223583.ts
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/TNT.png" group-title="♦️Canais | Filmes e Séries",TNT FHD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223584.ts
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/TNT.png" group-title="♦️Canais | Filmes e Séries",TNT HD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223586.ts
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/TNT_NOVELAS.png" group-title="♦️Canais | Filmes e Séries",TNT Novelas FHD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223587.ts
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/TNT_NOVELAS.png" group-title="♦️Canais | Filmes e Séries",TNT Novelas HD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223588.ts
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/TNT_NOVELAS.png" group-title="♦️Canais | Filmes e Séries",TNT Novelas SD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223589.ts
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/TNT.png" group-title="♦️Canais | Filmes e Séries",TNT SD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223590.ts
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/TNT_SERIES.png" group-title="♦️Canais | Filmes e Séries",TNT Series FHD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223591.ts
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/TNT_SERIES.png" group-title="♦️Canais | Filmes e Séries",TNT Series HD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223592.ts
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/TNT_SERIES.png" group-title="♦️Canais | Filmes e Séries",TNT Series SD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223593.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/UNIVERSAL.png" group-title="♦️Canais | Filmes e Séries",Universal TV FHD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223594.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/UNIVERSAL.png" group-title="♦️Canais | Filmes e Séries",Universal TV HD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223595.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/UNIVERSAL.png" group-title="♦️Canais | Filmes e Séries",Universal TV SD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223596.ts
+#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/WARNER_CHANNEL.png" group-title="♦️Canais | Filmes e Séries",Warner Channel FHD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223597.ts
+#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/WARNER_CHANNEL.png" group-title="♦️Canais | Filmes e Séries",Warner Channel HD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223599.ts
+#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/WARNER_CHANNEL.png" group-title="♦️Canais | Filmes e Séries",Warner Channel SD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223601.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony One Emoções" tvg-logo="plugin://script.hls.tester/?action=play&url=http://97j91.xyz/images/sonyone.png" group-title="♦️Canais | Filmes e Séries",Sony One Emoções
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/250249.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies" tvg-logo="plugin://script.hls.tester/?action=play&url=http://97j91.xyz/images/sonymovies.png" group-title="♦️Canais | Filmes e Séries",Sony Movies
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/250250.ts
+#EXTINF:-1 tvg-id="" tvg-name="Runtime TV & Filmes" tvg-logo="plugin://script.hls.tester/?action=play&url=http://logos.imperioapps.top/RUNTIME.jpeg" group-title="♦️Canais | Filmes e Séries",Runtime TV & Filmes
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/250251.ts
+#EXTINF:-1 tvg-id="" tvg-name="Runtime TG Brasil" tvg-logo="plugin://script.hls.tester/?action=play&url=http://logos.imperioapps.top/RUNTIME.jpeg" group-title="♦️Canais | Filmes e Séries",Runtime TG Brasil
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/250252.ts
+#EXTINF:-1 tvg-id="" tvg-name="Runtime Romance" tvg-logo="plugin://script.hls.tester/?action=play&url=http://logos.imperioapps.top/RUNTIME.jpeg" group-title="♦️Canais | Filmes e Séries",Runtime Romance
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/250253.ts
+#EXTINF:-1 tvg-id="" tvg-name="Runtime Movie Sphere" tvg-logo="plugin://script.hls.tester/?action=play&url=http://logos.imperioapps.top/RUNTIME.jpeg" group-title="♦️Canais | Filmes e Séries",Runtime Movie Sphere
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/250254.ts
+#EXTINF:-1 tvg-id="" tvg-name="Runtime Famí­lia" tvg-logo="plugin://script.hls.tester/?action=play&url=http://logos.imperioapps.top/RUNTIME.jpeg" group-title="♦️Canais | Filmes e Séries",Runtime Famí­lia
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/250255.ts
+#EXTINF:-1 tvg-id="" tvg-name="Runtime Crime" tvg-logo="plugin://script.hls.tester/?action=play&url=http://logos.imperioapps.top/RUNTIME.jpeg" group-title="♦️Canais | Filmes e Séries",Runtime Crime
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/250256.ts
+#EXTINF:-1 tvg-id="" tvg-name="Runtime Comédia" tvg-logo="plugin://script.hls.tester/?action=play&url=http://logos.imperioapps.top/RUNTIME.jpeg" group-title="♦️Canais | Filmes e Séries",Runtime Comédia
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/250257.ts
+#EXTINF:-1 tvg-id="" tvg-name="Runtime Cine Espanto" tvg-logo="plugin://script.hls.tester/?action=play&url=http://logos.imperioapps.top/RUNTIME.jpeg" group-title="♦️Canais | Filmes e Séries",Runtime Cine Espanto
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/250258.ts
+#EXTINF:-1 tvg-id="" tvg-name="Runtime Ação" tvg-logo="plugin://script.hls.tester/?action=play&url=http://logos.imperioapps.top/RUNTIME.jpeg" group-title="♦️Canais | Filmes e Séries",Runtime Ação
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/250259.ts
+#EXTINF:-1 tvg-id="" tvg-name="My Time Movie HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://logos.imperioapps.top/MYTIMEMOVIENETWORK.png" group-title="♦️Canais | Filmes e Séries",My Time Movie HD
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/250260.ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal Premiere" tvg-logo="plugin://script.hls.tester/?action=play&url=https://i.imgur.com/sfPwXQg.png" group-title="♦️Canais | Filmes e Séries",Universal Premiere
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/252422.ts
+#EXTINF:-1 tvg-id="" tvg-name="DreamWorks" tvg-logo="plugin://script.hls.tester/?action=play&url=http://logos.imperioapps.top/DREAMWORKS.png" group-title="♦️Canais | Filmes e Séries",DreamWorks
+plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/829589.ts
