@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="469" tvg-name="SBT News HD" tvg-logo="https://sbtnews.sbt.com.br/_next/image?url=https%3A%2F%2Fsbt-news-assets-prod.s3.sa-east-1.amazonaws.com%2FSBT_News_Logo_Nova_6912e22a21.jpg&w=640&q=90" group-title="〽️ NOTICIAS",SBT News HD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/314675.ts
+#EXTINF:-1 tvg-id="469" tvg-name="SBT News FHD" tvg-logo="https://sbtnews.sbt.com.br/_next/image?url=https%3A%2F%2Fsbt-news-assets-prod.s3.sa-east-1.amazonaws.com%2FSBT_News_Logo_Nova_6912e22a21.jpg&w=640&q=90" group-title="〽️ NOTICIAS",SBT News FHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/314674.ts
+#EXTINF:-1 tvg-id="Record News HD" tvg-name="RECORD NEWS SD" tvg-logo="http://imgx.com.br/img/Record_News.png" group-title="〽️ NOTICIAS",RECORD NEWS SD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313470.ts
+#EXTINF:-1 tvg-id="Record News HD" tvg-name="RECORD NEWS HD" tvg-logo="http://imgx.com.br/img/Record_News.png" group-title="〽️ NOTICIAS",RECORD NEWS HD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313469.ts
+#EXTINF:-1 tvg-id="Record News HD" tvg-name="RECORD NEWS FHD" tvg-logo="http://imgx.com.br/img/Record_News.png" group-title="〽️ NOTICIAS",RECORD NEWS FHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313468.ts
+#EXTINF:-1 tvg-id="187" tvg-name="JOVEM PAN NEWS SD" tvg-logo="http://imgx.com.br/img/TV_Jovem_Pan_News_2022.png" group-title="〽️ NOTICIAS",JOVEM PAN NEWS SD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313467.ts
+#EXTINF:-1 tvg-id="187" tvg-name="JOVEM PAN NEWS HD" tvg-logo="http://imgx.com.br/img/TV_Jovem_Pan_News_2022.png" group-title="〽️ NOTICIAS",JOVEM PAN NEWS HD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313466.ts
+#EXTINF:-1 tvg-id="187" tvg-name="JOVEM PAN NEWS FHD" tvg-logo="http://imgx.com.br/img/TV_Jovem_Pan_News_2022.png" group-title="〽️ NOTICIAS",JOVEM PAN NEWS FHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313465.ts
+#EXTINF:-1 tvg-id="Globo News HD" tvg-name="GLOBO NEWS SD" tvg-logo="http://imgx.com.br/img/GloboNews2022.png" group-title="〽️ NOTICIAS",GLOBO NEWS SD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313464.ts
+#EXTINF:-1 tvg-id="Globo News HD" tvg-name="GLOBO NEWS HD" tvg-logo="http://imgx.com.br/img/GloboNews2022.png" group-title="〽️ NOTICIAS",GLOBO NEWS HD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313463.ts
+#EXTINF:-1 tvg-id="Globo News HD" tvg-name="GLOBO NEWS FHD" tvg-logo="http://imgx.com.br/img/GloboNews2022.png" group-title="〽️ NOTICIAS",GLOBO NEWS FHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313462.ts
+#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL SD" tvg-logo="http://imgx.com.br/img/CNN_Brasil_square.png" group-title="〽️ NOTICIAS",CNN BRASIL SD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313461.ts
+#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL MONEY SD" tvg-logo="https://imgx.com.br/uploads/img_688ce321606157.99797074.jpg" group-title="〽️ NOTICIAS",CNN BRASIL MONEY SD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313460.ts
+#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL MONEY HD" tvg-logo="https://imgx.com.br/uploads/img_688ce321606157.99797074.jpg" group-title="〽️ NOTICIAS",CNN BRASIL MONEY HD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313459.ts
+#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL MONEY FHD" tvg-logo="https://imgx.com.br/uploads/img_688ce321606157.99797074.jpg" group-title="〽️ NOTICIAS",CNN BRASIL MONEY FHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313458.ts
+#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL HD" tvg-logo="http://imgx.com.br/img/CNN_Brasil_square.png" group-title="〽️ NOTICIAS",CNN BRASIL HD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313457.ts
+#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL FHD" tvg-logo="http://imgx.com.br/img/CNN_Brasil_square.png" group-title="〽️ NOTICIAS",CNN BRASIL FHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313456.ts
+#EXTINF:-1 tvg-id="339" tvg-name="CNBC TIMES BRASIL SD" tvg-logo="http://imgx.com.br/img/cnb.png" group-title="〽️ NOTICIAS",CNBC TIMES BRASIL SD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313455.ts
+#EXTINF:-1 tvg-id="339" tvg-name="CNBC TIMES BRASIL HD" tvg-logo="http://imgx.com.br/img/cnb.png" group-title="〽️ NOTICIAS",CNBC TIMES BRASIL HD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313454.ts
+#EXTINF:-1 tvg-id="339" tvg-name="CNBC TIMES BRASIL FHD" tvg-logo="http://imgx.com.br/img/cnb.png" group-title="〽️ NOTICIAS",CNBC TIMES BRASIL FHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313453.ts
+#EXTINF:-1 tvg-id="Band News SD" tvg-name="BAND NEWS SD" tvg-logo="http://imgx.com.br/img/Band_isotipo_2018.png" group-title="〽️ NOTICIAS",BAND NEWS SD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313449.ts
+#EXTINF:-1 tvg-id="Band News SD" tvg-name="BAND NEWS HD" tvg-logo="http://imgx.com.br/img/Band_isotipo_2018.png" group-title="〽️ NOTICIAS",BAND NEWS HD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313448.ts
+#EXTINF:-1 tvg-id="Band News SD" tvg-name="BAND NEWS FHD" tvg-logo="http://imgx.com.br/img/Band_isotipo_2018.png" group-title="〽️ NOTICIAS",BAND NEWS FHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313447.ts
