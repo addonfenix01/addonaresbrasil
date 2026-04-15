@@ -2,7 +2,6 @@
 <channels>
 
 
-
 <channel>
 <name>[B][COLOR pink]CANAIS [/COLOR] [COLOR pink]|ABERTOS [/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
@@ -10,7 +9,7 @@
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/Canais%20ares/canaisabertos.xml</externallink>
 </channel>
-
+  
 <channel>
 <name>[B][COLOR pink]FILMES [/COLOR] [COLOR pink]| FILMES TELECINE[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
@@ -75,6 +74,14 @@
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/Canais%20ares/filmeseseries.xml</externallink>
 </channel>
 
+<channel>
+<name>[B][COLOR pink]JOGOS E EVENTOS DO DIA [/COLOR] [COLOR pink]|´ROGTAMACAO [/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
+<fanart>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</fanart>
+<info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/Canais%20ares/jogosdodia.xml</externallink>
+</channel>
+  
 <channel>
 <name>[B][COLOR pink]NOTICIAS [/COLOR] [COLOR orange]| DIVERSOS[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
