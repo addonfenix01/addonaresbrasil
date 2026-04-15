@@ -1,141 +1,97 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM FHD" tvg-logo="https://logos.imperioapps.top/TCM.png" group-title="♦️Canais | Filmes e Séries",TCM FHD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/127042.ts
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://logos.imperioapps.top/TCM.png" group-title="♦️Canais | Filmes e Séries",TCM HD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/127043.ts
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD" tvg-logo="https://logos.imperioapps.top/TCM.png" group-title="♦️Canais | Filmes e Séries",TCM SD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/127044.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD" tvg-logo="https://logos.imperioapps.top/A&E.png" group-title="♦️Canais | Filmes e Séries",A&E FHD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223531.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="https://logos.imperioapps.top/A&E.png" group-title="♦️Canais | Filmes e Séries",A&E HD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223532.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E SD" tvg-logo="https://logos.imperioapps.top/A&E.png" group-title="♦️Canais | Filmes e Séries",A&E SD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223533.ts
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD" tvg-logo="https://logos.imperioapps.top/AMC.png" group-title="♦️Canais | Filmes e Séries",AMC FHD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223534.ts
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://logos.imperioapps.top/AMC.png" group-title="♦️Canais | Filmes e Séries",AMC HD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223535.ts
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="https://logos.imperioapps.top/AMC.png" group-title="♦️Canais | Filmes e Séries",AMC SD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223536.ts
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="https://logos.imperioapps.top/AXN.png" group-title="♦️Canais | Filmes e Séries",AXN FHD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223537.ts
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://logos.imperioapps.top/AXN.png" group-title="♦️Canais | Filmes e Séries",AXN HD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223538.ts
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="https://logos.imperioapps.top/AXN.png" group-title="♦️Canais | Filmes e Séries",AXN SD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223540.ts
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil FHD" tvg-logo="https://logos.imperioapps.top/CANAL_BRASIL.png" group-title="♦️Canais | Filmes e Séries",Canal Brasil FHD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223541.ts
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil HD" tvg-logo="https://logos.imperioapps.top/CANAL_BRASIL.png" group-title="♦️Canais | Filmes e Séries",Canal Brasil HD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223542.ts
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil SD" tvg-logo="https://logos.imperioapps.top/CANAL_BRASIL.png" group-title="♦️Canais | Filmes e Séries",Canal Brasil SD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223543.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine Brasil TV FHD" tvg-logo="https://logos.imperioapps.top/CINEBRASILTV.png" group-title="♦️Canais | Filmes e Séries",Cine Brasil TV FHD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223544.ts
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax FHD" tvg-logo="https://logos.imperioapps.top/CINEMAX.png" group-title="♦️Canais | Filmes e Séries",Cinemax FHD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223548.ts
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="https://logos.imperioapps.top/CINEMAX.png" group-title="♦️Canais | Filmes e Séries",Cinemax HD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223549.ts
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax SD" tvg-logo="https://logos.imperioapps.top/CINEMAX.png" group-title="♦️Canais | Filmes e Séries",Cinemax SD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223550.ts
-#EXTINF:-1 tvg-id="film.arts.br" tvg-name="Film & Arts FHD" tvg-logo="https://logos.imperioapps.top/FILM&ART.png" group-title="♦️Canais | Filmes e Séries",Film & Arts FHD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223551.ts
-#EXTINF:-1 tvg-id="film.arts.br" tvg-name="Film & Arts HD" tvg-logo="https://logos.imperioapps.top/FILM&ART.png" group-title="♦️Canais | Filmes e Séries",Film & Arts HD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223552.ts
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix FHD" tvg-logo="https://logos.imperioapps.top/MEGAPIX.png" group-title="♦️Canais | Filmes e Séries",Megapix FHD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223556.ts
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD" tvg-logo="https://logos.imperioapps.top/MEGAPIX.png" group-title="♦️Canais | Filmes e Séries",Megapix HD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223557.ts
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix SD" tvg-logo="https://logos.imperioapps.top/MEGAPIX.png" group-title="♦️Canais | Filmes e Séries",Megapix SD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223558.ts
-#EXTINF:-1 tvg-id="bis.br" tvg-name="MyTime Movie Network Brazil HD" tvg-logo="https://i.imgur.com/zE64Hwc.png" group-title="♦️Canais | Filmes e Séries",MyTime Movie Network Brazil HD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223559.ts
-#EXTINF:-1 tvg-id="" tvg-name="Playpoca Filmes" tvg-logo="https://logos.imperioapps.top/PLAYPOCA.png" group-title="♦️Canais | Filmes e Séries",Playpoca Filmes
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223563.ts
-#EXTINF:-1 tvg-id="" tvg-name="Playpoca Series" tvg-logo="https://logos.imperioapps.top/PLAYPOCA.png" group-title="♦️Canais | Filmes e Séries",Playpoca Series
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223564.ts
-#EXTINF:-1 tvg-id="trutv.br" tvg-name="Runtime Brasil HD" tvg-logo="http://logos.imperioapps.top/RUNTIME.jpeg" group-title="♦️Canais | Filmes e Séries",Runtime Brasil HD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223565.ts
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony FHD" tvg-logo="https://logos.imperioapps.top/SONY.png" group-title="♦️Canais | Filmes e Séries",Sony FHD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223566.ts
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony HD" tvg-logo="https://logos.imperioapps.top/SONY.png" group-title="♦️Canais | Filmes e Séries",Sony HD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223567.ts
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony One Classics" tvg-logo="https://logos.imperioapps.top/SONY.png" group-title="♦️Canais | Filmes e Séries",Sony One Classics
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223569.ts
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony SD" tvg-logo="https://logos.imperioapps.top/SONY.png" group-title="♦️Canais | Filmes e Séries",Sony SD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223570.ts
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space FHD" tvg-logo="https://logos.imperioapps.top/SPACE.png" group-title="♦️Canais | Filmes e Séries",Space FHD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223571.ts
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD" tvg-logo="https://logos.imperioapps.top/SPACE.png" group-title="♦️Canais | Filmes e Séries",Space HD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223572.ts
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space SD" tvg-logo="https://logos.imperioapps.top/SPACE.png" group-title="♦️Canais | Filmes e Séries",Space SD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223573.ts
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal FHD" tvg-logo="https://logos.imperioapps.top/STUDIO_UNIVERSAL.png" group-title="♦️Canais | Filmes e Séries",Studio Universal FHD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223578.ts
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal HD" tvg-logo="https://logos.imperioapps.top/STUDIO_UNIVERSAL.png" group-title="♦️Canais | Filmes e Séries",Studio Universal HD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223579.ts
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal SD" tvg-logo="https://logos.imperioapps.top/STUDIO_UNIVERSAL.png" group-title="♦️Canais | Filmes e Séries",Studio Universal SD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223580.ts
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC FHD" tvg-logo="https://logos.imperioapps.top/TLC.png" group-title="♦️Canais | Filmes e Séries",TLC FHD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223581.ts
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="https://logos.imperioapps.top/TLC.png" group-title="♦️Canais | Filmes e Séries",TLC HD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223582.ts
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC SD" tvg-logo="https://logos.imperioapps.top/TLC.png" group-title="♦️Canais | Filmes e Séries",TLC SD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223583.ts
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD" tvg-logo="https://logos.imperioapps.top/TNT.png" group-title="♦️Canais | Filmes e Séries",TNT FHD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223584.ts
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://logos.imperioapps.top/TNT.png" group-title="♦️Canais | Filmes e Séries",TNT HD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223586.ts
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas FHD" tvg-logo="https://logos.imperioapps.top/TNT_NOVELAS.png" group-title="♦️Canais | Filmes e Séries",TNT Novelas FHD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223587.ts
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas HD" tvg-logo="https://logos.imperioapps.top/TNT_NOVELAS.png" group-title="♦️Canais | Filmes e Séries",TNT Novelas HD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223588.ts
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas SD" tvg-logo="https://logos.imperioapps.top/TNT_NOVELAS.png" group-title="♦️Canais | Filmes e Séries",TNT Novelas SD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223589.ts
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD" tvg-logo="https://logos.imperioapps.top/TNT.png" group-title="♦️Canais | Filmes e Séries",TNT SD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223590.ts
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series FHD" tvg-logo="https://logos.imperioapps.top/TNT_SERIES.png" group-title="♦️Canais | Filmes e Séries",TNT Series FHD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223591.ts
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series HD" tvg-logo="https://logos.imperioapps.top/TNT_SERIES.png" group-title="♦️Canais | Filmes e Séries",TNT Series HD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223592.ts
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series SD" tvg-logo="https://logos.imperioapps.top/TNT_SERIES.png" group-title="♦️Canais | Filmes e Séries",TNT Series SD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223593.ts
-#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV FHD" tvg-logo="https://logos.imperioapps.top/UNIVERSAL.png" group-title="♦️Canais | Filmes e Séries",Universal TV FHD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223594.ts
-#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV HD" tvg-logo="https://logos.imperioapps.top/UNIVERSAL.png" group-title="♦️Canais | Filmes e Séries",Universal TV HD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223595.ts
-#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV SD" tvg-logo="https://logos.imperioapps.top/UNIVERSAL.png" group-title="♦️Canais | Filmes e Séries",Universal TV SD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223596.ts
-#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel FHD" tvg-logo="https://logos.imperioapps.top/WARNER_CHANNEL.png" group-title="♦️Canais | Filmes e Séries",Warner Channel FHD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223597.ts
-#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel HD" tvg-logo="https://logos.imperioapps.top/WARNER_CHANNEL.png" group-title="♦️Canais | Filmes e Séries",Warner Channel HD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223599.ts
-#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel SD" tvg-logo="https://logos.imperioapps.top/WARNER_CHANNEL.png" group-title="♦️Canais | Filmes e Séries",Warner Channel SD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/223601.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sony One Emoções" tvg-logo="http://97j91.xyz/images/sonyone.png" group-title="♦️Canais | Filmes e Séries",Sony One Emoções
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/250249.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sony Movies" tvg-logo="http://97j91.xyz/images/sonymovies.png" group-title="♦️Canais | Filmes e Séries",Sony Movies
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/250250.ts
-#EXTINF:-1 tvg-id="" tvg-name="Runtime TV & Filmes" tvg-logo="http://logos.imperioapps.top/RUNTIME.jpeg" group-title="♦️Canais | Filmes e Séries",Runtime TV & Filmes
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/250251.ts
-#EXTINF:-1 tvg-id="" tvg-name="Runtime TG Brasil" tvg-logo="http://logos.imperioapps.top/RUNTIME.jpeg" group-title="♦️Canais | Filmes e Séries",Runtime TG Brasil
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/250252.ts
-#EXTINF:-1 tvg-id="" tvg-name="Runtime Romance" tvg-logo="http://logos.imperioapps.top/RUNTIME.jpeg" group-title="♦️Canais | Filmes e Séries",Runtime Romance
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/250253.ts
-#EXTINF:-1 tvg-id="" tvg-name="Runtime Movie Sphere" tvg-logo="http://logos.imperioapps.top/RUNTIME.jpeg" group-title="♦️Canais | Filmes e Séries",Runtime Movie Sphere
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/250254.ts
-#EXTINF:-1 tvg-id="" tvg-name="Runtime Famí­lia" tvg-logo="http://logos.imperioapps.top/RUNTIME.jpeg" group-title="♦️Canais | Filmes e Séries",Runtime Famí­lia
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/250255.ts
-#EXTINF:-1 tvg-id="" tvg-name="Runtime Crime" tvg-logo="http://logos.imperioapps.top/RUNTIME.jpeg" group-title="♦️Canais | Filmes e Séries",Runtime Crime
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/250256.ts
-#EXTINF:-1 tvg-id="" tvg-name="Runtime Comédia" tvg-logo="http://logos.imperioapps.top/RUNTIME.jpeg" group-title="♦️Canais | Filmes e Séries",Runtime Comédia
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/250257.ts
-#EXTINF:-1 tvg-id="" tvg-name="Runtime Cine Espanto" tvg-logo="http://logos.imperioapps.top/RUNTIME.jpeg" group-title="♦️Canais | Filmes e Séries",Runtime Cine Espanto
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/250258.ts
-#EXTINF:-1 tvg-id="" tvg-name="Runtime Ação" tvg-logo="http://logos.imperioapps.top/RUNTIME.jpeg" group-title="♦️Canais | Filmes e Séries",Runtime Ação
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/250259.ts
-#EXTINF:-1 tvg-id="" tvg-name="My Time Movie HD" tvg-logo="https://logos.imperioapps.top/MYTIMEMOVIENETWORK.png" group-title="♦️Canais | Filmes e Séries",My Time Movie HD
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/250260.ts
-#EXTINF:-1 tvg-id="" tvg-name="Universal Premiere" tvg-logo="https://i.imgur.com/sfPwXQg.png" group-title="♦️Canais | Filmes e Séries",Universal Premiere
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/252422.ts
-#EXTINF:-1 tvg-id="" tvg-name="DreamWorks" tvg-logo="http://logos.imperioapps.top/DREAMWORKS.png" group-title="♦️Canais | Filmes e Séries",DreamWorks
-plugin://script.hls.tester/?action=play&url=http://172.110.219.252:80/25622897/04518955/829589.ts
+#EXTINF:-1 tvg-id="299" tvg-name="TNT NOVELAS UHD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JCspXXtjoAVzvFc-beM-LPscf8K-oD8Csu-KJ7C28VMT.png" group-title="〽️ FILMES & SÉRIES",TNT NOVELAS UHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914871.ts
+#EXTINF:-1 tvg-id="299" tvg-name="TNT NOVELAS HD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JCspXXtjoAVzvFc-beM-LPscf8K-oD8Csu-KJ7C28VMT.png" group-title="〽️ FILMES & SÉRIES",TNT NOVELAS HD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914872.ts
+#EXTINF:-1 tvg-id="299" tvg-name="TNT NOVELAS FHD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JCspXXtjoAVzvFc-beM-LPscf8K-oD8Csu-KJ7C28VMT.png" group-title="〽️ FILMES & SÉRIES",TNT NOVELAS FHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914873.ts
+#EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="WARNER CHANNEL UHD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JESUWrgu6F9q331uj0XbyPMn3YLXy0kDOnZaDzkBFA0_.png" group-title="〽️ FILMES & SÉRIES",WARNER CHANNEL UHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914877.ts
+#EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="WARNER CHANNEL HD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JESUWrgu6F9q331uj0XbyPMn3YLXy0kDOnZaDzkBFA0_.png" group-title="〽️ FILMES & SÉRIES",WARNER CHANNEL HD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914878.ts
+#EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="WARNER CHANNEL FHD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JESUWrgu6F9q331uj0XbyPMn3YLXy0kDOnZaDzkBFA0_.png" group-title="〽️ FILMES & SÉRIES",WARNER CHANNEL FHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914879.ts
+#EXTINF:-1 tvg-id="Food Network HD" tvg-name="USA NETWORK UHD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JIuRy86pQ4WQqFBdGzEeRyCNzZAbUqgUB6R9S-AQdQ0h.png" group-title="〽️ FILMES & SÉRIES",USA NETWORK UHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914880.ts
+#EXTINF:-1 tvg-id="Food Network HD" tvg-name="USA NETWORK HD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JIuRy86pQ4WQqFBdGzEeRyCNzZAbUqgUB6R9S-AQdQ0h.png" group-title="〽️ FILMES & SÉRIES",USA NETWORK HD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914881.ts
+#EXTINF:-1 tvg-id="Food Network HD" tvg-name="USA NETWORK FHD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JIuRy86pQ4WQqFBdGzEeRyCNzZAbUqgUB6R9S-AQdQ0h.png" group-title="〽️ FILMES & SÉRIES",USA NETWORK FHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914882.ts
+#EXTINF:-1 tvg-id="102" tvg-name="UNIVERSAL TV UHD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JDj-aePYzKW2OrYlPzZ9WF4-MR3SjJRB-wHxtlykw38yI1SKxAUwEky-nQJH6bdoOQ.png" group-title="〽️ FILMES & SÉRIES",UNIVERSAL TV UHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914883.ts
+#EXTINF:-1 tvg-id="102" tvg-name="UNIVERSAL TV HD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JDj-aePYzKW2OrYlPzZ9WF4-MR3SjJRB-wHxtlykw38yI1SKxAUwEky-nQJH6bdoOQ.png" group-title="〽️ FILMES & SÉRIES",UNIVERSAL TV HD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914884.ts
+#EXTINF:-1 tvg-id="102" tvg-name="UNIVERSAL TV FHD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JDj-aePYzKW2OrYlPzZ9WF4-MR3SjJRB-wHxtlykw38yI1SKxAUwEky-nQJH6bdoOQ.png" group-title="〽️ FILMES & SÉRIES",UNIVERSAL TV FHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914885.ts
+#EXTINF:-1 tvg-id="TNT Series 4K" tvg-name="TNT SERIES UHD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JPwm1xxhInFHPX5yYAhELonQS_7ocbbovSPAbZtLXVtf.png" group-title="〽️ FILMES & SÉRIES",TNT SERIES UHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914886.ts
+#EXTINF:-1 tvg-id="TNT Series 4K" tvg-name="TNT SERIES HD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JPwm1xxhInFHPX5yYAhELonQS_7ocbbovSPAbZtLXVtf.png" group-title="〽️ FILMES & SÉRIES",TNT SERIES HD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914887.ts
+#EXTINF:-1 tvg-id="TNT Series 4K" tvg-name="TNT SERIES FHD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JPwm1xxhInFHPX5yYAhELonQS_7ocbbovSPAbZtLXVtf.png" group-title="〽️ FILMES & SÉRIES",TNT SERIES FHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914888.ts
+#EXTINF:-1 tvg-id="TNT 4K" tvg-name="TNT UHD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JH7hd0mruFz58RA6NYZLeH5CxM_hTFd5bS74Hr_JnwMd.png" group-title="〽️ FILMES & SÉRIES",TNT UHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914889.ts
+#EXTINF:-1 tvg-id="TNT 4K" tvg-name="TNT HD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JH7hd0mruFz58RA6NYZLeH5CxM_hTFd5bS74Hr_JnwMd.png" group-title="〽️ FILMES & SÉRIES",TNT HD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914890.ts
+#EXTINF:-1 tvg-id="TNT 4K" tvg-name="TNT FHD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JH7hd0mruFz58RA6NYZLeH5CxM_hTFd5bS74Hr_JnwMd.png" group-title="〽️ FILMES & SÉRIES",TNT FHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914891.ts
+#EXTINF:-1 tvg-id="TCM SD" tvg-name="TCM UHD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JFDYMJUiynmYEB3EnmeZVzgTShfMYcCA5QGjbXi_syHk.png" group-title="〽️ FILMES & SÉRIES",TCM UHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914892.ts
+#EXTINF:-1 tvg-id="TCM SD" tvg-name="TCM HD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JFDYMJUiynmYEB3EnmeZVzgTShfMYcCA5QGjbXi_syHk.png" group-title="〽️ FILMES & SÉRIES",TCM HD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914893.ts
+#EXTINF:-1 tvg-id="TCM SD" tvg-name="TCM FHD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JFDYMJUiynmYEB3EnmeZVzgTShfMYcCA5QGjbXi_syHk.png" group-title="〽️ FILMES & SÉRIES",TCM FHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914894.ts
+#EXTINF:-1 tvg-id="Studio Universal HD" tvg-name="STUDIO UNIVERSAL UHD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JAXpqdu7H2pIEXbzoYa1bw9XHUyNhPcrxhK5HV0p1KOpbPD_HyCiBRc7WVEdgOV-pQ.png" group-title="〽️ FILMES & SÉRIES",STUDIO UNIVERSAL UHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914895.ts
+#EXTINF:-1 tvg-id="Studio Universal HD" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JAXpqdu7H2pIEXbzoYa1bw9XHUyNhPcrxhK5HV0p1KOpbPD_HyCiBRc7WVEdgOV-pQ.png" group-title="〽️ FILMES & SÉRIES",STUDIO UNIVERSAL HD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914896.ts
+#EXTINF:-1 tvg-id="Studio Universal HD" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JAXpqdu7H2pIEXbzoYa1bw9XHUyNhPcrxhK5HV0p1KOpbPD_HyCiBRc7WVEdgOV-pQ.png" group-title="〽️ FILMES & SÉRIES",STUDIO UNIVERSAL FHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914897.ts
+#EXTINF:-1 tvg-id="Space 4K" tvg-name="SPACE UHD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JAu7U4nCnbHXNwAY-du-3T3nZtno3DmePaBGBZBI96sD.png" group-title="〽️ FILMES & SÉRIES",SPACE UHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914898.ts
+#EXTINF:-1 tvg-id="Space 4K" tvg-name="SPACE HD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JAu7U4nCnbHXNwAY-du-3T3nZtno3DmePaBGBZBI96sD.png" group-title="〽️ FILMES & SÉRIES",SPACE HD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914899.ts
+#EXTINF:-1 tvg-id="Space 4K" tvg-name="SPACE FHD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JAu7U4nCnbHXNwAY-du-3T3nZtno3DmePaBGBZBI96sD.png" group-title="〽️ FILMES & SÉRIES",SPACE FHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914900.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY UHD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JGbloTUHP5GjG77HVCO7ue9VIhX1yz0oNs_PCFpSqD3k.png" group-title="〽️ FILMES & SÉRIES",SONY UHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914901.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY HD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JGbloTUHP5GjG77HVCO7ue9VIhX1yz0oNs_PCFpSqD3k.png" group-title="〽️ FILMES & SÉRIES",SONY HD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914902.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY  FHD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JGbloTUHP5GjG77HVCO7ue9VIhX1yz0oNs_PCFpSqD3k.png" group-title="〽️ FILMES & SÉRIES",SONY  FHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914903.ts
+#EXTINF:-1 tvg-id="Megapix 4K" tvg-name="MEGAPIX UHD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JDQ4Aiw_UCgEws3grn58JQRgX-qgOcZnPsVKjZwp5Eb4.png" group-title="〽️ FILMES & SÉRIES",MEGAPIX UHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914907.ts
+#EXTINF:-1 tvg-id="Megapix 4K" tvg-name="MEGAPIX HD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JDQ4Aiw_UCgEws3grn58JQRgX-qgOcZnPsVKjZwp5Eb4.png" group-title="〽️ FILMES & SÉRIES",MEGAPIX HD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914908.ts
+#EXTINF:-1 tvg-id="Megapix 4K" tvg-name="MEGAPIX FHD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JDQ4Aiw_UCgEws3grn58JQRgX-qgOcZnPsVKjZwp5Eb4.png" group-title="〽️ FILMES & SÉRIES",MEGAPIX FHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914909.ts
+#EXTINF:-1 tvg-id="51" tvg-name="FILM&ARTS HD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JPweH91TV6bGlB6PKokD322qO3e26-FxtxxE865St4oz.png" group-title="〽️ FILMES & SÉRIES",FILM&ARTS HD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914910.ts
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="CINEMAX UHD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JP9ZRvnZR3eJfeViGk9T1jrY4Ul835HAcmIQjCcoDx2t.png" group-title="〽️ FILMES & SÉRIES",CINEMAX UHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914911.ts
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="CINEMAX HD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JP9ZRvnZR3eJfeViGk9T1jrY4Ul835HAcmIQjCcoDx2t.png" group-title="〽️ FILMES & SÉRIES",CINEMAX HD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914912.ts
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="CINEMAX FHD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JP9ZRvnZR3eJfeViGk9T1jrY4Ul835HAcmIQjCcoDx2t.png" group-title="〽️ FILMES & SÉRIES",CINEMAX FHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914913.ts
+#EXTINF:-1 tvg-id="Canal Brasil HD" tvg-name="CANAL BRASIL HD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JO4TR2G5582PT52kLe07cE4kt8WCqNxGRYnpDYzR5aPID30WkMPgR44wN-io6JjpNw.png" group-title="〽️ FILMES & SÉRIES",CANAL BRASIL HD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914914.ts
+#EXTINF:-1 tvg-id="Canal Brasil HD" tvg-name="CANAL BRASIL FHD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JO4TR2G5582PT52kLe07cE4kt8WCqNxGRYnpDYzR5aPID30WkMPgR44wN-io6JjpNw.png" group-title="〽️ FILMES & SÉRIES",CANAL BRASIL FHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914915.ts
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN UHD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JKkD9sT84aPXnSAAouV7p99ocb2rf5KEYLCv0mODvqI-.png" group-title="〽️ FILMES & SÉRIES",AXN UHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914916.ts
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JKkD9sT84aPXnSAAouV7p99ocb2rf5KEYLCv0mODvqI-.png" group-title="〽️ FILMES & SÉRIES",AXN HD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914917.ts
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN FHD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JKkD9sT84aPXnSAAouV7p99ocb2rf5KEYLCv0mODvqI-.png" group-title="〽️ FILMES & SÉRIES",AXN FHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914918.ts
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC UHD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JGUQ9W6xZpVL0aQlFErraZmRA-28aGQRbuxqAZId64IQ.png" group-title="〽️ FILMES & SÉRIES",AMC UHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914919.ts
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JGUQ9W6xZpVL0aQlFErraZmRA-28aGQRbuxqAZId64IQ.png" group-title="〽️ FILMES & SÉRIES",AMC HD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914920.ts
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC FHD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JGUQ9W6xZpVL0aQlFErraZmRA-28aGQRbuxqAZId64IQ.png" group-title="〽️ FILMES & SÉRIES",AMC FHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914921.ts
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E UHD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JDz2I_5Su_Yzpr4jLAvvsDOySWXd4bf_rQ8lvCFw0G5G.png" group-title="〽️ FILMES & SÉRIES",A&E UHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914922.ts
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JDz2I_5Su_Yzpr4jLAvvsDOySWXd4bf_rQ8lvCFw0G5G.png" group-title="〽️ FILMES & SÉRIES",A&E HD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914923.ts
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E FHD" tvg-logo="http://veloz.tvbrlive.com:80/images/QCqX5p5x3Y181Q8jwb82JDz2I_5Su_Yzpr4jLAvvsDOySWXd4bf_rQ8lvCFw0G5G.png" group-title="〽️ FILMES & SÉRIES",A&E FHD
+plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/914924.ts
