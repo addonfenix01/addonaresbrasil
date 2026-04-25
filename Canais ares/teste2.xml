@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="147431" tvg-name="A&E FHD [Alt]" tvg-logo="https://raphmx00.com/ae.png" group-title="Live TV",A&E FHD [Alt]
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/147431.m3u8
+#EXTINF:-1 tvg-id="83335" tvg-name="A&E FHD [H265]" tvg-logo="https://raphmx00.com/ae.png" group-title="Live TV",A&E FHD [H265]
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/83335.m3u8
+#EXTINF:-1 tvg-id="83185" tvg-name="A&E HD" tvg-logo="https://raphmx00.com/ae.png" group-title="Live TV",A&E HD
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/83185.m3u8
+#EXTINF:-1 tvg-id="147432" tvg-name="A&E HD [Alt]" tvg-logo="https://raphmx00.com/ae.png" group-title="Live TV",A&E HD [Alt]
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/147432.m3u8
+#EXTINF:-1 tvg-id="83521" tvg-name="A&E SD" tvg-logo="https://raphmx00.com/ae.png" group-title="Live TV",A&E SD
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/83521.m3u8
+#EXTINF:-1 tvg-id="151003" tvg-name="Adult Swim FHD" tvg-logo="https://logowik.com/content/uploads/images/adult-swim3905.jpg" group-title="Live TV",Adult Swim FHD
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/151003.m3u8
+#EXTINF:-1 tvg-id="151004" tvg-name="Adult Swim HD" tvg-logo="https://logowik.com/content/uploads/images/adult-swim3905.jpg" group-title="Live TV",Adult Swim HD
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/151004.m3u8
+#EXTINF:-1 tvg-id="151005" tvg-name="Adult Swim SD" tvg-logo="https://logowik.com/content/uploads/images/adult-swim3905.jpg" group-title="Live TV",Adult Swim SD
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/151005.m3u8
+#EXTINF:-1 tvg-id="162557" tvg-name="Agro+ FHD" tvg-logo="https://raphmx00.com/agromais.png" group-title="Live TV",Agro+ FHD
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/162557.m3u8
+#EXTINF:-1 tvg-id="147461" tvg-name="Agro+ FHD [Alt]" tvg-logo="https://raphmx00.com/agromais.png" group-title="Live TV",Agro+ FHD [Alt]
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/147461.m3u8
+#EXTINF:-1 tvg-id="152570" tvg-name="Agro+ HD" tvg-logo="https://raphmx00.com/agromais.png" group-title="Live TV",Agro+ HD
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/152570.m3u8
+#EXTINF:-1 tvg-id="140815" tvg-name="Agro+ HD [Alt]" tvg-logo="https://raphmx00.com/agromais.png" group-title="Live TV",Agro+ HD [Alt]
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/140815.m3u8
+#EXTINF:-1 tvg-id="162556" tvg-name="Agro+ SD" tvg-logo="https://raphmx00.com/agromais.png" group-title="Live TV",Agro+ SD
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/162556.m3u8
+#EXTINF:-1 tvg-id="136185" tvg-name="Alexandre Pires e Seu Jorge [Live Irmãos]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="Live TV",Alexandre Pires e Seu Jorge [Live Irmãos]
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/136185.m3u8
+#EXTINF:-1 tvg-id="136186" tvg-name="Alexandre Pires [Live do Nego Véio]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="Live TV",Alexandre Pires [Live do Nego Véio]
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/136186.m3u8
+#EXTINF:-1 tvg-id="136797" tvg-name="AMC FHD" tvg-logo="https://raphmx00.com/amc.png" group-title="Live TV",AMC FHD
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/136797.m3u8
+#EXTINF:-1 tvg-id="142161" tvg-name="AMC FHD [Alt]" tvg-logo="https://raphmx00.com/amc.png" group-title="Live TV",AMC FHD [Alt]
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/142161.m3u8
+#EXTINF:-1 tvg-id="83336" tvg-name="AMC FHD [H265]" tvg-logo="https://raphmx00.com/amc.png" group-title="Live TV",AMC FHD [H265]
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/83336.m3u8
+#EXTINF:-1 tvg-id="83186" tvg-name="AMC HD" tvg-logo="https://raphmx00.com/amc.png" group-title="Live TV",AMC HD
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/83186.m3u8
+#EXTINF:-1 tvg-id="136814" tvg-name="AMC HD [Alt]" tvg-logo="https://raphmx00.com/amc.png" group-title="Live TV",AMC HD [Alt]
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/136814.m3u8
+#EXTINF:-1 tvg-id="83522" tvg-name="AMC SD" tvg-logo="https://raphmx00.com/amc.png" group-title="Live TV",AMC SD
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/83522.m3u8
+#EXTINF:-1 tvg-id="151041" tvg-name="Animal Planet 4K" tvg-logo="https://raphmx00.com/animalplanet.png" group-title="Live TV",Animal Planet 4K
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/151041.m3u8
+#EXTINF:-1 tvg-id="87312" tvg-name="Animal Planet FHD" tvg-logo="https://raphmx00.com/animalplanet.png" group-title="Live TV",Animal Planet FHD
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/87312.m3u8
+#EXTINF:-1 tvg-id="147434" tvg-name="Animal Planet FHD [Alt]" tvg-logo="https://raphmx00.com/animalplanet.png" group-title="Live TV",Animal Planet FHD [Alt]
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/147434.m3u8
+#EXTINF:-1 tvg-id="83368" tvg-name="Animal Planet FHD [H265]" tvg-logo="https://raphmx00.com/animalplanet.png" group-title="Live TV",Animal Planet FHD [H265]
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/83368.m3u8
+#EXTINF:-1 tvg-id="83187" tvg-name="Animal Planet HD" tvg-logo="https://raphmx00.com/animalplanet.png" group-title="Live TV",Animal Planet HD
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/83187.m3u8
+#EXTINF:-1 tvg-id="147435" tvg-name="Animal Planet HD [Alt]" tvg-logo="https://raphmx00.com/animalplanet.png" group-title="Live TV",Animal Planet HD [Alt]
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/147435.m3u8
+#EXTINF:-1 tvg-id="83523" tvg-name="Animal Planet SD" tvg-logo="https://raphmx00.com/animalplanet.png" group-title="Live TV",Animal Planet SD
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/83523.m3u8
+#EXTINF:-1 tvg-id="293178" tvg-name="Anime TV" tvg-logo="https://i.imgur.com/tJVS697.png" group-title="Live TV",Anime TV
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/293178.m3u8
+#EXTINF:-1 tvg-id="164637" tvg-name="AppleTV+ 1" tvg-logo="https://raphmx00.com/logos/appletv.jpg" group-title="Live TV",AppleTV+ 1
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/164637.m3u8
+#EXTINF:-1 tvg-id="164636" tvg-name="AppleTV+ 2" tvg-logo="https://raphmx00.com/logos/appletv.jpg" group-title="Live TV",AppleTV+ 2
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/164636.m3u8
+#EXTINF:-1 tvg-id="164635" tvg-name="AppleTV+ 3" tvg-logo="https://raphmx00.com/logos/appletv.jpg" group-title="Live TV",AppleTV+ 3
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/164635.m3u8
+#EXTINF:-1 tvg-id="164634" tvg-name="AppleTV+ 4" tvg-logo="https://raphmx00.com/logos/appletv.jpg" group-title="Live TV",AppleTV+ 4
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/164634.m3u8
+#EXTINF:-1 tvg-id="147358" tvg-name="Arte 1 FHD" tvg-logo="https://raphmx00.com/arte1.png" group-title="Live TV",Arte 1 FHD
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/147358.m3u8
+#EXTINF:-1 tvg-id="147436" tvg-name="Arte 1 FHD [Alt]" tvg-logo="https://raphmx00.com/arte1.png" group-title="Live TV",Arte 1 FHD [Alt]
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/147436.m3u8
+#EXTINF:-1 tvg-id="164576" tvg-name="Arte 1 FHD [H265]" tvg-logo="https://raphmx00.com/arte1.png" group-title="Live TV",Arte 1 FHD [H265]
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/164576.m3u8
+#EXTINF:-1 tvg-id="150162" tvg-name="Arte 1 HD" tvg-logo="https://raphmx00.com/arte1.png" group-title="Live TV",Arte 1 HD
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/150162.m3u8
+#EXTINF:-1 tvg-id="147437" tvg-name="Arte 1 HD [Alt]" tvg-logo="https://raphmx00.com/arte1.png" group-title="Live TV",Arte 1 HD [Alt]
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/147437.m3u8
+#EXTINF:-1 tvg-id="162558" tvg-name="Arte 1 SD" tvg-logo="https://raphmx00.com/arte1.png" group-title="Live TV",Arte 1 SD
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/162558.m3u8
+#EXTINF:-1 tvg-id="136792" tvg-name="AXN FHD" tvg-logo="https://raphmx00.com/axn.png" group-title="Live TV",AXN FHD
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/136792.m3u8
+#EXTINF:-1 tvg-id="147438" tvg-name="AXN FHD [Alt]" tvg-logo="https://raphmx00.com/axn.png" group-title="Live TV",AXN FHD [Alt]
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/147438.m3u8
+#EXTINF:-1 tvg-id="83369" tvg-name="AXN FHD [H265]" tvg-logo="https://raphmx00.com/axn.png" group-title="Live TV",AXN FHD [H265]
+plugin://script.hls.tester/?action=play&url=http://192.168.3.104:8000/1/live/admin/admin/83369.m3u8
