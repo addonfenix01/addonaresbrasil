@@ -1,157 +1,157 @@
 #EXTM3U
 #EXTINF:-1 xui-id="787996" tvg-id="86" tvg-name="A&E FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1wyvI7SmqRy6eLZ1HdMTo2ITI55G2RDxcpzlAFGuV2uPu0HZMvhAcCmzr6UaKzFyeQ.png" group-title="Canais | Filmes e Séries",A&E FHD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvU7Jc1RBt3OPaDnsmqvho9c/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvU7Jc1RBt3OPaDnsmqvho9c/ts
 #EXTINF:-1 xui-id="787997" tvg-id="86" tvg-name="A&E HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1wyvI7SmqRy6eLZ1HdMTo2ITI55G2RDxcpzlAFGuV2uPu0HZMvhAcCmzr6UaKzFyeQ.png" group-title="Canais | Filmes e Séries",A&E HD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvYNsBPr2op0RMiIFT0SmH3o/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvYNsBPr2op0RMiIFT0SmH3o/ts
 #EXTINF:-1 xui-id="787998" tvg-id="86" tvg-name="A&E SD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1wyvI7SmqRy6eLZ1HdMTo2ITI55G2RDxcpzlAFGuV2uPu0HZMvhAcCmzr6UaKzFyeQ.png" group-title="Canais | Filmes e Séries",A&E SD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvWI1NUtpSFGMq2z51mv5r5Y/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvWI1NUtpSFGMq2z51mv5r5Y/ts
 #EXTINF:-1 xui-id="787999" tvg-id="33" tvg-name="AMC FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zUTssWT8RCH1eUTjmqGhNkQ3RJf0SSNK0tWWbgJxNbWIm55nSJxUwFz1hpuEbiI-g.png" group-title="Canais | Filmes e Séries",AMC FHD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvWiLI1CkeXnIFdF-pXBcBZQ/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvWiLI1CkeXnIFdF-pXBcBZQ/ts
 #EXTINF:-1 xui-id="788000" tvg-id="33" tvg-name="AMC HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zUTssWT8RCH1eUTjmqGhNkQ3RJf0SSNK0tWWbgJxNbWIm55nSJxUwFz1hpuEbiI-g.png" group-title="Canais | Filmes e Séries",AMC HD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRve66Nm_mybEiZ2xOguCtY_w/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRve66Nm_mybEiZ2xOguCtY_w/ts
 #EXTINF:-1 xui-id="788001" tvg-id="33" tvg-name="AMC SD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zUTssWT8RCH1eUTjmqGhNkQ3RJf0SSNK0tWWbgJxNbWIm55nSJxUwFz1hpuEbiI-g.png" group-title="Canais | Filmes e Séries",AMC SD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvf2aPVliUok0U-gY_AJCyiY/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvf2aPVliUok0U-gY_AJCyiY/ts
 #EXTINF:-1 xui-id="788002" tvg-id="79" tvg-name="AXN FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf12Gg0J8BKnZxg6_Bce7kyaHL0q0vtwv-X9Mgmanyr07DK4jryU-x4MD1s27yUmrHpfjWXdrr3U0yWuy_BslHPQs.png" group-title="Canais | Filmes e Séries",AXN FHD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvXSJIBWYRDWpiTLaTAaMuA8/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvXSJIBWYRDWpiTLaTAaMuA8/ts
 #EXTINF:-1 xui-id="788003" tvg-id="79" tvg-name="AXN HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf12Gg0J8BKnZxg6_Bce7kyaHL0q0vtwv-X9Mgmanyr07DK4jryU-x4MD1s27yUmrHpfjWXdrr3U0yWuy_BslHPQs.png" group-title="Canais | Filmes e Séries",AXN HD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvdDQ2mDNSiDEnKeDvu8YKAE/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvdDQ2mDNSiDEnKeDvu8YKAE/ts
 #EXTINF:-1 xui-id="788004" tvg-id="79" tvg-name="AXN SD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf12Gg0J8BKnZxg6_Bce7kyaHL0q0vtwv-X9Mgmanyr07DK4jryU-x4MD1s27yUmrHpfjWXdrr3U0yWuy_BslHPQs.png" group-title="Canais | Filmes e Séries",AXN SD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvamVxmfcqrj4r7SE5F3o0ZY/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvamVxmfcqrj4r7SE5F3o0ZY/ts
 #EXTINF:-1 xui-id="788005" tvg-id="Canal Brasil FHD" tvg-name="Canal Brasil FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1wiUqjyYgSw-1Vmt4eVb2ltLDxBFERq1LW3puqzSZy950zvzP5nMW6pqXvqs7_D071TgprjzOVnSVJ1fuGoiMTE.png" group-title="Canais | Filmes e Séries",Canal Brasil FHD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvTqggDu9N1drcoSp6yUkcTE/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvTqggDu9N1drcoSp6yUkcTE/ts
 #EXTINF:-1 xui-id="788006" tvg-id="Canal Brasil FHD" tvg-name="Canal Brasil HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1wiUqjyYgSw-1Vmt4eVb2ltLDxBFERq1LW3puqzSZy950zvzP5nMW6pqXvqs7_D071TgprjzOVnSVJ1fuGoiMTE.png" group-title="Canais | Filmes e Séries",Canal Brasil HD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvVDsOvvuLpKpjoegq24Fu4A/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvVDsOvvuLpKpjoegq24Fu4A/ts
 #EXTINF:-1 xui-id="788007" tvg-id="Canal Brasil FHD" tvg-name="Canal Brasil SD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1wiUqjyYgSw-1Vmt4eVb2ltLDxBFERq1LW3puqzSZy950zvzP5nMW6pqXvqs7_D071TgprjzOVnSVJ1fuGoiMTE.png" group-title="Canais | Filmes e Séries",Canal Brasil SD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvXYn72egDzEgkAgDY0PWWOc/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvXYn72egDzEgkAgDY0PWWOc/ts
 #EXTINF:-1 xui-id="788008" tvg-id="178" tvg-name="Cinemax FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf18PvYli0tM1uHCPnrcBh1imxvbUFFBLkU4eBl5U5adWE2zmC1XyXzg2w1RbHRqZPva2SKAmeJlcjoQ0X3VQGEI8.png" group-title="Canais | Filmes e Séries",Cinemax FHD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvYU7GUuK2h1eg76aEb_LYxk/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvYU7GUuK2h1eg76aEb_LYxk/ts
 #EXTINF:-1 xui-id="788009" tvg-id="178" tvg-name="Cinemax SD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf18PvYli0tM1uHCPnrcBh1imxvbUFFBLkU4eBl5U5adWE2zmC1XyXzg2w1RbHRqZPva2SKAmeJlcjoQ0X3VQGEI8.png" group-title="Canais | Filmes e Séries",Cinemax SD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvb7meZViUm-IiCGx3OmDw50/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvb7meZViUm-IiCGx3OmDw50/ts
 #EXTINF:-1 xui-id="788010" tvg-id="51" tvg-name="FILM & ARTS FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1y7qTwnEl8pyjWxz_2XX9oap1ijA4QJcUDmQHMhzC5nIT8IP5V-F9D2vtsva-aqIbg.png" group-title="Canais | Filmes e Séries",FILM & ARTS FHD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvdm3-n9hQp-nYkN0FusdDOY/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvdm3-n9hQp-nYkN0FusdDOY/ts
 #EXTINF:-1 xui-id="788011" tvg-id="51" tvg-name="FILM & ARTS HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1y7qTwnEl8pyjWxz_2XX9oap1ijA4QJcUDmQHMhzC5nIT8IP5V-F9D2vtsva-aqIbg.png" group-title="Canais | Filmes e Séries",FILM & ARTS HD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRveo-Kd2ELbhbq_qrq46reGo/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRveo-Kd2ELbhbq_qrq46reGo/ts
 #EXTINF:-1 xui-id="788012" tvg-id="Sony.br" tvg-name="Sony FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf18rTtBBVXShtr1n_pgTNREzOWhe_2OBYIkQ3xq7vyCJZyRQMJabWjPD3pCSc6oMShA.png" group-title="Canais | Filmes e Séries",Sony FHD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvaTH4yE-ZgXWZQd9zSiU3Tw/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvaTH4yE-ZgXWZQd9zSiU3Tw/ts
 #EXTINF:-1 xui-id="788013" tvg-id="Sony.br" tvg-name="Sony HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf18rTtBBVXShtr1n_pgTNREzOWhe_2OBYIkQ3xq7vyCJZyRQMJabWjPD3pCSc6oMShA.png" group-title="Canais | Filmes e Séries",Sony HD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvW1yzZRZLUMjPqYcZEawNS4/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvW1yzZRZLUMjPqYcZEawNS4/ts
 #EXTINF:-1 xui-id="788014" tvg-id="Sony.br" tvg-name="Sony SD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf18rTtBBVXShtr1n_pgTNREzOWhe_2OBYIkQ3xq7vyCJZyRQMJabWjPD3pCSc6oMShA.png" group-title="Canais | Filmes e Séries",Sony SD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvQ9didlIV3LVLHpnX4dVFm0/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvQ9didlIV3LVLHpnX4dVFm0/ts
 #EXTINF:-1 xui-id="788015" tvg-id="LCH6356" tvg-name="Sony Movies HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf15V0n45v6SlZLmQSEtMucMzyoBczH7zP3Zp1WSMMcM25.png" group-title="Canais | Filmes e Séries",Sony Movies HD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvcrGg-Kr8ZY6wGlLXQhjiCM/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvcrGg-Kr8ZY6wGlLXQhjiCM/ts
 #EXTINF:-1 xui-id="788016" tvg-id="Sony.br" tvg-name="Sony SD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf18rTtBBVXShtr1n_pgTNREzOWhe_2OBYIkQ3xq7vyCJZyRQMJabWjPD3pCSc6oMShA.png" group-title="Canais | Filmes e Séries",Sony SD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvQEUHCD0k0S3Eaf5vKDfQHY/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvQEUHCD0k0S3Eaf5vKDfQHY/ts
 #EXTINF:-1 xui-id="788017" tvg-id="Space 4K" tvg-name="Space FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1w_AbV5A6i2etjSpPtkpXOqz7Ni09O1kynZfpEa4ucYt-jXUkf5y5TMsX7UFqxivsQ.png" group-title="Canais | Filmes e Séries",Space FHD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvaJWTd_NcGG6wYmWP4u3-no/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvaJWTd_NcGG6wYmWP4u3-no/ts
 #EXTINF:-1 xui-id="788018" tvg-id="Space 4K" tvg-name="Space HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1w_AbV5A6i2etjSpPtkpXOqz7Ni09O1kynZfpEa4ucYt-jXUkf5y5TMsX7UFqxivsQ.png" group-title="Canais | Filmes e Séries",Space HD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRven88irQ-2afIuKXhP3CDGc/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRven88irQ-2afIuKXhP3CDGc/ts
 #EXTINF:-1 xui-id="788019" tvg-id="Space 4K" tvg-name="Space SD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1w_AbV5A6i2etjSpPtkpXOqz7Ni09O1kynZfpEa4ucYt-jXUkf5y5TMsX7UFqxivsQ.png" group-title="Canais | Filmes e Séries",Space SD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvWzY-pMDiE-aQXLWB1oh7Wc/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvWzY-pMDiE-aQXLWB1oh7Wc/ts
 #EXTINF:-1 xui-id="788020" tvg-id="106" tvg-name="Studio Universal FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf12i1XPFuXL7kV12syvwNotw9dtyNX4qY5kDaEvF2wQ05OCksfp3vcjCv5xuKWbiglBotdvgGs4BbYkRWpS_ieZQ.png" group-title="Canais | Filmes e Séries",Studio Universal FHD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvTlVhpQpHc4X3hdz5Yg3-oA/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvTlVhpQpHc4X3hdz5Yg3-oA/ts
 #EXTINF:-1 xui-id="788021" tvg-id="106" tvg-name="Studio Universal HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf12i1XPFuXL7kV12syvwNotw9dtyNX4qY5kDaEvF2wQ05OCksfp3vcjCv5xuKWbiglBotdvgGs4BbYkRWpS_ieZQ.png" group-title="Canais | Filmes e Séries",Studio Universal HD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRva6WAsbUISrxnHifUsa9cdg/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRva6WAsbUISrxnHifUsa9cdg/ts
 #EXTINF:-1 xui-id="788022" tvg-id="106" tvg-name="Studio Universal SD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf12i1XPFuXL7kV12syvwNotw9dtyNX4qY5kDaEvF2wQ05OCksfp3vcjCv5xuKWbiglBotdvgGs4BbYkRWpS_ieZQ.png" group-title="Canais | Filmes e Séries",Studio Universal SD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvfFPdfl1dX6MDE7dxHDJ6hw/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvfFPdfl1dX6MDE7dxHDJ6hw/ts
 #EXTINF:-1 xui-id="788023" tvg-id="47" tvg-name="TCM FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf19tNaeZBtQKgFdbE3YHKhlA2Up2YO5SkK1hZBONZ2gWkMnAxM2ZRIczviSz8aZk8UggasEnVXy-UZiYZOovveWQ.png" group-title="Canais | Filmes e Séries",TCM FHD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvTL_Yxa6W_T6gC3MI1PargI/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvTL_Yxa6W_T6gC3MI1PargI/ts
 #EXTINF:-1 xui-id="788024" tvg-id="47" tvg-name="TCM HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf19tNaeZBtQKgFdbE3YHKhlA2Up2YO5SkK1hZBONZ2gWkMnAxM2ZRIczviSz8aZk8UggasEnVXy-UZiYZOovveWQ.png" group-title="Canais | Filmes e Séries",TCM HD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvcAo-vHC4vgPpYh7t8o22eY/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvcAo-vHC4vgPpYh7t8o22eY/ts
 #EXTINF:-1 xui-id="788025" tvg-id="47" tvg-name="TCM SD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf19tNaeZBtQKgFdbE3YHKhlA2Up2YO5SkK1hZBONZ2gWkMnAxM2ZRIczviSz8aZk8UggasEnVXy-UZiYZOovveWQ.png" group-title="Canais | Filmes e Séries",TCM SD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvfAGee8DUgybhTtZbyruRSw/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvfAGee8DUgybhTtZbyruRSw/ts
 #EXTINF:-1 xui-id="788026" tvg-id="12" tvg-name="TLC FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1wiUqjyYgSw-1Vmt4eVb2ltVPL9-MTJyGBoeCfdUhr74dQLqbtDUWwKgDsmYgWhRuPAX7hNOdWXWTmFkK6L16QA.png" group-title="Canais | Filmes e Séries",TLC FHD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvUzVC8W3i4-SIfvT8_4RcQ0/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvUzVC8W3i4-SIfvT8_4RcQ0/ts
 #EXTINF:-1 xui-id="788027" tvg-id="12" tvg-name="TLC HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1wiUqjyYgSw-1Vmt4eVb2ltVPL9-MTJyGBoeCfdUhr74dQLqbtDUWwKgDsmYgWhRuPAX7hNOdWXWTmFkK6L16QA.png" group-title="Canais | Filmes e Séries",TLC HD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvSirZbRhI8Vg4WnC6Qs8M9o/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvSirZbRhI8Vg4WnC6Qs8M9o/ts
 #EXTINF:-1 xui-id="788028" tvg-id="12" tvg-name="TLC SD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1wiUqjyYgSw-1Vmt4eVb2ltVPL9-MTJyGBoeCfdUhr74dQLqbtDUWwKgDsmYgWhRuPAX7hNOdWXWTmFkK6L16QA.png" group-title="Canais | Filmes e Séries",TLC SD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvfNiml7Lpkg4DMp9kB8zP7g/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvfNiml7Lpkg4DMp9kB8zP7g/ts
 #EXTINF:-1 xui-id="788029" tvg-id="TNT 4K" tvg-name="TNT FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf11-KfIeVrM7ljjxpIAqazL9nIDtyA8QDeX8zh8SvRjVAYKCIIva8S5s9-KzrzXYph8JlP-xLIlNYrUXa1BvGb-s.png" group-title="Canais | Filmes e Séries",TNT FHD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvYpBKwlOyxsibqP-YrtINbU/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvYpBKwlOyxsibqP-YrtINbU/ts
 #EXTINF:-1 xui-id="788030" tvg-id="TNT 4K" tvg-name="TNT HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf11-KfIeVrM7ljjxpIAqazL9nIDtyA8QDeX8zh8SvRjVAYKCIIva8S5s9-KzrzXYph8JlP-xLIlNYrUXa1BvGb-s.png" group-title="Canais | Filmes e Séries",TNT HD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRveSGpmDcCN_5uoVZBZHqZNY/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRveSGpmDcCN_5uoVZBZHqZNY/ts
 #EXTINF:-1 xui-id="788031" tvg-id="LCH653" tvg-name="TNT Novelas FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1z6DPCzzDM-5_8mV5SezHPowHuJmVDoDecYDpkYt1vLR.png" group-title="Canais | Filmes e Séries",TNT Novelas FHD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvTsQlbuyndgoLJUblEySmaQ/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvTsQlbuyndgoLJUblEySmaQ/ts
 #EXTINF:-1 xui-id="788032" tvg-id="LCH653" tvg-name="TNT Novelas HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1z6DPCzzDM-5_8mV5SezHPowHuJmVDoDecYDpkYt1vLR.png" group-title="Canais | Filmes e Séries",TNT Novelas HD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvb0SYkS5Br8lK5TppjKAMMA/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvb0SYkS5Br8lK5TppjKAMMA/ts
 #EXTINF:-1 xui-id="788033" tvg-id="LCH653" tvg-name="TNT Novelas SD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1z6DPCzzDM-5_8mV5SezHPowHuJmVDoDecYDpkYt1vLR.png" group-title="Canais | Filmes e Séries",TNT Novelas SD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvRynnEboN2_co0Yqa_3znjk/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvRynnEboN2_co0Yqa_3znjk/ts
 #EXTINF:-1 xui-id="788034" tvg-id="TNT 4K" tvg-name="TNT SD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf11-KfIeVrM7ljjxpIAqazL9nIDtyA8QDeX8zh8SvRjVAYKCIIva8S5s9-KzrzXYph8JlP-xLIlNYrUXa1BvGb-s.png" group-title="Canais | Filmes e Séries",TNT SD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvZAieTx2hGNlJCkuCpWuKM8/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvZAieTx2hGNlJCkuCpWuKM8/ts
 #EXTINF:-1 xui-id="788035" tvg-id="TNT Series 4K" tvg-name="TNT Series FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf17LRfNznCUzZl50FvO7hzwJcL-ZZ5bGW-dPjYLgkvLDD.png" group-title="Canais | Filmes e Séries",TNT Series FHD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvcr0blXZFEWNqskj0vZt4lk/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvcr0blXZFEWNqskj0vZt4lk/ts
 #EXTINF:-1 xui-id="788036" tvg-id="TNT Series 4K" tvg-name="TNT Series HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf17LRfNznCUzZl50FvO7hzwJcL-ZZ5bGW-dPjYLgkvLDD.png" group-title="Canais | Filmes e Séries",TNT Series HD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvds8tgB9z9aW5dYbRr16Q5A/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvds8tgB9z9aW5dYbRr16Q5A/ts
 #EXTINF:-1 xui-id="788037" tvg-id="TNT Series 4K" tvg-name="TNT Series SD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf17LRfNznCUzZl50FvO7hzwJcL-ZZ5bGW-dPjYLgkvLDD.png" group-title="Canais | Filmes e Séries",TNT Series SD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvZ5fSsWRJzn9aCyZL9BXhPg/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvZ5fSsWRJzn9aCyZL9BXhPg/ts
 #EXTINF:-1 xui-id="788038" tvg-id="102" tvg-name="Universal TV FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1x4ZdX-vzxSIJA18r0dLIgTQJnYDdT39BH8cxT2j7orITP97QdP0LGvH-sOpKhRe4g.png" group-title="Canais | Filmes e Séries",Universal TV FHD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRve3BCLKn3qhhaKboimlRO7g/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRve3BCLKn3qhhaKboimlRO7g/ts
 #EXTINF:-1 xui-id="788039" tvg-id="102" tvg-name="Universal TV HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1x4ZdX-vzxSIJA18r0dLIgTQJnYDdT39BH8cxT2j7orITP97QdP0LGvH-sOpKhRe4g.png" group-title="Canais | Filmes e Séries",Universal TV HD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvZzo0_dTcr-zpMaenTHVXfY/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvZzo0_dTcr-zpMaenTHVXfY/ts
 #EXTINF:-1 xui-id="788040" tvg-id="102" tvg-name="Universal TV SD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1x4ZdX-vzxSIJA18r0dLIgTQJnYDdT39BH8cxT2j7orITP97QdP0LGvH-sOpKhRe4g.png" group-title="Canais | Filmes e Séries",Universal TV SD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvauirmb9Mbo5AL9SZXCtrlk/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvauirmb9Mbo5AL9SZXCtrlk/ts
 #EXTINF:-1 xui-id="788041" tvg-id="83" tvg-name="Warner Channel FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf11r7jch6n6nGi9FjbofuMektM-1Vl0aRKK-6aoTzEJi0.png" group-title="Canais | Filmes e Séries",Warner Channel FHD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvdVtEjzXAiHDNyyoxU3nlTg/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvdVtEjzXAiHDNyyoxU3nlTg/ts
 #EXTINF:-1 xui-id="788042" tvg-id="83" tvg-name="Warner Channel HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf11r7jch6n6nGi9FjbofuMektM-1Vl0aRKK-6aoTzEJi0.png" group-title="Canais | Filmes e Séries",Warner Channel HD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvXxaqHcaElj-CLTcCQb5Ge8/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvXxaqHcaElj-CLTcCQb5Ge8/ts
 #EXTINF:-1 xui-id="788043" tvg-id="83" tvg-name="Warner Channel SD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf11r7jch6n6nGi9FjbofuMektM-1Vl0aRKK-6aoTzEJi0.png" group-title="Canais | Filmes e Séries",Warner Channel SD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvUXGej3u5llHKnCAXqgzHDI/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvUXGej3u5llHKnCAXqgzHDI/ts
 #EXTINF:-1 xui-id="788068" tvg-id="Megapix 4K" tvg-name="Megapix FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf14ysm5dVh-8Eq28fqN1B0eMiKALJZGLgJf0A-YaQB7W3PunOKFFOh2Mwh44sd1PGVgXzwsxSzZtiTwI6bIfWnh8.png" group-title="Canais | Filmes e Séries",Megapix FHD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvThS1efBXEdVvi8sZ7VS_E4/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvThS1efBXEdVvi8sZ7VS_E4/ts
 #EXTINF:-1 xui-id="788069" tvg-id="Megapix 4K" tvg-name="Megapix HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf14ysm5dVh-8Eq28fqN1B0eMiKALJZGLgJf0A-YaQB7W3PunOKFFOh2Mwh44sd1PGVgXzwsxSzZtiTwI6bIfWnh8.png" group-title="Canais | Filmes e Séries",Megapix HD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRve-dB0n0f0aSe2-OVVaShgQ/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRve-dB0n0f0aSe2-OVVaShgQ/ts
 #EXTINF:-1 xui-id="788070" tvg-id="Megapix 4K" tvg-name="Megapix SD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf14ysm5dVh-8Eq28fqN1B0eMiKALJZGLgJf0A-YaQB7W3PunOKFFOh2Mwh44sd1PGVgXzwsxSzZtiTwI6bIfWnh8.png" group-title="Canais | Filmes e Séries",Megapix SD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvRDAtfTJLpQrJZizwpCFqSk/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvRDAtfTJLpQrJZizwpCFqSk/ts
 #EXTINF:-1 xui-id="788071" tvg-id="Paramount FHD" tvg-name="Paramount Channel FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf13g1wbeaiRhRkZM4QQ4ov-tyEMzZzBf3GwRJLVj3gZ57I9Zvc4pT5rCr2NjMaohrECCnQDnIzs72TD3rOmucMJ8.png" group-title="Canais | Filmes e Séries",Paramount Channel FHD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvZUmLT-nJVckjYfoQNetM_M/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvZUmLT-nJVckjYfoQNetM_M/ts
 #EXTINF:-1 xui-id="788072" tvg-id="Paramount FHD" tvg-name="Paramount Channel HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf13g1wbeaiRhRkZM4QQ4ov-tyEMzZzBf3GwRJLVj3gZ57I9Zvc4pT5rCr2NjMaohrECCnQDnIzs72TD3rOmucMJ8.png" group-title="Canais | Filmes e Séries",Paramount Channel HD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRve43mQ9UjddmtpO1HNxB7M4/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRve43mQ9UjddmtpO1HNxB7M4/ts
 #EXTINF:-1 xui-id="788073" tvg-id="Paramount FHD" tvg-name="Paramount Channel SD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf13g1wbeaiRhRkZM4QQ4ov-tyEMzZzBf3GwRJLVj3gZ57I9Zvc4pT5rCr2NjMaohrECCnQDnIzs72TD3rOmucMJ8.png" group-title="Canais | Filmes e Séries",Paramount Channel SD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvaMfdBqrZ4W3hXHfXMoBcWo/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvaMfdBqrZ4W3hXHfXMoBcWo/ts
 #EXTINF:-1 xui-id="788044" tvg-id="260" tvg-name="HBO FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zLl_wJ4zlC3uFJVNXqCdqru7hhG7YtAU5Td27noggcaE21i8BXFuGnIldUTykBN5YiBo-tsRCxfvtJTCSiBzYQ.png" group-title="Canais | HBO",HBO FHD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvSrdcYIB_AC1sT3ZtVo3rXc/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvSrdcYIB_AC1sT3ZtVo3rXc/ts
 #EXTINF:-1 xui-id="788045" tvg-id="260" tvg-name="HBO HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zLl_wJ4zlC3uFJVNXqCdqru7hhG7YtAU5Td27noggcaE21i8BXFuGnIldUTykBN5YiBo-tsRCxfvtJTCSiBzYQ.png" group-title="Canais | HBO",HBO HD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvbm3jGdLFE27ilvMJsKqxAk/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvbm3jGdLFE27ilvMJsKqxAk/ts
 #EXTINF:-1 xui-id="788046" tvg-id="261" tvg-name="HBO 2 FHD" tvg-logo="http://dns.watchplay.top:80/images/ummeB6X14LxPBp_6DdliJ7-yYD3tqLdlB2fb2oXQbZupQwQmANQ6DO5UYOL3VwUCptHVwsZUwdwN1xyUOXqSFA.png" group-title="Canais | HBO",HBO 2 FHD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvYMNfEFFtusRJ82rg6nsi9g/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvYMNfEFFtusRJ82rg6nsi9g/ts
 #EXTINF:-1 xui-id="788047" tvg-id="261" tvg-name="HBO 2 HD" tvg-logo="http://dns.watchplay.top:80/images/ummeB6X14LxPBp_6DdliJ7-yYD3tqLdlB2fb2oXQbZupQwQmANQ6DO5UYOL3VwUCptHVwsZUwdwN1xyUOXqSFA.png" group-title="Canais | HBO",HBO 2 HD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvcYqXnsRHRO7eiQGW3x8Kcs/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvcYqXnsRHRO7eiQGW3x8Kcs/ts
 #EXTINF:-1 xui-id="788048" tvg-id="261" tvg-name="HBO 2 SD" tvg-logo="http://dns.watchplay.top:80/images/ummeB6X14LxPBp_6DdliJ7-yYD3tqLdlB2fb2oXQbZupQwQmANQ6DO5UYOL3VwUCptHVwsZUwdwN1xyUOXqSFA.png" group-title="Canais | HBO",HBO 2 SD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvcsz5jXYewS6NKErAxZ7Wlo/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvcsz5jXYewS6NKErAxZ7Wlo/ts
 #EXTINF:-1 xui-id="788049" tvg-id="263" tvg-name="HBO Family FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf17Ugx-4btBz_9_P5rtrh2LxY3EhZC8on5b_LAxSeztUA.png" group-title="Canais | HBO",HBO Family FHD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvWBJRnrI9h9dYESlCBh6HtE/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvWBJRnrI9h9dYESlCBh6HtE/ts
 #EXTINF:-1 xui-id="788050" tvg-id="263" tvg-name="HBO Family HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf17Ugx-4btBz_9_P5rtrh2LxY3EhZC8on5b_LAxSeztUA.png" group-title="Canais | HBO",HBO Family HD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvR2lieWjgEx8Y5s6FITw0wM/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvR2lieWjgEx8Y5s6FITw0wM/ts
 #EXTINF:-1 xui-id="788051" tvg-id="263" tvg-name="HBO Family SD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf17Ugx-4btBz_9_P5rtrh2LxY3EhZC8on5b_LAxSeztUA.png" group-title="Canais | HBO",HBO Family SD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvQyioqy7GI_vIql_YxPfG3g/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvQyioqy7GI_vIql_YxPfG3g/ts
 #EXTINF:-1 xui-id="788052" tvg-id="LCH933" tvg-name="HBO Mundi FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf13T_4c3Tb0RCkUcRMw7QViqFXW77Hvd2xR7uVaTvfa1u9EwKN8_A49PKVNfHjMEN4Okp9-qsK4-BBu7bkrNK5-s.png" group-title="Canais | HBO",HBO Mundi FHD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvdNrhD3VX65t3REaXOwGZ7U/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvdNrhD3VX65t3REaXOwGZ7U/ts
 #EXTINF:-1 xui-id="788053" tvg-id="LCH933" tvg-name="HBO Mundi HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf13T_4c3Tb0RCkUcRMw7QViqFXW77Hvd2xR7uVaTvfa1u9EwKN8_A49PKVNfHjMEN4Okp9-qsK4-BBu7bkrNK5-s.png" group-title="Canais | HBO",HBO Mundi HD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvSp7cDTVsRW4UqCX_aapOnU/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvSp7cDTVsRW4UqCX_aapOnU/ts
 #EXTINF:-1 xui-id="788054" tvg-id="LCH933" tvg-name="HBO Mundi SD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf13T_4c3Tb0RCkUcRMw7QViqFXW77Hvd2xR7uVaTvfa1u9EwKN8_A49PKVNfHjMEN4Okp9-qsK4-BBu7bkrNK5-s.png" group-title="Canais | HBO",HBO Mundi SD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvS6JyASg-S2wWJ-7BAMErho/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvS6JyASg-S2wWJ-7BAMErho/ts
 #EXTINF:-1 xui-id="788055" tvg-id="262" tvg-name="HBO Plus+ FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zL-_OuIzmIWiU6_6a-132bSXnO4LIMIvyylEcEKO4pQ-Q7mroEU50eLahkguymHjKVBMgw3cKXxkDU_EFq_Yio.png" group-title="Canais | HBO",HBO Plus+ FHD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvcTs8ez1iFzx02DlY5jb_1U/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvcTs8ez1iFzx02DlY5jb_1U/ts
 #EXTINF:-1 xui-id="788056" tvg-id="262" tvg-name="HBO Plus+ HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zL-_OuIzmIWiU6_6a-132bSXnO4LIMIvyylEcEKO4pQ-Q7mroEU50eLahkguymHjKVBMgw3cKXxkDU_EFq_Yio.png" group-title="Canais | HBO",HBO Plus+ HD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvSuXcIE_Obhvj8BRtgcu-b4/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvSuXcIE_Obhvj8BRtgcu-b4/ts
 #EXTINF:-1 xui-id="788057" tvg-id="262" tvg-name="HBO Plus+ SD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zL-_OuIzmIWiU6_6a-132bSXnO4LIMIvyylEcEKO4pQ-Q7mroEU50eLahkguymHjKVBMgw3cKXxkDU_EFq_Yio.png" group-title="Canais | HBO",HBO Plus+ SD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvQMb0l3hu1CR8KtY5Z1BWWc/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvQMb0l3hu1CR8KtY5Z1BWWc/ts
 #EXTINF:-1 xui-id="788058" tvg-id="LCH76" tvg-name="HBO Pop FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf14icsqRUJEwxXpG7CgBC4U7Y17sb87DYx6Va8ErF9Gu2gKBZnp_hUoi-247XOw3t-hFdfiLsHSFbdx0TtpAaoOk.png" group-title="Canais | HBO",HBO Pop FHD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvVYGcJhZ8BKN9QX9ffF-y-E/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvVYGcJhZ8BKN9QX9ffF-y-E/ts
 #EXTINF:-1 xui-id="788059" tvg-id="LCH76" tvg-name="HBO Pop HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf14icsqRUJEwxXpG7CgBC4U7Y17sb87DYx6Va8ErF9Gu2gKBZnp_hUoi-247XOw3t-hFdfiLsHSFbdx0TtpAaoOk.png" group-title="Canais | HBO",HBO Pop HD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvbVO1JWW6e7gN5-cuB1DDe8/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvbVO1JWW6e7gN5-cuB1DDe8/ts
 #EXTINF:-1 xui-id="788060" tvg-id="LCH76" tvg-name="HBO Pop SD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf14icsqRUJEwxXpG7CgBC4U7Y17sb87DYx6Va8ErF9Gu2gKBZnp_hUoi-247XOw3t-hFdfiLsHSFbdx0TtpAaoOk.png" group-title="Canais | HBO",HBO Pop SD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvTPrEvV1BhI97qsBXz_rRuw/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvTPrEvV1BhI97qsBXz_rRuw/ts
 #EXTINF:-1 xui-id="788061" tvg-id="260" tvg-name="HBO SD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zLl_wJ4zlC3uFJVNXqCdqru7hhG7YtAU5Td27noggcaE21i8BXFuGnIldUTykBN5YiBo-tsRCxfvtJTCSiBzYQ.png" group-title="Canais | HBO",HBO SD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvZuMxbB2xNRZiUDnd3mKwzw/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvZuMxbB2xNRZiUDnd3mKwzw/ts
 #EXTINF:-1 xui-id="788062" tvg-id="264" tvg-name="HBO Signature FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf17Ugx-4btBz_9_P5rtrh2LwBTD8P5oIdKsLsLx3D9R3k.png" group-title="Canais | HBO",HBO Signature FHD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvSlZWMtY_q_mQot_pUbP1x8/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvSlZWMtY_q_mQot_pUbP1x8/ts
 #EXTINF:-1 xui-id="788063" tvg-id="264" tvg-name="HBO Signature HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf17Ugx-4btBz_9_P5rtrh2LwBTD8P5oIdKsLsLx3D9R3k.png" group-title="Canais | HBO",HBO Signature HD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvTDyAXUJfn5Oheeh6DkosHE/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvTDyAXUJfn5Oheeh6DkosHE/ts
 #EXTINF:-1 xui-id="788064" tvg-id="264" tvg-name="HBO Signature SD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf17Ugx-4btBz_9_P5rtrh2LwBTD8P5oIdKsLsLx3D9R3k.png" group-title="Canais | HBO",HBO Signature SD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvXW9arPA-HGhuA_Ou3b_7Xo/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvXW9arPA-HGhuA_Ou3b_7Xo/ts
 #EXTINF:-1 xui-id="788065" tvg-id="267" tvg-name="HBO Xtreme FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf19iiclHVF3wRw-lL1Y_UD91587rYYDdtTgLQDvFhETaFq3BLTlAVLwEChlj_zYHpZFUw-wnYp5SYxWdkmkF_G48.png" group-title="Canais | HBO",HBO Xtreme FHD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvcjjRxjczdzk6IK3Obgen5U/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvcjjRxjczdzk6IK3Obgen5U/ts
 #EXTINF:-1 xui-id="788066" tvg-id="267" tvg-name="HBO Xtreme HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf19iiclHVF3wRw-lL1Y_UD91587rYYDdtTgLQDvFhETaFq3BLTlAVLwEChlj_zYHpZFUw-wnYp5SYxWdkmkF_G48.png" group-title="Canais | HBO",HBO Xtreme HD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvVrbR0ixgj6Zlv7kdbZG8Rs/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvVrbR0ixgj6Zlv7kdbZG8Rs/ts
 #EXTINF:-1 xui-id="788067" tvg-id="267" tvg-name="HBO Xtreme SD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf19iiclHVF3wRw-lL1Y_UD91587rYYDdtTgLQDvFhETaFq3BLTlAVLwEChlj_zYHpZFUw-wnYp5SYxWdkmkF_G48.png" group-title="Canais | HBO",HBO Xtreme SD
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvYyrnBqPse1uEg8Hjhd9dgM/ts
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvYyrnBqPse1uEg8Hjhd9dgM/ts
