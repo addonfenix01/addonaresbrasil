@@ -1,0 +1,231 @@
+#EXTM3U
+#EXTINF:-1 xui-id="787699" tvg-id="" tvg-name="Record Atalaia SE HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record Atalaia SE HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoymQmJw6QmWz0EvvDCVrTPDn/ts
+#EXTINF:-1 xui-id="787700" tvg-id="Record BA HD" tvg-name="Record Bauru HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record Bauru HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoykfW-4zJ5kw2lR-v69iRM4T/ts
+#EXTINF:-1 xui-id="787701" tvg-id="Record BA HD" tvg-name="Record Belém HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record Belém HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoymXXbuiS2bcqXRO41NCcBS4/ts
+#EXTINF:-1 xui-id="787702" tvg-id="Record BA HD" tvg-name="Record Brasília HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record Brasília HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoyk4LHt108Umo1duXhc5142a/ts
+#EXTINF:-1 xui-id="787703" tvg-id="" tvg-name="Record Cabrália BA HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record Cabrália BA HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoylwN-uHQO2CNdlSAEoY_0TQ/ts
+#EXTINF:-1 xui-id="787704" tvg-id="" tvg-name="Record Campinas HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record Campinas HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoynLdI71aOuDj7B_vdvHxhPY/ts
+#EXTINF:-1 xui-id="787705" tvg-id="" tvg-name="Record Correio PB HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record Correio PB HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoymYJMOmT8EdjoZFCX516ld7/ts
+#EXTINF:-1 xui-id="787706" tvg-id="Record 4K" tvg-name="Record Goiás HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record Goiás HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoyknxP7Bo-k7DN3uhm6QOVvV/ts
+#EXTINF:-1 xui-id="787707" tvg-id="" tvg-name="Record Goytacazes HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record Goytacazes HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoyle9dLTIgTmljS1DdInUqCU/ts
+#EXTINF:-1 xui-id="787708" tvg-id="" tvg-name="Record Itapoan BA HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record Itapoan BA HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoylRFkXUWseslNdey0a0Kc6H/ts
+#EXTINF:-1 xui-id="787709" tvg-id="Record MG SD" tvg-name="Record Manaus HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record Manaus HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoykWI5kZ07XDtt3pI2D6KLk_/ts
+#EXTINF:-1 xui-id="787710" tvg-id="Record MG SD" tvg-name="Record Minas HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record Minas HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoyk3ULxb5T4q8WeJhjdNwxht/ts
+#EXTINF:-1 xui-id="787711" tvg-id="Record 4K" tvg-name="Record PA HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record PA HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoyl7Zauz9cRw3op_8u83H2Do/ts
+#EXTINF:-1 xui-id="787712" tvg-id="Record 4K" tvg-name="Record Piauí HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record Piauí HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoyliC2Ie0t3s-LsiB_TmR6Hg/ts
+#EXTINF:-1 xui-id="787713" tvg-id="Record 4K" tvg-name="Record PR FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record PR FHD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoylR-8_CUVddfQf7HtET-qPm/ts
+#EXTINF:-1 xui-id="787714" tvg-id="" tvg-name="Record Recife Guararapes HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record Recife Guararapes HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoylzK9kHVqVJ1qd7ch7e9roU/ts
+#EXTINF:-1 xui-id="787715" tvg-id="Record RJ HD" tvg-name="Record Ribeirão Preto HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record Ribeirão Preto HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoykNSSR9QalhakPjdp4dF89f/ts
+#EXTINF:-1 xui-id="787716" tvg-id="Record RJ HD" tvg-name="Record Rio Preto HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record Rio Preto HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoylIyvcFR9dEOfuP-SZOhnLl/ts
+#EXTINF:-1 xui-id="787717" tvg-id="Record RJ HD" tvg-name="Record RJ FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record RJ FHD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoylHFG7Iqvai0TcqJzVxOt1M/ts
+#EXTINF:-1 xui-id="787718" tvg-id="Record RJ HD" tvg-name="Record RJ FHD²" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record RJ FHD²
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoyn7ILqdnjLd89EScU_6E_OF/ts
+#EXTINF:-1 xui-id="787719" tvg-id="Record RJ HD" tvg-name="Record RJ FHD³" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record RJ FHD³
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoykrjpEvP0eoLKmYyfWO_yQN/ts
+#EXTINF:-1 xui-id="787720" tvg-id="Record RJ HD" tvg-name="Record RJ HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record RJ HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoynwGuY90_nBeflJ61i5O3ZJ/ts
+#EXTINF:-1 xui-id="787721" tvg-id="Record RS HD" tvg-name="Record RS FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record RS FHD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoyk9LS3mnnx8P4Yi2XbFfJcQ/ts
+#EXTINF:-1 xui-id="787722" tvg-id="Record RS HD" tvg-name="Record RS HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record RS HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoylgqpJREgnTUcUH6N9-M8mK/ts
+#EXTINF:-1 xui-id="787723" tvg-id="Record SP FHD" tvg-name="Record SC NDTV HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record SC NDTV HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoym4c4fHWAw1v-6wLR7WtBZk/ts
+#EXTINF:-1 xui-id="787724" tvg-id="Record SP FHD" tvg-name="Record SP FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record SP FHD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoyl2HT5CrPGfPTiQVnHNrs_G/ts
+#EXTINF:-1 xui-id="787725" tvg-id="Record SP FHD" tvg-name="Record SP HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record SP HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoykhfATkiHeHarRaPyyKfK5I/ts
+#EXTINF:-1 xui-id="787726" tvg-id="Record 4K" tvg-name="Record TO HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record TO HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoylekesWC5h8om517b2MyK76/ts
+#EXTINF:-1 xui-id="787727" tvg-id="" tvg-name="Record TV Cidade CE FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record TV Cidade CE FHD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoyk6CXTvhdW2008Bfx8GsnzZ/ts
+#EXTINF:-1 xui-id="787728" tvg-id="" tvg-name="Record TV Cidade CE HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record TV Cidade CE HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoymEmUK0WQsXwAGcFkpftZ2Z/ts
+#EXTINF:-1 xui-id="787729" tvg-id="" tvg-name="Record TV Conquista MT HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record TV Conquista MT HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoykm1WsHD3BqQyMoASSOLxjY/ts
+#EXTINF:-1 xui-id="787730" tvg-id="" tvg-name="Record TV Tropical RN HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record TV Tropical RN HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoykivnBIUiDt7uSX48PFfqb8/ts
+#EXTINF:-1 xui-id="787731" tvg-id="" tvg-name="Record TV Vitoria ES FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record TV Vitoria ES FHD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoynPGErh-sWxIkRW77Sfr_rT/ts
+#EXTINF:-1 xui-id="789389" tvg-id="Record BA HD" tvg-name="Record BA FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record BA FHD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoylKHNc2t01Nf0YbIuj2uJPl/ts
+#EXTINF:-1 xui-id="789390" tvg-id="Record BA HD" tvg-name="Record BA HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record BA HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoyk9i2uDRe5SPwCvL6E1E4eR/ts
+#EXTINF:-1 xui-id="789391" tvg-id="Record BA HD" tvg-name="Record BA SD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf1zxLAFuACfEdU_2695ZZRPBR4YZD0HCq6h29yNONV9cb.png" group-title="Canais | Rede Record",Record BA SD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoymctzAfSUddrHVp38DLvMrU/ts
+#EXTINF:-1 xui-id="790026" tvg-id="Record MG SD" tvg-name="Record MT HD" tvg-logo="" group-title="Canais | Rede Record",Record MT HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoymXi-uWZ6QYoj3hHY1TmCBT/ts
+#EXTINF:-1 xui-id="790028" tvg-id="" tvg-name="Record Paranaíba Uberlândia - MG HD" tvg-logo="" group-title="Canais | Rede Record",Record Paranaíba Uberlândia - MG HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoynls3uBQkbeOHq2JhqG4w1E/ts
+#EXTINF:-1 xui-id="787732" tvg-id="SBT 4K" tvg-name="SBT SP FHD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT SP FHD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoymAJaHM4HilcfK8ky5cUcpa/ts
+#EXTINF:-1 xui-id="787733" tvg-id="SBT 4K" tvg-name="SBT SP FHD²" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT SP FHD²
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoyms3UGE0HA2NrB0Bo8b9vKT/ts
+#EXTINF:-1 xui-id="787734" tvg-id="SBT 4K" tvg-name="SBT SP FHD³" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT SP FHD³
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoylWKyHxmOJDOkbfDw_SyPLu/ts
+#EXTINF:-1 xui-id="787735" tvg-id="SBT 4K" tvg-name="SBT SP HD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT SP HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoylYoXC_F_1DbeVR4mQtqfy5/ts
+#EXTINF:-1 xui-id="787736" tvg-id="SBT 4K" tvg-name="SBT SP SD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT SP SD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoylCUQMbxeFycZ6TrcccFvlx/ts
+#EXTINF:-1 xui-id="787737" tvg-id="" tvg-name="SBT Minas HD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT Minas HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoynxqX6vaQ-8kFIrTwMFm6Sz/ts
+#EXTINF:-1 xui-id="787738" tvg-id="SBT 4K" tvg-name="SBT RJ FHD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT RJ FHD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoykLy81ztIZLR0HxLXX8-1fP/ts
+#EXTINF:-1 xui-id="787739" tvg-id="SBT 4K" tvg-name="SBT RJ FHD²" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT RJ FHD²
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoylKTuWm09OfcPE3Zs3OpCiJ/ts
+#EXTINF:-1 xui-id="787740" tvg-id="SBT 4K" tvg-name="SBT RJ HD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT RJ HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoynu39A-mOj0F2290QcTOeSY/ts
+#EXTINF:-1 xui-id="787741" tvg-id="" tvg-name="SBT Allamanda RO HD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT Allamanda RO HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoykA8cAgrAfTmyqJmM8XtNIQ/ts
+#EXTINF:-1 xui-id="787742" tvg-id="SBT HD [Alter]" tvg-name="SBT Alterosa MG HD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT Alterosa MG HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoylTplm-og7pb-sGlEKj31i4/ts
+#EXTINF:-1 xui-id="787743" tvg-id="Sbt.br" tvg-name="SBT BA HD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT BA HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoynSKAj5l6ZSxLHWNjk5VrVS/ts
+#EXTINF:-1 xui-id="787744" tvg-id="Globo Brasilia FHD" tvg-name="SBT Brasilia FHD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT Brasilia FHD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoyn17y3Fbm6FP1MqFWIEsNUt/ts
+#EXTINF:-1 xui-id="787745" tvg-id="Globo Brasilia FHD" tvg-name="SBT Brasilia HD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT Brasilia HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoyn7K5SYD4LKY7Gz_kMlqvdH/ts
+#EXTINF:-1 xui-id="787746" tvg-id="" tvg-name="SBT Cidade Verde PI HD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT Cidade Verde PI HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoykNsIOVXBY9HUHTYxOLodC8/ts
+#EXTINF:-1 xui-id="787747" tvg-id="" tvg-name="SBT Foz do Iguaçu HD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT Foz do Iguaçu HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoymwYugT--tvL-r6XelqlLLf/ts
+#EXTINF:-1 xui-id="787748" tvg-id="SBT 4K" tvg-name="SBT GO HD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT GO HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoymwYShDT0eMHgFHROKFVrSI/ts
+#EXTINF:-1 xui-id="787749" tvg-id="" tvg-name="SBT Guajará PA FHD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT Guajará PA FHD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoylKyTNxvUwXeXW0NpOXDAGX/ts
+#EXTINF:-1 xui-id="787750" tvg-id="SBT 4K" tvg-name="SBT Int SP HD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT Int SP HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoylnJg1DtG9YiUU6DMth0Mbd/ts
+#EXTINF:-1 xui-id="787751" tvg-id="CNN Internacional SD" tvg-name="SBT Internacional" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT Internacional
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoylgkYDfjo0KHgvrddi3W6aJ/ts
+#EXTINF:-1 xui-id="787752" tvg-id="" tvg-name="SBT Jangadeiro CE FHD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT Jangadeiro CE FHD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoymOfrpWBVVUztY9eIjc8J1z/ts
+#EXTINF:-1 xui-id="787753" tvg-id="" tvg-name="SBT Londrina HD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT Londrina HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoyl4zF-GeJkPvwFcyaOgDTdQ/ts
+#EXTINF:-1 xui-id="787754" tvg-id="SBT 4K" tvg-name="SBT MA HD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT MA HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoynKw1hlfSxt6egn0SAJetJi/ts
+#EXTINF:-1 xui-id="787755" tvg-id="" tvg-name="SBT Maringá HD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT Maringá HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoylHI0QWtHNKdC3456VQfCRr/ts
+#EXTINF:-1 xui-id="787756" tvg-id="CNN Internacional SD" tvg-name="SBT Nacional FHD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT Nacional FHD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoylRFSJ0CFcYvgTLEevTtSwI/ts
+#EXTINF:-1 xui-id="787757" tvg-id="" tvg-name="SBT Noroeste MT HD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT Noroeste MT HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoyn0lAx-saxaxRw1fpkkxKk3/ts
+#EXTINF:-1 xui-id="787758" tvg-id="SBT 4K" tvg-name="SBT PA HD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT PA HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoyk6Mmaeki0PbFwt6MASQi8F/ts
+#EXTINF:-1 xui-id="787759" tvg-id="SBT 4K" tvg-name="SBT PE HD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT PE HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoyksfJWTURuAW1KN37se5DKt/ts
+#EXTINF:-1 xui-id="787760" tvg-id="" tvg-name="SBT Piauí HD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT Piauí HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoykimuLinMk8aelvoopYA_Mk/ts
+#EXTINF:-1 xui-id="787761" tvg-id="" tvg-name="SBT Ponta Verde AL HD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT Ponta Verde AL HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoylyKfJrzPhRgVUbUuq1ltMS/ts
+#EXTINF:-1 xui-id="787762" tvg-id="SBT 4K" tvg-name="SBT PR HD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT PR HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoylj2xjw1LsX_UXJZGQ-EUvz/ts
+#EXTINF:-1 xui-id="787763" tvg-id="Globo Eptv Ribeirão Preto FHD" tvg-name="SBT Ribeirão Preto HD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT Ribeirão Preto HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoymyMk7pBP7QJMsi3L9LC8BN/ts
+#EXTINF:-1 xui-id="787764" tvg-id="SBT 4K" tvg-name="SBT RN HD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT RN HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoynFzQxR1gSRbDz-hCzDdSmR/ts
+#EXTINF:-1 xui-id="787765" tvg-id="SBT 4K" tvg-name="SBT RS HD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT RS HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoymh_-262MC4_0B9HBIPLUBb/ts
+#EXTINF:-1 xui-id="787766" tvg-id="SBT 4K" tvg-name="SBT SC HD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT SC HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoyknUkj1WOQ31CF9gQsXKsNf/ts
+#EXTINF:-1 xui-id="787767" tvg-id="SBT 4K" tvg-name="SBT SD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT SD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoykxQoF9whdk9Q04IV4oxO7T/ts
+#EXTINF:-1 xui-id="787768" tvg-id="" tvg-name="SBT TAMBAU PB HD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT TAMBAU PB HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoykw_q0SOylgZsoxpxm2Tviu/ts
+#EXTINF:-1 xui-id="787769" tvg-id="SBT 4K" tvg-name="SBT TO HD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT TO HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoym9IfN1FGUkrxJd1tt2RiaC/ts
+#EXTINF:-1 xui-id="787770" tvg-id="" tvg-name="SBT TV Jornal PE HD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT TV Jornal PE HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoym2fa3RGwm_wbp3nejXPvv5/ts
+#EXTINF:-1 xui-id="787771" tvg-id="Globo Eptv Campinas FHD" tvg-name="SBT VTV Campinas HD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT VTV Campinas HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoykZetXq83JYQTHNnM-Fpbtw/ts
+#EXTINF:-1 xui-id="787772" tvg-id="" tvg-name="SBT Cidade Verde Picos PI FHD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT Cidade Verde Picos PI FHD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoyl1VPeTAlDorKwJqQLx7GBB/ts
+#EXTINF:-1 xui-id="787773" tvg-id="" tvg-name="SBT TH+ Vale HD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT TH+ Vale HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoyn_18d67hdZRTunMgnB835m/ts
+#EXTINF:-1 xui-id="790027" tvg-id="SBT 4K" tvg-name="SBT MT HD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT MT HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoykAmK5deKb_1num13wrOGDo/ts
+#EXTINF:-1 xui-id="790029" tvg-id="LCH3131" tvg-name="SBT Nova Friburgo FHD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT Nova Friburgo FHD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoylyaEZ6NKJIASmkbMeTCK5W/ts
+#EXTINF:-1 xui-id="790030" tvg-id="LCH3131" tvg-name="SBT Nova Friburgo HD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT Nova Friburgo HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoyk9YUDGKXNKATkOMzI2M2QW/ts
+#EXTINF:-1 xui-id="790031" tvg-id="LCH3131" tvg-name="SBT Nova Friburgo SD" tvg-logo="https://i.imgur.com/y2uctQH.png" group-title="Canais | SBT",SBT Nova Friburgo SD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoykwyoRFfZoAaeoF3V6jKxXh/ts
+#EXTINF:-1 xui-id="787777" tvg-id="Band SP 4k" tvg-name="Band FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf10ATp2uUaOREnn-e4gsmUyzUSIRk-U5ZUOP72R7R68VYq7hcDaXiYi-9vn-hskGF_g.png" group-title="Canais | Rede Band",Band FHD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoykHl-dkjcOM5mVPoAQdsmI9/ts
+#EXTINF:-1 xui-id="787778" tvg-id="Band SP 4k" tvg-name="Band FHD²" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf10ATp2uUaOREnn-e4gsmUyzUSIRk-U5ZUOP72R7R68VYq7hcDaXiYi-9vn-hskGF_g.png" group-title="Canais | Rede Band",Band FHD²
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoymQUQj0Uf_UxSJbc9q-k_G8/ts
+#EXTINF:-1 xui-id="787779" tvg-id="Band SP 4k" tvg-name="Band HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf10ATp2uUaOREnn-e4gsmUyzUSIRk-U5ZUOP72R7R68VYq7hcDaXiYi-9vn-hskGF_g.png" group-title="Canais | Rede Band",Band HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoylh3E2S0u-wbYwf5rYUb8vZ/ts
+#EXTINF:-1 xui-id="787780" tvg-id="Band SP 4k" tvg-name="Band SD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf10ATp2uUaOREnn-e4gsmUyzUSIRk-U5ZUOP72R7R68VYq7hcDaXiYi-9vn-hskGF_g.png" group-title="Canais | Rede Band",Band SD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoyl03_Iwx-fXLyVRHMdCbJxB/ts
+#EXTINF:-1 xui-id="787781" tvg-id="Band SP 4k" tvg-name="Band RJ FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf10ATp2uUaOREnn-e4gsmUyzUSIRk-U5ZUOP72R7R68VYq7hcDaXiYi-9vn-hskGF_g.png" group-title="Canais | Rede Band",Band RJ FHD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoyn7dAgRhjUEUcWyK-GNoALk/ts
+#EXTINF:-1 xui-id="787782" tvg-id="Band SP 4k" tvg-name="Band RJ HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf10ATp2uUaOREnn-e4gsmUyzUSIRk-U5ZUOP72R7R68VYq7hcDaXiYi-9vn-hskGF_g.png" group-title="Canais | Rede Band",Band RJ HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoykzRhG0agvFmLNe32n2ca0m/ts
+#EXTINF:-1 xui-id="787783" tvg-id="Globo Brasilia FHD" tvg-name="Band Brasilia HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf10ATp2uUaOREnn-e4gsmUyzUSIRk-U5ZUOP72R7R68VYq7hcDaXiYi-9vn-hskGF_g.png" group-title="Canais | Rede Band",Band Brasilia HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoynSO96Yb_Jo-D7CwscU0XyY/ts
+#EXTINF:-1 xui-id="787784" tvg-id="Band SP 4k" tvg-name="Band MG FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf10ATp2uUaOREnn-e4gsmUyzUSIRk-U5ZUOP72R7R68VYq7hcDaXiYi-9vn-hskGF_g.png" group-title="Canais | Rede Band",Band MG FHD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoykeNnh4IsM7p9Z51gNqdCNo/ts
+#EXTINF:-1 xui-id="787785" tvg-id="Globo Nordeste FHD" tvg-name="Band Nordeste HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf10ATp2uUaOREnn-e4gsmUyzUSIRk-U5ZUOP72R7R68VYq7hcDaXiYi-9vn-hskGF_g.png" group-title="Canais | Rede Band",Band Nordeste HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoykn3_RQ5O7IrsO86-7oZ9TH/ts
+#EXTINF:-1 xui-id="787786" tvg-id="" tvg-name="Band Nordeste|CE FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf10ATp2uUaOREnn-e4gsmUyzUSIRk-U5ZUOP72R7R68VYq7hcDaXiYi-9vn-hskGF_g.png" group-title="Canais | Rede Band",Band Nordeste|CE FHD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoykkNjlK_yz2i6ZzR870Ay-V/ts
+#EXTINF:-1 xui-id="787787" tvg-id="" tvg-name="Band Arapuan PB FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf10ATp2uUaOREnn-e4gsmUyzUSIRk-U5ZUOP72R7R68VYq7hcDaXiYi-9vn-hskGF_g.png" group-title="Canais | Rede Band",Band Arapuan PB FHD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoynIXyGQDQtxyPsEhgvHaWNX/ts
+#EXTINF:-1 xui-id="787788" tvg-id="" tvg-name="Band Bahia HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf10ATp2uUaOREnn-e4gsmUyzUSIRk-U5ZUOP72R7R68VYq7hcDaXiYi-9vn-hskGF_g.png" group-title="Canais | Rede Band",Band Bahia HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoykrmZO-5KxqSHr15XylL5ns/ts
+#EXTINF:-1 xui-id="787789" tvg-id="" tvg-name="Band Barriga Verde SC FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf10ATp2uUaOREnn-e4gsmUyzUSIRk-U5ZUOP72R7R68VYq7hcDaXiYi-9vn-hskGF_g.png" group-title="Canais | Rede Band",Band Barriga Verde SC FHD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoyn0XdzvnAbhat4RxTZI1eyB/ts
+#EXTINF:-1 xui-id="787790" tvg-id="" tvg-name="Band Campinas HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf10ATp2uUaOREnn-e4gsmUyzUSIRk-U5ZUOP72R7R68VYq7hcDaXiYi-9vn-hskGF_g.png" group-title="Canais | Rede Band",Band Campinas HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoymz_PqQFXwkUTMZ8nppPqzd/ts
+#EXTINF:-1 xui-id="787791" tvg-id="" tvg-name="Band Ceará HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf10ATp2uUaOREnn-e4gsmUyzUSIRk-U5ZUOP72R7R68VYq7hcDaXiYi-9vn-hskGF_g.png" group-title="Canais | Rede Band",Band Ceará HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoynonDr8xYcEOPrP6OdyhSpS/ts
+#EXTINF:-1 xui-id="787792" tvg-id="" tvg-name="Band Goiânia HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf10ATp2uUaOREnn-e4gsmUyzUSIRk-U5ZUOP72R7R68VYq7hcDaXiYi-9vn-hskGF_g.png" group-title="Canais | Rede Band",Band Goiânia HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoyn5xOZuIzJpE5fdaIBktvCY/ts
+#EXTINF:-1 xui-id="787793" tvg-id="Band SP 4k" tvg-name="Band PA HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf10ATp2uUaOREnn-e4gsmUyzUSIRk-U5ZUOP72R7R68VYq7hcDaXiYi-9vn-hskGF_g.png" group-title="Canais | Rede Band",Band PA HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoynw1A97kTNrNzU9nO_B2oEd/ts
+#EXTINF:-1 xui-id="787794" tvg-id="Band SP 4k" tvg-name="Band PR FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf10ATp2uUaOREnn-e4gsmUyzUSIRk-U5ZUOP72R7R68VYq7hcDaXiYi-9vn-hskGF_g.png" group-title="Canais | Rede Band",Band PR FHD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoyn6WQY2A6gSxVVwmRZgkc5j/ts
+#EXTINF:-1 xui-id="787795" tvg-id="" tvg-name="Band Recife HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf10ATp2uUaOREnn-e4gsmUyzUSIRk-U5ZUOP72R7R68VYq7hcDaXiYi-9vn-hskGF_g.png" group-title="Canais | Rede Band",Band Recife HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoyl7y7F1_JsnLysBqSNSTNA2/ts
+#EXTINF:-1 xui-id="787796" tvg-id="Band SP 4k" tvg-name="Band RN HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf10ATp2uUaOREnn-e4gsmUyzUSIRk-U5ZUOP72R7R68VYq7hcDaXiYi-9vn-hskGF_g.png" group-title="Canais | Rede Band",Band RN HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoylRojtd3ZhFWFG2_F39Iq7X/ts
+#EXTINF:-1 xui-id="787797" tvg-id="Band SP 4k" tvg-name="Band RS FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf10ATp2uUaOREnn-e4gsmUyzUSIRk-U5ZUOP72R7R68VYq7hcDaXiYi-9vn-hskGF_g.png" group-title="Canais | Rede Band",Band RS FHD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoymEukLDfU6IH6kF0HjZkWc7/ts
+#EXTINF:-1 xui-id="787798" tvg-id="Band SP 4k" tvg-name="Band SD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf10ATp2uUaOREnn-e4gsmUyzUSIRk-U5ZUOP72R7R68VYq7hcDaXiYi-9vn-hskGF_g.png" group-title="Canais | Rede Band",Band SD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoynTYKCIvNu-mPTIHGj8c34e/ts
+#EXTINF:-1 xui-id="787799" tvg-id="Band SP 4k" tvg-name="Band SD²" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf10ATp2uUaOREnn-e4gsmUyzUSIRk-U5ZUOP72R7R68VYq7hcDaXiYi-9vn-hskGF_g.png" group-title="Canais | Rede Band",Band SD²
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoymyZNWQZ_VgnhmVnlgzKyWZ/ts
+#EXTINF:-1 xui-id="787800" tvg-id="Band SP 4k" tvg-name="Band SJC HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf10ATp2uUaOREnn-e4gsmUyzUSIRk-U5ZUOP72R7R68VYq7hcDaXiYi-9vn-hskGF_g.png" group-title="Canais | Rede Band",Band SJC HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoymfEwHW53cuwQyhFfWD2dsV/ts
+#EXTINF:-1 xui-id="787801" tvg-id="Band SP 4k" tvg-name="Band SP FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf10ATp2uUaOREnn-e4gsmUyzUSIRk-U5ZUOP72R7R68VYq7hcDaXiYi-9vn-hskGF_g.png" group-title="Canais | Rede Band",Band SP FHD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoykXelwcmVmMkY_leGhG88om/ts
+#EXTINF:-1 xui-id="787802" tvg-id="Band SP 4k" tvg-name="Band SP HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf10ATp2uUaOREnn-e4gsmUyzUSIRk-U5ZUOP72R7R68VYq7hcDaXiYi-9vn-hskGF_g.png" group-title="Canais | Rede Band",Band SP HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoylMbvVF-kf0o2oMhMRW305V/ts
+#EXTINF:-1 xui-id="787803" tvg-id="Band SP 4k" tvg-name="Band TO HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf10ATp2uUaOREnn-e4gsmUyzUSIRk-U5ZUOP72R7R68VYq7hcDaXiYi-9vn-hskGF_g.png" group-title="Canais | Rede Band",Band TO HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoylgegys9qmvfL2vNpaUvzJf/ts
+#EXTINF:-1 xui-id="787804" tvg-id="" tvg-name="Band TV Capixaba ES HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf10ATp2uUaOREnn-e4gsmUyzUSIRk-U5ZUOP72R7R68VYq7hcDaXiYi-9vn-hskGF_g.png" group-title="Canais | Rede Band",Band TV Capixaba ES HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoylXdVwabHa5akU4MZPAtdoy/ts
+#EXTINF:-1 xui-id="787805" tvg-id="" tvg-name="Band Paulista HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf10ATp2uUaOREnn-e4gsmUyzUSIRk-U5ZUOP72R7R68VYq7hcDaXiYi-9vn-hskGF_g.png" group-title="Canais | Rede Band",Band Paulista HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoymTA0R8elPiZ67AWsFzkVVD/ts
+#EXTINF:-1 xui-id="789393" tvg-id="Band SP 4k" tvg-name="Band Vale FHD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf10ATp2uUaOREnn-e4gsmUyzUSIRk-U5ZUOP72R7R68VYq7hcDaXiYi-9vn-hskGF_g.png" group-title="Canais | Rede Band",Band Vale FHD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoylzTWAX9lrSpcswHl-53gEd/ts
+#EXTINF:-1 xui-id="789394" tvg-id="Band SP 4k" tvg-name="Band Vale HD" tvg-logo="http://dns.watchplay.top:80/images/oDtH5mMlxQFleIdcfJsf10ATp2uUaOREnn-e4gsmUyzUSIRk-U5ZUOP72R7R68VYq7hcDaXiYi-9vn-hskGF_g.png" group-title="Canais | Rede Band",Band Vale HD
+plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/jwskV9sGarucUg2FMA62O0BW8_CA3o2iTQFs0ygdoyk8HoSMnHzwZIw-6aA_kykJ/ts
