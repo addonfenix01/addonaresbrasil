@@ -1,17 +1,359 @@
 #EXTM3U
-#EXTINF:-1 xui-id="800580" tvg-id="" tvg-name="⏰ 15h45 Italiano - 2025/2026 ⚽ Internazionale x Cagliari - SD - CazéTV" tvg-logo="https://ibb.co/j9yfg5GG" group-title="⚽ JOGOS DO DIA⚽",⏰ 15h45 Italiano - 2025/2026 ⚽ Internazionale x Cagliari - SD - CazéTV
-plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvWcaMmpof8KkuPz17RPG--g/ts
-#EXTINF:-1 xui-id="800581" tvg-id="" tvg-name="⏰ 15h45 Italiano - 2025/2026 ⚽ Internazionale x Cagliari - HD - CazéTV" tvg-logo="https://ibb.co/j9yfg5GG" group-title="⚽ JOGOS DO DIA⚽",⏰ 15h45 Italiano - 2025/2026 ⚽ Internazionale x Cagliari - HD - CazéTV
-plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvddHYylT4WifMDckiKE-r7A/ts
-#EXTINF:-1 xui-id="800582" tvg-id="" tvg-name="⏰ 15h45 Italiano - 2025/2026 ⚽ Internazionale x Cagliari - FHD - CazéTV" tvg-logo="https://ibb.co/j9yfg5GG" group-title="⚽ JOGOS DO DIA⚽",⏰ 15h45 Italiano - 2025/2026 ⚽ Internazionale x Cagliari - FHD - CazéTV
-plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvWN0eP7FIxAmZ9X5JEW3g_g/ts
-#EXTINF:-1 xui-id="800583" tvg-id="" tvg-name="⏰ 15h45 Italiano - 2025/2026 ⚽ Internazionale x Cagliari - UHD - CazéTV" tvg-logo="https://ibb.co/j9yfg5GG" group-title="⚽ JOGOS DO DIA⚽",⏰ 15h45 Italiano - 2025/2026 ⚽ Internazionale x Cagliari - UHD - CazéTV
-plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvapxywSwfbi0B6EvMHK4WNs/ts
-#EXTINF:-1 xui-id="800584" tvg-id="" tvg-name="⏰ 15h45 Italiano - 2025/2026 ⚽ Internazionale x Cagliari - SD - Disney+" tvg-logo="https://ibb.co/j9yfg5GG" group-title="⚽ JOGOS DO DIA⚽",⏰ 15h45 Italiano - 2025/2026 ⚽ Internazionale x Cagliari - SD - Disney+
-plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRva6Z1I1-QcUU6_tDhAZpG70/ts
-#EXTINF:-1 xui-id="800585" tvg-id="" tvg-name="⏰ 15h45 Italiano - 2025/2026 ⚽ Internazionale x Cagliari - HD - Disney+" tvg-logo="https://ibb.co/j9yfg5GG" group-title="⚽ JOGOS DO DIA⚽",⏰ 15h45 Italiano - 2025/2026 ⚽ Internazionale x Cagliari - HD - Disney+
-plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvfLssWpwHaspqT7av0W3JGI/ts
-#EXTINF:-1 xui-id="800586" tvg-id="" tvg-name="⏰ 15h45 Italiano - 2025/2026 ⚽ Internazionale x Cagliari - FHD - Disney+" tvg-logo="https://ibb.co/j9yfg5GG" group-title="⚽ JOGOS DO DIA⚽",⏰ 15h45 Italiano - 2025/2026 ⚽ Internazionale x Cagliari - FHD - Disney+
-plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvXkGyck5gAz_j3Q62LvV4Cg/ts
-#EXTINF:-1 xui-id="800587" tvg-id="" tvg-name="⏰ 15h45 Italiano - 2025/2026 ⚽ Internazionale x Cagliari - UHD - Disney+" tvg-logo="https://ibb.co/j9yfg5GG" group-title="⚽ JOGOS DO DIA⚽",⏰ 15h45 Italiano - 2025/2026 ⚽ Internazionale x Cagliari - UHD - Disney+
-plugin://script.hls.tester/?action=play&url=http://kadion.space:80/play/U7CUT8R-qAGvD-jKGWBRvaxgZXRXZkO_2GgnztTpZaU/ts
+#EXTINF:-1 tvg-id="EPTVSuldeMinas.br" tvg-name="GLOBO MG - EPTV SUL DE MINAS SD" tvg-logo="http://newoneblue.site:80/images/bHkDorbXA9TcmGupg-FKRLl7h11-vcqQTaVpTte6nlhVq89MTv-fms3bpc5PexGy5rXMb1_i2Ls3vE-5E-uYGw.png" group-title="⭐ GLOBO SUDESTE",GLOBO MG - EPTV SUL DE MINAS SD
+http://newoneblue.site:80/72984463/42823855/794234
+#EXTINF:-1 tvg-id="EPTVSuldeMinas.br" tvg-name="GLOBO MG - EPTV SUL DE MINAS HD" tvg-logo="http://newoneblue.site:80/images/bHkDorbXA9TcmGupg-FKRLl7h11-vcqQTaVpTte6nlhVq89MTv-fms3bpc5PexGy5rXMb1_i2Ls3vE-5E-uYGw.png" group-title="⭐ GLOBO SUDESTE",GLOBO MG - EPTV SUL DE MINAS HD
+http://newoneblue.site:80/72984463/42823855/794235
+#EXTINF:-1 tvg-id="EPTVSuldeMinas.br" tvg-name="GLOBO MG - EPTV SUL DE MINAS FHD" tvg-logo="http://newoneblue.site:80/images/bHkDorbXA9TcmGupg-FKRLl7h11-vcqQTaVpTte6nlhVq89MTv-fms3bpc5PexGy5rXMb1_i2Ls3vE-5E-uYGw.png" group-title="⭐ GLOBO SUDESTE",GLOBO MG - EPTV SUL DE MINAS FHD
+http://newoneblue.site:80/72984463/42823855/794236
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO SP - DIARIO SD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO SP - DIARIO SD
+http://newoneblue.site:80/72984463/42823855/235418
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO SP - DIARIO HD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO SP - DIARIO HD
+http://newoneblue.site:80/72984463/42823855/235419
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO SP - DIARIO FHD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO SP - DIARIO FHD
+http://newoneblue.site:80/72984463/42823855/235420
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO SP - EPTV CAMPINAS SD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO SP - EPTV CAMPINAS SD
+http://newoneblue.site:80/72984463/42823855/235412
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO SP - EPTV CAMPINAS HD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO SP - EPTV CAMPINAS HD
+http://newoneblue.site:80/72984463/42823855/235413
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO SP - EPTV CAMPINAS FHD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO SP - EPTV CAMPINAS FHD
+http://newoneblue.site:80/72984463/42823855/235414
+#EXTINF:-1 tvg-id="br#eptv-sul-de-minas-hd" tvg-name="GLOBO SP - EPTV RIBEIRAO PRETO SD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO SP - EPTV RIBEIRAO PRETO SD
+http://newoneblue.site:80/72984463/42823855/235415
+#EXTINF:-1 tvg-id="br#eptv-sul-de-minas-hd" tvg-name="GLOBO SP - EPTV RIBEIRAO PRETO HD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO SP - EPTV RIBEIRAO PRETO HD
+http://newoneblue.site:80/72984463/42823855/235416
+#EXTINF:-1 tvg-id="br#eptv-sul-de-minas-hd" tvg-name="GLOBO SP - EPTV RIBEIRAO PRETO FHD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO SP - EPTV RIBEIRAO PRETO FHD
+http://newoneblue.site:80/72984463/42823855/235417
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO SP - FRONTRIRA PAULISTA SD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO SP - FRONTRIRA PAULISTA SD
+http://newoneblue.site:80/72984463/42823855/235421
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO SP - FRONTREIRA PAULISTA HD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO SP - FRONTREIRA PAULISTA HD
+http://newoneblue.site:80/72984463/42823855/235422
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO SP - FRONTREIRA PAULISTA FHD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO SP - FRONTREIRA PAULISTA FHD
+http://newoneblue.site:80/72984463/42823855/235423
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO SP - TEM BAURU SD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TEM BAURU SD
+http://newoneblue.site:80/72984463/42823855/235424
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO SP - TEM BAURU HD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TEM BAURU HD
+http://newoneblue.site:80/72984463/42823855/235425
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO SP - TEM BAURU FHD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TEM BAURU FHD
+http://newoneblue.site:80/72984463/42823855/235426
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO SP - TEM SAO JOSÉ DO RIO PRETO SD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TEM SAO JOSÉ DO RIO PRETO SD
+http://newoneblue.site:80/72984463/42823855/235430
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO SP - TEM SAO JOSÉ DO RIO PRETO HD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TEM SAO JOSÉ DO RIO PRETO HD
+http://newoneblue.site:80/72984463/42823855/235431
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO SP - TEM SAO JOSÉ DO RIO PRETO FHD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TEM SAO JOSÉ DO RIO PRETO FHD
+http://newoneblue.site:80/72984463/42823855/235432
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO SP - TEM SOROCABA SD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TEM SOROCABA SD
+http://newoneblue.site:80/72984463/42823855/235433
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO SP - TEM SOROCABA HD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TEM SOROCABA HD
+http://newoneblue.site:80/72984463/42823855/235434
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO SP - TEM SOROCABA FHD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TEM SOROCABA FHD
+http://newoneblue.site:80/72984463/42823855/235435
+#EXTINF:-1 tvg-id="br#globo-tv-tribuna" tvg-name="GLOBO SP - TRIBUNA SANTOS SD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TRIBUNA SANTOS SD
+http://newoneblue.site:80/72984463/42823855/671525
+#EXTINF:-1 tvg-id="br#globo-tv-tribuna" tvg-name="GLOBO SP - TRIBUNA SANTOS HD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TRIBUNA SANTOS HD
+http://newoneblue.site:80/72984463/42823855/671524
+#EXTINF:-1 tvg-id="br#globo-sp" tvg-name="GLOBO SP - VANGUARDA TAUBATÉ SD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO SP - VANGUARDA TAUBATÉ SD
+http://newoneblue.site:80/72984463/42823855/235436
+#EXTINF:-1 tvg-id="br#globo-sp" tvg-name="GLOBO SP - VANGUARDA TAUBATÉ FHD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO SP - VANGUARDA TAUBATÉ FHD
+http://newoneblue.site:80/72984463/42823855/235437
+#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GLOBO RJ - INTERTV ALTO LITORAL SD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO RJ - INTERTV ALTO LITORAL SD
+http://newoneblue.site:80/72984463/42823855/235406
+#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GLOBO RJ - INTERTV ALTO LITORAL HD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO RJ - INTERTV ALTO LITORAL HD
+http://newoneblue.site:80/72984463/42823855/235407
+#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GLOBO RJ - INTERTV ALTO LITORAL FHD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO RJ - INTERTV ALTO LITORAL FHD
+http://newoneblue.site:80/72984463/42823855/235408
+#EXTINF:-1 tvg-id="InterTVSerraPlusMar.br" tvg-name="GLOBO RJ - INTERTV SERRA MAR SD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO RJ - INTERTV SERRA MAR SD
+http://newoneblue.site:80/72984463/42823855/235409
+#EXTINF:-1 tvg-id="InterTVSerraPlusMar.br" tvg-name="GLOBO RJ - INTERTV SERRA MAR HD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO RJ - INTERTV SERRA MAR HD
+http://newoneblue.site:80/72984463/42823855/235410
+#EXTINF:-1 tvg-id="InterTVSerraPlusMar.br" tvg-name="GLOBO RJ - INTERTV SERRA MAR FHD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO RJ - INTERTV SERRA MAR FHD
+http://newoneblue.site:80/72984463/42823855/235411
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO MG - INTEGRAÇAO ARAXÁ SD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO MG - INTEGRAÇAO ARAXÁ SD
+http://newoneblue.site:80/72984463/42823855/235394
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO MG - INTEGRAÇAO ARAXÁ HD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO MG - INTEGRAÇAO ARAXÁ HD
+http://newoneblue.site:80/72984463/42823855/235395
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO MG - INTEGRAÇAO ARAXÁ FHD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO MG - INTEGRAÇAO ARAXÁ FHD
+http://newoneblue.site:80/72984463/42823855/235396
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO MG - INTEGRAÇAO UBERLANDIA SD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO MG - INTEGRAÇAO UBERLANDIA SD
+http://newoneblue.site:80/72984463/42823855/235400
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO MG - INTEGRAÇAO UBERLANDIA HD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO MG - INTEGRAÇAO UBERLANDIA HD
+http://newoneblue.site:80/72984463/42823855/235401
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO MG - INTEGRAÇAO UBERLANDIA FHD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO MG - INTEGRAÇAO UBERLANDIA FHD
+http://newoneblue.site:80/72984463/42823855/235402
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO MG - INTEGRAÇÃO JUIZ DE FORA SD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO MG - INTEGRAÇÃO JUIZ DE FORA SD
+http://newoneblue.site:80/72984463/42823855/235403
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO MG - INTEGRAÇÃO JUIZ DE FORA HD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO MG - INTEGRAÇÃO JUIZ DE FORA HD
+http://newoneblue.site:80/72984463/42823855/235404
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO MG - INTEGRAÇÃO JUIZ DE FORA FHD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO MG - INTEGRAÇÃO JUIZ DE FORA FHD
+http://newoneblue.site:80/72984463/42823855/235405
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO MG - INTERTV DOS VALES SD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO MG - INTERTV DOS VALES SD
+http://newoneblue.site:80/72984463/42823855/235388
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO MG - INTERTV DOS VALES HD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO MG - INTERTV DOS VALES HD
+http://newoneblue.site:80/72984463/42823855/235389
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO MG - INTERTV DOS VALES FHD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO MG - INTERTV DOS VALES FHD
+http://newoneblue.site:80/72984463/42823855/235390
+#EXTINF:-1 tvg-id="InterTVGrandeMinas.br" tvg-name="GLOBO MG - INTERTV GRANDE MINAS SD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO MG - INTERTV GRANDE MINAS SD
+http://newoneblue.site:80/72984463/42823855/235391
+#EXTINF:-1 tvg-id="InterTVGrandeMinas.br" tvg-name="GLOBO MG - INTERTV GRANDE MINAS HD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO MG - INTERTV GRANDE MINAS HD
+http://newoneblue.site:80/72984463/42823855/235392
+#EXTINF:-1 tvg-id="InterTVGrandeMinas.br" tvg-name="GLOBO MG - INTERTV GRANDE MINAS FHD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO MG - INTERTV GRANDE MINAS FHD
+http://newoneblue.site:80/72984463/42823855/235393
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBOO MG - INTEGRAÇAO UBERABA SD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBOO MG - INTEGRAÇAO UBERABA SD
+http://newoneblue.site:80/72984463/42823855/235438
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBOO MG - INTEGRAÇAO UBERABA HD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBOO MG - INTEGRAÇAO UBERABA HD
+http://newoneblue.site:80/72984463/42823855/235439
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBOO MG - INTEGRAÇAO UBERABA FHD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBOO MG - INTEGRAÇAO UBERABA FHD
+http://newoneblue.site:80/72984463/42823855/235440
+#EXTINF:-1 tvg-id="br#tv-gazeta-hd" tvg-name="GLOBO ES - GAZETA NOROESTE SD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO ES - GAZETA NOROESTE SD
+http://newoneblue.site:80/72984463/42823855/235385
+#EXTINF:-1 tvg-id="br#tv-gazeta-hd" tvg-name="GLOBO ES - GAZETA NOROESTE HD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO ES - GAZETA NOROESTE HD
+http://newoneblue.site:80/72984463/42823855/235386
+#EXTINF:-1 tvg-id="br#tv-gazeta-hd" tvg-name="GLOBO ES - GAZETA NOROESTE FHD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO ES - GAZETA NOROESTE FHD
+http://newoneblue.site:80/72984463/42823855/235387
+#EXTINF:-1 tvg-id="TVGloboNordeste.br" tvg-name="GLOBO ES - TV GAZETA NOROESTE FHD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO ES - TV GAZETA NOROESTE FHD
+http://newoneblue.site:80/72984463/42823855/1601654
+#EXTINF:-1 tvg-id="br#tv-gazeta-hd" tvg-name="GLOBO ES - TV GAZETA NOROESTE HD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO ES - TV GAZETA NOROESTE HD
+http://newoneblue.site:80/72984463/42823855/1601655
+#EXTINF:-1 tvg-id="br#tv-gazeta-sul" tvg-name="GLOBO ES - TV GAZETA NOROESTE SD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO ES - TV GAZETA NOROESTE SD
+http://newoneblue.site:80/72984463/42823855/1601656
+#EXTINF:-1 tvg-id="br#tv-gazeta-sul" tvg-name="GLOBO ES - TV GAZETA SUL FHD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO ES - TV GAZETA SUL FHD
+http://newoneblue.site:80/72984463/42823855/1601657
+#EXTINF:-1 tvg-id="br#tv-gazeta-sul" tvg-name="GLOBO ES - TV GAZETA SUL HD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO ES - TV GAZETA SUL HD
+http://newoneblue.site:80/72984463/42823855/1601658
+#EXTINF:-1 tvg-id="br#tv-gazeta-sul" tvg-name="GLOBO ES - TV GAZETA SUL SD" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBO SUDESTE",GLOBO ES - TV GAZETA SUL SD
+http://newoneblue.site:80/72984463/42823855/1601659
+#EXTINF:-1 tvg-id="" tvg-name="07:30 BOLOGNA x CAGLIARI 1" tvg-logo="https://img.onetv.plus/icones_channels/Disney+_HD.png" group-title="⚽ EVENTOS DO DIA",07:30 BOLOGNA x CAGLIARI 1
+http://newoneblue.site:80/72984463/42823855/2068952
+#EXTINF:-1 tvg-id="" tvg-name="07:30 BOLOGNA x CAGLIARI 2" tvg-logo="https://img.onetv.plus/icones_channels/Disney+_HD.png" group-title="⚽ EVENTOS DO DIA",07:30 BOLOGNA x CAGLIARI 2
+http://newoneblue.site:80/72984463/42823855/2068953
+#EXTINF:-1 tvg-id="" tvg-name="09:00 CELTA VIGO x ELCHE 1" tvg-logo="https://img.onetv.plus/icones_channels/Disney+_2_HD.png" group-title="⚽ EVENTOS DO DIA",09:00 CELTA VIGO x ELCHE 1
+http://newoneblue.site:80/72984463/42823855/2068954
+#EXTINF:-1 tvg-id="" tvg-name="09:00 CELTA VIGO x ELCHE 2" tvg-logo="https://img.onetv.plus/icones_channels/Disney+_2_HD.png" group-title="⚽ EVENTOS DO DIA",09:00 CELTA VIGO x ELCHE 2
+http://newoneblue.site:80/72984463/42823855/2068955
+#EXTINF:-1 tvg-id="" tvg-name="09:30 PROGRESO x CERRO LARGO 1" tvg-logo="https://img.onetv.plus/icones_channels/Disney+_HD.png" group-title="⚽ EVENTOS DO DIA",09:30 PROGRESO x CERRO LARGO 1
+http://newoneblue.site:80/72984463/42823855/2068956
+#EXTINF:-1 tvg-id="" tvg-name="09:30 PROGRESO x CERRO LARGO 2" tvg-logo="https://img.onetv.plus/icones_channels/Disney+_HD.png" group-title="⚽ EVENTOS DO DIA",09:30 PROGRESO x CERRO LARGO 2
+http://newoneblue.site:80/72984463/42823855/2068957
+#EXTINF:-1 tvg-id="" tvg-name="10:00 SASSUOLO x AC MILAN 1" tvg-logo="https://img.onetv.plus/icones_channels/ESPN_2_HD.png" group-title="⚽ EVENTOS DO DIA",10:00 SASSUOLO x AC MILAN 1
+http://newoneblue.site:80/72984463/42823855/2068958
+#EXTINF:-1 tvg-id="" tvg-name="10:00 SASSUOLO x AC MILAN 2" tvg-logo="https://img.onetv.plus/icones_channels/ESPN_2_HD.png" group-title="⚽ EVENTOS DO DIA",10:00 SASSUOLO x AC MILAN 2
+http://newoneblue.site:80/72984463/42823855/2068959
+#EXTINF:-1 tvg-id="" tvg-name="10:00 SASSUOLO x AC MILAN 3" tvg-logo="https://img.onetv.plus/icones_channels/ESPN_2_HD.png" group-title="⚽ EVENTOS DO DIA",10:00 SASSUOLO x AC MILAN 3
+http://newoneblue.site:80/72984463/42823855/2068960
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="10:00 SASSUOLO x AC MILAN 4" tvg-logo="https://img.onetv.plus/icones_channels/ESPN_2_HD.png" group-title="⚽ EVENTOS DO DIA",10:00 SASSUOLO x AC MILAN 4
+http://newoneblue.site:80/72984463/42823855/2068961
+#EXTINF:-1 tvg-id="" tvg-name="10:00 BOURNEMOUTH x CRYSTAL PALACE 1" tvg-logo="https://img.onetv.plus/icones_channels/ESPN_4_HD.png" group-title="⚽ EVENTOS DO DIA",10:00 BOURNEMOUTH x CRYSTAL PALACE 1
+http://newoneblue.site:80/72984463/42823855/2068962
+#EXTINF:-1 tvg-id="" tvg-name="10:00 BOURNEMOUTH x CRYSTAL PALACE 2" tvg-logo="https://img.onetv.plus/icones_channels/ESPN_4_HD.png" group-title="⚽ EVENTOS DO DIA",10:00 BOURNEMOUTH x CRYSTAL PALACE 2
+http://newoneblue.site:80/72984463/42823855/2068963
+#EXTINF:-1 tvg-id="" tvg-name="10:00 BOURNEMOUTH x CRYSTAL PALACE 3" tvg-logo="https://img.onetv.plus/icones_channels/ESPN_4_HD.png" group-title="⚽ EVENTOS DO DIA",10:00 BOURNEMOUTH x CRYSTAL PALACE 3
+http://newoneblue.site:80/72984463/42823855/2068964
+#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="10:00 BOURNEMOUTH x CRYSTAL PALACE 4" tvg-logo="https://img.onetv.plus/icones_channels/ESPN_4_HD.png" group-title="⚽ EVENTOS DO DIA",10:00 BOURNEMOUTH x CRYSTAL PALACE 4
+http://newoneblue.site:80/72984463/42823855/2068965
+#EXTINF:-1 tvg-id="" tvg-name="10:00 LILLE x LE HAVRE 1" tvg-logo="https://img.onetv.plus/icones_channels/CazeTV.png" group-title="⚽ EVENTOS DO DIA",10:00 LILLE x LE HAVRE 1
+http://newoneblue.site:80/72984463/42823855/2068966
+#EXTINF:-1 tvg-id="" tvg-name="10:00 LILLE x LE HAVRE 2" tvg-logo="https://img.onetv.plus/icones_channels/CazeTV.png" group-title="⚽ EVENTOS DO DIA",10:00 LILLE x LE HAVRE 2
+http://newoneblue.site:80/72984463/42823855/2068967
+#EXTINF:-1 tvg-id="" tvg-name="10:30 FC ST PAULI x FSV MAINZ 05 1" tvg-logo="https://img.onetv.plus/icones_channels/CazeTV.png" group-title="⚽ EVENTOS DO DIA",10:30 FC ST PAULI x FSV MAINZ 05 1
+http://newoneblue.site:80/72984463/42823855/2068968
+#EXTINF:-1 tvg-id="" tvg-name="10:30 FC ST PAULI x FSV MAINZ 05 2" tvg-logo="https://img.onetv.plus/icones_channels/CazeTV.png" group-title="⚽ EVENTOS DO DIA",10:30 FC ST PAULI x FSV MAINZ 05 2
+http://newoneblue.site:80/72984463/42823855/2068969
+#EXTINF:-1 tvg-id="" tvg-name="11:15 GETAFE x RAYO VALLECANO 1" tvg-logo="https://img.onetv.plus/icones_channels/Disney+_HD.png" group-title="⚽ EVENTOS DO DIA",11:15 GETAFE x RAYO VALLECANO 1
+http://newoneblue.site:80/72984463/42823855/2068970
+#EXTINF:-1 tvg-id="" tvg-name="11:15 GETAFE x RAYO VALLECANO 2" tvg-logo="https://img.onetv.plus/icones_channels/Disney+_HD.png" group-title="⚽ EVENTOS DO DIA",11:15 GETAFE x RAYO VALLECANO 2
+http://newoneblue.site:80/72984463/42823855/2068971
+#EXTINF:-1 tvg-id="" tvg-name="11:30 MANCHESTER UNITED x LIVERPOOL 1" tvg-logo="https://img.onetv.plus/icones_channels/ESPN_HD.png" group-title="⚽ EVENTOS DO DIA",11:30 MANCHESTER UNITED x LIVERPOOL 1
+http://newoneblue.site:80/72984463/42823855/2068972
+#EXTINF:-1 tvg-id="" tvg-name="11:30 MANCHESTER UNITED x LIVERPOOL 2" tvg-logo="https://img.onetv.plus/icones_channels/ESPN_HD.png" group-title="⚽ EVENTOS DO DIA",11:30 MANCHESTER UNITED x LIVERPOOL 2
+http://newoneblue.site:80/72984463/42823855/2068973
+#EXTINF:-1 tvg-id="" tvg-name="11:30 MANCHESTER UNITED x LIVERPOOL 3" tvg-logo="https://img.onetv.plus/icones_channels/ESPN_HD.png" group-title="⚽ EVENTOS DO DIA",11:30 MANCHESTER UNITED x LIVERPOOL 3
+http://newoneblue.site:80/72984463/42823855/2068974
+#EXTINF:-1 tvg-id="br#espn-hd" tvg-name="11:30 MANCHESTER UNITED x LIVERPOOL 4" tvg-logo="https://img.onetv.plus/icones_channels/ESPN_HD.png" group-title="⚽ EVENTOS DO DIA",11:30 MANCHESTER UNITED x LIVERPOOL 4
+http://newoneblue.site:80/72984463/42823855/2068975
+#EXTINF:-1 tvg-id="" tvg-name="12:00 BOSTON RIVER x CENTRAL ESPANOL 1" tvg-logo="https://img.onetv.plus/icones_channels/Disney+_HD.png" group-title="⚽ EVENTOS DO DIA",12:00 BOSTON RIVER x CENTRAL ESPANOL 1
+http://newoneblue.site:80/72984463/42823855/2068976
+#EXTINF:-1 tvg-id="" tvg-name="12:00 BOSTON RIVER x CENTRAL ESPANOL 2" tvg-logo="https://img.onetv.plus/icones_channels/Disney+_HD.png" group-title="⚽ EVENTOS DO DIA",12:00 BOSTON RIVER x CENTRAL ESPANOL 2
+http://newoneblue.site:80/72984463/42823855/2068977
+#EXTINF:-1 tvg-id="" tvg-name="12:15 AUXERRE x ANGERS 1" tvg-logo="https://img.onetv.plus/icones_channels/CazeTV.png" group-title="⚽ EVENTOS DO DIA",12:15 AUXERRE x ANGERS 1
+http://newoneblue.site:80/72984463/42823855/2068978
+#EXTINF:-1 tvg-id="" tvg-name="12:15 AUXERRE x ANGERS 2" tvg-logo="https://img.onetv.plus/icones_channels/CazeTV.png" group-title="⚽ EVENTOS DO DIA",12:15 AUXERRE x ANGERS 2
+http://newoneblue.site:80/72984463/42823855/2068979
+#EXTINF:-1 tvg-id="" tvg-name="12:15 PARIS FC x STADE BRESTOIS 29 1" tvg-logo="https://img.onetv.plus/icones_channels/CazeTV.png" group-title="⚽ EVENTOS DO DIA",12:15 PARIS FC x STADE BRESTOIS 29 1
+http://newoneblue.site:80/72984463/42823855/2068980
+#EXTINF:-1 tvg-id="" tvg-name="12:15 PARIS FC x STADE BRESTOIS 29 2" tvg-logo="https://img.onetv.plus/icones_channels/CazeTV.png" group-title="⚽ EVENTOS DO DIA",12:15 PARIS FC x STADE BRESTOIS 29 2
+http://newoneblue.site:80/72984463/42823855/2068981
+#EXTINF:-1 tvg-id="" tvg-name="12:15 STRASBOURG x TOULOUSE 1" tvg-logo="https://img.onetv.plus/icones_channels/CazeTV.png" group-title="⚽ EVENTOS DO DIA",12:15 STRASBOURG x TOULOUSE 1
+http://newoneblue.site:80/72984463/42823855/2068982
+#EXTINF:-1 tvg-id="" tvg-name="12:15 STRASBOURG x TOULOUSE 2" tvg-logo="https://img.onetv.plus/icones_channels/CazeTV.png" group-title="⚽ EVENTOS DO DIA",12:15 STRASBOURG x TOULOUSE 2
+http://newoneblue.site:80/72984463/42823855/2068983
+#EXTINF:-1 tvg-id="" tvg-name="12:30 BORUSSIA x B. DORTMUND 1" tvg-logo="https://yt3.googleusercontent.com/_4n7GVq5nBYFo0FDqAbO_0k2YXro0GPp2rf3wmG5KIcjpYgAdlv6R2ZBzIHLso6wwY2LugdB=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ EVENTOS DO DIA",12:30 BORUSSIA x B. DORTMUND 1
+http://newoneblue.site:80/72984463/42823855/2068984
+#EXTINF:-1 tvg-id="" tvg-name="12:30 BORUSSIA x B. DORTMUND 2" tvg-logo="https://yt3.googleusercontent.com/_4n7GVq5nBYFo0FDqAbO_0k2YXro0GPp2rf3wmG5KIcjpYgAdlv6R2ZBzIHLso6wwY2LugdB=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ EVENTOS DO DIA",12:30 BORUSSIA x B. DORTMUND 2
+http://newoneblue.site:80/72984463/42823855/2068985
+#EXTINF:-1 tvg-id="" tvg-name="13:00 JUVENTUS x VERONA 1" tvg-logo="https://yt3.googleusercontent.com/U34cAOCHKFqGHO8zjARsYSszas9DC63rU0IWoNukwZifLiBv3F6dD3-Rh6x58VSEBLvb8r2iFw=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ EVENTOS DO DIA",13:00 JUVENTUS x VERONA 1
+http://newoneblue.site:80/72984463/42823855/2068986
+#EXTINF:-1 tvg-id="" tvg-name="13:00 JUVENTUS x VERONA 2" tvg-logo="https://yt3.googleusercontent.com/U34cAOCHKFqGHO8zjARsYSszas9DC63rU0IWoNukwZifLiBv3F6dD3-Rh6x58VSEBLvb8r2iFw=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ EVENTOS DO DIA",13:00 JUVENTUS x VERONA 2
+http://newoneblue.site:80/72984463/42823855/2068987
+#EXTINF:-1 tvg-id="" tvg-name="13:00 JUVENTUS x VERONA 3" tvg-logo="https://yt3.googleusercontent.com/U34cAOCHKFqGHO8zjARsYSszas9DC63rU0IWoNukwZifLiBv3F6dD3-Rh6x58VSEBLvb8r2iFw=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ EVENTOS DO DIA",13:00 JUVENTUS x VERONA 3
+http://newoneblue.site:80/72984463/42823855/2068988
+#EXTINF:-1 tvg-id="Xsports.br" tvg-name="13:00 JUVENTUS x VERONA 4" tvg-logo="https://yt3.googleusercontent.com/U34cAOCHKFqGHO8zjARsYSszas9DC63rU0IWoNukwZifLiBv3F6dD3-Rh6x58VSEBLvb8r2iFw=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ EVENTOS DO DIA",13:00 JUVENTUS x VERONA 4
+http://newoneblue.site:80/72984463/42823855/2068989
+#EXTINF:-1 tvg-id="" tvg-name="13:30 REAL BETIS x OVIEDO 1" tvg-logo="https://img.onetv.plus/icones_channels/ESPN_HD.png" group-title="⚽ EVENTOS DO DIA",13:30 REAL BETIS x OVIEDO 1
+http://newoneblue.site:80/72984463/42823855/2068990
+#EXTINF:-1 tvg-id="" tvg-name="13:30 REAL BETIS x OVIEDO 2" tvg-logo="https://img.onetv.plus/icones_channels/ESPN_HD.png" group-title="⚽ EVENTOS DO DIA",13:30 REAL BETIS x OVIEDO 2
+http://newoneblue.site:80/72984463/42823855/2068991
+#EXTINF:-1 tvg-id="" tvg-name="14:00 SC BRAGA x ESTORIL 1" tvg-logo="https://img.onetv.plus/icones_channels/Disney+_HD.png" group-title="⚽ EVENTOS DO DIA",14:00 SC BRAGA x ESTORIL 1
+http://newoneblue.site:80/72984463/42823855/2068992
+#EXTINF:-1 tvg-id="" tvg-name="14:00 SC BRAGA x ESTORIL 2" tvg-logo="https://img.onetv.plus/icones_channels/Disney+_HD.png" group-title="⚽ EVENTOS DO DIA",14:00 SC BRAGA x ESTORIL 2
+http://newoneblue.site:80/72984463/42823855/2068993
+#EXTINF:-1 tvg-id="" tvg-name="14:30 SC FREIBURG x VFL WOLFSBURG 1" tvg-logo="https://img.onetv.plus/icones_channels/Canal_GOAT.png" group-title="⚽ EVENTOS DO DIA",14:30 SC FREIBURG x VFL WOLFSBURG 1
+http://newoneblue.site:80/72984463/42823855/2068994
+#EXTINF:-1 tvg-id="" tvg-name="14:30 SC FREIBURG x VFL WOLFSBURG 2" tvg-logo="https://img.onetv.plus/icones_channels/Canal_GOAT.png" group-title="⚽ EVENTOS DO DIA",14:30 SC FREIBURG x VFL WOLFSBURG 2
+http://newoneblue.site:80/72984463/42823855/2068995
+#EXTINF:-1 tvg-id="" tvg-name="15:00 ASTON VILLA x TOTTENHAM 1" tvg-logo="https://img.onetv.plus/icones_channels/Disney+_HD.png" group-title="⚽ EVENTOS DO DIA",15:00 ASTON VILLA x TOTTENHAM 1
+http://newoneblue.site:80/72984463/42823855/2068996
+#EXTINF:-1 tvg-id="" tvg-name="15:00 ASTON VILLA x TOTTENHAM 2" tvg-logo="https://img.onetv.plus/icones_channels/Disney+_HD.png" group-title="⚽ EVENTOS DO DIA",15:00 ASTON VILLA x TOTTENHAM 2
+http://newoneblue.site:80/72984463/42823855/2068997
+#EXTINF:-1 tvg-id="" tvg-name="15:00 AL AHLI JEDDAH x AL OKHDOOD 1" tvg-logo="https://img.onetv.plus/icones_channels/Canal_GOAT.png" group-title="⚽ EVENTOS DO DIA",15:00 AL AHLI JEDDAH x AL OKHDOOD 1
+http://newoneblue.site:80/72984463/42823855/2068998
+#EXTINF:-1 tvg-id="" tvg-name="15:00 AL AHLI JEDDAH x AL OKHDOOD 2" tvg-logo="https://img.onetv.plus/icones_channels/Canal_GOAT.png" group-title="⚽ EVENTOS DO DIA",15:00 AL AHLI JEDDAH x AL OKHDOOD 2
+http://newoneblue.site:80/72984463/42823855/2068999
+#EXTINF:-1 tvg-id="" tvg-name="15:00 AL QADISIYAH FC x AL NASSR 1" tvg-logo="https://img.newfaston.top/icones_channels/BAND_Sports_HD.png" group-title="⚽ EVENTOS DO DIA",15:00 AL QADISIYAH FC x AL NASSR 1
+http://newoneblue.site:80/72984463/42823855/2069000
+#EXTINF:-1 tvg-id="" tvg-name="15:00 AL QADISIYAH FC x AL NASSR 2" tvg-logo="https://img.newfaston.top/icones_channels/BAND_Sports_HD.png" group-title="⚽ EVENTOS DO DIA",15:00 AL QADISIYAH FC x AL NASSR 2
+http://newoneblue.site:80/72984463/42823855/2069001
+#EXTINF:-1 tvg-id="" tvg-name="15:00 AL QADISIYAH FC x AL NASSR 3" tvg-logo="https://img.newfaston.top/icones_channels/BAND_Sports_HD.png" group-title="⚽ EVENTOS DO DIA",15:00 AL QADISIYAH FC x AL NASSR 3
+http://newoneblue.site:80/72984463/42823855/2069002
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="15:00 AL QADISIYAH FC x AL NASSR 4" tvg-logo="https://img.newfaston.top/icones_channels/BAND_Sports_HD.png" group-title="⚽ EVENTOS DO DIA",15:00 AL QADISIYAH FC x AL NASSR 4
+http://newoneblue.site:80/72984463/42823855/2069003
+#EXTINF:-1 tvg-id="" tvg-name="15:30 MONTEVIDEO RACING x TORQUE 1" tvg-logo="https://img.onetv.plus/icones_channels/Disney+_HD.png" group-title="⚽ EVENTOS DO DIA",15:30 MONTEVIDEO RACING x TORQUE 1
+http://newoneblue.site:80/72984463/42823855/2069004
+#EXTINF:-1 tvg-id="" tvg-name="15:30 MONTEVIDEO RACING x TORQUE 2" tvg-logo="https://img.onetv.plus/icones_channels/Disney+_HD.png" group-title="⚽ EVENTOS DO DIA",15:30 MONTEVIDEO RACING x TORQUE 2
+http://newoneblue.site:80/72984463/42823855/2069005
+#EXTINF:-1 tvg-id="" tvg-name="15:45 INTER x PARMA 1" tvg-logo="https://img.onetv.plus/icones_channels/ESPN_HD.png" group-title="⚽ EVENTOS DO DIA",15:45 INTER x PARMA 1
+http://newoneblue.site:80/72984463/42823855/2069006
+#EXTINF:-1 tvg-id="" tvg-name="15:45 INTER x PARMA 2" tvg-logo="https://img.onetv.plus/icones_channels/ESPN_HD.png" group-title="⚽ EVENTOS DO DIA",15:45 INTER x PARMA 2
+http://newoneblue.site:80/72984463/42823855/2069007
+#EXTINF:-1 tvg-id="" tvg-name="15:45 INTER x PARMA 3" tvg-logo="https://img.onetv.plus/icones_channels/ESPN_HD.png" group-title="⚽ EVENTOS DO DIA",15:45 INTER x PARMA 3
+http://newoneblue.site:80/72984463/42823855/2069008
+#EXTINF:-1 tvg-id="br#espn-hd" tvg-name="15:45 INTER x PARMA 4" tvg-logo="https://img.onetv.plus/icones_channels/ESPN_HD.png" group-title="⚽ EVENTOS DO DIA",15:45 INTER x PARMA 4
+http://newoneblue.site:80/72984463/42823855/2069009
+#EXTINF:-1 tvg-id="" tvg-name="15:45 LYON x RENNES 1" tvg-logo="https://img.onetv.plus/icones_channels/CazeTV.png" group-title="⚽ EVENTOS DO DIA",15:45 LYON x RENNES 1
+http://newoneblue.site:80/72984463/42823855/2069010
+#EXTINF:-1 tvg-id="" tvg-name="15:45 LYON x RENNES 2" tvg-logo="https://img.onetv.plus/icones_channels/CazeTV.png" group-title="⚽ EVENTOS DO DIA",15:45 LYON x RENNES 2
+http://newoneblue.site:80/72984463/42823855/2069011
+#EXTINF:-1 tvg-id="" tvg-name="16:00 ESPANYOL x REAL MADRID 1" tvg-logo="https://img.onetv.plus/icones_channels/Disney+_HD.png" group-title="⚽ EVENTOS DO DIA",16:00 ESPANYOL x REAL MADRID 1
+http://newoneblue.site:80/72984463/42823855/2069012
+#EXTINF:-1 tvg-id="" tvg-name="16:00 ESPANYOL x REAL MADRID 2" tvg-logo="https://img.onetv.plus/icones_channels/Disney+_HD.png" group-title="⚽ EVENTOS DO DIA",16:00 ESPANYOL x REAL MADRID 2
+http://newoneblue.site:80/72984463/42823855/2069013
+#EXTINF:-1 tvg-id="" tvg-name="16:00 FLAMENGO x VASCO 1" tvg-logo="https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png" group-title="⚽ EVENTOS DO DIA",16:00 FLAMENGO x VASCO 1
+http://newoneblue.site:80/72984463/42823855/2069014
+#EXTINF:-1 tvg-id="" tvg-name="16:00 FLAMENGO x VASCO 2" tvg-logo="https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png" group-title="⚽ EVENTOS DO DIA",16:00 FLAMENGO x VASCO 2
+http://newoneblue.site:80/72984463/42823855/2069015
+#EXTINF:-1 tvg-id="" tvg-name="16:00 FLAMENGO x VASCO 3" tvg-logo="https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png" group-title="⚽ EVENTOS DO DIA",16:00 FLAMENGO x VASCO 3
+http://newoneblue.site:80/72984463/42823855/2069016
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="16:00 FLAMENGO x VASCO 4" tvg-logo="https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png" group-title="⚽ EVENTOS DO DIA",16:00 FLAMENGO x VASCO 4
+http://newoneblue.site:80/72984463/42823855/2069017
+#EXTINF:-1 tvg-id="" tvg-name="16:00 SAO PAULO x BAHIA 1" tvg-logo="https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png" group-title="⚽ EVENTOS DO DIA",16:00 SAO PAULO x BAHIA 1
+http://newoneblue.site:80/72984463/42823855/2069018
+#EXTINF:-1 tvg-id="" tvg-name="16:00 SAO PAULO x BAHIA 2" tvg-logo="https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png" group-title="⚽ EVENTOS DO DIA",16:00 SAO PAULO x BAHIA 2
+http://newoneblue.site:80/72984463/42823855/2069019
+#EXTINF:-1 tvg-id="" tvg-name="16:00 SAO PAULO x BAHIA 3" tvg-logo="https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png" group-title="⚽ EVENTOS DO DIA",16:00 SAO PAULO x BAHIA 3
+http://newoneblue.site:80/72984463/42823855/2069020
+#EXTINF:-1 tvg-id="br#premiere-2" tvg-name="16:00 SAO PAULO x BAHIA 4" tvg-logo="https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png" group-title="⚽ EVENTOS DO DIA",16:00 SAO PAULO x BAHIA 4
+http://newoneblue.site:80/72984463/42823855/2069021
+#EXTINF:-1 tvg-id="" tvg-name="16:00 OPERARIO PR x LONDRINA 1" tvg-logo="https://img.onetv.plus/icones_channels/Disney+_HD.png" group-title="⚽ EVENTOS DO DIA",16:00 OPERARIO PR x LONDRINA 1
+http://newoneblue.site:80/72984463/42823855/2069022
+#EXTINF:-1 tvg-id="" tvg-name="16:00 OPERARIO PR x LONDRINA 2" tvg-logo="https://img.onetv.plus/icones_channels/Disney+_HD.png" group-title="⚽ EVENTOS DO DIA",16:00 OPERARIO PR x LONDRINA 2
+http://newoneblue.site:80/72984463/42823855/2069023
+#EXTINF:-1 tvg-id="" tvg-name="16:00 SÃO BERNARDO x PONTE PRETA 1" tvg-logo="https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png" group-title="⚽ EVENTOS DO DIA",16:00 SÃO BERNARDO x PONTE PRETA 1
+http://newoneblue.site:80/72984463/42823855/2069024
+#EXTINF:-1 tvg-id="" tvg-name="16:00 SÃO BERNARDO x PONTE PRETA 2" tvg-logo="https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png" group-title="⚽ EVENTOS DO DIA",16:00 SÃO BERNARDO x PONTE PRETA 2
+http://newoneblue.site:80/72984463/42823855/2069025
+#EXTINF:-1 tvg-id="" tvg-name="16:00 SÃO BERNARDO x PONTE PRETA 3" tvg-logo="https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png" group-title="⚽ EVENTOS DO DIA",16:00 SÃO BERNARDO x PONTE PRETA 3
+http://newoneblue.site:80/72984463/42823855/2069026
+#EXTINF:-1 tvg-id="br#premiere-3" tvg-name="16:00 SÃO BERNARDO x PONTE PRETA 4" tvg-logo="https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png" group-title="⚽ EVENTOS DO DIA",16:00 SÃO BERNARDO x PONTE PRETA 4
+http://newoneblue.site:80/72984463/42823855/2069027
+#EXTINF:-1 tvg-id="" tvg-name="17:00 AMAZONAS x CAXIAS 1" tvg-logo="https://yt3.googleusercontent.com/_4n7GVq5nBYFo0FDqAbO_0k2YXro0GPp2rf3wmG5KIcjpYgAdlv6R2ZBzIHLso6wwY2LugdB=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ EVENTOS DO DIA",17:00 AMAZONAS x CAXIAS 1
+http://newoneblue.site:80/72984463/42823855/2069028
+#EXTINF:-1 tvg-id="" tvg-name="17:00 AMAZONAS x CAXIAS 2" tvg-logo="https://yt3.googleusercontent.com/_4n7GVq5nBYFo0FDqAbO_0k2YXro0GPp2rf3wmG5KIcjpYgAdlv6R2ZBzIHLso6wwY2LugdB=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ EVENTOS DO DIA",17:00 AMAZONAS x CAXIAS 2
+http://newoneblue.site:80/72984463/42823855/2069029
+#EXTINF:-1 tvg-id="" tvg-name="17:00 FERROVIÁRIA x ANÁPOLIS 1" tvg-logo="https://yt3.googleusercontent.com/_4n7GVq5nBYFo0FDqAbO_0k2YXro0GPp2rf3wmG5KIcjpYgAdlv6R2ZBzIHLso6wwY2LugdB=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ EVENTOS DO DIA",17:00 FERROVIÁRIA x ANÁPOLIS 1
+http://newoneblue.site:80/72984463/42823855/2069030
+#EXTINF:-1 tvg-id="" tvg-name="17:00 FERROVIÁRIA x ANÁPOLIS 2" tvg-logo="https://yt3.googleusercontent.com/_4n7GVq5nBYFo0FDqAbO_0k2YXro0GPp2rf3wmG5KIcjpYgAdlv6R2ZBzIHLso6wwY2LugdB=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ EVENTOS DO DIA",17:00 FERROVIÁRIA x ANÁPOLIS 2
+http://newoneblue.site:80/72984463/42823855/2069031
+#EXTINF:-1 tvg-id="" tvg-name="17:00 VOLTA REDONDA x 1" tvg-logo="https://yt3.googleusercontent.com/_4n7GVq5nBYFo0FDqAbO_0k2YXro0GPp2rf3wmG5KIcjpYgAdlv6R2ZBzIHLso6wwY2LugdB=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ EVENTOS DO DIA",17:00 VOLTA REDONDA x 1
+http://newoneblue.site:80/72984463/42823855/2069032
+#EXTINF:-1 tvg-id="" tvg-name="17:00 VOLTA REDONDA x 2" tvg-logo="https://yt3.googleusercontent.com/_4n7GVq5nBYFo0FDqAbO_0k2YXro0GPp2rf3wmG5KIcjpYgAdlv6R2ZBzIHLso6wwY2LugdB=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ EVENTOS DO DIA",17:00 VOLTA REDONDA x 2
+http://newoneblue.site:80/72984463/42823855/2069033
+#EXTINF:-1 tvg-id="" tvg-name="18:00 SPORT RECIFE x CEARA 1" tvg-logo="https://img.onetv.plus/icones_channels/ESPN_HD.png" group-title="⚽ EVENTOS DO DIA",18:00 SPORT RECIFE x CEARA 1
+http://newoneblue.site:80/72984463/42823855/2069034
+#EXTINF:-1 tvg-id="" tvg-name="18:00 SPORT RECIFE x CEARA 2" tvg-logo="https://img.onetv.plus/icones_channels/ESPN_HD.png" group-title="⚽ EVENTOS DO DIA",18:00 SPORT RECIFE x CEARA 2
+http://newoneblue.site:80/72984463/42823855/2069035
+#EXTINF:-1 tvg-id="" tvg-name="18:00 SPORT RECIFE x CEARA 3" tvg-logo="https://img.onetv.plus/icones_channels/ESPN_HD.png" group-title="⚽ EVENTOS DO DIA",18:00 SPORT RECIFE x CEARA 3
+http://newoneblue.site:80/72984463/42823855/2069036
+#EXTINF:-1 tvg-id="br#espn-hd" tvg-name="18:00 SPORT RECIFE x CEARA 4" tvg-logo="https://img.onetv.plus/icones_channels/ESPN_HD.png" group-title="⚽ EVENTOS DO DIA",18:00 SPORT RECIFE x CEARA 4
+http://newoneblue.site:80/72984463/42823855/2069037
+#EXTINF:-1 tvg-id="" tvg-name="18:30 CHAPECOENSE SC x RB BRAGANTINO 1" tvg-logo="https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png" group-title="⚽ EVENTOS DO DIA",18:30 CHAPECOENSE SC x RB BRAGANTINO 1
+http://newoneblue.site:80/72984463/42823855/2069038
+#EXTINF:-1 tvg-id="" tvg-name="18:30 CHAPECOENSE SC x RB BRAGANTINO 2" tvg-logo="https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png" group-title="⚽ EVENTOS DO DIA",18:30 CHAPECOENSE SC x RB BRAGANTINO 2
+http://newoneblue.site:80/72984463/42823855/2069039
+#EXTINF:-1 tvg-id="" tvg-name="18:30 CHAPECOENSE SC x RB BRAGANTINO 3" tvg-logo="https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png" group-title="⚽ EVENTOS DO DIA",18:30 CHAPECOENSE SC x RB BRAGANTINO 3
+http://newoneblue.site:80/72984463/42823855/2069040
+#EXTINF:-1 tvg-id="br#premiere-2" tvg-name="18:30 CHAPECOENSE SC x RB BRAGANTINO 4" tvg-logo="https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png" group-title="⚽ EVENTOS DO DIA",18:30 CHAPECOENSE SC x RB BRAGANTINO 4
+http://newoneblue.site:80/72984463/42823855/2069041
+#EXTINF:-1 tvg-id="" tvg-name="18:30 INTERNACIONAL x FLUMINENSE 1" tvg-logo="https://img.onetv.plus/icones_channels/SporTV_HD.png" group-title="⚽ EVENTOS DO DIA",18:30 INTERNACIONAL x FLUMINENSE 1
+http://newoneblue.site:80/72984463/42823855/2069042
+#EXTINF:-1 tvg-id="" tvg-name="18:30 INTERNACIONAL x FLUMINENSE 2" tvg-logo="https://img.onetv.plus/icones_channels/SporTV_HD.png" group-title="⚽ EVENTOS DO DIA",18:30 INTERNACIONAL x FLUMINENSE 2
+http://newoneblue.site:80/72984463/42823855/2069043
+#EXTINF:-1 tvg-id="" tvg-name="18:30 INTERNACIONAL x FLUMINENSE 3" tvg-logo="https://img.onetv.plus/icones_channels/SporTV_HD.png" group-title="⚽ EVENTOS DO DIA",18:30 INTERNACIONAL x FLUMINENSE 3
+http://newoneblue.site:80/72984463/42823855/2069044
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="18:30 INTERNACIONAL x FLUMINENSE 4" tvg-logo="https://img.onetv.plus/icones_channels/SporTV_HD.png" group-title="⚽ EVENTOS DO DIA",18:30 INTERNACIONAL x FLUMINENSE 4
+http://newoneblue.site:80/72984463/42823855/2069045
+#EXTINF:-1 tvg-id="" tvg-name="18:30 ATLETICO GO x JUVENTUDE 1" tvg-logo="https://img.onetv.plus/icones_channels/Disney+_HD.png" group-title="⚽ EVENTOS DO DIA",18:30 ATLETICO GO x JUVENTUDE 1
+http://newoneblue.site:80/72984463/42823855/2069046
+#EXTINF:-1 tvg-id="" tvg-name="18:30 ATLETICO GO x JUVENTUDE 2" tvg-logo="https://img.onetv.plus/icones_channels/Disney+_HD.png" group-title="⚽ EVENTOS DO DIA",18:30 ATLETICO GO x JUVENTUDE 2
+http://newoneblue.site:80/72984463/42823855/2069047
+#EXTINF:-1 tvg-id="" tvg-name="19:00 MARINGÁ x AO ITABAIANA 1" tvg-logo="https://yt3.googleusercontent.com/_4n7GVq5nBYFo0FDqAbO_0k2YXro0GPp2rf3wmG5KIcjpYgAdlv6R2ZBzIHLso6wwY2LugdB=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ EVENTOS DO DIA",19:00 MARINGÁ x AO ITABAIANA 1
+http://newoneblue.site:80/72984463/42823855/2069048
+#EXTINF:-1 tvg-id="" tvg-name="19:00 MARINGÁ x AO ITABAIANA 2" tvg-logo="https://yt3.googleusercontent.com/_4n7GVq5nBYFo0FDqAbO_0k2YXro0GPp2rf3wmG5KIcjpYgAdlv6R2ZBzIHLso6wwY2LugdB=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ EVENTOS DO DIA",19:00 MARINGÁ x AO ITABAIANA 2
+http://newoneblue.site:80/72984463/42823855/2069049
+#EXTINF:-1 tvg-id="" tvg-name="19:00 PAYSANDU x BOTAFOGO PB 1" tvg-logo="https://yt3.googleusercontent.com/_4n7GVq5nBYFo0FDqAbO_0k2YXro0GPp2rf3wmG5KIcjpYgAdlv6R2ZBzIHLso6wwY2LugdB=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ EVENTOS DO DIA",19:00 PAYSANDU x BOTAFOGO PB 1
+http://newoneblue.site:80/72984463/42823855/2069050
+#EXTINF:-1 tvg-id="" tvg-name="19:00 PAYSANDU x BOTAFOGO PB 2" tvg-logo="https://yt3.googleusercontent.com/_4n7GVq5nBYFo0FDqAbO_0k2YXro0GPp2rf3wmG5KIcjpYgAdlv6R2ZBzIHLso6wwY2LugdB=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ EVENTOS DO DIA",19:00 PAYSANDU x BOTAFOGO PB 2
+http://newoneblue.site:80/72984463/42823855/2069051
+#EXTINF:-1 tvg-id="" tvg-name="20:00 ALBION FC x CLUB NACIONAL 1" tvg-logo="https://img.onetv.plus/icones_channels/Disney+_HD.png" group-title="⚽ EVENTOS DO DIA",20:00 ALBION FC x CLUB NACIONAL 1
+http://newoneblue.site:80/72984463/42823855/2069052
+#EXTINF:-1 tvg-id="" tvg-name="20:00 ALBION FC x CLUB NACIONAL 2" tvg-logo="https://img.onetv.plus/icones_channels/Disney+_HD.png" group-title="⚽ EVENTOS DO DIA",20:00 ALBION FC x CLUB NACIONAL 2
+http://newoneblue.site:80/72984463/42823855/2069053
+#EXTINF:-1 tvg-id="" tvg-name="20:30 MIRASSOL x CORINTHIANS 1" tvg-logo="https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png" group-title="⚽ EVENTOS DO DIA",20:30 MIRASSOL x CORINTHIANS 1
+http://newoneblue.site:80/72984463/42823855/2069054
+#EXTINF:-1 tvg-id="" tvg-name="20:30 MIRASSOL x CORINTHIANS 2" tvg-logo="https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png" group-title="⚽ EVENTOS DO DIA",20:30 MIRASSOL x CORINTHIANS 2
+http://newoneblue.site:80/72984463/42823855/2069055
+#EXTINF:-1 tvg-id="" tvg-name="20:30 MIRASSOL x CORINTHIANS 3" tvg-logo="https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png" group-title="⚽ EVENTOS DO DIA",20:30 MIRASSOL x CORINTHIANS 3
+http://newoneblue.site:80/72984463/42823855/2069056
+#EXTINF:-1 tvg-id="br#premiere-3" tvg-name="20:30 MIRASSOL x CORINTHIANS 4" tvg-logo="https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png" group-title="⚽ EVENTOS DO DIA",20:30 MIRASSOL x CORINTHIANS 4
+http://newoneblue.site:80/72984463/42823855/2069057
+#EXTINF:-1 tvg-id="" tvg-name="20:30 AMERICA MG x CRB 1" tvg-logo="https://img.onetv.plus/icones_channels/ESPN_4_HD.png" group-title="⚽ EVENTOS DO DIA",20:30 AMERICA MG x CRB 1
+http://newoneblue.site:80/72984463/42823855/2069058
+#EXTINF:-1 tvg-id="" tvg-name="20:30 AMERICA MG x CRB 2" tvg-logo="https://img.onetv.plus/icones_channels/ESPN_4_HD.png" group-title="⚽ EVENTOS DO DIA",20:30 AMERICA MG x CRB 2
+http://newoneblue.site:80/72984463/42823855/2069059
+#EXTINF:-1 tvg-id="" tvg-name="20:30 AMERICA MG x CRB 3" tvg-logo="https://img.onetv.plus/icones_channels/ESPN_4_HD.png" group-title="⚽ EVENTOS DO DIA",20:30 AMERICA MG x CRB 3
+http://newoneblue.site:80/72984463/42823855/2069060
+#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="20:30 AMERICA MG x CRB 4" tvg-logo="https://img.onetv.plus/icones_channels/ESPN_4_HD.png" group-title="⚽ EVENTOS DO DIA",20:30 AMERICA MG x CRB 4
+http://newoneblue.site:80/72984463/42823855/2069061
+#EXTINF:-1 tvg-id="" tvg-name="20:30 AVAI x NOVORIZONTINO 1" tvg-logo="https://img.onetv.plus/icones_channels/Disney+_HD.png" group-title="⚽ EVENTOS DO DIA",20:30 AVAI x NOVORIZONTINO 1
+http://newoneblue.site:80/72984463/42823855/2069062
+#EXTINF:-1 tvg-id="" tvg-name="20:30 AVAI x NOVORIZONTINO 2" tvg-logo="https://img.onetv.plus/icones_channels/Disney+_HD.png" group-title="⚽ EVENTOS DO DIA",20:30 AVAI x NOVORIZONTINO 2
+http://newoneblue.site:80/72984463/42823855/2069063
+#EXTINF:-1 tvg-id="" tvg-name="16:30 MAGIC x PISTONS 1" tvg-logo="https://img.onetv.plus/icones_channels/ESPN_2_HD.png" group-title="⚽ EVENTOS DO DIA",16:30 MAGIC x PISTONS 1
+http://newoneblue.site:80/72984463/42823855/2069064
+#EXTINF:-1 tvg-id="" tvg-name="16:30 MAGIC x PISTONS 2" tvg-logo="https://img.onetv.plus/icones_channels/ESPN_2_HD.png" group-title="⚽ EVENTOS DO DIA",16:30 MAGIC x PISTONS 2
+http://newoneblue.site:80/72984463/42823855/2069065
+#EXTINF:-1 tvg-id="" tvg-name="16:30 MAGIC x PISTONS 3" tvg-logo="https://img.onetv.plus/icones_channels/ESPN_2_HD.png" group-title="⚽ EVENTOS DO DIA",16:30 MAGIC x PISTONS 3
+http://newoneblue.site:80/72984463/42823855/2069066
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="16:30 MAGIC x PISTONS 4" tvg-logo="https://img.onetv.plus/icones_channels/ESPN_2_HD.png" group-title="⚽ EVENTOS DO DIA",16:30 MAGIC x PISTONS 4
+http://newoneblue.site:80/72984463/42823855/2069067
+#EXTINF:-1 tvg-id="" tvg-name="20:30 RAPTORS x C CAVS 1" tvg-logo="https://img.onetv.plus/icones_channels/NBA.png" group-title="⚽ EVENTOS DO DIA",20:30 RAPTORS x C CAVS 1
+http://newoneblue.site:80/72984463/42823855/2069068
+#EXTINF:-1 tvg-id="" tvg-name="20:30 RAPTORS x C CAVS 2" tvg-logo="https://img.onetv.plus/icones_channels/NBA.png" group-title="⚽ EVENTOS DO DIA",20:30 RAPTORS x C CAVS 2
+http://newoneblue.site:80/72984463/42823855/2069069
