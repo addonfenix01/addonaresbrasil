@@ -1,47 +1,329 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="469" tvg-name="SBT News HD" tvg-logo="https://sbtnews.sbt.com.br/_next/image?url=https%3A%2F%2Fsbt-news-assets-prod.s3.sa-east-1.amazonaws.com%2FSBT_News_Logo_Nova_6912e22a21.jpg&w=640&q=90" group-title="〽️ NOTICIAS",SBT News HD
-plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/314675.ts
-#EXTINF:-1 tvg-id="469" tvg-name="SBT News FHD" tvg-logo="https://sbtnews.sbt.com.br/_next/image?url=https%3A%2F%2Fsbt-news-assets-prod.s3.sa-east-1.amazonaws.com%2FSBT_News_Logo_Nova_6912e22a21.jpg&w=640&q=90" group-title="〽️ NOTICIAS",SBT News FHD
-plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/314674.ts
-#EXTINF:-1 tvg-id="Record News HD" tvg-name="RECORD NEWS SD" tvg-logo="http://imgx.com.br/img/Record_News.png" group-title="〽️ NOTICIAS",RECORD NEWS SD
-plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313470.ts
-#EXTINF:-1 tvg-id="Record News HD" tvg-name="RECORD NEWS HD" tvg-logo="http://imgx.com.br/img/Record_News.png" group-title="〽️ NOTICIAS",RECORD NEWS HD
-plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313469.ts
-#EXTINF:-1 tvg-id="Record News HD" tvg-name="RECORD NEWS FHD" tvg-logo="http://imgx.com.br/img/Record_News.png" group-title="〽️ NOTICIAS",RECORD NEWS FHD
-plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313468.ts
-#EXTINF:-1 tvg-id="187" tvg-name="JOVEM PAN NEWS SD" tvg-logo="http://imgx.com.br/img/TV_Jovem_Pan_News_2022.png" group-title="〽️ NOTICIAS",JOVEM PAN NEWS SD
-plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313467.ts
-#EXTINF:-1 tvg-id="187" tvg-name="JOVEM PAN NEWS HD" tvg-logo="http://imgx.com.br/img/TV_Jovem_Pan_News_2022.png" group-title="〽️ NOTICIAS",JOVEM PAN NEWS HD
-plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313466.ts
-#EXTINF:-1 tvg-id="187" tvg-name="JOVEM PAN NEWS FHD" tvg-logo="http://imgx.com.br/img/TV_Jovem_Pan_News_2022.png" group-title="〽️ NOTICIAS",JOVEM PAN NEWS FHD
-plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313465.ts
-#EXTINF:-1 tvg-id="Globo News HD" tvg-name="GLOBO NEWS SD" tvg-logo="http://imgx.com.br/img/GloboNews2022.png" group-title="〽️ NOTICIAS",GLOBO NEWS SD
-plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313464.ts
-#EXTINF:-1 tvg-id="Globo News HD" tvg-name="GLOBO NEWS HD" tvg-logo="http://imgx.com.br/img/GloboNews2022.png" group-title="〽️ NOTICIAS",GLOBO NEWS HD
-plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313463.ts
-#EXTINF:-1 tvg-id="Globo News HD" tvg-name="GLOBO NEWS FHD" tvg-logo="http://imgx.com.br/img/GloboNews2022.png" group-title="〽️ NOTICIAS",GLOBO NEWS FHD
-plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313462.ts
-#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL SD" tvg-logo="http://imgx.com.br/img/CNN_Brasil_square.png" group-title="〽️ NOTICIAS",CNN BRASIL SD
-plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313461.ts
-#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL MONEY SD" tvg-logo="https://imgx.com.br/uploads/img_688ce321606157.99797074.jpg" group-title="〽️ NOTICIAS",CNN BRASIL MONEY SD
-plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313460.ts
-#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL MONEY HD" tvg-logo="https://imgx.com.br/uploads/img_688ce321606157.99797074.jpg" group-title="〽️ NOTICIAS",CNN BRASIL MONEY HD
-plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313459.ts
-#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL MONEY FHD" tvg-logo="https://imgx.com.br/uploads/img_688ce321606157.99797074.jpg" group-title="〽️ NOTICIAS",CNN BRASIL MONEY FHD
-plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313458.ts
-#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL HD" tvg-logo="http://imgx.com.br/img/CNN_Brasil_square.png" group-title="〽️ NOTICIAS",CNN BRASIL HD
-plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313457.ts
-#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL FHD" tvg-logo="http://imgx.com.br/img/CNN_Brasil_square.png" group-title="〽️ NOTICIAS",CNN BRASIL FHD
-plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313456.ts
-#EXTINF:-1 tvg-id="339" tvg-name="CNBC TIMES BRASIL SD" tvg-logo="http://imgx.com.br/img/cnb.png" group-title="〽️ NOTICIAS",CNBC TIMES BRASIL SD
-plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313455.ts
-#EXTINF:-1 tvg-id="339" tvg-name="CNBC TIMES BRASIL HD" tvg-logo="http://imgx.com.br/img/cnb.png" group-title="〽️ NOTICIAS",CNBC TIMES BRASIL HD
-plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313454.ts
-#EXTINF:-1 tvg-id="339" tvg-name="CNBC TIMES BRASIL FHD" tvg-logo="http://imgx.com.br/img/cnb.png" group-title="〽️ NOTICIAS",CNBC TIMES BRASIL FHD
-plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313453.ts
-#EXTINF:-1 tvg-id="Band News SD" tvg-name="BAND NEWS SD" tvg-logo="http://imgx.com.br/img/Band_isotipo_2018.png" group-title="〽️ NOTICIAS",BAND NEWS SD
-plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313449.ts
-#EXTINF:-1 tvg-id="Band News SD" tvg-name="BAND NEWS HD" tvg-logo="http://imgx.com.br/img/Band_isotipo_2018.png" group-title="〽️ NOTICIAS",BAND NEWS HD
-plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313448.ts
-#EXTINF:-1 tvg-id="Band News SD" tvg-name="BAND NEWS FHD" tvg-logo="http://imgx.com.br/img/Band_isotipo_2018.png" group-title="〽️ NOTICIAS",BAND NEWS FHD
-plugin://script.hls.tester/?action=play&url=http://playraiden.site:80/3656359/5713884/313447.ts
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND NEWS SD" tvg-logo="https://img.onetv.plus/icones_channels/BAND_NEWS.png" group-title="✅ NOTICIAS",BAND NEWS SD
+http://newoneblue.site:80/72984463/42823855/234140
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND NEWS HD" tvg-logo="https://img.onetv.plus/icones_channels/BAND_NEWS.png" group-title="✅ NOTICIAS",BAND NEWS HD
+http://newoneblue.site:80/72984463/42823855/232717
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND NEWS FHD" tvg-logo="https://img.onetv.plus/icones_channels/BAND_NEWS.png" group-title="✅ NOTICIAS",BAND NEWS FHD
+http://newoneblue.site:80/72984463/42823855/234139
+#EXTINF:-1 tvg-id="br#bloomberg" tvg-name="BLOOMBERG SD" tvg-logo="http://www.tmsimg.com/assets/s53168_ll_h3_ac.png" group-title="✅ NOTICIAS",BLOOMBERG SD
+http://newoneblue.site:80/72984463/42823855/234144
+#EXTINF:-1 tvg-id="br#bloomberg" tvg-name="BLOOMBERG HD" tvg-logo="http://www.tmsimg.com/assets/s53168_ll_h3_ac.png" group-title="✅ NOTICIAS",BLOOMBERG HD
+http://newoneblue.site:80/72984463/42823855/234143
+#EXTINF:-1 tvg-id="br#bloomberg" tvg-name="BLOOMBERG FHD" tvg-logo="http://www.tmsimg.com/assets/s53168_ll_h3_ac.png" group-title="✅ NOTICIAS",BLOOMBERG FHD
+http://newoneblue.site:80/72984463/42823855/234142
+#EXTINF:-1 tvg-id="CNBC.br" tvg-name="CNBC BRASIL SD" tvg-logo="https://telaviva.com.br/wp-content/uploads/2024/03/CNBC.png" group-title="✅ NOTICIAS",CNBC BRASIL SD
+http://newoneblue.site:80/72984463/42823855/676777
+#EXTINF:-1 tvg-id="br#cnn-brasil-1" tvg-name="CNBC BRASIL HD" tvg-logo="https://telaviva.com.br/wp-content/uploads/2024/03/CNBC.png" group-title="✅ NOTICIAS",CNBC BRASIL HD
+http://newoneblue.site:80/72984463/42823855/234146
+#EXTINF:-1 tvg-id="br#cnn-brasil-1" tvg-name="CNBC BRASIL FHD" tvg-logo="https://telaviva.com.br/wp-content/uploads/2024/03/CNBC.png" group-title="✅ NOTICIAS",CNBC BRASIL FHD
+http://newoneblue.site:80/72984463/42823855/234147
+#EXTINF:-1 tvg-id="br#cnn-brasil-1" tvg-name="CNN BRASIL SD" tvg-logo="https://img.onetv.plus/icones_channels/CNN_brasil_HD.png" group-title="✅ NOTICIAS",CNN BRASIL SD
+http://newoneblue.site:80/72984463/42823855/234156
+#EXTINF:-1 tvg-id="br#cnn-brasil-1" tvg-name="CNN BRASIL HD" tvg-logo="https://img.onetv.plus/icones_channels/CNN_brasil_HD.png" group-title="✅ NOTICIAS",CNN BRASIL HD
+http://newoneblue.site:80/72984463/42823855/234155
+#EXTINF:-1 tvg-id="br#cnn-brasil-1" tvg-name="CNN BRASIL FHD" tvg-logo="https://img.onetv.plus/icones_channels/CNN_brasil_HD.png" group-title="✅ NOTICIAS",CNN BRASIL FHD
+http://newoneblue.site:80/72984463/42823855/234154
+#EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="CNN BRASIL MONEY SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/CNNNBrasil_Money.svg/revision/latest/scale-to-width-down/284?cb=20241105221257" group-title="✅ NOTICIAS",CNN BRASIL MONEY SD
+http://newoneblue.site:80/72984463/42823855/676774
+#EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="CNN BRASIL MONEY HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/CNNNBrasil_Money.svg/revision/latest/scale-to-width-down/284?cb=20241105221257" group-title="✅ NOTICIAS",CNN BRASIL MONEY HD
+http://newoneblue.site:80/72984463/42823855/234158
+#EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="CNN BRASIL MONEY FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/CNNNBrasil_Money.svg/revision/latest/scale-to-width-down/284?cb=20241105221257" group-title="✅ NOTICIAS",CNN BRASIL MONEY FHD
+http://newoneblue.site:80/72984463/42823855/234160
+#EXTINF:-1 tvg-id="E.br" tvg-name="CNN INTERNACIONAL SD" tvg-logo="https://img.onetv.plus/icones_channels/CNN_INTERNATIONAL.png" group-title="✅ NOTICIAS",CNN INTERNACIONAL SD
+http://newoneblue.site:80/72984463/42823855/234167
+#EXTINF:-1 tvg-id="E.br" tvg-name="CNN INTERNACIONAL HD" tvg-logo="https://img.onetv.plus/icones_channels/CNN_INTERNATIONAL.png" group-title="✅ NOTICIAS",CNN INTERNACIONAL HD
+http://newoneblue.site:80/72984463/42823855/234166
+#EXTINF:-1 tvg-id="E.br" tvg-name="CNN INTERNACIONAL FHD" tvg-logo="https://img.onetv.plus/icones_channels/CNN_INTERNATIONAL.png" group-title="✅ NOTICIAS",CNN INTERNACIONAL FHD
+http://newoneblue.site:80/72984463/42823855/234165
+#EXTINF:-1 tvg-id="br#globo-news-hd" tvg-name="GLOBO NEWS SD" tvg-logo="http://www.tmsimg.com/assets/s38310_ll_h3_aa.png" group-title="✅ NOTICIAS",GLOBO NEWS SD
+http://newoneblue.site:80/72984463/42823855/234181
+#EXTINF:-1 tvg-id="br#globo-news-hd" tvg-name="GLOBO NEWS HD" tvg-logo="http://www.tmsimg.com/assets/s38310_ll_h3_aa.png" group-title="✅ NOTICIAS",GLOBO NEWS HD
+http://newoneblue.site:80/72984463/42823855/234180
+#EXTINF:-1 tvg-id="br#globo-news-hd" tvg-name="GLOBO NEWS FHD" tvg-logo="http://www.tmsimg.com/assets/s38310_ll_h3_aa.png" group-title="✅ NOTICIAS",GLOBO NEWS FHD
+http://newoneblue.site:80/72984463/42823855/234179
+#EXTINF:-1 tvg-id="JPNews.br" tvg-name="JOVEM PAN NEWS SD" tvg-logo="https://www.portaldosjornalistas.com.br/wp-content/uploads/2024/02/Jovem-Pan-logo-scaled.webp" group-title="✅ NOTICIAS",JOVEM PAN NEWS SD
+http://newoneblue.site:80/72984463/42823855/234187
+#EXTINF:-1 tvg-id="JPNews.br" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://www.portaldosjornalistas.com.br/wp-content/uploads/2024/02/Jovem-Pan-logo-scaled.webp" group-title="✅ NOTICIAS",JOVEM PAN NEWS HD
+http://newoneblue.site:80/72984463/42823855/234186
+#EXTINF:-1 tvg-id="JPNews.br" tvg-name="JOVEM PAN NEWS FHD" tvg-logo="https://www.portaldosjornalistas.com.br/wp-content/uploads/2024/02/Jovem-Pan-logo-scaled.webp" group-title="✅ NOTICIAS",JOVEM PAN NEWS FHD
+http://newoneblue.site:80/72984463/42823855/234185
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="RECORD NEWS SD" tvg-logo="https://img.onetv.plus/icones_channels/Record_News_HD.png" group-title="✅ NOTICIAS",RECORD NEWS SD
+http://newoneblue.site:80/72984463/42823855/234193
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://img.onetv.plus/icones_channels/Record_News_HD.png" group-title="✅ NOTICIAS",RECORD NEWS HD
+http://newoneblue.site:80/72984463/42823855/234192
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="RECORD NEWS FHD" tvg-logo="https://img.onetv.plus/icones_channels/Record_News_HD.png" group-title="✅ NOTICIAS",RECORD NEWS FHD
+http://newoneblue.site:80/72984463/42823855/234191
+#EXTINF:-1 tvg-id="" tvg-name="SBT NEWS SD" tvg-logo="https://m.media-amazon.com/images/I/6180UWchcYL.png" group-title="✅ NOTICIAS",SBT NEWS SD
+http://newoneblue.site:80/72984463/42823855/1643582
+#EXTINF:-1 tvg-id="" tvg-name="SBT NEWS HD" tvg-logo="https://m.media-amazon.com/images/I/6180UWchcYL.png" group-title="✅ NOTICIAS",SBT NEWS HD
+http://newoneblue.site:80/72984463/42823855/1643583
+#EXTINF:-1 tvg-id="" tvg-name="SBT NEWS FHD" tvg-logo="https://m.media-amazon.com/images/I/6180UWchcYL.png" group-title="✅ NOTICIAS",SBT NEWS FHD
+http://newoneblue.site:80/72984463/42823855/1643584
+#EXTINF:-1 tvg-id="UOL.br" tvg-name="CANAL UOL SD" tvg-logo="https://img.onetv.plus/icones_channels/Canal_UOL.png" group-title="✅ NOTICIAS",CANAL UOL SD
+http://newoneblue.site:80/72984463/42823855/1773688
+#EXTINF:-1 tvg-id="UOL.br" tvg-name="CANAL UOL HD" tvg-logo="https://img.onetv.plus/icones_channels/Canal_UOL.png" group-title="✅ NOTICIAS",CANAL UOL HD
+http://newoneblue.site:80/72984463/42823855/1773687
+#EXTINF:-1 tvg-id="UOL.br" tvg-name="CANAL UOL FHD" tvg-logo="https://img.onetv.plus/icones_channels/Canal_UOL.png" group-title="✅ NOTICIAS",CANAL UOL FHD
+http://newoneblue.site:80/72984463/42823855/1773686
+#EXTINF:-1 tvg-id="br#nhk" tvg-name="NNHK WORLD JAPAN HD" tvg-logo="https://img.onetv.plus/icones_channels/NHK.png" group-title="✅ NOTICIAS",NNHK WORLD JAPAN HD
+http://newoneblue.site:80/72984463/42823855/1773689
+#EXTINF:-1 tvg-id="br#nhk" tvg-name="NHK WORLD JAPAN FHD" tvg-logo="https://img.onetv.plus/icones_channels/NHK.png" group-title="✅ NOTICIAS",NHK WORLD JAPAN FHD
+http://newoneblue.site:80/72984463/42823855/1773690
+#EXTINF:-1 tvg-id="br#nhk" tvg-name="NHK HD" tvg-logo="https://img.onetv.plus/icones_channels/NHK.png" group-title="✅ NOTICIAS",NHK HD
+http://newoneblue.site:80/72984463/42823855/1773692
+#EXTINF:-1 tvg-id="br#nhk" tvg-name="NHK FHD" tvg-logo="https://img.onetv.plus/icones_channels/NHK.png" group-title="✅ NOTICIAS",NHK FHD
+http://newoneblue.site:80/72984463/42823855/1773691
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/CGTN.png" group-title="✅ NOTICIAS",CGTN SD
+http://newoneblue.site:80/72984463/42823855/2053401
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN HD" tvg-logo="https://m.media-amazon.com/images/I/31wgHL2U4fL.png" group-title="✅ NOTICIAS",CGTN HD
+http://newoneblue.site:80/72984463/42823855/2053437
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN FHD" tvg-logo="https://m.media-amazon.com/images/I/31wgHL2U4fL.png" group-title="✅ NOTICIAS",CGTN FHD
+http://newoneblue.site:80/72984463/42823855/2053438
+#EXTINF:-1 tvg-id="" tvg-name="BBC SD" tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/BBC-Logo-768x432-1.jpeg" group-title="✅ NOTICIAS",BBC SD
+http://newoneblue.site:80/72984463/42823855/2053443
+#EXTINF:-1 tvg-id="" tvg-name="BBC HD" tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/BBC-Logo-768x432-1.jpeg" group-title="✅ NOTICIAS",BBC HD
+http://newoneblue.site:80/72984463/42823855/2053444
+#EXTINF:-1 tvg-id="" tvg-name="BBC FHD" tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/BBC-Logo-768x432-1.jpeg" group-title="✅ NOTICIAS",BBC FHD
+http://newoneblue.site:80/72984463/42823855/2053445
+#EXTINF:-1 tvg-id="BMC.br" tvg-name="BM&C SD" tvg-logo="https://yt3.googleusercontent.com/bsFzdoPjrip16otaZUkehqCeA3weWsoUZOj462bZshrw4Qp8cpJNcs1XSVlBbnnbrTeX7dsn=s900-c-k-c0x00ffffff-no-rj" group-title="✅ NOTICIAS",BM&C SD
+http://newoneblue.site:80/72984463/42823855/2053464
+#EXTINF:-1 tvg-id="BMC.br" tvg-name="BM&C HD" tvg-logo="https://yt3.googleusercontent.com/bsFzdoPjrip16otaZUkehqCeA3weWsoUZOj462bZshrw4Qp8cpJNcs1XSVlBbnnbrTeX7dsn=s900-c-k-c0x00ffffff-no-rj" group-title="✅ NOTICIAS",BM&C HD
+http://newoneblue.site:80/72984463/42823855/2053468
+#EXTINF:-1 tvg-id="BMC.br" tvg-name="BM&C FHD" tvg-logo="https://yt3.googleusercontent.com/bsFzdoPjrip16otaZUkehqCeA3weWsoUZOj462bZshrw4Qp8cpJNcs1XSVlBbnnbrTeX7dsn=s900-c-k-c0x00ffffff-no-rj" group-title="✅ NOTICIAS",BM&C FHD
+http://newoneblue.site:80/72984463/42823855/2053467
+#EXTINF:-1 tvg-name="Horizonte - 2024" tvg-logo="https://image.tmdb.org/t/p/w780/30haz5HDKYBeGIpr2YB9hn8gq8.jpg" group-title="FILMES | VARIADOS",Horizonte - 2024
+http://newoneblue.site:80/movie/72984463/42823855/2068704.mp4
+#EXTINF:-1 tvg-name="Yiya Murano: Muerte a la hora del té - 2026" tvg-logo="https://image.tmdb.org/t/p/w780/msoLCiSHuVDIBeD2b3f7BODGbZJ.jpg" group-title="FILMES | VARIADOS",Yiya Murano: Muerte a la hora del té - 2026
+http://newoneblue.site:80/movie/72984463/42823855/2056763.mp4
+#EXTINF:-1 tvg-name="Yiya Murano: Muerte a la hora del té [L] - 2026" tvg-logo="https://image.tmdb.org/t/p/w780/msoLCiSHuVDIBeD2b3f7BODGbZJ.jpg" group-title="FILMES | VARIADOS",Yiya Murano: Muerte a la hora del té [L] - 2026
+http://newoneblue.site:80/movie/72984463/42823855/2056762.mp4
+#EXTINF:-1 tvg-name="Zé - 2023" tvg-logo="https://image.tmdb.org/t/p/w780/glVfECG4rUlYbb1U36c7JQMDzBs.jpg" group-title="FILMES | VARIADOS",Zé - 2023
+http://newoneblue.site:80/movie/72984463/42823855/2056128.mp4
+#EXTINF:-1 tvg-name="Apresuntado - 2023" tvg-logo="https://image.tmdb.org/t/p/w780/yed44wIEtmC52iwbKpLGM4uXkUv.jpg" group-title="FILMES | VARIADOS",Apresuntado - 2023
+http://newoneblue.site:80/movie/72984463/42823855/2056127.mp4
+#EXTINF:-1 tvg-name="Mirante - 2019" tvg-logo="https://image.tmdb.org/t/p/w780/kCIT3tYY3l3uUnd1qVsE82c37Yk.jpg" group-title="FILMES | VARIADOS",Mirante - 2019
+http://newoneblue.site:80/movie/72984463/42823855/1891756.mp4
+#EXTINF:-1 tvg-name="Chiquinha Gonzaga Musica Substantivo Feminino - 2023" tvg-logo="https://image.tmdb.org/t/p/w780/rTpMDIm54FPiSDPRhPYkDWQ4G1m.jpg" group-title="FILMES | VARIADOS",Chiquinha Gonzaga Musica Substantivo Feminino - 2023
+http://newoneblue.site:80/movie/72984463/42823855/1891752.mp4
+#EXTINF:-1 tvg-name="Atomica - 1998" tvg-logo="https://image.tmdb.org/t/p/w780/iXuPnVbI96LZbZfQj40xg8Z8etv.jpg" group-title="FILMES | VARIADOS",Atomica - 1998
+http://newoneblue.site:80/movie/72984463/42823855/1891747.mp4
+#EXTINF:-1 tvg-name="Noe - Uma Adaptacao da Novela Genesis - 2021" tvg-logo="https://image.tmdb.org/t/p/w780/5laTANyEApcIFj3xeP0tcwYyb00.jpg" group-title="FILMES | VARIADOS",Noe - Uma Adaptacao da Novela Genesis - 2021
+http://newoneblue.site:80/movie/72984463/42823855/1891744.mp4
+#EXTINF:-1 tvg-name="Nando Viana A vida nao ta nem ai pro teu planejamento - 0" tvg-logo="https://image.tmdb.org/t/p/w780/h9np5V0a9kwxMkv4HzI2GED1Njb.jpg" group-title="FILMES | VARIADOS",Nando Viana A vida nao ta nem ai pro teu planejamento - 0
+http://newoneblue.site:80/movie/72984463/42823855/1891740.mp4
+#EXTINF:-1 tvg-name="Com Voce Volume 1 - 2021" tvg-logo="https://image.tmdb.org/t/p/w780/v37P7YYU2cXHTtkX9pXfyltTSgK.jpg" group-title="FILMES | VARIADOS",Com Voce Volume 1 - 2021
+http://newoneblue.site:80/movie/72984463/42823855/1891737.mp4
+#EXTINF:-1 tvg-name="David Guetta Miami Ultra Music Festival - 2015" tvg-logo="https://image.tmdb.org/t/p/w500/" group-title="FILMES | VARIADOS",David Guetta Miami Ultra Music Festival - 2015
+http://newoneblue.site:80/movie/72984463/42823855/1891733.mp4
+#EXTINF:-1 tvg-name="Bruce Lee - O Dragao Chines - 1972" tvg-logo="https://image.tmdb.org/t/p/w780/q5SR0JUsYsw1N92bSigKuzwKYdS.jpg" group-title="FILMES | VARIADOS",Bruce Lee - O Dragao Chines - 1972
+http://newoneblue.site:80/movie/72984463/42823855/1891729.mp4
+#EXTINF:-1 tvg-name="Os Ovnis dos Alamos - 2021" tvg-logo="https://image.tmdb.org/t/p/w780/nLRBZuO4tlcMbRMUNEHxPuqLyDT.jpg" group-title="FILMES | VARIADOS",Os Ovnis dos Alamos - 2021
+http://newoneblue.site:80/movie/72984463/42823855/1891726.mp4
+#EXTINF:-1 tvg-name="Calango Ball - 2017" tvg-logo="https://image.tmdb.org/t/p/w780/WmcwHwbvyIIqyC65yaQ7TPF8ju.jpg" group-title="FILMES | VARIADOS",Calango Ball - 2017
+http://newoneblue.site:80/movie/72984463/42823855/1891722.mp4
+#EXTINF:-1 tvg-name="Rise Above - 2022" tvg-logo="https://image.tmdb.org/t/p/w780/tSwKA6I1ZXwC1HbYX8EmpA761o0.jpg" group-title="FILMES | VARIADOS",Rise Above - 2022
+http://newoneblue.site:80/movie/72984463/42823855/1891719.mp4
+#EXTINF:-1 tvg-name="Maria e Jose Uma Adaptacao da Novela Jesus - 2024" tvg-logo="https://image.tmdb.org/t/p/w780/dadAr4WuTksEGWU9tlQUV3I4Uc7.jpg" group-title="FILMES | VARIADOS",Maria e Jose Uma Adaptacao da Novela Jesus - 2024
+http://newoneblue.site:80/movie/72984463/42823855/1891715.mp4
+#EXTINF:-1 tvg-name="Criminal - 2024" tvg-logo="https://image.tmdb.org/t/p/w780/kYj22ZuvzMFc2fWOKcfLBVbnUn6.jpg" group-title="FILMES | VARIADOS",Criminal - 2024
+http://newoneblue.site:80/movie/72984463/42823855/1891711.mp4
+#EXTINF:-1 tvg-name="Like - 2019" tvg-logo="https://image.tmdb.org/t/p/w780/AifYEmysdXlyk4T9n5vx0HEYQLr.jpg" group-title="FILMES | VARIADOS",Like - 2019
+http://newoneblue.site:80/movie/72984463/42823855/1891708.mp4
+#EXTINF:-1 tvg-name="Search for the Submarine I-52 - 2000" tvg-logo="https://image.tmdb.org/t/p/w780/zlQWKwXaqhd7BJWlA1psOVFkUEd.jpg" group-title="FILMES | VARIADOS",Search for the Submarine I-52 - 2000
+http://newoneblue.site:80/movie/72984463/42823855/1891704.mp4
+#EXTINF:-1 tvg-name="Robbie Williams Live At The Royal Albert Hall - 2001" tvg-logo="https://image.tmdb.org/t/p/w780/qGqjS1FC7EWUwnftiEfdN7eagQI.jpg" group-title="FILMES | VARIADOS",Robbie Williams Live At The Royal Albert Hall - 2001
+http://newoneblue.site:80/movie/72984463/42823855/1891701.mp4
+#EXTINF:-1 tvg-name="A Farewell for Lili - 2022" tvg-logo="https://image.tmdb.org/t/p/w780/23NSsjF3xxAceYT1rpHVfPNEe5r.jpg" group-title="FILMES | VARIADOS",A Farewell for Lili - 2022
+http://newoneblue.site:80/movie/72984463/42823855/1891697.mp4
+#EXTINF:-1 tvg-name="O Chefinho Pega Esse Bebe - 2020" tvg-logo="https://image.tmdb.org/t/p/w780/wSpHWT1YpwC2sUUYAPuW5LarFEA.jpg" group-title="FILMES | VARIADOS",O Chefinho Pega Esse Bebe - 2020
+http://newoneblue.site:80/movie/72984463/42823855/1891694.mp4
+#EXTINF:-1 tvg-name="Tia Ma Com a Lingua Solta - 2018" tvg-logo="https://image.tmdb.org/t/p/w780/2kmxLmXnWaPIzzYCyXGdKF4xnEa.jpg" group-title="FILMES | VARIADOS",Tia Ma Com a Lingua Solta - 2018
+http://newoneblue.site:80/movie/72984463/42823855/1891690.mp4
+#EXTINF:-1 tvg-name="Bon Jovi Live at Rock In Rio - 0" tvg-logo="https://image.tmdb.org/t/p/w780/omnH1Vu2CtSZKznSA18WFJBObDx.jpg" group-title="FILMES | VARIADOS",Bon Jovi Live at Rock In Rio - 0
+http://newoneblue.site:80/movie/72984463/42823855/1891687.mp4
+#EXTINF:-1 tvg-name="Mutano Lobo Solitario - 2024" tvg-logo="https://image.tmdb.org/t/p/w780/2eB1GyZ8oEcTY43MqYs1XW8cG8z.jpg" group-title="FILMES | VARIADOS",Mutano Lobo Solitario - 2024
+http://newoneblue.site:80/movie/72984463/42823855/1891683.mp4
+#EXTINF:-1 tvg-name="Fantasma Cidade Fantasma - 2016" tvg-logo="https://image.tmdb.org/t/p/w780/aKWhvCeh2nW9w4sxMUpwT0vXOWp.jpg" group-title="FILMES | VARIADOS",Fantasma Cidade Fantasma - 2016
+http://newoneblue.site:80/movie/72984463/42823855/1891679.mp4
+#EXTINF:-1 tvg-name="Bita e as Brincadeiras - 2014" tvg-logo="https://image.tmdb.org/t/p/w780/rVp3wMAxbFptf0HgIPUnzROAbQK.jpg" group-title="FILMES | VARIADOS",Bita e as Brincadeiras - 2014
+http://newoneblue.site:80/movie/72984463/42823855/1891676.mp4
+#EXTINF:-1 tvg-name="Fragmentos para Venus - 2025" tvg-logo="https://image.tmdb.org/t/p/w780/rVeF3CV9qzDo35FQpi1llFjzLFf.jpg" group-title="FILMES | VARIADOS",Fragmentos para Venus - 2025
+http://newoneblue.site:80/movie/72984463/42823855/1891672.mp4
+#EXTINF:-1 tvg-name="O Homem Cordial - 2019" tvg-logo="https://image.tmdb.org/t/p/w780/ySGsyqiQkfQOkCue37rIY92nhkU.jpg" group-title="FILMES | VARIADOS",O Homem Cordial - 2019
+http://newoneblue.site:80/movie/72984463/42823855/1891671.mp4
+#EXTINF:-1 tvg-name="A Venezuela em Solo Brasileiro - 2023" tvg-logo="https://image.tmdb.org/t/p/w780/cdYFiGE3ClOCd4eocV2VQnVRbxj.jpg" group-title="FILMES | VARIADOS",A Venezuela em Solo Brasileiro - 2023
+http://newoneblue.site:80/movie/72984463/42823855/1891668.mp4
+#EXTINF:-1 tvg-name="O Coiote - 2019" tvg-logo="https://image.tmdb.org/t/p/w780/g0dzrgcxVA9mpSQnfJ9yPAYUDu6.jpg" group-title="FILMES | VARIADOS",O Coiote - 2019
+http://newoneblue.site:80/movie/72984463/42823855/1891664.mp4
+#EXTINF:-1 tvg-name="Root [Dublagem Nao Oficial] - 2023" tvg-logo="https://image.tmdb.org/t/p/w780/txuwAaX1G4y2Ml1hEOs1jYXyqqq.jpg" group-title="FILMES | VARIADOS",Root [Dublagem Nao Oficial] - 2023
+http://newoneblue.site:80/movie/72984463/42823855/1891660.mp4
+#EXTINF:-1 tvg-name="Halloween 1 - 2013" tvg-logo="https://image.tmdb.org/t/p/w500/" group-title="FILMES | VARIADOS",Halloween 1 - 2013
+http://newoneblue.site:80/movie/72984463/42823855/1891657.mp4
+#EXTINF:-1 tvg-name="Parabéns a Você - 2019" tvg-logo="https://image.tmdb.org/t/p/w780/w462t2q6FYLEJdDH8l4YemzHvZC.jpg" group-title="FILMES | VARIADOS",Parabéns a Você - 2019
+http://newoneblue.site:80/movie/72984463/42823855/1891654.mp4
+#EXTINF:-1 tvg-name="Um Par Pra Chamar de Meu - 2022" tvg-logo="https://image.tmdb.org/t/p/w780/49RBdyWxbsR8ko0QHbpj38LL31i.jpg" group-title="FILMES | VARIADOS",Um Par Pra Chamar de Meu - 2022
+http://newoneblue.site:80/movie/72984463/42823855/1891652.mp4
+#EXTINF:-1 tvg-name="Bonde - 2019" tvg-logo="https://image.tmdb.org/t/p/w780/rEGQY8zndw6u6Hl2RQsCqPe6sud.jpg" group-title="FILMES | VARIADOS",Bonde - 2019
+http://newoneblue.site:80/movie/72984463/42823855/1891648.mp4
+#EXTINF:-1 tvg-name="30 Anos Blues - 2019" tvg-logo="https://image.tmdb.org/t/p/w780/2LEgGoKdH3oJOlQO7BZWl11jW4P.jpg" group-title="FILMES | VARIADOS",30 Anos Blues - 2019
+http://newoneblue.site:80/movie/72984463/42823855/1891645.mp4
+#EXTINF:-1 tvg-name="Se Essa Rua Fosse Minha - 2022" tvg-logo="https://image.tmdb.org/t/p/w780/dstlhToXLMqwHjMkAufsgxTR9mp.jpg" group-title="FILMES | VARIADOS",Se Essa Rua Fosse Minha - 2022
+http://newoneblue.site:80/movie/72984463/42823855/1891642.mp4
+#EXTINF:-1 tvg-name="Tancredo - A Travessia - 2011" tvg-logo="https://image.tmdb.org/t/p/w780/n2jOPYPjbiZIMldbovYxJqaTuuW.jpg" group-title="FILMES | VARIADOS",Tancredo - A Travessia - 2011
+http://newoneblue.site:80/movie/72984463/42823855/1891640.mp4
+#EXTINF:-1 tvg-name="Resiliência - 2006" tvg-logo="https://image.tmdb.org/t/p/w780/3N2Ej3zFo2UldyFhdTFdRkSQi38.jpg" group-title="FILMES | VARIADOS",Resiliência - 2006
+http://newoneblue.site:80/movie/72984463/42823855/1891638.mp4
+#EXTINF:-1 tvg-name="Boy in the Woods - 2020" tvg-logo="https://image.tmdb.org/t/p/w780/1m9IYLv3hkYNhniNhoSTplog5O8.jpg" group-title="FILMES | VARIADOS",Boy in the Woods - 2020
+http://newoneblue.site:80/movie/72984463/42823855/1891635.mp4
+#EXTINF:-1 tvg-name="Oscar (2023) - 2023" tvg-logo="https://image.tmdb.org/t/p/w780/qzwRsZ6HihNE8pME2e6xBShACDf.jpg" group-title="FILMES | VARIADOS",Oscar (2023) - 2023
+http://newoneblue.site:80/movie/72984463/42823855/1891631.mp4
+#EXTINF:-1 tvg-name="O Fio da Meada - 2019" tvg-logo="https://image.tmdb.org/t/p/w780/lidJDBVpJOvCgd67qeqQJkrZ9xJ.jpg" group-title="FILMES | VARIADOS",O Fio da Meada - 2019
+http://newoneblue.site:80/movie/72984463/42823855/1891628.mp4
+#EXTINF:-1 tvg-name="Conspiração Nazi - 2012" tvg-logo="https://image.tmdb.org/t/p/w780/5Z1MIATq7rkPVdHkrXVdDxzoXyX.jpg" group-title="FILMES | VARIADOS",Conspiração Nazi - 2012
+http://newoneblue.site:80/movie/72984463/42823855/1891626.mp4
+#EXTINF:-1 tvg-name="Ultravioleta - 2014" tvg-logo="https://image.tmdb.org/t/p/w780/f22q6UGTq0IRL7uM6hzqwjpW5DQ.jpg" group-title="FILMES | VARIADOS",Ultravioleta - 2014
+http://newoneblue.site:80/movie/72984463/42823855/1891623.mp4
+#EXTINF:-1 tvg-name="Tudo Que Deus Criou - 2015" tvg-logo="https://image.tmdb.org/t/p/w780/f7fQgtsTYbViAeo9C80PSL3zLvx.jpg" group-title="FILMES | VARIADOS",Tudo Que Deus Criou - 2015
+http://newoneblue.site:80/movie/72984463/42823855/1891619.mp4
+#EXTINF:-1 tvg-name="O Show do Século - Ao Vivo - 0" tvg-logo="https://image.tmdb.org/t/p/w780/lFIbA0M4r8PUH8AWJAGhywsRbke.jpg" group-title="FILMES | VARIADOS",O Show do Século - Ao Vivo - 0
+http://newoneblue.site:80/movie/72984463/42823855/1891616.mp4
+#EXTINF:-1 tvg-name="Americano [L] - 2017" tvg-logo="https://image.tmdb.org/t/p/w780/psxATL48MT6MGg1fFht42pW0Dvm.jpg" group-title="FILMES | VARIADOS",Americano [L] - 2017
+http://newoneblue.site:80/movie/72984463/42823855/1891612.mp4
+#EXTINF:-1 tvg-name="Passagem - 2021" tvg-logo="https://image.tmdb.org/t/p/w780/w8ou6xUQjXDPXmAz1gnrrpaHsHg.jpg" group-title="FILMES | VARIADOS",Passagem - 2021
+http://newoneblue.site:80/movie/72984463/42823855/1891609.mp4
+#EXTINF:-1 tvg-name="Plutão [L] - 2023" tvg-logo="https://image.tmdb.org/t/p/w780/wcPfzgn35A9vL23mNgkFhTncSne.jpg" group-title="FILMES | VARIADOS",Plutão [L] - 2023
+http://newoneblue.site:80/movie/72984463/42823855/1891605.mp4
+#EXTINF:-1 tvg-name="Americano - 2017" tvg-logo="https://image.tmdb.org/t/p/w780/psxATL48MT6MGg1fFht42pW0Dvm.jpg" group-title="FILMES | VARIADOS",Americano - 2017
+http://newoneblue.site:80/movie/72984463/42823855/1891601.mp4
+#EXTINF:-1 tvg-name="Frente A Frente [L] - 2022" tvg-logo="https://image.tmdb.org/t/p/w780/w9ksuIfwiNkF601K3GlihEEvDuh.jpg" group-title="FILMES | VARIADOS",Frente A Frente [L] - 2022
+http://newoneblue.site:80/movie/72984463/42823855/1891598.mp4
+#EXTINF:-1 tvg-name="Calígula: O Corte Final [L] - 2024" tvg-logo="https://image.tmdb.org/t/p/w780/nnnGF0LZkpWp3ayn4T4mg94Nv4k.jpg" group-title="FILMES | VARIADOS",Calígula: O Corte Final [L] - 2024
+http://newoneblue.site:80/movie/72984463/42823855/1891594.mp4
+#EXTINF:-1 tvg-name="Wastelander - Guerreiros do Deserto - 2018" tvg-logo="https://image.tmdb.org/t/p/w780/olam0gyudr6Bkp6GwCwSz3yHv9h.jpg" group-title="FILMES | VARIADOS",Wastelander - Guerreiros do Deserto - 2018
+http://newoneblue.site:80/movie/72984463/42823855/1891591.mp4
+#EXTINF:-1 tvg-name="Jaguaretê-Avá: Pantanal em Chamas - 2021" tvg-logo="https://image.tmdb.org/t/p/w780/y6aYl2b29GSMuamSjinTRNd8gP3.jpg" group-title="FILMES | VARIADOS",Jaguaretê-Avá: Pantanal em Chamas - 2021
+http://newoneblue.site:80/movie/72984463/42823855/1891587.mp4
+#EXTINF:-1 tvg-name="Muleque Té Doido 2: A Lenda de Dom Sebastião - 2016" tvg-logo="https://image.tmdb.org/t/p/w780/vvpY793KCds4giNqdcGCXTEAvsC.jpg" group-title="FILMES | VARIADOS",Muleque Té Doido 2: A Lenda de Dom Sebastião - 2016
+http://newoneblue.site:80/movie/72984463/42823855/1891584.mp4
+#EXTINF:-1 tvg-name="Especial Beleza Fatal - 0" tvg-logo="https://image.tmdb.org/t/p/w780/nXlmi60bayyqqJY85Fx9nKkRogp.jpg" group-title="FILMES | VARIADOS",Especial Beleza Fatal - 0
+http://newoneblue.site:80/movie/72984463/42823855/1891580.mp4
+#EXTINF:-1 tvg-name="Verão da Lata - 0" tvg-logo="https://image.tmdb.org/t/p/w500/" group-title="FILMES | VARIADOS",Verão da Lata - 0
+http://newoneblue.site:80/movie/72984463/42823855/1891577.mp4
+#EXTINF:-1 tvg-name="O Show do Seculo com Alok - 2023" tvg-logo="https://image.tmdb.org/t/p/w780/3R54uPZrELlNmO46QIMXfjxsgmH.jpg" group-title="FILMES | VARIADOS",O Show do Seculo com Alok - 2023
+http://newoneblue.site:80/movie/72984463/42823855/1891573.mp4
+#EXTINF:-1 tvg-name="Ensinando Como Apreciar Vinhos - 2023" tvg-logo="https://image.tmdb.org/t/p/w780/qwihkmUuQcS0lfKDsBMvLl32NfE.jpg" group-title="FILMES | VARIADOS",Ensinando Como Apreciar Vinhos - 2023
+http://newoneblue.site:80/movie/72984463/42823855/1891570.mp4
+#EXTINF:-1 tvg-name="Adoráveis Paspalhas - 2020" tvg-logo="https://image.tmdb.org/t/p/w780/4d2loVxbDlu8GmxGZopivjBnmzz.jpg" group-title="FILMES | VARIADOS",Adoráveis Paspalhas - 2020
+http://newoneblue.site:80/movie/72984463/42823855/1891568.mp4
+#EXTINF:-1 tvg-name="Das Profundezas - 2013" tvg-logo="https://image.tmdb.org/t/p/w780/zQV49UfifW5xhg17uACTmRDqA4d.jpg" group-title="FILMES | VARIADOS",Das Profundezas - 2013
+http://newoneblue.site:80/movie/72984463/42823855/1891565.mp4
+#EXTINF:-1 tvg-name="City Down - A História de um diferente - 2011" tvg-logo="https://image.tmdb.org/t/p/w780/nzbbjBD9GFj8IT2pNZIQ76U2N7n.jpg" group-title="FILMES | VARIADOS",City Down - A História de um diferente - 2011
+http://newoneblue.site:80/movie/72984463/42823855/1891561.mp4
+#EXTINF:-1 tvg-name="Queimando Por Dentro - 2024" tvg-logo="https://image.tmdb.org/t/p/w780/cxVOSFEJjivAhJYYXZf2KnL7M0v.jpg" group-title="FILMES | VARIADOS",Queimando Por Dentro - 2024
+http://newoneblue.site:80/movie/72984463/42823855/1891558.mp4
+#EXTINF:-1 tvg-name="Eu, Nirvana - 2024" tvg-logo="https://image.tmdb.org/t/p/w780/1A3MzxrtqZ8ggsCbSngqlyQBiOX.jpg" group-title="FILMES | VARIADOS",Eu, Nirvana - 2024
+http://newoneblue.site:80/movie/72984463/42823855/1891556.mp4
+#EXTINF:-1 tvg-name="God Complex - O Complexo Industrial da Censura 4K - 2025" tvg-logo="https://image.tmdb.org/t/p/w780/csw7g2zOUeCsqIqO7Qf7nxnQMjk.jpg" group-title="FILMES | VARIADOS",God Complex - O Complexo Industrial da Censura 4K - 2025
+http://newoneblue.site:80/movie/72984463/42823855/1891553.mp4
+#EXTINF:-1 tvg-name="Christy - Um Novo Round 4K [HDR] - 2025" tvg-logo="https://image.tmdb.org/t/p/w780/2WJEpkeQ78HQlTtSP9Bll1xRFhs.jpg" group-title="FILMES | VARIADOS",Christy - Um Novo Round 4K [HDR] - 2025
+http://newoneblue.site:80/movie/72984463/42823855/1891549.mp4
+#EXTINF:-1 tvg-name="UFC 324 Alex Perez vs Charles Johnson [Card Preliminar] - 2026" tvg-logo="https://image.tmdb.org/t/p/w780/sAeBHIJMoxYeXLzU8hVTo3N6uQD.jpg" group-title="FILMES | VARIADOS",UFC 324 Alex Perez vs Charles Johnson [Card Preliminar] - 2026
+http://newoneblue.site:80/movie/72984463/42823855/1891547.mp4
+#EXTINF:-1 tvg-name="Natal Sangrento 4K - 2025" tvg-logo="https://image.tmdb.org/t/p/w780/855Aw88GxDIvMXTxuLqdihZaFc8.jpg" group-title="FILMES | VARIADOS",Natal Sangrento 4K - 2025
+http://newoneblue.site:80/movie/72984463/42823855/1891544.mp4
+#EXTINF:-1 tvg-name="Sinfonia de Guerra 4K [HDR] - 2025" tvg-logo="https://image.tmdb.org/t/p/w780/aZlsV0BB56sny4FnFYSCzr3is1B.jpg" group-title="FILMES | VARIADOS",Sinfonia de Guerra 4K [HDR] - 2025
+http://newoneblue.site:80/movie/72984463/42823855/1891541.mp4
+#EXTINF:-1 tvg-name="O Garoto que Hackeou o Twitter - 2016" tvg-logo="https://image.tmdb.org/t/p/w780/2JWORChwVRZbvfji4cuTZk1XTDd.jpg" group-title="FILMES | VARIADOS",O Garoto que Hackeou o Twitter - 2016
+http://newoneblue.site:80/movie/72984463/42823855/1891537.mp4
+#EXTINF:-1 tvg-name="Partido - 0" tvg-logo="https://image.tmdb.org/t/p/w780/9Aalp6ycjNW3Ut0pJtg6GFQsewz.jpg" group-title="FILMES | VARIADOS",Partido - 0
+http://newoneblue.site:80/movie/72984463/42823855/1891535.mp4
+#EXTINF:-1 tvg-name="As Incríveis Artimanhas da Nuvem Cigana - 2016" tvg-logo="https://image.tmdb.org/t/p/w780/jl8ZcbhO22jsU4g8Vq1diDCMdc8.jpg" group-title="FILMES | VARIADOS",As Incríveis Artimanhas da Nuvem Cigana - 2016
+http://newoneblue.site:80/movie/72984463/42823855/1891532.mp4
+#EXTINF:-1 tvg-name="Balança mas não Cai - 2012" tvg-logo="https://image.tmdb.org/t/p/w780/y3xfgK7jtReOecx8b3VVR80C8Fr.jpg" group-title="FILMES | VARIADOS",Balança mas não Cai - 2012
+http://newoneblue.site:80/movie/72984463/42823855/1891529.mp4
+#EXTINF:-1 tvg-name="Paula - 2021" tvg-logo="https://image.tmdb.org/t/p/w780/kqve8TwLrTOEeXArLmozC3wFNta.jpg" group-title="FILMES | VARIADOS",Paula - 2021
+http://newoneblue.site:80/movie/72984463/42823855/1891525.mp4
+#EXTINF:-1 tvg-name="Uma Historia de Superacao - 2023" tvg-logo="https://image.tmdb.org/t/p/w780/lSxkdbL69IzB7AQLhGHcUA73UV5.jpg" group-title="FILMES | VARIADOS",Uma Historia de Superacao - 2023
+http://newoneblue.site:80/movie/72984463/42823855/1891522.mp4
+#EXTINF:-1 tvg-name="Cortina de Fumaca - 2011" tvg-logo="https://image.tmdb.org/t/p/w780/vFQtralVNLc1KovPqhhjNPGbUsI.jpg" group-title="FILMES | VARIADOS",Cortina de Fumaca - 2011
+http://newoneblue.site:80/movie/72984463/42823855/1891518.mp4
+#EXTINF:-1 tvg-name="As Gemeas de Voz Marilia Mendonca e Yasmin Santos - 0" tvg-logo="https://image.tmdb.org/t/p/w780/bkVICY7cPup6ZLURmwfNDDLtXBf.jpg" group-title="FILMES | VARIADOS",As Gemeas de Voz Marilia Mendonca e Yasmin Santos - 0
+http://newoneblue.site:80/movie/72984463/42823855/1891515.mp4
+#EXTINF:-1 tvg-name="Wesley Safadao WS em casa - 2016" tvg-logo="https://image.tmdb.org/t/p/w780/bjDUukHJOmuHZvWQkQBvHqfeodn.jpg" group-title="FILMES | VARIADOS",Wesley Safadao WS em casa - 2016
+http://newoneblue.site:80/movie/72984463/42823855/1891511.mp4
+#EXTINF:-1 tvg-name="A Face Oculta de Varginha: Poder, Dinheiro e Rituais. - 0" tvg-logo="https://image.tmdb.org/t/p/w780/jhemlyhhwpEYRgnWqSPRXXFVWxL.jpg" group-title="FILMES | VARIADOS",A Face Oculta de Varginha: Poder, Dinheiro e Rituais. - 0
+http://newoneblue.site:80/movie/72984463/42823855/1891508.mp4
+#EXTINF:-1 tvg-name="O Nosso Tempo e Hoje - 2013" tvg-logo="https://image.tmdb.org/t/p/w780/nLTv7JVk8wOrft15g6lytqbnxHP.jpg" group-title="FILMES | VARIADOS",O Nosso Tempo e Hoje - 2013
+http://newoneblue.site:80/movie/72984463/42823855/1891504.mp4
+#EXTINF:-1 tvg-name="Renato Albani Compilado interagindo com a plateia - 0" tvg-logo="https://image.tmdb.org/t/p/w780/foQj3evAQSPEFhETJUrKpcBZH2G.jpg" group-title="FILMES | VARIADOS",Renato Albani Compilado interagindo com a plateia - 0
+http://newoneblue.site:80/movie/72984463/42823855/1891502.mp4
+#EXTINF:-1 tvg-name="Causa e Efeito - 2014" tvg-logo="https://image.tmdb.org/t/p/w780/uaUSlWrDA2G4cj6L4qqlgFOMh95.jpg" group-title="FILMES | VARIADOS",Causa e Efeito - 2014
+http://newoneblue.site:80/movie/72984463/42823855/1891499.mp4
+#EXTINF:-1 tvg-name="O Último Animal - 2023" tvg-logo="https://image.tmdb.org/t/p/w780/gGB9k63eCiCyIdwqyGXmTTLfsrJ.jpg" group-title="FILMES | VARIADOS",O Último Animal - 2023
+http://newoneblue.site:80/movie/72984463/42823855/1891496.mp4
+#EXTINF:-1 tvg-name="O Acre Existe - 2014" tvg-logo="https://image.tmdb.org/t/p/w780/bzVg6sHx84Lrx8YmmS5JHhhie2z.jpg" group-title="FILMES | VARIADOS",O Acre Existe - 2014
+http://newoneblue.site:80/movie/72984463/42823855/1891492.mp4
+#EXTINF:-1 tvg-name="Spray Jet - 1986" tvg-logo="https://image.tmdb.org/t/p/w780/wTtkYbCxgxm3ZzFujQZ62XaJDJF.jpg" group-title="FILMES | VARIADOS",Spray Jet - 1986
+http://newoneblue.site:80/movie/72984463/42823855/1891489.mp4
+#EXTINF:-1 tvg-name="Masha e o Urso Vol 3 - 2008" tvg-logo="https://image.tmdb.org/t/p/w780/wuFLoeOeribuIGTX3Nhpep5oiWt.jpg" group-title="FILMES | VARIADOS",Masha e o Urso Vol 3 - 2008
+http://newoneblue.site:80/movie/72984463/42823855/1891486.mp4
+#EXTINF:-1 tvg-name="Rosa de Saron: Acustico e Ao Vivo 2/3 - 2015" tvg-logo="https://image.tmdb.org/t/p/w780/vq6MD841kZva9rp5BQqp5n1zZKm.jpg" group-title="FILMES | VARIADOS",Rosa de Saron: Acustico e Ao Vivo 2/3 - 2015
+http://newoneblue.site:80/movie/72984463/42823855/1891484.mp4
+#EXTINF:-1 tvg-name="KISS - Live in Japan 2013 - 0" tvg-logo="https://image.tmdb.org/t/p/w500/" group-title="FILMES | VARIADOS",KISS - Live in Japan 2013 - 0
+http://newoneblue.site:80/movie/72984463/42823855/1891478.mp4
+#EXTINF:-1 tvg-name="Fragmentos para Vênus [L] - 2025" tvg-logo="https://image.tmdb.org/t/p/w780/rVeF3CV9qzDo35FQpi1llFjzLFf.jpg" group-title="FILMES | VARIADOS",Fragmentos para Vênus [L] - 2025
+http://newoneblue.site:80/movie/72984463/42823855/1891474.mp4
+#EXTINF:-1 tvg-name="Especial Beleza Fatal 4K - 2025" tvg-logo="https://image.tmdb.org/t/p/w780/nXlmi60bayyqqJY85Fx9nKkRogp.jpg" group-title="FILMES | VARIADOS",Especial Beleza Fatal 4K - 2025
+http://newoneblue.site:80/movie/72984463/42823855/1891471.mp4
+#EXTINF:-1 tvg-name="Criminal [L] - 2024" tvg-logo="https://image.tmdb.org/t/p/w780/kYj22ZuvzMFc2fWOKcfLBVbnUn6.jpg" group-title="FILMES | VARIADOS",Criminal [L] - 2024
+http://newoneblue.site:80/movie/72984463/42823855/1891467.mp4
+#EXTINF:-1 tvg-name="Submissao - 2006" tvg-logo="https://image.tmdb.org/t/p/w780/p43sV4C73MOKY99As9KW8d3zrgS.jpg" group-title="FILMES | VARIADOS",Submissao - 2006
+http://newoneblue.site:80/movie/72984463/42823855/1891464.mp4
+#EXTINF:-1 tvg-name="O Roubo do Cão - 2025" tvg-logo="https://image.tmdb.org/t/p/w780/6AxPfLwofMOW7q4WrJBp0kwxCpW.jpg" group-title="FILMES | VARIADOS",O Roubo do Cão - 2025
+http://newoneblue.site:80/movie/72984463/42823855/1891460.mp4
+#EXTINF:-1 tvg-name="Cœur de Pirate aux Francofolies de La Rochelle - 2012" tvg-logo="https://image.tmdb.org/t/p/w500/" group-title="FILMES | VARIADOS",Cœur de Pirate aux Francofolies de La Rochelle - 2012
+http://newoneblue.site:80/movie/72984463/42823855/1891457.mp4
+#EXTINF:-1 tvg-name="Guerra 2 [L] - 2025" tvg-logo="https://image.tmdb.org/t/p/w780/fV8aL9KDdpiiggy9F32H4qyaH2c.jpg" group-title="FILMES | VARIADOS",Guerra 2 [L] - 2025
+http://newoneblue.site:80/movie/72984463/42823855/1891453.mp4
+#EXTINF:-1 tvg-name="Eu Te Amo é no Sol - 2022" tvg-logo="https://image.tmdb.org/t/p/w780/bLtlJjiCAgnlT023cFdjoVaSZNe.jpg" group-title="FILMES | VARIADOS",Eu Te Amo é no Sol - 2022
+http://newoneblue.site:80/movie/72984463/42823855/1891448.mp4
+#EXTINF:-1 tvg-name="Eu Te Amo é no Sol [L] - 2022" tvg-logo="https://image.tmdb.org/t/p/w780/bLtlJjiCAgnlT023cFdjoVaSZNe.jpg" group-title="FILMES | VARIADOS",Eu Te Amo é no Sol [L] - 2022
+http://newoneblue.site:80/movie/72984463/42823855/1891445.mp4
+#EXTINF:-1 tvg-name="Adão e Eva do Paraíso ao Consumismo [L] - 1972" tvg-logo="https://image.tmdb.org/t/p/w500/" group-title="FILMES | VARIADOS",Adão e Eva do Paraíso ao Consumismo [L] - 1972
+http://newoneblue.site:80/movie/72984463/42823855/1891444.mp4
+#EXTINF:-1 tvg-name="Wild Appalachia - 2013" tvg-logo="https://image.tmdb.org/t/p/w780/b62CqF9wIeLdYqpm85nCGp4tnzU.jpg" group-title="FILMES | VARIADOS",Wild Appalachia - 2013
+http://newoneblue.site:80/movie/72984463/42823855/1891440.mp4
+#EXTINF:-1 tvg-name="Frente A Frente - 2022" tvg-logo="https://image.tmdb.org/t/p/w780/w9ksuIfwiNkF601K3GlihEEvDuh.jpg" group-title="FILMES | VARIADOS",Frente A Frente - 2022
+http://newoneblue.site:80/movie/72984463/42823855/1891439.mp4
+#EXTINF:-1 tvg-name="Luccas e Gi em: Dinossauros - 2024" tvg-logo="https://image.tmdb.org/t/p/w780/7NZAwKv6jGVLyMAkX7bhE5fPobE.jpg" group-title="FILMES | VARIADOS",Luccas e Gi em: Dinossauros - 2024
+http://newoneblue.site:80/movie/72984463/42823855/1891435.mp4
+#EXTINF:-1 tvg-name="Foi um Tempo de Dor - 2023" tvg-logo="https://image.tmdb.org/t/p/w780/kAPHpx9XqOGlFBbXKz5LgogE21.jpg" group-title="FILMES | VARIADOS",Foi um Tempo de Dor - 2023
+http://newoneblue.site:80/movie/72984463/42823855/1891432.mp4
+#EXTINF:-1 tvg-name="Plutão - 2023" tvg-logo="https://image.tmdb.org/t/p/w780/wcPfzgn35A9vL23mNgkFhTncSne.jpg" group-title="FILMES | VARIADOS",Plutão - 2023
+http://newoneblue.site:80/movie/72984463/42823855/1891430.mp4
+#EXTINF:-1 tvg-name="It - 2017" tvg-logo="https://image.tmdb.org/t/p/w780/cBu6jlMvlaB3H8oKL8gNcOqzU4C.jpg" group-title="FILMES | VARIADOS",It - 2017
+http://newoneblue.site:80/movie/72984463/42823855/1891427.mp4
+#EXTINF:-1 tvg-name="O Estigma - 2018" tvg-logo="https://image.tmdb.org/t/p/w780/uHaTS3VTWfqL7dmnA8M1CkpILKz.jpg" group-title="FILMES | VARIADOS",O Estigma - 2018
+http://newoneblue.site:80/movie/72984463/42823855/1891423.mp4
+#EXTINF:-1 tvg-name="Vazio Coração - 2013" tvg-logo="https://image.tmdb.org/t/p/w780/1vmaZ0ETn5BMYhq6tKKXB2ExsWF.jpg" group-title="FILMES | VARIADOS",Vazio Coração - 2013
+http://newoneblue.site:80/movie/72984463/42823855/1891421.mp4
+#EXTINF:-1 tvg-name="Óvnis: Tecnologias Ultrassecretas - 2019" tvg-logo="https://image.tmdb.org/t/p/w780/gvs9N8wsyetx8WFaQOhD5o8MtVg.jpg" group-title="FILMES | VARIADOS",Óvnis: Tecnologias Ultrassecretas - 2019
+http://newoneblue.site:80/movie/72984463/42823855/1891418.mp4
+#EXTINF:-1 tvg-name="Wastelander - Guerreiros do Deserto [L] - 2018" tvg-logo="https://image.tmdb.org/t/p/w780/olam0gyudr6Bkp6GwCwSz3yHv9h.jpg" group-title="FILMES | VARIADOS",Wastelander - Guerreiros do Deserto [L] - 2018
+http://newoneblue.site:80/movie/72984463/42823855/1891415.mp4
+#EXTINF:-1 tvg-name="A Última Cova - 2018" tvg-logo="https://image.tmdb.org/t/p/w780/iatoNBukghZJUIBCOQpXvHd0dHN.jpg" group-title="FILMES | VARIADOS",A Última Cova - 2018
+http://newoneblue.site:80/movie/72984463/42823855/1891412.mp4
+#EXTINF:-1 tvg-name="Passagem [L] - 2021" tvg-logo="https://image.tmdb.org/t/p/w780/w8ou6xUQjXDPXmAz1gnrrpaHsHg.jpg" group-title="FILMES | VARIADOS",Passagem [L] - 2021
+http://newoneblue.site:80/movie/72984463/42823855/1891410.mp4
+#EXTINF:-1 tvg-name="It [L] - 2017" tvg-logo="https://image.tmdb.org/t/p/w780/cBu6jlMvlaB3H8oKL8gNcOqzU4C.jpg" group-title="FILMES | VARIADOS",It [L] - 2017
+http://newoneblue.site:80/movie/72984463/42823855/1891406.mp4
+#EXTINF:-1 tvg-name="Dela - 2018" tvg-logo="https://image.tmdb.org/t/p/w780/uiQaDyeSS8eeDlY0ts7CUuBJQiO.jpg" group-title="FILMES | VARIADOS",Dela - 2018
+http://newoneblue.site:80/movie/72984463/42823855/1891403.mp4
+#EXTINF:-1 tvg-name="O Sonho de Mary Gray - 1989" tvg-logo="https://image.tmdb.org/t/p/w780/dhEWN6ltb9CacmQu2Vyc25TQjqw.jpg" group-title="FILMES | VARIADOS",O Sonho de Mary Gray - 1989
+http://newoneblue.site:80/movie/72984463/42823855/1891400.mp4
+#EXTINF:-1 tvg-name="Mula sa Buwan [Dublagem Nao Oficial] - 2023" tvg-logo="https://image.tmdb.org/t/p/w780/tPR5KT6yMFiLj5oCdH0fEbBlPQy.jpg" group-title="FILMES | VARIADOS",Mula sa Buwan [Dublagem Nao Oficial] - 2023
+http://newoneblue.site:80/movie/72984463/42823855/1891398.mp4
+#EXTINF:-1 tvg-name="Gabriel Diniz Ao Vivo em Recife - 2016" tvg-logo="https://image.tmdb.org/t/p/w780/x4UfBkL1aw3Huumv1TXoGXhIF7G.jpg" group-title="FILMES | VARIADOS",Gabriel Diniz Ao Vivo em Recife - 2016
+http://newoneblue.site:80/movie/72984463/42823855/1891394.mp4
+#EXTINF:-1 tvg-name="Luccas e Gi em: Dinossauros [L] - 2024" tvg-logo="https://image.tmdb.org/t/p/w780/7NZAwKv6jGVLyMAkX7bhE5fPobE.jpg" group-title="FILMES | VARIADOS",Luccas e Gi em: Dinossauros [L] - 2024
+http://newoneblue.site:80/movie/72984463/42823855/1891391.mp4
