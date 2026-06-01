@@ -1,497 +1,497 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="PT | Rtp 1" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Rtp 1
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788279.ts
+http://38.46.221.103:80/58511417/68727389/788279.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Rtp 1 HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Rtp 1 HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788280.ts
+http://38.46.221.103:80/58511417/68727389/788280.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Rtp 1 FHD²⁶⁴" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Rtp 1 FHD²⁶⁴
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788281.ts
+http://38.46.221.103:80/58511417/68727389/788281.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Rtp 1 FHD²⁶⁵" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Rtp 1 FHD²⁶⁵
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788282.ts
+http://38.46.221.103:80/58511417/68727389/788282.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Rtp 2" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Rtp 2
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788283.ts
+http://38.46.221.103:80/58511417/68727389/788283.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Rtp 2 HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Rtp 2 HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788284.ts
+http://38.46.221.103:80/58511417/68727389/788284.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Rtp 2 FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Rtp 2 FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788285.ts
+http://38.46.221.103:80/58511417/68727389/788285.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Sic" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sic
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788286.ts
+http://38.46.221.103:80/58511417/68727389/788286.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Sic HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sic HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788287.ts
+http://38.46.221.103:80/58511417/68727389/788287.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Sic FHD²⁶⁴" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sic FHD²⁶⁴
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788288.ts
+http://38.46.221.103:80/58511417/68727389/788288.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Sic FHD²⁶⁵" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sic FHD²⁶⁵
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788289.ts
+http://38.46.221.103:80/58511417/68727389/788289.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Tvi" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Tvi
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788290.ts
+http://38.46.221.103:80/58511417/68727389/788290.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Tvi HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Tvi HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788291.ts
+http://38.46.221.103:80/58511417/68727389/788291.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Tvi FHD²⁶⁴" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Tvi FHD²⁶⁴
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788292.ts
+http://38.46.221.103:80/58511417/68727389/788292.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Tvi FHD²⁶⁵" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Tvi FHD²⁶⁵
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788293.ts
+http://38.46.221.103:80/58511417/68727389/788293.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Rtp 3" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Rtp 3
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788294.ts
+http://38.46.221.103:80/58511417/68727389/788294.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Rtp 3 FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Rtp 3 FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788295.ts
+http://38.46.221.103:80/58511417/68727389/788295.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Rtp Africa" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Rtp Africa
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788296.ts
+http://38.46.221.103:80/58511417/68727389/788296.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Rtp Açores" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Rtp Açores
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788297.ts
+http://38.46.221.103:80/58511417/68727389/788297.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Rtp Memoria" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Rtp Memoria
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788298.ts
+http://38.46.221.103:80/58511417/68727389/788298.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Rtp Madeira" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Rtp Madeira
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788299.ts
+http://38.46.221.103:80/58511417/68727389/788299.ts
 #EXTINF:-1 tvg-id="SIC Internacional SD" tvg-name="PT | Rtp Internacional" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Rtp Internacional
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788300.ts
+http://38.46.221.103:80/58511417/68727389/788300.ts
 #EXTINF:-1 tvg-id="SIC Internacional SD" tvg-name="PT | Tvi Internacional" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Tvi Internacional
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788301.ts
+http://38.46.221.103:80/58511417/68727389/788301.ts
 #EXTINF:-1 tvg-id="SIC Internacional SD" tvg-name="PT | Sic Internacional" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sic Internacional
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788302.ts
+http://38.46.221.103:80/58511417/68727389/788302.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Ar TV" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Ar TV
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788303.ts
+http://38.46.221.103:80/58511417/68727389/788303.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Sic Noticias" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sic Noticias
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788304.ts
+http://38.46.221.103:80/58511417/68727389/788304.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Sic Noticias HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sic Noticias HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788305.ts
+http://38.46.221.103:80/58511417/68727389/788305.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Sic Noticias  FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sic Noticias  FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788306.ts
+http://38.46.221.103:80/58511417/68727389/788306.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | CNN PT" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | CNN PT
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788307.ts
+http://38.46.221.103:80/58511417/68727389/788307.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | CNN PT FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | CNN PT FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788308.ts
+http://38.46.221.103:80/58511417/68727389/788308.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Cmtv FHD²⁶⁴" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Cmtv FHD²⁶⁴
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788309.ts
+http://38.46.221.103:80/58511417/68727389/788309.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Cmtv FHD²⁶⁵" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Cmtv FHD²⁶⁵
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788310.ts
+http://38.46.221.103:80/58511417/68727389/788310.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Euronews" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Euronews
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788311.ts
+http://38.46.221.103:80/58511417/68727389/788311.ts
 #EXTINF:-1 tvg-id="" tvg-name="---●★| Portugal Entretenimento |★●---" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",---●★| Portugal Entretenimento |★●---
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788312.ts
+http://38.46.221.103:80/58511417/68727389/788312.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Sic Mulher" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sic Mulher
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788313.ts
+http://38.46.221.103:80/58511417/68727389/788313.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Sic Mulher HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sic Mulher HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788314.ts
+http://38.46.221.103:80/58511417/68727389/788314.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Sic Caras" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sic Caras
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788315.ts
+http://38.46.221.103:80/58511417/68727389/788315.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Sic Caras FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sic Caras FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788316.ts
+http://38.46.221.103:80/58511417/68727389/788316.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Sic Radical" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sic Radical
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788317.ts
+http://38.46.221.103:80/58511417/68727389/788317.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Sic Radical FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sic Radical FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788318.ts
+http://38.46.221.103:80/58511417/68727389/788318.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Tvi Ficção" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Tvi Ficção
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788319.ts
+http://38.46.221.103:80/58511417/68727389/788319.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Tvi Ficção HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Tvi Ficção HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788320.ts
+http://38.46.221.103:80/58511417/68727389/788320.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Tvi Reality" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Tvi Reality
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788321.ts
+http://38.46.221.103:80/58511417/68727389/788321.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Tvi Reality FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Tvi Reality FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788322.ts
+http://38.46.221.103:80/58511417/68727389/788322.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Tvi Reality Mosaico" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Tvi Reality Mosaico
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788323.ts
+http://38.46.221.103:80/58511417/68727389/788323.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Tvi Reality Camara  1" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Tvi Reality Camara  1
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788324.ts
+http://38.46.221.103:80/58511417/68727389/788324.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Tvi Reality Camara  2" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Tvi Reality Camara  2
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788325.ts
+http://38.46.221.103:80/58511417/68727389/788325.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Tvi Reality Camara 3" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Tvi Reality Camara 3
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788326.ts
+http://38.46.221.103:80/58511417/68727389/788326.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Tvi Reality Camara  4" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Tvi Reality Camara  4
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788327.ts
+http://38.46.221.103:80/58511417/68727389/788327.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | 24 Kitchen" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | 24 Kitchen
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788328.ts
+http://38.46.221.103:80/58511417/68727389/788328.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | 24 Kitchen FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | 24 Kitchen FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788329.ts
+http://38.46.221.103:80/58511417/68727389/788329.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Casa e Cozinha HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Casa e Cozinha HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788330.ts
+http://38.46.221.103:80/58511417/68727389/788330.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Casa e Cozinha FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Casa e Cozinha FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788331.ts
+http://38.46.221.103:80/58511417/68727389/788331.ts
 #EXTINF:-1 tvg-id="52" tvg-name="PT | Food Netwoork" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Food Netwoork
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788332.ts
+http://38.46.221.103:80/58511417/68727389/788332.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Canal Q" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Canal Q
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788333.ts
+http://38.46.221.103:80/58511417/68727389/788333.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | RTP Arena" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | RTP Arena
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788334.ts
+http://38.46.221.103:80/58511417/68727389/788334.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Opto" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Opto
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788335.ts
+http://38.46.221.103:80/58511417/68727389/788335.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | CBS Reality" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | CBS Reality
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788336.ts
+http://38.46.221.103:80/58511417/68727389/788336.ts
 #EXTINF:-1 tvg-id="SporTV 4K" tvg-name="PT | Sport TV 1 FHD²⁶⁵" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sport TV 1 FHD²⁶⁵
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788355.ts
+http://38.46.221.103:80/58511417/68727389/788355.ts
 #EXTINF:-1 tvg-id="SporTV 4K" tvg-name="PT | Sport TV 1  4K" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sport TV 1  4K
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788356.ts
+http://38.46.221.103:80/58511417/68727389/788356.ts
 #EXTINF:-1 tvg-id="31" tvg-name="PT | Sport TV 2" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sport TV 2
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788357.ts
+http://38.46.221.103:80/58511417/68727389/788357.ts
 #EXTINF:-1 tvg-id="31" tvg-name="PT | Sport TV 2 HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sport TV 2 HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788358.ts
+http://38.46.221.103:80/58511417/68727389/788358.ts
 #EXTINF:-1 tvg-id="31" tvg-name="PT | Sport TV 2 FHD²⁶⁴" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sport TV 2 FHD²⁶⁴
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788359.ts
+http://38.46.221.103:80/58511417/68727389/788359.ts
 #EXTINF:-1 tvg-id="31" tvg-name="PT | Sport TV 2 FHD²⁶⁵" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sport TV 2 FHD²⁶⁵
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788360.ts
+http://38.46.221.103:80/58511417/68727389/788360.ts
 #EXTINF:-1 tvg-id="32" tvg-name="PT | Sport TV 3" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sport TV 3
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788361.ts
+http://38.46.221.103:80/58511417/68727389/788361.ts
 #EXTINF:-1 tvg-id="32" tvg-name="PT | Sport TV 3 HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sport TV 3 HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788362.ts
+http://38.46.221.103:80/58511417/68727389/788362.ts
 #EXTINF:-1 tvg-id="32" tvg-name="PT | Sport TV 3 FHD²⁶⁴" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sport TV 3 FHD²⁶⁴
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788363.ts
+http://38.46.221.103:80/58511417/68727389/788363.ts
 #EXTINF:-1 tvg-id="32" tvg-name="PT | Sport TV 3 FHD²⁶⁵" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sport TV 3 FHD²⁶⁵
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788364.ts
+http://38.46.221.103:80/58511417/68727389/788364.ts
 #EXTINF:-1 tvg-id="SporTV 4K" tvg-name="PT | Sport TV 4" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sport TV 4
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788365.ts
+http://38.46.221.103:80/58511417/68727389/788365.ts
 #EXTINF:-1 tvg-id="SporTV 4K" tvg-name="PT | Sport TV 4 HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sport TV 4 HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788366.ts
+http://38.46.221.103:80/58511417/68727389/788366.ts
 #EXTINF:-1 tvg-id="SporTV 4K" tvg-name="PT | Sport TV 4 FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sport TV 4 FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788367.ts
+http://38.46.221.103:80/58511417/68727389/788367.ts
 #EXTINF:-1 tvg-id="SporTV 4K" tvg-name="PT | Sport TV 5" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sport TV 5
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788368.ts
+http://38.46.221.103:80/58511417/68727389/788368.ts
 #EXTINF:-1 tvg-id="SporTV 4K" tvg-name="PT | Sport TV 5 HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sport TV 5 HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788369.ts
+http://38.46.221.103:80/58511417/68727389/788369.ts
 #EXTINF:-1 tvg-id="SporTV 4K" tvg-name="PT | Sport TV 5 FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sport TV 5 FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788370.ts
+http://38.46.221.103:80/58511417/68727389/788370.ts
 #EXTINF:-1 tvg-id="SporTV 4K" tvg-name="PT | Sport TV 6 HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sport TV 6 HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788371.ts
+http://38.46.221.103:80/58511417/68727389/788371.ts
 #EXTINF:-1 tvg-id="SporTV 4K" tvg-name="PT | Sport TV 6 FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sport TV 6 FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788372.ts
+http://38.46.221.103:80/58511417/68727389/788372.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Kuriakos FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Kuriakos FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788337.ts
+http://38.46.221.103:80/58511417/68727389/788337.ts
 #EXTINF:-1 tvg-id="12" tvg-name="PT | TLC" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | TLC
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788338.ts
+http://38.46.221.103:80/58511417/68727389/788338.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | LocalVisao  TV" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | LocalVisao  TV
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788339.ts
+http://38.46.221.103:80/58511417/68727389/788339.ts
 #EXTINF:-1 tvg-id="E! Entertainment Television HD" tvg-name="PT | E! Entertainment" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | E! Entertainment
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788340.ts
+http://38.46.221.103:80/58511417/68727389/788340.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Fashion TV FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Fashion TV FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788341.ts
+http://38.46.221.103:80/58511417/68727389/788341.ts
 #EXTINF:-1 tvg-id="" tvg-name="---●★| Portugal Desporto |★●---" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",---●★| Portugal Desporto |★●---
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788342.ts
+http://38.46.221.103:80/58511417/68727389/788342.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | A Bola TV" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | A Bola TV
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788343.ts
+http://38.46.221.103:80/58511417/68727389/788343.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | A Bola TV HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | A Bola TV HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788344.ts
+http://38.46.221.103:80/58511417/68727389/788344.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | A Bola TV FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | A Bola TV FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788345.ts
+http://38.46.221.103:80/58511417/68727389/788345.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Canal 11" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Canal 11
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788346.ts
+http://38.46.221.103:80/58511417/68727389/788346.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Canal 11 HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Canal 11 HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788347.ts
+http://38.46.221.103:80/58511417/68727389/788347.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Canal 11 FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Canal 11 FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788348.ts
+http://38.46.221.103:80/58511417/68727389/788348.ts
 #EXTINF:-1 tvg-id="SporTV 4K" tvg-name="PT | Sport TV +" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sport TV +
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788349.ts
+http://38.46.221.103:80/58511417/68727389/788349.ts
 #EXTINF:-1 tvg-id="SporTV 4K" tvg-name="PT | Sport TV + HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sport TV + HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788350.ts
+http://38.46.221.103:80/58511417/68727389/788350.ts
 #EXTINF:-1 tvg-id="SporTV 4K" tvg-name="PT | Sport TV + FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sport TV + FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788351.ts
+http://38.46.221.103:80/58511417/68727389/788351.ts
 #EXTINF:-1 tvg-id="SporTV 4K" tvg-name="PT | Sport TV 1" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sport TV 1
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788352.ts
+http://38.46.221.103:80/58511417/68727389/788352.ts
 #EXTINF:-1 tvg-id="SporTV 4K" tvg-name="PT | Sport TV 1  HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sport TV 1  HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788353.ts
+http://38.46.221.103:80/58511417/68727389/788353.ts
 #EXTINF:-1 tvg-id="SporTV 4K" tvg-name="PT | Sport TV 1 FHD²⁶⁴" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sport TV 1 FHD²⁶⁴
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788354.ts
+http://38.46.221.103:80/58511417/68727389/788354.ts
 #EXTINF:-1 tvg-id="SporTV 4K" tvg-name="PT | Sport TV NBA HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sport TV NBA HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788373.ts
+http://38.46.221.103:80/58511417/68727389/788373.ts
 #EXTINF:-1 tvg-id="SporTV 4K" tvg-name="PT | Sport TV NBA FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sport TV NBA FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788374.ts
+http://38.46.221.103:80/58511417/68727389/788374.ts
 #EXTINF:-1 tvg-id="329" tvg-name="PT | Eleven Sports 1" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Eleven Sports 1
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788375.ts
+http://38.46.221.103:80/58511417/68727389/788375.ts
 #EXTINF:-1 tvg-id="329" tvg-name="PT | Eleven Sports 1 HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Eleven Sports 1 HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788376.ts
+http://38.46.221.103:80/58511417/68727389/788376.ts
 #EXTINF:-1 tvg-id="329" tvg-name="PT | Eleven Sports 1 FHD²⁶⁴" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Eleven Sports 1 FHD²⁶⁴
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788377.ts
+http://38.46.221.103:80/58511417/68727389/788377.ts
 #EXTINF:-1 tvg-id="329" tvg-name="PT | Eleven Sports 1 FHD²⁶⁵" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Eleven Sports 1 FHD²⁶⁵
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788378.ts
+http://38.46.221.103:80/58511417/68727389/788378.ts
 #EXTINF:-1 tvg-id="329" tvg-name="PT | Eleven Sports 2" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Eleven Sports 2
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788379.ts
+http://38.46.221.103:80/58511417/68727389/788379.ts
 #EXTINF:-1 tvg-id="329" tvg-name="PT | Eleven Sports 2 HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Eleven Sports 2 HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788380.ts
+http://38.46.221.103:80/58511417/68727389/788380.ts
 #EXTINF:-1 tvg-id="329" tvg-name="PT | Eleven Sports 2 FHD²⁶⁴" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Eleven Sports 2 FHD²⁶⁴
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788381.ts
+http://38.46.221.103:80/58511417/68727389/788381.ts
 #EXTINF:-1 tvg-id="329" tvg-name="PT | Eleven Sports 2 FHD²⁶⁵" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Eleven Sports 2 FHD²⁶⁵
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788382.ts
+http://38.46.221.103:80/58511417/68727389/788382.ts
 #EXTINF:-1 tvg-id="329" tvg-name="PT | Eleven Sports 3" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Eleven Sports 3
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788383.ts
+http://38.46.221.103:80/58511417/68727389/788383.ts
 #EXTINF:-1 tvg-id="329" tvg-name="PT | Eleven Sports 3 HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Eleven Sports 3 HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788384.ts
+http://38.46.221.103:80/58511417/68727389/788384.ts
 #EXTINF:-1 tvg-id="329" tvg-name="PT | Eleven Sports 3 FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Eleven Sports 3 FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788385.ts
+http://38.46.221.103:80/58511417/68727389/788385.ts
 #EXTINF:-1 tvg-id="329" tvg-name="PT | Eleven Sports 4" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Eleven Sports 4
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788386.ts
+http://38.46.221.103:80/58511417/68727389/788386.ts
 #EXTINF:-1 tvg-id="329" tvg-name="PT | Eleven Sports 4 HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Eleven Sports 4 HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788387.ts
+http://38.46.221.103:80/58511417/68727389/788387.ts
 #EXTINF:-1 tvg-id="329" tvg-name="PT | Eleven Sports 4 FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Eleven Sports 4 FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788388.ts
+http://38.46.221.103:80/58511417/68727389/788388.ts
 #EXTINF:-1 tvg-id="329" tvg-name="PT | Eleven Sports 5" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Eleven Sports 5
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788389.ts
+http://38.46.221.103:80/58511417/68727389/788389.ts
 #EXTINF:-1 tvg-id="329" tvg-name="PT | Eleven Sports 5 HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Eleven Sports 5 HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788390.ts
+http://38.46.221.103:80/58511417/68727389/788390.ts
 #EXTINF:-1 tvg-id="329" tvg-name="PT | Eleven Sports 5 FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Eleven Sports 5 FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788391.ts
+http://38.46.221.103:80/58511417/68727389/788391.ts
 #EXTINF:-1 tvg-id="329" tvg-name="PT | Eleven Sports 6" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Eleven Sports 6
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788392.ts
+http://38.46.221.103:80/58511417/68727389/788392.ts
 #EXTINF:-1 tvg-id="329" tvg-name="PT | Eleven Sports 6 FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Eleven Sports 6 FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788393.ts
+http://38.46.221.103:80/58511417/68727389/788393.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Benfica TV" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Benfica TV
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788394.ts
+http://38.46.221.103:80/58511417/68727389/788394.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Benfica TV HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Benfica TV HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788395.ts
+http://38.46.221.103:80/58511417/68727389/788395.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Benfica TV FHD²⁶⁴" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Benfica TV FHD²⁶⁴
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788396.ts
+http://38.46.221.103:80/58511417/68727389/788396.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Benfica TV FHD²⁶⁵" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Benfica TV FHD²⁶⁵
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788397.ts
+http://38.46.221.103:80/58511417/68727389/788397.ts
 #EXTINF:-1 tvg-id="SporTV 4K" tvg-name="PT | Sporting TV" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sporting TV
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788398.ts
+http://38.46.221.103:80/58511417/68727389/788398.ts
 #EXTINF:-1 tvg-id="SporTV 4K" tvg-name="PT | Sporting TV FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sporting TV FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788399.ts
+http://38.46.221.103:80/58511417/68727389/788399.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Porto Canal" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Porto Canal
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788400.ts
+http://38.46.221.103:80/58511417/68727389/788400.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Porto Canal FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Porto Canal FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788401.ts
+http://38.46.221.103:80/58511417/68727389/788401.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | PFC" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | PFC
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788402.ts
+http://38.46.221.103:80/58511417/68727389/788402.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Eurosport 1 HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Eurosport 1 HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788403.ts
+http://38.46.221.103:80/58511417/68727389/788403.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Eurosport  1 FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Eurosport  1 FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788404.ts
+http://38.46.221.103:80/58511417/68727389/788404.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Eurosport  2" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Eurosport  2
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788405.ts
+http://38.46.221.103:80/58511417/68727389/788405.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | KOMBAT SPORT" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | KOMBAT SPORT
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788406.ts
+http://38.46.221.103:80/58511417/68727389/788406.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | NHK WORLD JAPAN" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | NHK WORLD JAPAN
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788407.ts
+http://38.46.221.103:80/58511417/68727389/788407.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Fuel TV" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Fuel TV
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788408.ts
+http://38.46.221.103:80/58511417/68727389/788408.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Motorvision" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Motorvision
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788409.ts
+http://38.46.221.103:80/58511417/68727389/788409.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | RED BULL" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | RED BULL
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788410.ts
+http://38.46.221.103:80/58511417/68727389/788410.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Toros TV" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Toros TV
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788411.ts
+http://38.46.221.103:80/58511417/68727389/788411.ts
 #EXTINF:-1 tvg-id="" tvg-name="---●★| Portugal Cinema |★●---" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",---●★| Portugal Cinema |★●---
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788412.ts
+http://38.46.221.103:80/58511417/68727389/788412.ts
 #EXTINF:-1 tvg-id="69" tvg-name="PT | Tv Cine+ HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Tv Cine+ HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788413.ts
+http://38.46.221.103:80/58511417/68727389/788413.ts
 #EXTINF:-1 tvg-id="69" tvg-name="PT |  Tv Cine Top" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT |  Tv Cine Top
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788414.ts
+http://38.46.221.103:80/58511417/68727389/788414.ts
 #EXTINF:-1 tvg-id="69" tvg-name="PT |  Tv Cine Top HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT |  Tv Cine Top HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788415.ts
+http://38.46.221.103:80/58511417/68727389/788415.ts
 #EXTINF:-1 tvg-id="69" tvg-name="PT | TV Cine Top  FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | TV Cine Top  FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788416.ts
+http://38.46.221.103:80/58511417/68727389/788416.ts
 #EXTINF:-1 tvg-id="69" tvg-name="PT | TV Cine Edition" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | TV Cine Edition
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788417.ts
+http://38.46.221.103:80/58511417/68727389/788417.ts
 #EXTINF:-1 tvg-id="69" tvg-name="PT | Tv Cine Edition HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Tv Cine Edition HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788418.ts
+http://38.46.221.103:80/58511417/68727389/788418.ts
 #EXTINF:-1 tvg-id="69" tvg-name="PT | TV Cine Edition FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | TV Cine Edition FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788419.ts
+http://38.46.221.103:80/58511417/68727389/788419.ts
 #EXTINF:-1 tvg-id="69" tvg-name="PT | Tv Cine Emotion" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Tv Cine Emotion
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788420.ts
+http://38.46.221.103:80/58511417/68727389/788420.ts
 #EXTINF:-1 tvg-id="69" tvg-name="PT | Tv Cine Emotion  HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Tv Cine Emotion  HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788421.ts
+http://38.46.221.103:80/58511417/68727389/788421.ts
 #EXTINF:-1 tvg-id="69" tvg-name="PT | Tv Cine Emotion FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Tv Cine Emotion FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788422.ts
+http://38.46.221.103:80/58511417/68727389/788422.ts
 #EXTINF:-1 tvg-id="69" tvg-name="PT | TV Cine Action" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | TV Cine Action
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788423.ts
+http://38.46.221.103:80/58511417/68727389/788423.ts
 #EXTINF:-1 tvg-id="69" tvg-name="PT | Tv Cine Action HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Tv Cine Action HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788424.ts
+http://38.46.221.103:80/58511417/68727389/788424.ts
 #EXTINF:-1 tvg-id="69" tvg-name="PT | TV Cine Action  FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | TV Cine Action  FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788425.ts
+http://38.46.221.103:80/58511417/68727389/788425.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | NOS Studio" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | NOS Studio
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788426.ts
+http://38.46.221.103:80/58511417/68727389/788426.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | NOS Studio  HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | NOS Studio  HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788427.ts
+http://38.46.221.103:80/58511417/68727389/788427.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | NOS Studio FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | NOS Studio FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788428.ts
+http://38.46.221.103:80/58511417/68727389/788428.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Hollywood" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Hollywood
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788429.ts
+http://38.46.221.103:80/58511417/68727389/788429.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Hollywood HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Hollywood HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788430.ts
+http://38.46.221.103:80/58511417/68727389/788430.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Hollywood FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Hollywood FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788431.ts
+http://38.46.221.103:80/58511417/68727389/788431.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Cinemundo" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Cinemundo
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788432.ts
+http://38.46.221.103:80/58511417/68727389/788432.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Cinemundo  FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Cinemundo  FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788433.ts
+http://38.46.221.103:80/58511417/68727389/788433.ts
 #EXTINF:-1 tvg-id="33" tvg-name="PT | Amc" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Amc
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788434.ts
+http://38.46.221.103:80/58511417/68727389/788434.ts
 #EXTINF:-1 tvg-id="33" tvg-name="PT | Amc HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Amc HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788435.ts
+http://38.46.221.103:80/58511417/68727389/788435.ts
 #EXTINF:-1 tvg-id="33" tvg-name="PT | Amc FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Amc FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788436.ts
+http://38.46.221.103:80/58511417/68727389/788436.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Fox Movies" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Fox Movies
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788437.ts
+http://38.46.221.103:80/58511417/68727389/788437.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Fox Movies FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Fox Movies FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788438.ts
+http://38.46.221.103:80/58511417/68727389/788438.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Fox" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Fox
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788439.ts
+http://38.46.221.103:80/58511417/68727389/788439.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Fox  HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Fox  HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788440.ts
+http://38.46.221.103:80/58511417/68727389/788440.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Fox  FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Fox  FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788441.ts
+http://38.46.221.103:80/58511417/68727389/788441.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Fox Crime" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Fox Crime
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788442.ts
+http://38.46.221.103:80/58511417/68727389/788442.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Fox Crime HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Fox Crime HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788443.ts
+http://38.46.221.103:80/58511417/68727389/788443.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Fox Crime FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Fox Crime FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788444.ts
+http://38.46.221.103:80/58511417/68727389/788444.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Fox Life" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Fox Life
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788445.ts
+http://38.46.221.103:80/58511417/68727389/788445.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Fox Life HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Fox Life HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788446.ts
+http://38.46.221.103:80/58511417/68727389/788446.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Fox Life  FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Fox Life  FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788447.ts
+http://38.46.221.103:80/58511417/68727389/788447.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Fox Comedy" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Fox Comedy
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788448.ts
+http://38.46.221.103:80/58511417/68727389/788448.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Fox Comedy  FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Fox Comedy  FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788449.ts
+http://38.46.221.103:80/58511417/68727389/788449.ts
 #EXTINF:-1 tvg-id="79" tvg-name="PT | Axn" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Axn
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788450.ts
+http://38.46.221.103:80/58511417/68727389/788450.ts
 #EXTINF:-1 tvg-id="79" tvg-name="PT | Axn HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Axn HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788451.ts
+http://38.46.221.103:80/58511417/68727389/788451.ts
 #EXTINF:-1 tvg-id="79" tvg-name="PT | Axn FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Axn FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788452.ts
+http://38.46.221.103:80/58511417/68727389/788452.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Axn White" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Axn White
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788453.ts
+http://38.46.221.103:80/58511417/68727389/788453.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Axn White HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Axn White HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788454.ts
+http://38.46.221.103:80/58511417/68727389/788454.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Axn White FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Axn White FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788455.ts
+http://38.46.221.103:80/58511417/68727389/788455.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Axn Movies" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Axn Movies
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788456.ts
+http://38.46.221.103:80/58511417/68727389/788456.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Axn Movies HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Axn Movies HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788457.ts
+http://38.46.221.103:80/58511417/68727389/788457.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Axn Movies FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Axn Movies FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788458.ts
+http://38.46.221.103:80/58511417/68727389/788458.ts
 #EXTINF:-1 tvg-id="Syfy FHD" tvg-name="PT | SyFy" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | SyFy
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788459.ts
+http://38.46.221.103:80/58511417/68727389/788459.ts
 #EXTINF:-1 tvg-id="Syfy FHD" tvg-name="PT | Syfy FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Syfy FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788460.ts
+http://38.46.221.103:80/58511417/68727389/788460.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | DIZI" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | DIZI
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788461.ts
+http://38.46.221.103:80/58511417/68727389/788461.ts
 #EXTINF:-1 tvg-id="" tvg-name="---●★| Portugal Crianças |★●---" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",---●★| Portugal Crianças |★●---
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788462.ts
+http://38.46.221.103:80/58511417/68727389/788462.ts
 #EXTINF:-1 tvg-id="Discovery Channel 4K" tvg-name="PT | Disney Channel" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Disney Channel
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788463.ts
+http://38.46.221.103:80/58511417/68727389/788463.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Disney Junior" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Disney Junior
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788464.ts
+http://38.46.221.103:80/58511417/68727389/788464.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Canal Panda" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Canal Panda
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788465.ts
+http://38.46.221.103:80/58511417/68727389/788465.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Panda Biggs" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Panda Biggs
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788466.ts
+http://38.46.221.103:80/58511417/68727389/788466.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Panda Kids" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Panda Kids
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788467.ts
+http://38.46.221.103:80/58511417/68727389/788467.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Baby TV" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Baby TV
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788468.ts
+http://38.46.221.103:80/58511417/68727389/788468.ts
 #EXTINF:-1 tvg-id="Cartoon Network 4K" tvg-name="PT | Cartoon Network" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Cartoon Network
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788469.ts
+http://38.46.221.103:80/58511417/68727389/788469.ts
 #EXTINF:-1 tvg-id="Nickelodeon FHD" tvg-name="PT | Nicklodeon" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Nicklodeon
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788470.ts
+http://38.46.221.103:80/58511417/68727389/788470.ts
 #EXTINF:-1 tvg-id="Nick Jr FHD" tvg-name="PT | Nick JR" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Nick JR
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788471.ts
+http://38.46.221.103:80/58511417/68727389/788471.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Sic k" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sic k
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788472.ts
+http://38.46.221.103:80/58511417/68727389/788472.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Sic K FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sic K FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788473.ts
+http://38.46.221.103:80/58511417/68727389/788473.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Lolly Kids" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Lolly Kids
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788474.ts
+http://38.46.221.103:80/58511417/68727389/788474.ts
 #EXTINF:-1 tvg-id="" tvg-name="---●★| Portugal Music |★●---" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",---●★| Portugal Music |★●---
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788475.ts
+http://38.46.221.103:80/58511417/68727389/788475.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Alma  Lusa" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Alma  Lusa
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788476.ts
+http://38.46.221.103:80/58511417/68727389/788476.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Afro Music" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Afro Music
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788477.ts
+http://38.46.221.103:80/58511417/68727389/788477.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Mcm Pop" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Mcm Pop
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788478.ts
+http://38.46.221.103:80/58511417/68727389/788478.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Mcm Top" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Mcm Top
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788479.ts
+http://38.46.221.103:80/58511417/68727389/788479.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Mtv Portugal" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Mtv Portugal
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788480.ts
+http://38.46.221.103:80/58511417/68727389/788480.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | MTV 00´S" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | MTV 00´S
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788481.ts
+http://38.46.221.103:80/58511417/68727389/788481.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Trace Urban" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Trace Urban
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788482.ts
+http://38.46.221.103:80/58511417/68727389/788482.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Trace Toca" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Trace Toca
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788483.ts
+http://38.46.221.103:80/58511417/68727389/788483.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Mezzo" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Mezzo
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788484.ts
+http://38.46.221.103:80/58511417/68727389/788484.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Iconcerts FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Iconcerts FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788485.ts
+http://38.46.221.103:80/58511417/68727389/788485.ts
 #EXTINF:-1 tvg-id="" tvg-name="---●★| Portugal Documentária |★●---" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",---●★| Portugal Documentária |★●---
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788486.ts
+http://38.46.221.103:80/58511417/68727389/788486.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Travel Channel" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Travel Channel
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788487.ts
+http://38.46.221.103:80/58511417/68727389/788487.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Travel Channel FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Travel Channel FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788488.ts
+http://38.46.221.103:80/58511417/68727389/788488.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | National Geographic" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | National Geographic
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788489.ts
+http://38.46.221.103:80/58511417/68727389/788489.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | National Geographic  HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | National Geographic  HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788490.ts
+http://38.46.221.103:80/58511417/68727389/788490.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | National Geographic  FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | National Geographic  FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788491.ts
+http://38.46.221.103:80/58511417/68727389/788491.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | National Geographic Wild" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | National Geographic Wild
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788492.ts
+http://38.46.221.103:80/58511417/68727389/788492.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | National Geographic Wild FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | National Geographic Wild FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788493.ts
+http://38.46.221.103:80/58511417/68727389/788493.ts
 #EXTINF:-1 tvg-id="Discovery Channel 4K" tvg-name="PT | Discovery Channel" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Discovery Channel
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788494.ts
+http://38.46.221.103:80/58511417/68727389/788494.ts
 #EXTINF:-1 tvg-id="Discovery Channel 4K" tvg-name="PT | Discovery Channel  HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Discovery Channel  HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788495.ts
+http://38.46.221.103:80/58511417/68727389/788495.ts
 #EXTINF:-1 tvg-id="Discovery Channel 4K" tvg-name="PT | Discovery Channel  FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Discovery Channel  FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788496.ts
+http://38.46.221.103:80/58511417/68727389/788496.ts
 #EXTINF:-1 tvg-id="13" tvg-name="PT | ID Investigation Discovery HD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | ID Investigation Discovery HD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788497.ts
+http://38.46.221.103:80/58511417/68727389/788497.ts
 #EXTINF:-1 tvg-id="13" tvg-name="PT | ID Investigation Discovery FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | ID Investigation Discovery FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788498.ts
+http://38.46.221.103:80/58511417/68727389/788498.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Break" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Break
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788499.ts
+http://38.46.221.103:80/58511417/68727389/788499.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Break FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Break FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788500.ts
+http://38.46.221.103:80/58511417/68727389/788500.ts
 #EXTINF:-1 tvg-id="History 4k" tvg-name="PT | Historia" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Historia
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788501.ts
+http://38.46.221.103:80/58511417/68727389/788501.ts
 #EXTINF:-1 tvg-id="History 4k" tvg-name="PT | Historia FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Historia FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788502.ts
+http://38.46.221.103:80/58511417/68727389/788502.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Odisseia" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Odisseia
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788503.ts
+http://38.46.221.103:80/58511417/68727389/788503.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Crime Investigation" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Crime Investigation
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788504.ts
+http://38.46.221.103:80/58511417/68727389/788504.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Caça e Pesca" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Caça e Pesca
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788505.ts
+http://38.46.221.103:80/58511417/68727389/788505.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Caçavision" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Caçavision
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788506.ts
+http://38.46.221.103:80/58511417/68727389/788506.ts
 #EXTINF:-1 tvg-id="CNN Internacional SD" tvg-name="---●★| Portugal Internacionais |★●---" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",---●★| Portugal Internacionais |★●---
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788507.ts
+http://38.46.221.103:80/58511417/68727389/788507.ts
 #EXTINF:-1 tvg-id="SIC Internacional SD" tvg-name="PT | Tcv Internacional" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Tcv Internacional
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788508.ts
+http://38.46.221.103:80/58511417/68727389/788508.ts
 #EXTINF:-1 tvg-id="SIC Internacional SD" tvg-name="PT | TPA Internacional" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | TPA Internacional
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788509.ts
+http://38.46.221.103:80/58511417/68727389/788509.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Zap Viva FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Zap Viva FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788510.ts
+http://38.46.221.103:80/58511417/68727389/788510.ts
 #EXTINF:-1 tvg-id="Record 4K" tvg-name="PT | TV Record" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | TV Record
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788511.ts
+http://38.46.221.103:80/58511417/68727389/788511.ts
 #EXTINF:-1 tvg-id="Globo 4k" tvg-name="PT | Globo" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Globo
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788512.ts
+http://38.46.221.103:80/58511417/68727389/788512.ts
 #EXTINF:-1 tvg-id="Globo 4k" tvg-name="PT | Globo FHD" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Globo FHD
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788513.ts
+http://38.46.221.103:80/58511417/68727389/788513.ts
 #EXTINF:-1 tvg-id="Globo 4k" tvg-name="PT | Globo Now" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Globo Now
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788514.ts
+http://38.46.221.103:80/58511417/68727389/788514.ts
 #EXTINF:-1 tvg-id="Cancao Nova SD" tvg-name="PT | Cançao Nova" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Cançao Nova
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788515.ts
+http://38.46.221.103:80/58511417/68727389/788515.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | TV5 Monde" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | TV5 Monde
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788516.ts
+http://38.46.221.103:80/58511417/68727389/788516.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Sky News" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Sky News
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788517.ts
+http://38.46.221.103:80/58511417/68727389/788517.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | France 24" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | France 24
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788518.ts
+http://38.46.221.103:80/58511417/68727389/788518.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | M6 France" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | M6 France
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788519.ts
+http://38.46.221.103:80/58511417/68727389/788519.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | CNBC" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | CNBC
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788520.ts
+http://38.46.221.103:80/58511417/68727389/788520.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | BBC World News" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | BBC World News
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788521.ts
+http://38.46.221.103:80/58511417/68727389/788521.ts
 #EXTINF:-1 tvg-id="E! Entertainment Television HD" tvg-name="PT | BBC Entertainment" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | BBC Entertainment
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788522.ts
+http://38.46.221.103:80/58511417/68727389/788522.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Bloomberg TV Europe" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Bloomberg TV Europe
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788523.ts
+http://38.46.221.103:80/58511417/68727389/788523.ts
 #EXTINF:-1 tvg-id="CNN Internacional SD" tvg-name="PT | Cnn Internacional" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Cnn Internacional
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788524.ts
+http://38.46.221.103:80/58511417/68727389/788524.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT | Tve 24h" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | Tve 24h
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788525.ts
+http://38.46.221.103:80/58511417/68727389/788525.ts
 #EXTINF:-1 tvg-id="SIC Internacional SD" tvg-name="PT | TVE Internacional" tvg-logo="https://i.imgur.com/pzykXeE.png" group-title="Internacionais | Portugal",PT | TVE Internacional
-plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/788526.ts
+http://38.46.221.103:80/58511417/68727389/788526.ts
