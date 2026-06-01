@@ -1,15 +1,75 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="a&e.br" tvg-name="HBO MAX 1" tvg-logo="http://209.14.88.42:80/images/00e2aa1fd4841c7885fe83e98ddf3e93.png" group-title="CANAIS | HBO MAX",HBO MAX 1
-plugin://script.hls.tester/?action=play&url=http://hplay10.xyz:80/03816022/51019400/3425301.ts
-#EXTINF:-1 tvg-id="a&e.br" tvg-name="HBO MAX 2" tvg-logo="http://209.14.88.42:80/images/00e2aa1fd4841c7885fe83e98ddf3e93.png" group-title="CANAIS | HBO MAX",HBO MAX 2
-plugin://script.hls.tester/?action=play&url=http://hplay10.xyz:80/03816022/51019400/3425302.ts
-#EXTINF:-1 tvg-id="a&e.br" tvg-name="HBO MAX 3" tvg-logo="http://209.14.88.42:80/images/00e2aa1fd4841c7885fe83e98ddf3e93.png" group-title="CANAIS | HBO MAX",HBO MAX 3
-plugin://script.hls.tester/?action=play&url=http://hplay10.xyz:80/03816022/51019400/3425303.ts
-#EXTINF:-1 tvg-id="a&e.br" tvg-name="HBO MAX 4" tvg-logo="http://209.14.88.42:80/images/00e2aa1fd4841c7885fe83e98ddf3e93.png" group-title="CANAIS | HBO MAX",HBO MAX 4
-plugin://script.hls.tester/?action=play&url=http://hplay10.xyz:80/03816022/51019400/3425304.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 7" tvg-logo="http://209.14.88.42:80/images/00e2aa1fd4841c7885fe83e98ddf3e93.png" group-title="CANAIS | HBO MAX",HBO MAX 7
-plugin://script.hls.tester/?action=play&url=http://hplay10.xyz:80/03816022/51019400/3425305.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 5" tvg-logo="http://209.14.88.42:80/images/00e2aa1fd4841c7885fe83e98ddf3e93.png" group-title="CANAIS | HBO MAX",HBO MAX 5
-plugin://script.hls.tester/?action=play&url=http://hplay10.xyz:80/03816022/51019400/3425306.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 6" tvg-logo="http://209.14.88.42:80/images/00e2aa1fd4841c7885fe83e98ddf3e93.png" group-title="CANAIS | HBO MAX",HBO MAX 6
-plugin://script.hls.tester/?action=play&url=http://hplay10.xyz:80/03816022/51019400/3425307.ts
+#EXTINF:-1 tvg-id="HBO Max 5" tvg-name="HBO Max 01 HD" tvg-logo="http://i.imgur.com/tOZh83j.jpg" group-title="⚽Canais | HBO Max⚽",HBO Max 01 HD
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/790313.ts
+#EXTINF:-1 tvg-id="HBO Max 5" tvg-name="HBO Max 02 HD" tvg-logo="http://i.imgur.com/tOZh83j.jpg" group-title="⚽Canais | HBO Max⚽",HBO Max 02 HD
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/790314.ts
+#EXTINF:-1 tvg-id="HBO Max 5" tvg-name="HBO Max 03 HD" tvg-logo="http://i.imgur.com/tOZh83j.jpg" group-title="⚽Canais | HBO Max⚽",HBO Max 03 HD
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/790315.ts
+#EXTINF:-1 tvg-id="HBO Max 5" tvg-name="HBO Max 04 HD" tvg-logo="http://i.imgur.com/tOZh83j.jpg" group-title="⚽Canais | HBO Max⚽",HBO Max 04 HD
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/790316.ts
+#EXTINF:-1 tvg-id="HBO Max 5" tvg-name="HBO Max 05 HD" tvg-logo="http://i.imgur.com/tOZh83j.jpg" group-title="⚽Canais | HBO Max⚽",HBO Max 05 HD
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/790317.ts
+#EXTINF:-1 tvg-id="HBO Max 5" tvg-name="HBO Max  06 HD" tvg-logo="http://i.imgur.com/tOZh83j.jpg" group-title="⚽Canais | HBO Max⚽",HBO Max  06 HD
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/790318.ts
+#EXTINF:-1 tvg-id="HBO Max 5" tvg-name="HBO MAX 07" tvg-logo="http://i.imgur.com/tOZh83j.jpg" group-title="⚽Canais | HBO Max⚽",HBO MAX 07
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/791239.ts
+#EXTINF:-1 tvg-id="HBO Max 5" tvg-name="HBO MAX 08" tvg-logo="http://i.imgur.com/tOZh83j.jpg" group-title="⚽Canais | HBO Max⚽",HBO MAX 08
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/791240.ts
+#EXTINF:-1 tvg-id="HBO Max 5" tvg-name="HBO MAX 09" tvg-logo="http://i.imgur.com/tOZh83j.jpg" group-title="⚽Canais | HBO Max⚽",HBO MAX 09
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/791241.ts
+#EXTINF:-1 tvg-id="HBO Max 1" tvg-name="HBO MAX 10" tvg-logo="http://i.imgur.com/tOZh83j.jpg" group-title="⚽Canais | HBO Max⚽",HBO MAX 10
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/791242.ts
+#EXTINF:-1 tvg-id="HBO Max 1" tvg-name="HBO MAX 11" tvg-logo="http://i.imgur.com/tOZh83j.jpg" group-title="⚽Canais | HBO Max⚽",HBO MAX 11
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/791243.ts
+#EXTINF:-1 tvg-id="HBO Max 1" tvg-name="HBO MAX 12" tvg-logo="http://i.imgur.com/tOZh83j.jpg" group-title="⚽Canais | HBO Max⚽",HBO MAX 12
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/791244.ts
+#EXTINF:-1 tvg-id="HBO Max 1" tvg-name="HBO MAX 13" tvg-logo="http://i.imgur.com/tOZh83j.jpg" group-title="⚽Canais | HBO Max⚽",HBO MAX 13
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/791245.ts
+#EXTINF:-1 tvg-id="HBO Max 1" tvg-name="HBO MAX 14" tvg-logo="http://i.imgur.com/tOZh83j.jpg" group-title="⚽Canais | HBO Max⚽",HBO MAX 14
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/791246.ts
+#EXTINF:-1 tvg-id="HBO Max 1" tvg-name="HBO MAX 15" tvg-logo="http://i.imgur.com/tOZh83j.jpg" group-title="⚽Canais | HBO Max⚽",HBO MAX 15
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/791247.ts
+#EXTINF:-1 tvg-id="HBO Max 1" tvg-name="HBO MAX 16" tvg-logo="http://i.imgur.com/tOZh83j.jpg" group-title="⚽Canais | HBO Max⚽",HBO MAX 16
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/791248.ts
+#EXTINF:-1 tvg-id="HBO Max 1" tvg-name="HBO MAX 17" tvg-logo="http://i.imgur.com/tOZh83j.jpg" group-title="⚽Canais | HBO Max⚽",HBO MAX 17
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/791249.ts
+#EXTINF:-1 tvg-id="HBO Max 1" tvg-name="HBO MAX 18" tvg-logo="http://i.imgur.com/tOZh83j.jpg" group-title="⚽Canais | HBO Max⚽",HBO MAX 18
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/791250.ts
+#EXTINF:-1 tvg-id="channel_01" tvg-name="HBO MAX 01 - Sinal 02" tvg-logo="https://s2-epocanegocios.glbimg.com/pgrq1bFOF6meDgwHlEV0o3Rzb9c=/0x0:1190x655/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e536e40f1baf4c1a8bf1ed12d20577fd/internal_photos/bs/2024/k/Q/ThYD79RLifppObYIoCiA/screenshot-2024-02-28t091358.407.png" group-title="⚽Canais | HBO Max⚽",HBO MAX 01 - Sinal 02
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/791251.ts
+#EXTINF:-1 tvg-id="channel_02" tvg-name="HBO MAX 02 - Sinal 02" tvg-logo="https://s2-epocanegocios.glbimg.com/pgrq1bFOF6meDgwHlEV0o3Rzb9c=/0x0:1190x655/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e536e40f1baf4c1a8bf1ed12d20577fd/internal_photos/bs/2024/k/Q/ThYD79RLifppObYIoCiA/screenshot-2024-02-28t091358.407.png" group-title="⚽Canais | HBO Max⚽",HBO MAX 02 - Sinal 02
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/791252.ts
+#EXTINF:-1 tvg-id="channel_03" tvg-name="HBO MAX 03 - Sinal 02" tvg-logo="https://s2-epocanegocios.glbimg.com/pgrq1bFOF6meDgwHlEV0o3Rzb9c=/0x0:1190x655/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e536e40f1baf4c1a8bf1ed12d20577fd/internal_photos/bs/2024/k/Q/ThYD79RLifppObYIoCiA/screenshot-2024-02-28t091358.407.png" group-title="⚽Canais | HBO Max⚽",HBO MAX 03 - Sinal 02
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/791253.ts
+#EXTINF:-1 tvg-id="channel_04" tvg-name="HBO MAX 04 - Sinal 02" tvg-logo="https://s2-epocanegocios.glbimg.com/pgrq1bFOF6meDgwHlEV0o3Rzb9c=/0x0:1190x655/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e536e40f1baf4c1a8bf1ed12d20577fd/internal_photos/bs/2024/k/Q/ThYD79RLifppObYIoCiA/screenshot-2024-02-28t091358.407.png" group-title="⚽Canais | HBO Max⚽",HBO MAX 04 - Sinal 02
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/791254.ts
+#EXTINF:-1 tvg-id="channel_05" tvg-name="HBO MAX 05 - Sinal 02" tvg-logo="https://s2-epocanegocios.glbimg.com/pgrq1bFOF6meDgwHlEV0o3Rzb9c=/0x0:1190x655/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e536e40f1baf4c1a8bf1ed12d20577fd/internal_photos/bs/2024/k/Q/ThYD79RLifppObYIoCiA/screenshot-2024-02-28t091358.407.png" group-title="⚽Canais | HBO Max⚽",HBO MAX 05 - Sinal 02
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/791255.ts
+#EXTINF:-1 tvg-id="channel_06" tvg-name="HBO MAX 06 - Sinal 02" tvg-logo="https://s2-epocanegocios.glbimg.com/pgrq1bFOF6meDgwHlEV0o3Rzb9c=/0x0:1190x655/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e536e40f1baf4c1a8bf1ed12d20577fd/internal_photos/bs/2024/k/Q/ThYD79RLifppObYIoCiA/screenshot-2024-02-28t091358.407.png" group-title="⚽Canais | HBO Max⚽",HBO MAX 06 - Sinal 02
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/791256.ts
+#EXTINF:-1 tvg-id="channel_07" tvg-name="HBO MAX 07 - Sinal 02" tvg-logo="https://s2-epocanegocios.glbimg.com/pgrq1bFOF6meDgwHlEV0o3Rzb9c=/0x0:1190x655/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e536e40f1baf4c1a8bf1ed12d20577fd/internal_photos/bs/2024/k/Q/ThYD79RLifppObYIoCiA/screenshot-2024-02-28t091358.407.png" group-title="⚽Canais | HBO Max⚽",HBO MAX 07 - Sinal 02
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/791257.ts
+#EXTINF:-1 tvg-id="channel_01" tvg-name="HBO MAX 08 - Sinal 02" tvg-logo="https://s2-epocanegocios.glbimg.com/pgrq1bFOF6meDgwHlEV0o3Rzb9c=/0x0:1190x655/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e536e40f1baf4c1a8bf1ed12d20577fd/internal_photos/bs/2024/k/Q/ThYD79RLifppObYIoCiA/screenshot-2024-02-28t091358.407.png" group-title="⚽Canais | HBO Max⚽",HBO MAX 08 - Sinal 02
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/791258.ts
+#EXTINF:-1 tvg-id="channel_01" tvg-name="HBO MAX 09 - Sinal 02" tvg-logo="https://s2-epocanegocios.glbimg.com/pgrq1bFOF6meDgwHlEV0o3Rzb9c=/0x0:1190x655/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e536e40f1baf4c1a8bf1ed12d20577fd/internal_photos/bs/2024/k/Q/ThYD79RLifppObYIoCiA/screenshot-2024-02-28t091358.407.png" group-title="⚽Canais | HBO Max⚽",HBO MAX 09 - Sinal 02
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/791259.ts
+#EXTINF:-1 tvg-id="channel_01" tvg-name="HBO MAX 10 - Sinal 02" tvg-logo="https://s2-epocanegocios.glbimg.com/pgrq1bFOF6meDgwHlEV0o3Rzb9c=/0x0:1190x655/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e536e40f1baf4c1a8bf1ed12d20577fd/internal_photos/bs/2024/k/Q/ThYD79RLifppObYIoCiA/screenshot-2024-02-28t091358.407.png" group-title="⚽Canais | HBO Max⚽",HBO MAX 10 - Sinal 02
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/791260.ts
+#EXTINF:-1 tvg-id="channel_01" tvg-name="HBO MAX 11 - Sinal 02" tvg-logo="https://s2-epocanegocios.glbimg.com/pgrq1bFOF6meDgwHlEV0o3Rzb9c=/0x0:1190x655/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e536e40f1baf4c1a8bf1ed12d20577fd/internal_photos/bs/2024/k/Q/ThYD79RLifppObYIoCiA/screenshot-2024-02-28t091358.407.png" group-title="⚽Canais | HBO Max⚽",HBO MAX 11 - Sinal 02
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/791261.ts
+#EXTINF:-1 tvg-id="channel_02" tvg-name="HBO MAX 12 - Sinal 02" tvg-logo="https://s2-epocanegocios.glbimg.com/pgrq1bFOF6meDgwHlEV0o3Rzb9c=/0x0:1190x655/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e536e40f1baf4c1a8bf1ed12d20577fd/internal_photos/bs/2024/k/Q/ThYD79RLifppObYIoCiA/screenshot-2024-02-28t091358.407.png" group-title="⚽Canais | HBO Max⚽",HBO MAX 12 - Sinal 02
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/791262.ts
+#EXTINF:-1 tvg-id="channel_03" tvg-name="HBO MAX 13 - Sinal 02" tvg-logo="https://s2-epocanegocios.glbimg.com/pgrq1bFOF6meDgwHlEV0o3Rzb9c=/0x0:1190x655/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e536e40f1baf4c1a8bf1ed12d20577fd/internal_photos/bs/2024/k/Q/ThYD79RLifppObYIoCiA/screenshot-2024-02-28t091358.407.png" group-title="⚽Canais | HBO Max⚽",HBO MAX 13 - Sinal 02
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/791263.ts
+#EXTINF:-1 tvg-id="channel_04" tvg-name="HBO MAX 14 - Sinal 02" tvg-logo="https://s2-epocanegocios.glbimg.com/pgrq1bFOF6meDgwHlEV0o3Rzb9c=/0x0:1190x655/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e536e40f1baf4c1a8bf1ed12d20577fd/internal_photos/bs/2024/k/Q/ThYD79RLifppObYIoCiA/screenshot-2024-02-28t091358.407.png" group-title="⚽Canais | HBO Max⚽",HBO MAX 14 - Sinal 02
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/791264.ts
+#EXTINF:-1 tvg-id="channel_05" tvg-name="HBO MAX 15 - Sinal 02" tvg-logo="https://s2-epocanegocios.glbimg.com/pgrq1bFOF6meDgwHlEV0o3Rzb9c=/0x0:1190x655/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e536e40f1baf4c1a8bf1ed12d20577fd/internal_photos/bs/2024/k/Q/ThYD79RLifppObYIoCiA/screenshot-2024-02-28t091358.407.png" group-title="⚽Canais | HBO Max⚽",HBO MAX 15 - Sinal 02
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/791265.ts
+#EXTINF:-1 tvg-id="channel_06" tvg-name="HBO MAX 16 - Sinal 02" tvg-logo="https://s2-epocanegocios.glbimg.com/pgrq1bFOF6meDgwHlEV0o3Rzb9c=/0x0:1190x655/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e536e40f1baf4c1a8bf1ed12d20577fd/internal_photos/bs/2024/k/Q/ThYD79RLifppObYIoCiA/screenshot-2024-02-28t091358.407.png" group-title="⚽Canais | HBO Max⚽",HBO MAX 16 - Sinal 02
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/791266.ts
+#EXTINF:-1 tvg-id="channel_07" tvg-name="HBO MAX 17 - Sinal 02" tvg-logo="https://s2-epocanegocios.glbimg.com/pgrq1bFOF6meDgwHlEV0o3Rzb9c=/0x0:1190x655/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e536e40f1baf4c1a8bf1ed12d20577fd/internal_photos/bs/2024/k/Q/ThYD79RLifppObYIoCiA/screenshot-2024-02-28t091358.407.png" group-title="⚽Canais | HBO Max⚽",HBO MAX 17 - Sinal 02
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/791267.ts
+#EXTINF:-1 tvg-id="channel_01" tvg-name="HBO MAX 18 - Sinal 02" tvg-logo="https://s2-epocanegocios.glbimg.com/pgrq1bFOF6meDgwHlEV0o3Rzb9c=/0x0:1190x655/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e536e40f1baf4c1a8bf1ed12d20577fd/internal_photos/bs/2024/k/Q/ThYD79RLifppObYIoCiA/screenshot-2024-02-28t091358.407.png" group-title="⚽Canais | HBO Max⚽",HBO MAX 18 - Sinal 02
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/791268.ts
+#EXTINF:-1 tvg-id="channel_01" tvg-name="HBO MAX 19 - Sinal 02" tvg-logo="https://s2-epocanegocios.glbimg.com/pgrq1bFOF6meDgwHlEV0o3Rzb9c=/0x0:1190x655/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e536e40f1baf4c1a8bf1ed12d20577fd/internal_photos/bs/2024/k/Q/ThYD79RLifppObYIoCiA/screenshot-2024-02-28t091358.407.png" group-title="⚽Canais | HBO Max⚽",HBO MAX 19 - Sinal 02
+plugin://script.hls.tester/?action=play&url=http://38.46.221.103:80/58511417/68727389/791269.ts
