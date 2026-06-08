@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TCA" tvg-name="TELECINE ACTION HD" tvg-logo="http://www.tmsimg.com/assets/s39917_ll_h3_ac.png" group-title="CANAIS | TELECINE",TELECINE ACTION HD
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/1604.ts
+#EXTINF:-1 tvg-id="TCCL" tvg-name="TELECINE CULT HD" tvg-logo="http://www.tmsimg.com/assets/s40233_ll_h3_ac.png" group-title="CANAIS | TELECINE",TELECINE CULT HD
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/1605.ts
+#EXTINF:-1 tvg-id="TCF" tvg-name="TELECINE FUN HD" tvg-logo="http://www.tmsimg.com/assets/s75601_ll_h3_ac.png" group-title="CANAIS | TELECINE",TELECINE FUN HD
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/1606.ts
+#EXTINF:-1 tvg-id="TCPIP" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://www.tmsimg.com/assets/s54633_ll_h3_ac.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA HD
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/1607.ts
+#EXTINF:-1 tvg-id="TCP" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://www.tmsimg.com/assets/s40235_ll_h3_ac.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM HD
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/1608.ts
+#EXTINF:-1 tvg-id="TCTCH" tvg-name="TELECINE TOUCH HD" tvg-logo="http://www.tmsimg.com/assets/s69958_ll_h3_ac.png" group-title="CANAIS | TELECINE",TELECINE TOUCH HD
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/1609.ts
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION FHD H265" tvg-logo="http://www.tmsimg.com/assets/s39917_ll_h3_ac.png" group-title="CANAIS | TELECINE",TELECINE ACTION FHD H265
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/339224.ts
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT FHD H265" tvg-logo="http://www.tmsimg.com/assets/s40233_ll_h3_ac.png" group-title="CANAIS | TELECINE",TELECINE CULT FHD H265
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/339225.ts
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN FHD H265" tvg-logo="http://www.tmsimg.com/assets/s75601_ll_h3_ac.png" group-title="CANAIS | TELECINE",TELECINE FUN FHD H265
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/339226.ts
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA FHD H265" tvg-logo="http://www.tmsimg.com/assets/s54633_ll_h3_ac.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA FHD H265
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/339227.ts
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM FHD H265" tvg-logo="http://www.tmsimg.com/assets/s40235_ll_h3_ac.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM FHD H265
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/339228.ts
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH FHD H265" tvg-logo="http://www.tmsimg.com/assets/s69958_ll_h3_ac.png" group-title="CANAIS | TELECINE",TELECINE TOUCH FHD H265
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/339229.ts
