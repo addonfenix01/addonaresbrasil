@@ -1,0 +1,251 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] RTP1" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] RTP1
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967429.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Cartoon Network" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Cartoon Network
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967430.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Disney Channel" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Disney Channel
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967431.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] SIC" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] SIC
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967432.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] TVI" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] TVI
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967433.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] RTP2" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] RTP2
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967434.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] SIC Noticias" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] SIC Noticias
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967435.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] RTP3" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] RTP3
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967436.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] CNN Portugal" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] CNN Portugal
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967437.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] CMTV" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] CMTV
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967438.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Now Canal" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Now Canal
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967439.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Globo" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Globo
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967440.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Canal 11" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Canal 11
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967441.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] V+TVI" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] V+TVI
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967442.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Porto Canal" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Porto Canal
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967443.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] SIC Caras" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] SIC Caras
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967444.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] SIC Radical" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] SIC Radical
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967445.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] SIC Mulher" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] SIC Mulher
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967446.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] RTP Memória" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] RTP Memória
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967447.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Sport TV+" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Sport TV+
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967448.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] A BOLA" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] A BOLA
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967449.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Sporting TV" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Sporting TV
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967450.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Fight Network" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Fight Network
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967451.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Fight Box" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Fight Box
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967452.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Nautical Channel" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Nautical Channel
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967453.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Fuel TV" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Fuel TV
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967454.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Disney Jr" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Disney Jr
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967455.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Panda Kids" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Panda Kids
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967456.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Canal Panda" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Canal Panda
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967457.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Baby TV" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Baby TV
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967458.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] SIC K" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] SIC K
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967459.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Cartoonito" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Cartoonito
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967460.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Nickelodeon" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Nickelodeon
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967461.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Super RTL" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Super RTL
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967462.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Biggs" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Biggs
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967463.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Dizi" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Dizi
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967464.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] SIC Novelas" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] SIC Novelas
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967465.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Canal Hollywood" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Canal Hollywood
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967466.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Cinemundo" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Cinemundo
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967467.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Star Movies" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Star Movies
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967468.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Star Channel" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Star Channel
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967469.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] AXN" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] AXN
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967470.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Star Life" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Star Life
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967471.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Star Crime" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Star Crime
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967472.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Star Comedy" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Star Comedy
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967473.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] AXN White" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] AXN White
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967474.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] AXN Movies" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] AXN Movies
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967475.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] SYFY" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] SYFY
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967476.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] SYFY" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] SYFY
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967477.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] AMC" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] AMC
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967478.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Canal Q" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Canal Q
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967479.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] MTV" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] MTV
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967480.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] MTV 00s" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] MTV 00s
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967481.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] MCM Top" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] MCM Top
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967482.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Music TV" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Music TV
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967483.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] MEZZO" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] MEZZO
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967484.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Trace Urban" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Trace Urban
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967485.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Trace Toca" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Trace Toca
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967486.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] MEZZO Live" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] MEZZO Live
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967487.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] 24Kitchen" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] 24Kitchen
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967488.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Casa e Cozinha" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Casa e Cozinha
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967489.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Food Network" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Food Network
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967490.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Discovery Channel" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Discovery Channel
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967491.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] National Geographic" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] National Geographic
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967492.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Nat Geo Wild" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Nat Geo Wild
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967493.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] História" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] História
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967494.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Odisseia" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Odisseia
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967495.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] DocuBox" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] DocuBox
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967496.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] AMC Crime" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] AMC Crime
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967497.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Saudemais" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Saudemais
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967498.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Discovery ID" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Discovery ID
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967499.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] TVI Reality" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] TVI Reality
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967500.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Record TV" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Record TV
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967501.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] AMC Break" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] AMC Break
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967502.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] TLC" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] TLC
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967503.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Canal E" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Canal E
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967504.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Travel Channel" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Travel Channel
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967505.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Fashion TV" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Fashion TV
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967506.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] HGTV" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] HGTV
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967507.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] M6" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] M6
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967508.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Fast&Fun Box" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Fast&Fun Box
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967509.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Ginx eSports TV" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Ginx eSports TV
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967510.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] LUXE TV" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] LUXE TV
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967511.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Insight TV" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Insight TV
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967512.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] MyZen TV" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] MyZen TV
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967513.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Gametoon" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Gametoon
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967514.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] ARTV" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] ARTV
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967515.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Record News" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Record News
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967516.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] CNN" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] CNN
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967517.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Euronews Português" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Euronews Português
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967518.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Euronews" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Euronews
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967519.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Bloomberg" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Bloomberg
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967520.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] SKY News" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] SKY News
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967521.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] BBC World News" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] BBC World News
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967522.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] CNBC" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] CNBC
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967523.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Al Jazeera" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Al Jazeera
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967524.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] RAI News" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] RAI News
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967525.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] 24h" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] 24h
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967526.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] DW" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] DW
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967527.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] FRANCE24" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] FRANCE24
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967528.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] FRANCE24 English" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] FRANCE24 English
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967529.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] TVC News" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] TVC News
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967530.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] RTP Madeira" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] RTP Madeira
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967531.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] RTP Açores" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] RTP Açores
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967532.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] LocalVisão TV" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] LocalVisão TV
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967533.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] RTP Africa" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] RTP Africa
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967534.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] TPA" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] TPA
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967535.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Canal180" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Canal180
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967536.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] AGalega" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] AGalega
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967537.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] TVE" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] TVE
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967538.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] TV5MONDE" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] TV5MONDE
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967539.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] RAI1" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] RAI1
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967540.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Vox" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Vox
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967541.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] RTL" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] RTL
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967542.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Pro TV International" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Pro TV International
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967543.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] KBS World" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] KBS World
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967544.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Arirang" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Arirang
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967545.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] NHK WORLD" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] NHK WORLD
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967546.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Cubavision" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Cubavision
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967547.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Freedom" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Freedom
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967548.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Cancao Nova" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Cancao Nova
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967549.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] UNIFETV" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] UNIFETV
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967550.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Kuriakos TV" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Kuriakos TV
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967551.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Phoenix InfoNews" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Phoenix InfoNews
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967552.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Afro Music Channel" tvg-logo="" group-title="CANAIS | PORTUGAL",[Vodafone] Afro Music Channel
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/3967553.ts
