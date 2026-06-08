@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="AGENDA ESPORTIVA" tvg-logo="https://agendaesportiva.com.br/lib/img/portal/logo/6/icone-titulo.png" group-title="CANAIS | ESPORTES DO DIA",AGENDA ESPORTIVA
-http://joyfrvr.cc:80/A978574088832/w6uSSe6c/765865.ts
+plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/765865.ts
