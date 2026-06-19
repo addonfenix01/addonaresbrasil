@@ -1,49 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action FHD
-plugin://script.hls.tester/?action=play&url=http://udoosomnc.top:80/399251824/g858u9564v/615
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action H265" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action H265
-plugin://script.hls.tester/?action=play&url=http://udoosomnc.top:80/399251824/g858u9564v/21279
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action HD
-plugin://script.hls.tester/?action=play&url=http://udoosomnc.top:80/399251824/g858u9564v/613
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action SD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action SD
-plugin://script.hls.tester/?action=play&url=http://udoosomnc.top:80/399251824/g858u9564v/612
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Cult FHD
-plugin://script.hls.tester/?action=play&url=http://udoosomnc.top:80/399251824/g858u9564v/620
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult H265" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Cult H265
-plugin://script.hls.tester/?action=play&url=http://udoosomnc.top:80/399251824/g858u9564v/615604
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult HD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Cult HD
-plugin://script.hls.tester/?action=play&url=http://udoosomnc.top:80/399251824/g858u9564v/618
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult SD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Cult SD
-plugin://script.hls.tester/?action=play&url=http://udoosomnc.top:80/399251824/g858u9564v/617
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun FHD
-plugin://script.hls.tester/?action=play&url=http://udoosomnc.top:80/399251824/g858u9564v/625
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun H265" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun H265
-plugin://script.hls.tester/?action=play&url=http://udoosomnc.top:80/399251824/g858u9564v/21281
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun HD
-plugin://script.hls.tester/?action=play&url=http://udoosomnc.top:80/399251824/g858u9564v/623
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun SD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun SD
-plugin://script.hls.tester/?action=play&url=http://udoosomnc.top:80/399251824/g858u9564v/622
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca FHD
-plugin://script.hls.tester/?action=play&url=http://udoosomnc.top:80/399251824/g858u9564v/630
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca H265" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca H265
-plugin://script.hls.tester/?action=play&url=http://udoosomnc.top:80/399251824/g858u9564v/21282
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca HD
-plugin://script.hls.tester/?action=play&url=http://udoosomnc.top:80/399251824/g858u9564v/628
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca SD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca SD
-plugin://script.hls.tester/?action=play&url=http://udoosomnc.top:80/399251824/g858u9564v/627
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium FHD
-plugin://script.hls.tester/?action=play&url=http://udoosomnc.top:80/399251824/g858u9564v/635
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium H265" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium H265
-plugin://script.hls.tester/?action=play&url=http://udoosomnc.top:80/399251824/g858u9564v/21283
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium HD
-plugin://script.hls.tester/?action=play&url=http://udoosomnc.top:80/399251824/g858u9564v/633
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium SD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium SD
-plugin://script.hls.tester/?action=play&url=http://udoosomnc.top:80/399251824/g858u9564v/632
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch FHD
-plugin://script.hls.tester/?action=play&url=http://udoosomnc.top:80/399251824/g858u9564v/589
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch H265" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch H265
-plugin://script.hls.tester/?action=play&url=http://udoosomnc.top:80/399251824/g858u9564v/21284
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch HD
-plugin://script.hls.tester/?action=play&url=http://udoosomnc.top:80/399251824/g858u9564v/587
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch SD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch SD
-plugin://script.hls.tester/?action=play&url=http://udoosomnc.top:80/399251824/g858u9564v/586
+#EXTINF:-1 tvg-id="69" tvg-name="Telecine Action FHD" tvg-logo="http://logos.imperioapps.top/TCAction.png" group-title="♦️Canais | Telecine",Telecine Action FHD
+http://kraewert.top:80/528595498954/448066091197/127014.ts
+#EXTINF:-1 tvg-id="69" tvg-name="Telecine Action HD" tvg-logo="http://logos.imperioapps.top/TCAction.png" group-title="♦️Canais | Telecine",Telecine Action HD
+http://kraewert.top:80/528595498954/448066091197/127016.ts
+#EXTINF:-1 tvg-id="69" tvg-name="Telecine Action SD" tvg-logo="http://logos.imperioapps.top/TCAction.png" group-title="♦️Canais | Telecine",Telecine Action SD
+http://kraewert.top:80/528595498954/448066091197/127017.ts
+#EXTINF:-1 tvg-id="73" tvg-name="Telecine Cult FHD" tvg-logo="https://logos.imperioapps.top/TCCult.png" group-title="♦️Canais | Telecine",Telecine Cult FHD
+http://kraewert.top:80/528595498954/448066091197/127018.ts
+#EXTINF:-1 tvg-id="73" tvg-name="Telecine Cult HD" tvg-logo="https://logos.imperioapps.top/TCCult.png" group-title="♦️Canais | Telecine",Telecine Cult HD
+http://kraewert.top:80/528595498954/448066091197/127020.ts
+#EXTINF:-1 tvg-id="73" tvg-name="Telecine Cult SD" tvg-logo="https://logos.imperioapps.top/TCCult.png" group-title="♦️Canais | Telecine",Telecine Cult SD
+http://kraewert.top:80/528595498954/448066091197/127022.ts
+#EXTINF:-1 tvg-id="71" tvg-name="Telecine Fun FHD" tvg-logo="https://logos.imperioapps.top/TCFun.png" group-title="♦️Canais | Telecine",Telecine Fun FHD
+http://kraewert.top:80/528595498954/448066091197/127023.ts
+#EXTINF:-1 tvg-id="71" tvg-name="Telecine Fun HD" tvg-logo="https://logos.imperioapps.top/TCFun.png" group-title="♦️Canais | Telecine",Telecine Fun HD
+http://kraewert.top:80/528595498954/448066091197/127025.ts
+#EXTINF:-1 tvg-id="71" tvg-name="Telecine Fun SD" tvg-logo="https://logos.imperioapps.top/TCFun.png" group-title="♦️Canais | Telecine",Telecine Fun SD
+http://kraewert.top:80/528595498954/448066091197/127028.ts
+#EXTINF:-1 tvg-id="72" tvg-name="Telecine Pipoca FHD" tvg-logo="https://logos.imperioapps.top/TCPipoca.png" group-title="♦️Canais | Telecine",Telecine Pipoca FHD
+http://kraewert.top:80/528595498954/448066091197/127029.ts
+#EXTINF:-1 tvg-id="72" tvg-name="Telecine Pipoca HD" tvg-logo="https://logos.imperioapps.top/TCPipoca.png" group-title="♦️Canais | Telecine",Telecine Pipoca HD
+http://kraewert.top:80/528595498954/448066091197/127031.ts
+#EXTINF:-1 tvg-id="72" tvg-name="Telecine Pipoca SD" tvg-logo="https://logos.imperioapps.top/TCPipoca.png" group-title="♦️Canais | Telecine",Telecine Pipoca SD
+http://kraewert.top:80/528595498954/448066091197/127032.ts
+#EXTINF:-1 tvg-id="68" tvg-name="Telecine Premium FHD" tvg-logo="https://logos.imperioapps.top/TCPremium.png" group-title="♦️Canais | Telecine",Telecine Premium FHD
+http://kraewert.top:80/528595498954/448066091197/127033.ts
+#EXTINF:-1 tvg-id="68" tvg-name="Telecine Premium HD" tvg-logo="https://logos.imperioapps.top/TCPremium.png" group-title="♦️Canais | Telecine",Telecine Premium HD
+http://kraewert.top:80/528595498954/448066091197/127034.ts
+#EXTINF:-1 tvg-id="68" tvg-name="Telecine Premium SD" tvg-logo="https://logos.imperioapps.top/TCPremium.png" group-title="♦️Canais | Telecine",Telecine Premium SD
+http://kraewert.top:80/528595498954/448066091197/127036.ts
+#EXTINF:-1 tvg-id="70" tvg-name="Telecine Touch FHD" tvg-logo="https://logos.imperioapps.top/TCTouch.png" group-title="♦️Canais | Telecine",Telecine Touch FHD
+http://kraewert.top:80/528595498954/448066091197/127038.ts
+#EXTINF:-1 tvg-id="70" tvg-name="Telecine Touch HD" tvg-logo="https://logos.imperioapps.top/TCTouch.png" group-title="♦️Canais | Telecine",Telecine Touch HD
+http://kraewert.top:80/528595498954/448066091197/127039.ts
+#EXTINF:-1 tvg-id="70" tvg-name="Telecine Touch SD" tvg-logo="https://logos.imperioapps.top/TCTouch.png" group-title="♦️Canais | Telecine",Telecine Touch SD
+http://kraewert.top:80/528595498954/448066091197/127041.ts
