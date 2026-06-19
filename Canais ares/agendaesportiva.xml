@@ -1,3 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="AGENDA ESPORTIVA" tvg-logo="https://agendaesportiva.com.br/lib/img/portal/logo/6/icone-titulo.png" group-title="CANAIS | ESPORTES DO DIA",AGENDA ESPORTIVA
-plugin://script.hls.tester/?action=play&url=http://joyfrvr.cc:80/A978574088832/w6uSSe6c/765865.ts
+#EXTINF:-1 tvg-id="" tvg-name="CZE x AFS - 13h00 - HD (CazéTV)" tvg-logo="https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png" group-title="⚽ JOGOS DO DIA",CZE x AFS - 13h00 - HD (CazéTV)
+http://kraewert.top:80/528595498954/448066091197/5523800.ts
+#EXTINF:-1 tvg-id="" tvg-name="CZE x AFS - 13h00 - FHD (CazéTV)" tvg-logo="https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png" group-title="⚽ JOGOS DO DIA",CZE x AFS - 13h00 - FHD (CazéTV)
+http://kraewert.top:80/528595498954/448066091197/5523801.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUI x BOS - 16h00 - HD (CazéTV)" tvg-logo="https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png" group-title="⚽ JOGOS DO DIA",SUI x BOS - 16h00 - HD (CazéTV)
+http://kraewert.top:80/528595498954/448066091197/5523802.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUI x BOS - 16h00 - FHD (CazéTV)" tvg-logo="https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png" group-title="⚽ JOGOS DO DIA",SUI x BOS - 16h00 - FHD (CazéTV)
+http://kraewert.top:80/528595498954/448066091197/5523803.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAN x QAT - 19h00 - HD (CazéTV)" tvg-logo="https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png" group-title="⚽ JOGOS DO DIA",CAN x QAT - 19h00 - HD (CazéTV)
+http://kraewert.top:80/528595498954/448066091197/5523804.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAN x QAT - 19h00 - FHD (CazéTV)" tvg-logo="https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png" group-title="⚽ JOGOS DO DIA",CAN x QAT - 19h00 - FHD (CazéTV)
+http://kraewert.top:80/528595498954/448066091197/5523805.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPT x AGO - 21h00 - HD (ESPN)" tvg-logo="https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png" group-title="⚽ JOGOS DO DIA",SPT x AGO - 21h00 - HD (ESPN)
+http://kraewert.top:80/528595498954/448066091197/5523806.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPT x AGO - 21h00 - FHD (ESPN)" tvg-logo="https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png" group-title="⚽ JOGOS DO DIA",SPT x AGO - 21h00 - FHD (ESPN)
+http://kraewert.top:80/528595498954/448066091197/5523807.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPT x AGO - 21h00 - HD (Disney+)" tvg-logo="https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png" group-title="⚽ JOGOS DO DIA",SPT x AGO - 21h00 - HD (Disney+)
+http://kraewert.top:80/528595498954/448066091197/5523808.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPT x AGO - 21h00 - FHD (Disney+)" tvg-logo="https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png" group-title="⚽ JOGOS DO DIA",SPT x AGO - 21h00 - FHD (Disney+)
+http://kraewert.top:80/528595498954/448066091197/5523809.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEX x COR - 22h00 - HD (Globo)" tvg-logo="https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png" group-title="⚽ JOGOS DO DIA",MEX x COR - 22h00 - HD (Globo)
+http://kraewert.top:80/528595498954/448066091197/5523810.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEX x COR - 22h00 - FHD (Globo)" tvg-logo="https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png" group-title="⚽ JOGOS DO DIA",MEX x COR - 22h00 - FHD (Globo)
+http://kraewert.top:80/528595498954/448066091197/5523811.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEX x COR - 22h00 - HD (Sportv)" tvg-logo="https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png" group-title="⚽ JOGOS DO DIA",MEX x COR - 22h00 - HD (Sportv)
+http://kraewert.top:80/528595498954/448066091197/5523812.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEX x COR - 22h00 - FHD (Sportv)" tvg-logo="https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png" group-title="⚽ JOGOS DO DIA",MEX x COR - 22h00 - FHD (Sportv)
+http://kraewert.top:80/528595498954/448066091197/5523813.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEX x COR - 22h00 - HD (CazéTV)" tvg-logo="https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png" group-title="⚽ JOGOS DO DIA",MEX x COR - 22h00 - HD (CazéTV)
+http://kraewert.top:80/528595498954/448066091197/5523814.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEX x COR - 22h00 - FHD (CazéTV)" tvg-logo="https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png" group-title="⚽ JOGOS DO DIA",MEX x COR - 22h00 - FHD (CazéTV)
+http://kraewert.top:80/528595498954/448066091197/5523815.ts
