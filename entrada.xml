@@ -27,7 +27,15 @@
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/SERIES%20CATEGORIAS%20TORRENT/1seriesrecemadicionadas.xml</externallink>
 </channel>
-     
+
+<channel>
+<name>[COLOR red] == [/COLOR] [COLOR orange] Tv  [COLOR red] === [/COLOR]</name>
+<thumbnail>https://archive.org/download/qrcode_380212444_d1bd22524894bb2e9136632848c92282/qrcode_380212444_d1bd22524894bb2e9136632848c92282.png</thumbnail>
+<fanart>https://archive.org/download/arescolaboradoresdiversos/arescolaboradoresdiversos.png</fanart>
+<info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/Canais%20ares/tvdiversoscanaisares.xml</externallink>
+</channel>
+   
   
   
 </channels>
