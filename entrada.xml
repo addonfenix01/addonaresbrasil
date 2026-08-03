@@ -15,7 +15,7 @@
 <channel>
 <name>[COLOR red] == [/COLOR] [COLOR orange] Filmes 2026 [COLOR red] === [/COLOR]</name>
 <thumbnail>https://archive.org/download/qrcode_380212444_d1bd22524894bb2e9136632848c92282/qrcode_380212444_d1bd22524894bb2e9136632848c92282.png</thumbnail>
-<fanart>https://archive.org/download/arescolaboradoresdiversos/arescolaboradoresdiversos.png</fanart>
+<fanart>https://archive.org/download/aresseries2026fanart/aresfilmes2026fanart.png</fanart>
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/0filmes2026.xml</externallink>
 </channel>
@@ -23,7 +23,7 @@
 <channel>
 <name>[COLOR orange] == [/COLOR] [COLOR orange] Séries 2026 [COLOR orange] === [/COLOR]</name>
 <thumbnail>https://archive.org/download/qrcode_380212444_d1bd22524894bb2e9136632848c92282/qrcode_380212444_d1bd22524894bb2e9136632848c92282.png</thumbnail>
-<fanart>https://archive.org/download/arescolaboradoresdiversos/arescolaboradoresdiversos.png</fanart>
+<fanart>https://archive.org/download/aresseries2026fanart/aresseries2026fanart.png</fanart>
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/SERIES%20CATEGORIAS%20TORRENT/1seriesrecemadicionadas.xml</externallink>
 </channel>
