@@ -76,6 +76,14 @@
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/radios.xml</externallink>
 </channel>
 
+<channel>
+<name>[COLOR red] == [/COLOR] [COLOR orange] Cameras ao Vivo [COLOR red] === [/COLOR]</name>
+<thumbnail>https://archive.org/download/generated-image-august-03-2026-2-05-pm-1/Generated%20Image%20August%2003%2C%202026%20-%202_05PM%281%29.png</thumbnail>
+<fanart>https://archive.org/download/generated-image-august-03-2026-2-05-pm-1/Generated%20Image%20August%2003%2C%202026%20-%202_05PM%281%29.png</fanart>
+<info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/camerasaovivo0408.xml</externallink>
+</channel>
+   
    
   
 </channels>
