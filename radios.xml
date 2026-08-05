@@ -1,77 +1,47 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="97.1 BAND FM" tvg-logo="" group-title="RÁDIOS",97.1 BAND FM
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/268580
-#EXTINF:-1 tvg-id="" tvg-name="MELODIA" tvg-logo="" group-title="RÁDIOS",MELODIA
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/141933
-#EXTINF:-1 tvg-id="" tvg-name="ON WEB RÁDIO" tvg-logo="" group-title="RÁDIOS",ON WEB RÁDIO
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/149385
-#EXTINF:-1 tvg-id="" tvg-name="89 FM A RÁDIO ROCK" tvg-logo="https://i.imgur.com/CJmrBFS.png" group-title="RÁDIOS",89 FM A RÁDIO ROCK
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/26343
-#EXTINF:-1 tvg-id="" tvg-name="98 LIVE" tvg-logo="https://i.imgur.com/goQD69p.png" group-title="RÁDIOS",98 LIVE
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/26354
-#EXTINF:-1 tvg-id="" tvg-name="ALPHA FM" tvg-logo="https://i.imgur.com/aYROypv.png" group-title="RÁDIOS",ALPHA FM
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/26345
-#EXTINF:-1 tvg-id="" tvg-name="ANTENA 1" tvg-logo="https://i.imgur.com/pwBPTDv.png" group-title="RÁDIOS",ANTENA 1
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/26344
-#EXTINF:-1 tvg-id="" tvg-name="ATLÂNTIDA FM" tvg-logo="https://i.imgur.com/yXnMm3H.png" group-title="RÁDIOS",ATLÂNTIDA FM
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/26353
-#EXTINF:-1 tvg-id="" tvg-name="BAND FM" tvg-logo="https://i.imgur.com/RXoksXL.png" group-title="RÁDIOS",BAND FM
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/969
-#EXTINF:-1 tvg-id="" tvg-name="BANDNEWS FM" tvg-logo="https://i.ibb.co/3SyBfsG/BANDNEWS.png" group-title="RÁDIOS",BANDNEWS FM
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/974
-#EXTINF:-1 tvg-id="" tvg-name="BH FM" tvg-logo="http://i.imgur.com/cntzzTI.png" group-title="RÁDIOS",BH FM
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/982
-#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA FM" tvg-logo="https://i.imgur.com/wPCNM3T.png" group-title="RÁDIOS",CANÇÃO NOVA FM
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/8557
-#EXTINF:-1 tvg-id="" tvg-name="CBN RJ" tvg-logo="https://i.imgur.com/uGdj3zb.png" group-title="RÁDIOS",CBN RJ
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/8560
-#EXTINF:-1 tvg-id="" tvg-name="CBN SP" tvg-logo="https://i.imgur.com/uGdj3zb.png" group-title="RÁDIOS",CBN SP
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/985
-#EXTINF:-1 tvg-id="" tvg-name="CLASSIC PAN" tvg-logo="https://i.imgur.com/7vhPbts.png" group-title="RÁDIOS",CLASSIC PAN
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/26352
-#EXTINF:-1 tvg-id="" tvg-name="CLUBE FM" tvg-logo="https://i.imgur.com/3MRGmRF.png" group-title="RÁDIOS",CLUBE FM
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/26342
-#EXTINF:-1 tvg-id="" tvg-name="CULTURA FM" tvg-logo="https://i.imgur.com/bN6Q6Zl.png" group-title="RÁDIOS",CULTURA FM
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/26350
-#EXTINF:-1 tvg-id="" tvg-name="EDUCADORA FM" tvg-logo="https://i.imgur.com/syEOjhO.png" group-title="RÁDIOS",EDUCADORA FM
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/26338
-#EXTINF:-1 tvg-id="" tvg-name="ELDORADO FM" tvg-logo="https://i.imgur.com/O6DFm3E.png" group-title="RÁDIOS",ELDORADO FM
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/26349
-#EXTINF:-1 tvg-id="" tvg-name="GAÚCHA" tvg-logo="https://i.imgur.com/Si3YOvr.png" group-title="RÁDIOS",GAÚCHA
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/979
-#EXTINF:-1 tvg-id="" tvg-name="IPANEMA FM" tvg-logo="https://i.imgur.com/xr8hYnJ.png" group-title="RÁDIOS",IPANEMA FM
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/26339
-#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN FM" tvg-logo="https://i.imgur.com/f8OrZzN.png" group-title="RÁDIOS",JOVEM PAN FM
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/980
-#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS" tvg-logo="https://i.imgur.com/E2cY37D.png" group-title="RÁDIOS",JOVEM PAN NEWS
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/981
-#EXTINF:-1 tvg-id="" tvg-name="MEGA FM" tvg-logo="http://i.imgur.com/7jTHhzT.png" group-title="RÁDIOS",MEGA FM
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/984
-#EXTINF:-1 tvg-id="" tvg-name="MIX FM" tvg-logo="https://i.imgur.com/zOhVV1Z.png" group-title="RÁDIOS",MIX FM
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/26348
-#EXTINF:-1 tvg-id="" tvg-name="NATIVA" tvg-logo="https://i.imgur.com/5nRPD8W.png" group-title="RÁDIOS",NATIVA
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/975
-#EXTINF:-1 tvg-id="" tvg-name="PLAY FM" tvg-logo="https://i.imgur.com/X30aiKl.png" group-title="RÁDIOS",PLAY FM
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/26340
-#EXTINF:-1 tvg-id="" tvg-name="RÁDIO BANDEIRANTES" tvg-logo="https://i.imgur.com/YPMDzTR.png" group-title="RÁDIOS",RÁDIO BANDEIRANTES
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/970
-#EXTINF:-1 tvg-id="" tvg-name="RÁDIO CULTURA BRASIL" tvg-logo="https://i.imgur.com/xpQv5Ga.png" group-title="RÁDIOS",RÁDIO CULTURA BRASIL
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/26351
-#EXTINF:-1 tvg-id="" tvg-name="RÁDIO DISNEY" tvg-logo="https://i.imgur.com/jwIlFNN.png" group-title="RÁDIOS",RÁDIO DISNEY
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/5039
-#EXTINF:-1 tvg-id="" tvg-name="RÁDIO GLOBO" tvg-logo="https://i.imgur.com/KVepsfx.png" group-title="RÁDIOS",RÁDIO GLOBO
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/977
-#EXTINF:-1 tvg-id="" tvg-name="RÁDIO GRENAL" tvg-logo="https://i.imgur.com/PmnCFyn.png" group-title="RÁDIOS",RÁDIO GRENAL
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/26347
-#EXTINF:-1 tvg-id="" tvg-name="RÁDIO ITATIAIA" tvg-logo="https://i.imgur.com/g5zF4bo.png" group-title="RÁDIOS",RÁDIO ITATIAIA
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/973
-#EXTINF:-1 tvg-id="" tvg-name="RFI" tvg-logo="https://i.imgur.com/Sekmd4K.png" group-title="RÁDIOS",RFI
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/978
-#EXTINF:-1 tvg-id="" tvg-name="STEREO VALE" tvg-logo="https://i.imgur.com/s8AXZDF.png" group-title="RÁDIOS",STEREO VALE
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/26337
-#EXTINF:-1 tvg-id="" tvg-name="SUPER RÁDIO TUPI" tvg-logo="https://i.imgur.com/dtk0OC5.png" group-title="RÁDIOS",SUPER RÁDIO TUPI
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/26346
-#EXTINF:-1 tvg-id="" tvg-name="TRANSAMÉRICA" tvg-logo="https://i.imgur.com/PmjG3K2.png" group-title="RÁDIOS",TRANSAMÉRICA
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/976
-#EXTINF:-1 tvg-id="" tvg-name="VERDINHA FM" tvg-logo="https://i.imgur.com/MXaxMPm.png" group-title="RÁDIOS",VERDINHA FM
-http://ger99.xyz:8880/Ricardorocha35/77314Ro/972
+#EXTINF:-1 tvg-id="89 FM ROCK " tvg-name="89 FM ROCK " tvg-logo="https://i.imgur.com/IXo94zb.png" group-title=" Rádios",89 FM ROCK 
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/113404.ts
+#EXTINF:-1 tvg-id="ALPHA FM" tvg-name="ALPHA FM" tvg-logo="https://i.imgur.com/IXo94zb.png" group-title=" Rádios",ALPHA FM
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/113401.ts
+#EXTINF:-1 tvg-id="ANTENA 1 FM " tvg-name="ANTENA 1 FM " tvg-logo="https://i.imgur.com/IXo94zb.png" group-title=" Rádios",ANTENA 1 FM 
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/113396.ts
+#EXTINF:-1 tvg-id="BAND FM" tvg-name="BAND FM" tvg-logo="https://i.imgur.com/IXo94zb.png" group-title=" Rádios",BAND FM
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/215345.ts
+#EXTINF:-1 tvg-id="BH FM" tvg-name="BH FM" tvg-logo="https://i.imgur.com/IXo94zb.png" group-title=" Rádios",BH FM
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/113411.ts
+#EXTINF:-1 tvg-id="CBN FM" tvg-name="CBN FM" tvg-logo="https://i.imgur.com/IXo94zb.png" group-title=" Rádios",CBN FM
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/931418.ts
+#EXTINF:-1 tvg-id="CIDADE FM " tvg-name="CIDADE FM " tvg-logo="https://i.imgur.com/IXo94zb.png" group-title=" Rádios",CIDADE FM 
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/113409.ts
+#EXTINF:-1 tvg-id="CLUBE FM" tvg-name="CLUBE FM" tvg-logo="https://i.imgur.com/IXo94zb.png" group-title=" Rádios",CLUBE FM
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/113414.ts
+#EXTINF:-1 tvg-id="COCA COLA FM" tvg-name="COCA COLA FM" tvg-logo="https://i.imgur.com/IXo94zb.png" group-title=" Rádios",COCA COLA FM
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/113400.ts
+#EXTINF:-1 tvg-id="GAUCHA ZH" tvg-name="GAUCHA ZH" tvg-logo="https://i.imgur.com/IXo94zb.png" group-title=" Rádios",GAUCHA ZH
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/113399.ts
+#EXTINF:-1 tvg-id="GAZETA FM" tvg-name="GAZETA FM" tvg-logo="https://i.imgur.com/IXo94zb.png" group-title=" Rádios",GAZETA FM
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/113407.ts
+#EXTINF:-1 tvg-id="GERAÇÃO FUNK FM" tvg-name="GERAÇÃO FUNK FM" tvg-logo="https://i.imgur.com/IXo94zb.png" group-title=" Rádios",GERAÇÃO FUNK FM
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/113410.ts
+#EXTINF:-1 tvg-id="GOSPEL FM" tvg-name="GOSPEL FM" tvg-logo="https://i.imgur.com/IXo94zb.png" group-title=" Rádios",GOSPEL FM
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/931419.ts
+#EXTINF:-1 tvg-id="JB FM" tvg-name="JB FM" tvg-logo="https://i.imgur.com/IXo94zb.png" group-title=" Rádios",JB FM
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/113405.ts
+#EXTINF:-1 tvg-id="JOVEM PAM SP " tvg-name="JOVEM PAM SP " tvg-logo="https://i.imgur.com/IXo94zb.png" group-title=" Rádios",JOVEM PAM SP 
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/113395.ts
+#EXTINF:-1 tvg-id="METROPOLITANA FM" tvg-name="METROPOLITANA FM" tvg-logo="https://i.imgur.com/IXo94zb.png" group-title=" Rádios",METROPOLITANA FM
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/113398.ts
+#EXTINF:-1 tvg-id="METROPOLITANA SERTANEJA" tvg-name="METROPOLITANA SERTANEJA" tvg-logo="https://i.imgur.com/IXo94zb.png" group-title=" Rádios",METROPOLITANA SERTANEJA
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/113403.ts
+#EXTINF:-1 tvg-id="MIX FM SP " tvg-name="MIX FM SP " tvg-logo="https://i.imgur.com/IXo94zb.png" group-title=" Rádios",MIX FM SP 
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/113402.ts
+#EXTINF:-1 tvg-id="POP FM" tvg-name="POP FM" tvg-logo="https://i.imgur.com/IXo94zb.png" group-title=" Rádios",POP FM
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/113415.ts
+#EXTINF:-1 tvg-id="SAMBA E PAGODE FM " tvg-name="SERTANEJO FM " tvg-logo="https://i.imgur.com/IXo94zb.png" group-title=" Rádios",SERTANEJO FM 
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/113412.ts
+#EXTINF:-1 tvg-id="TOP FM " tvg-name="TOP FM " tvg-logo="https://i.imgur.com/IXo94zb.png" group-title=" Rádios",TOP FM 
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/113413.ts
+#EXTINF:-1 tvg-id="TRANSCONTINENTAL FM" tvg-name="TRANSCONTINENTAL FM" tvg-logo="https://i.imgur.com/IXo94zb.png" group-title=" Rádios",TRANSCONTINENTAL FM
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/931417.ts
+#EXTINF:-1 tvg-id="VILLA MIX" tvg-name="VILLA MIX" tvg-logo="https://i.imgur.com/IXo94zb.png" group-title=" Rádios",VILLA MIX
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/113406.ts
