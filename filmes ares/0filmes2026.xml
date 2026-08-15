@@ -12,7 +12,7 @@
 
 <item>
     <title>O Conde Drácula [COLOR orange] Addon Ares Clássico Filme Teste(2026)[/COLOR]</title>
-    <link>plugin://plugin.video.resolverurl_player?url=https://archive.org/download/poaturno/O%20Conde%20Dr%C3%A1cula%20%28Scars%20of%20Dracula%2C%201970%29%20-%20Blu-ray-Lossy.mkv$nome=[COLOR pink]LINK[/COLOR][COLOR orange]DIRETO 1[/COLOR]</link>
+    <link>https://archive.org/download/poaturno/O%20Conde%20Dr%C3%A1cula%20%28Scars%20of%20Dracula%2C%201970%29%20-%20Blu-ray-Lossy.mkv$nome=[COLOR pink]LINK[/COLOR][COLOR orange]DIRETO 1[/COLOR]</link>
     <link>plugin://plugin.video.youtube/play/?video_id=Y2d2efzmdpg$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
     <thumbnail>https://image.tmdb.org/t/p/w500/yS06u6RqaY3saimoVr6ZVZP9K7s.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/w1280/df3uxnz6QXQokqx60UXrjFFduaR.jpg</fanart>
