@@ -54,8 +54,8 @@
   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3brrksgg7mr2fp7xtrwjbyob4phjaz$nome=[COLOR orange]ADDON ARES - Episódio 01[/COLOR]</link>
   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:izrkw7gprrygcvvaus5iexlvzhbusuih$nome=[COLOR orange]ADDON ARES - Episódio 02[/COLOR]</link>
   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7tqo2z463dvktpzhpehgjj7gwfs2otp$nome=[COLOR orange]ADDON ARES - Episódio 03[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:mk3z4iasjnth2mw2qm7d4lvw4kypl2oe$nome=[COLOR pink]ADDON ARES - Episódio 04[/COLOR]</link> 
- <link>plugin://plugin.video.youtube/play/?video_id=VzPo8bTdEm0$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:mk3z4iasjnth2mw2qm7d4lvw4kypl2oe$nome=[COLOR pink]ADDON ARES - Episódio 04[/COLOR]</link> 
+  <link>plugin://plugin.video.youtube/play/?video_id=VzPo8bTdEm0$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
   <thumbnail>https://image.tmdb.org/t/p/w500/bxuUbcM9GqvmQY1EDm5sMtLdcTv.jpg</thumbnail>
   <fanart>https://image.tmdb.org/t/p/original/627K48naKH2Y3Rz47Ydra4qktdI.jpg</fanart>
   <info>[COLOR orange]Título Original:[/COLOR] Star Trek: Strange New Worlds
