@@ -8,6 +8,30 @@
 
 
 
+
+
+<item>
+  <title>Silo [COLOR pink]Addon Ares Séries(2026)[/COLOR]</title>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:lrbbpvqfq7dzkq5hcjvypwwyd6kcegf3$nome=[COLOR orange]ADDON ARES - Episódio 01[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:azr3y5jinspdfsienbnd3og3uw2zigdt$nome=[COLOR orange]ADDON ARES - Episódio 02[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:le36g4fmmpxdfp7awlngttpm3qv4xiqw$nome=[COLOR orange]ADDON ARES - Episódio 03[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37uwxqk6jsuu4zy6k7afp5c47dgapr2r$nome=[COLOR orange]ADDON ARES - Episódio 04[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ry5cub53sgmxdx2mvlfiquzcjnlphaon$nome=[COLOR orange]ADDON ARES - Episódio 05[/COLOR]</link>  
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:xm5db4kgzr3cypal37i3ysktgq375nuu$nome=[COLOR orange]ADDON ARES - Episódio 06[/COLOR]</link>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:363eu5g4nu6hs7knek5ueabwesblsnee$nome=[COLOR pink]ADDON ARES - Episódio 07[/COLOR]</link>
+ <link>plugin://plugin.video.youtube/play/?video_id=xgijWjgHiFo$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+  <thumbnail>https://image.tmdb.org/t/p/w500/tVR4q9FazxJuCEpaYxiCijUlvM3.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg</fanart>
+  <info>[COLOR orange]Título Original:[/COLOR] Silo
+[COLOR red]Elenco Principal:[/COLOR] Rebecca Ferguson, Common, Chinaza Uche, Ashley Zukerman, Shane McRae
+[COLOR orange]Duração:[/COLOR] --
+[COLOR red]Criado por:[/COLOR] Graham Yost
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 8.2
+[COLOR orange]Gênero:[/COLOR] Sci-Fi & Fantasy, Drama
+[COLOR red]Sinopse:[/COLOR] Em um futuro destruído e tóxico, existe uma comunidade que vive dentro de um gigantesco silo subterrâneo com centenas de andares de profundidade. Lá, homens e mulheres vivem numa sociedade cheia de regras que acreditam existir para protegê-los.</info>
+</item>
+
 <item>
   <title>Star Trek: Strange New Worlds [COLOR pink]Addon Ares Séries(2026)[/COLOR]</title>
   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3brrksgg7mr2fp7xtrwjbyob4phjaz$nome=[COLOR orange]ADDON ARES - Episódio 01[/COLOR]</link>
@@ -230,27 +254,6 @@
 [COLOR red]Nota:[/COLOR] 9.3
 [COLOR orange]Gênero:[/COLOR] Comédia, Sci-Fi & Fantasy
 [COLOR red]Sinopse:[/COLOR] O dono da loja de quadrinhos Stuart Bloom é encarregado de restaurar a realidade após quebrar acidentalmente um dispositivo construído por Sheldon e Leonard, desencadeando um Armagedom no multiverso. Nessa missão, Stuart é auxiliado por sua namorada Denise, pelo amigo geólogo Bert e pelo físico quântico e irritante Barry Kripke.</info>
-</item>
-
-<item>
-  <title>Silo [COLOR pink]Addon Ares Séries(2026)[/COLOR]</title>
-  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:lrbbpvqfq7dzkq5hcjvypwwyd6kcegf3$nome=[COLOR orange]ADDON ARES - Episódio 01[/COLOR]</link>
-  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:azr3y5jinspdfsienbnd3og3uw2zigdt$nome=[COLOR orange]ADDON ARES - Episódio 02[/COLOR]</link>
-  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:le36g4fmmpxdfp7awlngttpm3qv4xiqw$nome=[COLOR orange]ADDON ARES - Episódio 03[/COLOR]</link>
-  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37uwxqk6jsuu4zy6k7afp5c47dgapr2r$nome=[COLOR orange]ADDON ARES - Episódio 04[/COLOR]</link>
-  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ry5cub53sgmxdx2mvlfiquzcjnlphaon$nome=[COLOR orange]ADDON ARES - Episódio 05[/COLOR]</link>
-  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:xm5db4kgzr3cypal37i3ysktgq375nuu$nome=[COLOR orange]ADDON ARES - Episódio 06[/COLOR]</link>
-  <link>plugin://plugin.video.youtube/play/?video_id=xgijWjgHiFo$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
-  <thumbnail>https://image.tmdb.org/t/p/w500/tVR4q9FazxJuCEpaYxiCijUlvM3.jpg</thumbnail>
-  <fanart>https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg</fanart>
-  <info>[COLOR orange]Título Original:[/COLOR] Silo
-[COLOR red]Elenco Principal:[/COLOR] Rebecca Ferguson, Common, Chinaza Uche, Ashley Zukerman, Shane McRae
-[COLOR orange]Duração:[/COLOR] --
-[COLOR red]Criado por:[/COLOR] Graham Yost
-[COLOR orange]Ano:[/COLOR] 2026
-[COLOR red]Nota:[/COLOR] 8.2
-[COLOR orange]Gênero:[/COLOR] Sci-Fi & Fantasy, Drama
-[COLOR red]Sinopse:[/COLOR] Em um futuro destruído e tóxico, existe uma comunidade que vive dentro de um gigantesco silo subterrâneo com centenas de andares de profundidade. Lá, homens e mulheres vivem numa sociedade cheia de regras que acreditam existir para protegê-los.</info>
 </item>
 
 <item>
