@@ -22,8 +22,8 @@
 
 <channel>
 <name>[COLOR red] == [/COLOR] [COLOR orange] Filmes Clássicos [COLOR red] === [/COLOR]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://archive.org/download/aresfilmesclassicos_202608/aresfilmesclassicos.png</thumbnail>
+<fanart>https://archive.org/download/aresfilmesclassicos_202608/aresfilmesclassicos.png</fanart>
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/classicos.xml</externallink>
 </channel>
