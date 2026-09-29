@@ -37,11 +37,11 @@
 </channel>
    
 <channel>
-<name>[COLOR red] == [/COLOR] [COLOR orange] Tv  [COLOR red] === [/COLOR]</name>
+<name>[COLOR red] == [/COLOR] [COLOR orange] TvOnline1 [COLOR red] === [/COLOR]</name>
 <thumbnail>https://archive.org/download/generated-image-august-03-2026-2-05-pm-1/Generated%20Image%20August%2003%2C%202026%20-%202_05PM%281%29.png</thumbnail>
 <fanart>https://archive.org/download/generated-image-august-03-2026-2-05-pm-1/Generated%20Image%20August%2003%2C%202026%20-%202_05PM%281%29.png</fanart>
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/Canais%20ares/tvdiversoscanaisares.xml</externallink>
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/tvonline1.xml</externallink>
 </channel>
   
 <channel>
