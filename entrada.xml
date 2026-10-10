@@ -29,11 +29,11 @@
 </channel>
    
 <channel>
-<name>[COLOR orange] == [/COLOR] [COLOR orange] T.V [COLOR orange] === [/COLOR]</name>
+<name>[COLOR red] == [/COLOR] [COLOR orange] T.V [COLOR red] === [/COLOR]</name>
 <thumbnail>https://archive.org/download/sriesareslite_202610/sriesareslite.png</thumbnail>
 <fanart>https://archive.org/download/sriesareslite_202610/sriesareslite.png</fanart>
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares Fast [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/series206.xml</externallink>
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/tvonline1.xml</externallink>
 </channel>
    
    
