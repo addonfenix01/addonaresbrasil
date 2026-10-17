@@ -5,10 +5,10 @@
 
 
 <channel>
-<name>[COLOR green] == [/COLOR]ADDON [COLOR orange] AR[/COLOR][COLOR pink]ES[/COLOR] [COLOR violet] FAST [/COLOR] ADDON FINALIZADO OBRIGADO A TODOS Q DE ALGUMA FORNA AJUDARAM NO ADDON ATE MAIS [COLOR green] === [/COLOR]</name>
-<thumbnail>https://archive.org/download/arescolaboradoresdiversos/arescolaboradoresdiversos.png</thumbnail>
-<fanart>https://archive.org/download/icon_20260825/fanart.jpg</fanart>
-<info>[COLOR red] Sejam Bem vindos ao Addon Ares Fast [/COLOR]</info>
+<name>[COLOR red] == [/COLOR]ADDON [COLOR orange] AR[/COLOR][COLOR pink]ES[/COLOR] [COLOR violet] FAST [/COLOR] ADDON FINALIZADO [COLOR red] === [/COLOR]
+<thumbnail>https://archive.org/download/emblema-guerreiro-em-chamas/Emblema%20Guerreiro%20em%20Chamas.png</thumbnail>
+<fanart>https://archive.org/download/emblema-guerreiro-em-chamas/Emblema%20Guerreiro%20em%20Chamas.png</fanart>
+<info>[COLOR red] Sejam Bem vindos ao Addon Ares Fast Off [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/entrada.xml</externallink>
 </channel>
    
