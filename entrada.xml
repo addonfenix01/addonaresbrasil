@@ -16,7 +16,7 @@
 <name>[COLOR red] == [/COLOR]ADDON [COLOR orange] AR[/COLOR][COLOR pink]ES[/COLOR] [COLOR violet] FAST [/COLOR] T.V [COLOR red] === [/COLOR]</name>
 <thumbnail>https://archive.org/download/emblema-guerreiro-em-chamas/Emblema%20Guerreiro%20em%20Chamas.png</thumbnail>
 <fanart>https://archive.org/download/emblema-guerreiro-em-chamas/Emblema%20Guerreiro%20em%20Chamas.png</fanart>
-<info>[COLOR red] Addon Ares Fast Off [/COLOR]</info>
+<info>[COLOR red] Addon Ares Fast T.V On [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/tvonline1.xml</externallink>
 </channel>
 
@@ -24,8 +24,8 @@
 <name>[COLOR red] == [/COLOR]ADDON [COLOR orange] AR[/COLOR][COLOR pink]ES[/COLOR] [COLOR violet] FAST [/COLOR] FILMES [COLOR red] === [/COLOR]</name>
 <thumbnail>https://archive.org/download/emblema-guerreiro-em-chamas/Emblema%20Guerreiro%20em%20Chamas.png</thumbnail>
 <fanart>https://archive.org/download/emblema-guerreiro-em-chamas/Emblema%20Guerreiro%20em%20Chamas.png</fanart>
-<info>[COLOR red] Addon Ares Fast Off [/COLOR]</info>
-<externallink></externallink>
+<info>[COLOR red] Addon Ares Fast Filmes On [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmesdiretos.xml</externallink>
 </channel>
 
 
